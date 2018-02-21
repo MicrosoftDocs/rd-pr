@@ -1,0 +1,21 @@
+### YamlMime:Profile
+uid: rd.mitsuru-furuta
+name: Mitsuru Furuta
+metadata:
+  title: Mitsuru Furuta - Microsoft Regional Director
+  description: Software Engineer, Small Business Owner, and Microsoft Regional Director in Paris, France
+remarks: |
+  ## Bio
+  <p>I am a software engineer, small business owner and Microsoft Regional Director currently living in Paris, France. My interests range from sport to technology. As my company (<a href="http://www.sensorit.fr" target="_blank" rel="noopener noreferrer">Sensorit</a>) is editing a digital collaborative solution for large interactive screens (<a href="http://www.getyellow.io" target="_blank" rel="noopener noreferrer">Yellow</a>), I am deeply involved in entrepreneurship, digital transformation, UX and innovation.</p><p>As a former Microsoft technical evangelist, I've remained an active speaker and it will be a pleasure to meet you at some conferences.</p><p>Talk to me about : Programming, Language design, Desktop apps, UX, Azure</p>
+tagline:
+image:
+  alt: "Mitsuru Furuta"
+  src: media/profiles/mitsuru-furuta.jpg
+linkedin: https://linkedin.com/in/mitsurufuruta/
+twitter: https://twitter.com/mitsufu
+wordpress: https://mitsufu.wordpress.com
+location:
+  display: Paris, Île-de-France, France
+  lat: 48.853208
+  long: 2.337439
+  country: France

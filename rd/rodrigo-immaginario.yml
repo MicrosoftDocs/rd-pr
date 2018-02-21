@@ -1,0 +1,24 @@
+### YamlMime:Profile
+uid: rd.rodrigo-immaginario
+name: Rodrigo Immaginario
+metadata:
+  title: Rodrigo Immaginario - Microsoft Regional Director
+  description: Microsoft Regional Director, Microsoft MVP, and CISSP in Vila Velha, Brasil
+remarks: |
+  ## Bio
+  <p>Since 1994, I have been working in the IT area for Infrastructure projects with specialization in security, high availability and cloud solutions, highlighting a security project developed for a CEBW (Brazilian Army Commission in Washington) and also some projects awarded by Microsoft Such as IPSEC, Hyper-v, DirectAccess, and Hybrid Cloud (Azure and on-premise). Master in Computer Engineering and holds as certifications: CISSP, CSSA, MCSE: Security, MCSA: Security and Microsoft MVP in Enterprise Security (2004 to 2016) and Microsoft Regional Director (2016).</p>
+
+  ## Spotlight
+  <p>A Academia tem vocação para questionar e dentro das Universidades, através das pesquisas, que são criadas as tecnologias que usamos no dia a dia. Acredito que o Microsoft Regional Director é o elo importante para ligar o mercado à Academia trazendo visões práticas, cenários reais e diferencial competitivo que serão usados como guias para adoções futuras.</p><p>Trabalhando com TI desde 1994, especialmente em projetos de infra-estrutura e segurança tenho como desafio criar a ponte entre pesquisa e cenário real ajudando não só com a arquitetura de alta disponinilidade e processamento em nuvem como também modelos reais adotados pelas industria para experimentos e validação de propostas e novas tecnologias. Recentemente temos nos questionando o porque da mudança para a nuvem e trabalhando junto com alguns grupos educacionais (entre escolas e Universidades) estamos migrando os principais serviços para o Azure. Esse movimento tem permitido além do melhor controle de custos e qualidade também muito aprendizado novos questionamentos. Definitivamente é um momento de evolução e reinvenção de como é visto a infraestrutura de serviços de TI atual.</p>
+tagline:
+image:
+  alt: "Rodrigo Immaginario"
+  src: media/profiles/rodrigo-immaginario.jpg
+linkedin: https://www.linkedin.com/in/rodrigoimmaginario
+twitter: https://twitter.com/rodrigoi
+youtube: https://www.youtube.com/user/rodrigoimma
+location:
+  display: Vila Velha - ES, Brasil
+  lat: -20.330289
+  long: -40.292179
+  country: Brasil

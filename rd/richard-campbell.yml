@@ -1,0 +1,24 @@
+### YamlMime:Profile
+uid: rd.richard-campbell
+name: Richard Campbell
+metadata:
+  title: Richard Campbell - Microsoft Regional Director
+  description: Public Speaker, Father, and Consultant in Coquitlam, Canada
+remarks: |
+  ## Bio
+  <p>I am a public speaker, father, and consultant currently living in Coquitlam, British Columbia, Canada. My interests range from technology to entrepreneurship. I am also interested in programming, volunteering, and web development.</p><p>You can click the button above to support my charity. If you’d like to get in touch, feel free to say hello through any of the social links below.</p>
+tagline:
+image:
+  alt: "Richard Campbell"
+  src: media/profiles/richard-campbell.jpg
+twitter: https://www.twitter.com/richcampbell
+facebook: https://www.facebook.com/richard.campbell
+linkedin: http://www.linkedin.com/pub/richard-campbell/0/37a/642
+facebookpage: https://www.facebook.com/dotnetrocks
+facebookpage: https://www.facebook.com/runasradio
+github: https://github.com/htbox
+location:
+  display: Coquitlam, BC, Canada
+  lat: 49.284919
+  long: -122.79438
+  country: Canada

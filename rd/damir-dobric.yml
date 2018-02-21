@@ -1,0 +1,23 @@
+### YamlMime:Profile
+uid: rd.damir-dobric
+name: Damir Dobric
+metadata:
+  title: Damir Dobric - Microsoft Regional Director
+  description: CEO and Microsoft Regional Director in Frankfurt, Germany
+remarks: |
+  ## Bio
+  <p>CEO and lead architect of DAENET Corporation, which is Microsoft long term Gold Certified Partner and leading technology integrator specialized in software technologies with strong focus on Cloud Computing, IoT, Machine Learning and HoloLens.</p><p>I'm Microsoft Regional Director and Azure MVP working with Microsoft on helping customers to adopt modern technologies. Have over 30 years of experience as a software developer, architect, speaker and author. My focus is practical implementation of custom solutions, which enable digital transformation.</p><p>I also work as docent for software engineering and distributed systems on University of Applied sciences in Frankfurt am Main.</p>
+tagline:
+image:
+  alt: "Damir Dobric"
+  src: media/profiles/damir-dobric.jpg
+youtube: https://www.youtube.com/channel/UCT961BsUQclbgkro4_w1bNg
+twitter: https://twitter.com/ddobric
+xing: https://www.xing.com/profile/Damir_Dobric
+linkedin: https://www.linkedin.com/in/damir-dobric-a2756286/
+github: https://github.com/ddobric
+location:
+  display: Frankfurt, Germany
+  lat: 50.112079
+  long: 8.683409
+  country: Germany

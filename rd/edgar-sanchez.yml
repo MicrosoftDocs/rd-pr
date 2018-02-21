@@ -1,0 +1,24 @@
+### YamlMime:Profile
+uid: rd.edgar-sanchez
+name: Edgar Sánchez
+metadata:
+  title: Edgar Sánchez - Microsoft Regional Director
+  description: Microsoft Regional Director in Quito, Ecuador
+remarks: |
+  ## Bio
+  <p>I am co-founder and CEO at Logic Studio, a software house in Quito, Ecuador. I have been a Microsoft Regional Director for several years. When working with the mind I love programming and&nbsp;a little&nbsp;math, when working with the body I do some trail running and an ocasional triathlon.</p>
+tagline:
+image:
+  alt: "Edgar Sánchez"
+  src: media/profiles/edgar-sanchez.jpg
+twitter: https://www.twitter.com/EdgarSanchez
+linkedin: https://ec.linkedin.com/in/edgarsanchez
+facebook: https://facebook.com/edgarsanchezgordon
+github: https://github.com/edgarsanchez
+strava: https://strava.com/athletes/edgarsanchez
+instagram: https://instagram.com/edgarsanchezgordon
+location:
+  display: Quito, Pichincha, Ecuador
+  lat: -0.205599
+  long: -78.508773
+  country: Ecuador

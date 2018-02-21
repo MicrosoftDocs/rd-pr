@@ -1,0 +1,21 @@
+### YamlMime:Profile
+uid: rd.benjamin-niaulin
+name: Benjamin Niaulin
+metadata:
+  title: Benjamin Niaulin - Microsoft Regional Director
+  description: Director | Microsoft Regional Director | MVP in Montreal, Canada
+remarks: |
+  ## Bio
+  <p>Benjamin Niaulin is a Product Manager at <a href="http://en.share-gate.com" target="_blank" rel="noopener noreferrer">Sharegate</a>, a product company providing <a href="https://en.share-gate.com/sharepoint-migration" target="_blank" rel="noopener noreferrer">SharePoint migration</a>, <a href="https://en.share-gate.com/reporting" target="_blank" rel="noopener noreferrer">reporting</a>, and <a href="https://en.share-gate.com/security" target="_blank" rel="noopener noreferrer">security management</a> in Microsoft's Office 365.</p><p>He's been around the world keynoting some of the largest conferences covering the Tech move to the Cloud and Digital Transformation within organizations. Helping them in various industries, meet their goals and regulations while staying ahead of their competiton.</p><p>Awarded <a href="https://mvp.microsoft.com/en-us/PublicProfile/5000069?fullName=Benjamin%2520%2520Niaulin" target="_blank" rel="noopener noreferrer">Microsoft Valued Professional (MVP)</a> since 2013 and part of the trusted <a href="http://rd.microsoft.com" target="_blank" rel="noopener noreferrer">Microsoft Regional Director Program</a>, he is an avid student of technology.</p><p>There is always something new to learn.</p><p>These days, he's merging AI and Machine Learning with Productivity Tools, Collaboration at work and always building new Products.</p>
+tagline:
+image:
+  alt: "Benjamin Niaulin"
+  src: media/profiles/benjamin-niaulin.jpg
+twitter: https://twitter.com/bniaulin
+linkedin: https://www.linkedin.com/in/bniaulin/
+facebook: http://facebook.com/bniaulin
+location:
+  display: Montreal, QC, Canada
+  lat: 45.512401
+  long: -73.554687
+  country: Canada

@@ -1,0 +1,21 @@
+### YamlMime:Profile
+uid: rd.ward-bell
+name: Ward Bell
+metadata:
+  title: Ward Bell - Microsoft Regional Director
+  description: President/Co-Founder IdeaBlade, Public Speaker, and Microsoft Regional Director in San Francisco, California
+remarks: |
+  ## Bio
+  <p>I’ve advanced business objectives with software solutions for more than forty years. The technologies change but the fundamentals don’t: understand your pain points and what you want to achieve, find a fast, affordable, reliable path from where you are to where you want to be, apply the appropriate technologies, and iterate rapidly so that you experience continuous progress.</p><p>I lead a company of great people, with decades of real-world experience, who specialize today in end-to-end development of data-driven, web applications.</p><p>No one owns the web. To live on the web is to embrace open source technologies from multiple vendors. We have a long Microsoft pedigree and confidently recommend Microsoft platforms. We also recommend technologies from Google, Amazon, Facebook, and myriad smaller players, integrating across the stacks where that makes sense … as it often does.</p><p>I spend half of my time on client projects, working on design and writing code. The other half I devote to learning and teaching.</p><p>The cross-platform, open source world is tumultuous. My job and my pleasure is to sift among the extraordinary claims, separating reality from hype, looking for gems and trends that matter, experimenting, and talking to the people who know what they’re doing. You’ll find me speaking at major conferences, hosting a podcast, talking to customers, writing articles, creating videos and teaching classes.</p><p>I don’t work for Microsoft. Being a “Microsoft Regional Director” means that I share insights and learn from some of the brightest, most experienced and respected people in our industry. I’m also a Microsoft MVP and a Google GDE, two programs for nuts-and-bolts engineers who write code for a living.</p><p>Contact me if you think a modern web application, running on mobile or desktop devices, might be in your future. My team has helped many organizations of all sizes make a successful transition to the web.</p><p>Talk to me about:</p><p>- angular / react</p><p>- ASP.NET / .NET Framework</p><p>- BreezeJS / redux / application data management</p><p>- JavaScript / TypeScript</p><p>- node.js on client and web</p><p>- mobile</p><p>- open source</p><p>- SQL Server / Cosmos / relational and non-relational databases</p><p>- user experience</p><p>- Visual Studio</p>
+tagline:
+image:
+  alt: "Ward Bell"
+  src: media/profiles/ward-bell.jpg
+github: https://github.com/wardbell
+twitter: https://twitter.com/wardbell
+linkedin: https://www.linkedin.com/in/ward-bell-1a9b08/
+location:
+  display: San Francisco, CA, United States
+  lat: 37.781118
+  long: -122.415639
+  country: United States

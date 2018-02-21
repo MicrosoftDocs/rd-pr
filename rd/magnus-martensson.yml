@@ -1,0 +1,32 @@
+### YamlMime:Profile
+uid: rd.magnus-martensson
+name: Magnus  Mårtensson
+metadata:
+  title: Magnus  Mårtensson - Microsoft Regional Director
+  description: Entrepreneur, Software Architect, and Microsoft Regional Director in Malmö, Sweden
+remarks: |
+  ## Bio
+  <p>I am an Entrepreneur and Consultant in the Cloud Business and Architecture field from Malmö, Sweden, and CEO of the consulting company <a href="http://loftysoft.com" target="_blank" rel="noopener noreferrer">http://loftysoft.com</a>.</p><p>My greatest passion is to help my customers realize their Cloud Computing dreams, teaching them to fly on their own, and achieve much more for their business using the Microsoft Azure Cloud. I'll provide you with a map and a compass for how to get to the Cloud quickly and with focus on the right path form the start.</p><p>As CEO of Loftysoft I am constantly on the move, as a speaker on a stage near you, delivering training to those that seek greater insight into the Cloud, or consulting and bringing true value to my customers everywhere.</p><p>I am a passionate community enthusiast on a global scale and run events such as <a href="http://global.azurebootcamp.net" target="_blank" rel="noopener noreferrer">http://global.azurebootcamp.net</a> and <a href="http://cloudburst.azurewebsites.net" target="_blank" rel="noopener noreferrer">http://cloudburst.azurewebsites.net</a>.</p><p>As the first Microsoft Azure Most Valuable Professional in the Nordic countries in 2012 I was awarded MVP of the year for my technical depth of knowledge about the Azure Platform. As a Microsoft Regional Director I work closely with my partner Microsoft on a business and strategic level to help my customers and Microsoft alike.</p><p>Talk to me about: Cloud Computing, PaaS, SaaS, (IaaS), Software Engineering, Microservices, Serverless Compute, Software Architecture, DevOps, Visual Studio Team Services (VSTS), Continuous Delivery/Deployment (CD), Project efficiency, Development and Test environments, Automation, C#, ASP.NET, Cloud Strategy, Cloud Business, Multitenant.</p>
+
+  ## Spotlight
+  <p>Working with customers all over the world and presenting on an international stage of conferences has been a great opportunity to see our world and meet people from high in the Himalayas to low down under. Everywhere I go one thing remains the same: people are eager to learn how to succeed! In my opinion the best way to gain new knowledge is to share yours. My personal quest is to bring more sharing into the world!</p><p>As an avid community proponent, I proudly share knowledge at conferences and meetups, some of which I also create. Most notably I am one of the admins behind the Global Azure Bootcamp&nbsp;which is perhaps the largest reoccurring developer community event in the world with close to two hundred event locations and over ten thousand attendees on a single day. Hundreds of organizers join in the fun and spread knowledge and excitement about the Cloud. We created this event to fuel peoples’ passions and challenge our frame of reference. #globalazure attendees also experience that people all over the globe are as passionate as they are to learn, share and grow together.&nbsp;If sharing is caring, this event shares on a global scale!</p>
+tagline:
+image:
+  alt: "Magnus  Mårtensson"
+  src: media/profiles/magnus-martensson.jpg
+facebook: https://www.facebook.com/noopman
+facebookpage: https://www.facebook.com/martenssonconsulting
+flickr: http://www.flickr.com/people/noopman/
+facebookpage: https://www.facebook.com/globalwindowsazure
+facebookpage: https://www.facebook.com/magnusmartenssoncom
+twitter: https://www.twitter.com/noopman
+linkedin: https://www.linkedin.com/in/noopman
+instagram: http://instagram.com/noopman
+youtube: https://www.youtube.com/channel/UCpS01q4StgVjQ3CF1t43PPw
+spotify: https://open.spotify.com/user/noopman
+github: https://github.com/noopman
+location:
+  display: Malmö, Sweden
+  lat: 55.596649
+  long: 13.00154
+  country: Netherlands

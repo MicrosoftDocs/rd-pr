@@ -1,0 +1,20 @@
+### YamlMime:Profile
+uid: rd.mahesh-chand
+name: Mahesh Chand
+metadata:
+  title: Mahesh Chand - Microsoft Regional Director
+  description: Architect in Philadelphia, Pennsylvania
+remarks: |
+  ## Bio
+  <p>Microsoft Regional Director, Founder C# Corner, CEO Mindcracker Inc.</p><p>At Mindcracker Inc., I help technical teams to build better software solutions by providing advice on architecture, design, usability, innovation, and team mentoring.</p><p>My expertise and interests include C#/.NET, UWP, Mixed-Reality, AI/ML, Cloud, Startups, and Innovation.</p><p>As a founder of C# Corner, I enjoy working on new features and ideas to help developers write better code and become better human being.</p><p>I love Philosophy, Cognitive Studies, Community, Public Speaking, Writing, Basketball, and Philadelphia Eagles.</p>
+tagline:
+image:
+  alt: "Mahesh Chand"
+  src: media/profiles/mahesh-chand.jpg
+twitter: https://twitter.com/mcbeniwal
+linkedin: https://www.linkedin.com/in/mchand/
+location:
+  display: Philadelphia, PA, United States
+  lat: 39.95222
+  long: -75.162178
+  country: United States

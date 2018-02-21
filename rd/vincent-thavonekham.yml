@@ -1,0 +1,21 @@
+### YamlMime:Profile
+uid: rd.vincent-thavonekham
+name: Vincent Thavonekham
+metadata:
+  title: Vincent Thavonekham - Microsoft Regional Director
+  description: Microsoft Regional Director and Manager in Lyon, France
+remarks: |
+  ## Bio
+  <p>Hi, I’m Vincent. I’m a Microsoft Regional Director working for VISEO and living in Lyon, France.</p><p>I am a fan of technology, Cloud, Agility and innovation. I’m also interested in hiking/travelling, DIY, NPL and Montessori ! You can read my blog with a click on the button above.</p><p>As a living, I am helping companies transforming their businesses by using the Cloud from Executive level, down to the architecture/code.</p><p>I am expert on Azure (awarded MVP Azure), on DevOps and Agility. As such, I write articles, and often get invited to many conferences to share my insights and expertise, in France or abroad (UK, Switzerland).</p><p>I am the co-founder of the Azure User Group France (AZUG FR), and locally, I am on the board of the Microsoft User Group Lyon (MUG Lyon).</p><p>Don't ask me questions about these topics unless you have many hours in front of you !</p>
+tagline:
+image:
+  alt: "Vincent Thavonekham"
+  src: media/profiles/vincent-thavonekham.jpg
+twitter: https://twitter.com/vThavo
+linkedin: https://www.linkedin.com/in/thavo/
+slideshare: https://www.slideshare.net/VincentThavonekham
+location:
+  display: Lyon, France
+  lat: 45.759391
+  long: 4.828979
+  country: France

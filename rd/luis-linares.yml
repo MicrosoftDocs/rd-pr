@@ -1,0 +1,20 @@
+### YamlMime:Profile
+uid: rd.luis-linares
+name: Luis Linares
+metadata:
+  title: Luis Linares - Microsoft Regional Director
+  description: Enterprise Architect at Avianca and Microsoft Regional Director in 北京市, Colombia
+remarks: |
+  ## Bio
+  <p>Hello, I’m Luis Emilio. I’m an Enterprise Architect at Avianca living in Bogota, Colombia. I am a fan of travel, technology, and innovation. You can ask me about cloud computing with a click on the button above.</p><p>I love to share knowledge, one way is being undergraduate and postgraduate professor in Software Architecture, Distribute software Architecture, Enterprise Architecture. in the other way is in technical events went I participated.</p><p>I found two initiatives that I am very proud the IASA chapter in Colombia and the first IOT center in Colombia. You can check it here <a href="http://www.cea-iot.org/" target="_blank" rel="noopener noreferrer">http://www.cea-iot.org/</a></p><p>I started working when I was in colleague, I saw when internet was born in Colombia, so since that day I have been working in technology from both sides as a customer and as vendor. So a lot of stories in both sides. I have a cross platform experience from Unix to Windows, now no more Unix, :-( is more linux. Aws to Azure, java to .Net, Lambda to Functions.</p><p>____</p><p>Hola, me llamo Luis Emilio. Soy el director de arquitectura empresarial en Avianca. Vivo en Bogotá, Colombia. Soy un fanático de los viajes, la tecnología y la innovación. Puedes preguntarme sobre cloud computing con un clic en el botón de arriba.</p><p>Me encanta compartir el conocimiento, una manera es dictando clases en pregrado y postgrado en Arquitectura de Software, Arquitectura de sistemas distribuidos y Arquitectura Empresarial.</p><p>He fundado dos iniciativas de las que estoy muy orgulloso, el capítulo de IASA en Colombia y el primer centro de IOT en Colombia. Puede consultarlo aquí http://www.cea-iot.org/</p><p>Comencé a trabajar cuando estaba en la universidad, vi cuando internet nació en Colombia, así que desde ese día he estado trabajando en tecnología de ambos lados como cliente y como vendedor. Así que un montón de historias en ambos lados. Tengo experiencia de varios mundos de Unix a Windows, ahora no más Unix, :-( es más linux. Aws a Azure, java a .Net, Lambda a Functions.</p>
+tagline:
+image:
+  alt: "Luis Linares"
+  src: media/profiles/luis-linares.jpg
+linkedin: https://www.linkedin.com/in/luisemiliolinares
+twitter: https://twitter.com/luiselinares
+location:
+  display: Colombia
+  lat: 3.90893
+  long: -73.073455
+  country: Colombia

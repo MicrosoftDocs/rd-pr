@@ -1,0 +1,24 @@
+### YamlMime:Profile
+uid: rd.thomas-nigro
+name: Thomas Nigro
+metadata:
+  title: Thomas Nigro - Microsoft Regional Director
+  description: Microsoft Regional Director, Open-source developer, and Startup co-founder in Paris, France
+remarks: |
+  ## Bio
+  <p>ENGLISH</p><p>I am an open source developer, Microsoft Regional Director and Opuscope co-founder.</p><p>At 16 years old, I became Microsoft Student Partner Lead and was awarded as Developer Hero by Microsoft France. Then I studied at Paris Descartes university and decided to join the VideoLAN organization, where I led the VLC on Windows Store project, with more than 22 millions downloads to date. In 2016 I co-founded Opuscope, a startup creating new tools to empower people and organizations in creating their own experiences in mixed reality.</p><p>FRANÇAIS</p><p>Je suis un développeur open-source, Microsoft Regional Director et cofondateur d'Opuscope.</p><p>À 16 ans, j'ai été awardé Microsoft Student Partner et récompensé comme Developer Hero par Microsoft France. Étudiant à l'IUT Paris Descartes, j'ai contribué au projet VideoLAN pour devenir le maintainer principal du projet VLC pour Windows Store, avec plus de 22 millions de téléchargements. En 2016, j'ai co-fondé Opuscope, une startup développant un logiciel qui permettra de créer soi-même des expériences 3D.</p><p>Talk to me about #ImmersiveComputing #mixedreality #UWP #SaaS #dotnet</p>
+tagline:
+image:
+  alt: "Thomas Nigro"
+  src: media/profiles/thomas-nigro.jpg
+twitter: https://twitter.com/thomasnigro
+facebook: https://facebook.com/thomas.nigro
+instagram: https://instagram.com/thomasnigro
+linkedin: https://fr.linkedin.com/in/thomasnigro
+github: https://github.com/thomasnigro
+angel-list: https://angel.co/opuscope
+location:
+  display: Paris, France
+  lat: 48.861208
+  long: 2.337439
+  country: France

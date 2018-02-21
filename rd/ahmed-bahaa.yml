@@ -1,0 +1,24 @@
+### YamlMime:Profile
+uid: rd.ahmed-bahaa
+name: Ahmed Bahaa
+metadata:
+  title: Ahmed Bahaa - Microsoft Regional Director
+  description: Software Engineer, Consultant, and Microsoft Regional Director in Sydney, Australia
+remarks: |
+  ## Bio
+  <p>I am a software engineer, consultant, and Microsoft Regional Director currently living in Cairo, Egypt. I am a principal technical consultant in an Egyptian Microsoft Gold partner (Compu Pharaohs). Additionally, I am Associate Professor in the Faculty of Computers and Information at Helwan University. Moreover, I am an ISO advisory committee member for ISO JTC1.</p><p>Furthermore, I have been awarded many International awards in the ICT field. This includes but not limited to; the Golden Global Impact Award from Microsoft of Redmond-WA in USA as one of the top 60 worldwide technology influencers in 2010 , the Most Valuable Professional (MVP) award for ten years in a row in the software engineering field with an additional MVP in Microsoft Azure.</p><p>This makes me the only Arabic IT expert across history to have this achievement (10+1) MVPs.</p><p>In 2010 Microsoft chosed me as one of the top elite 100 IT worldwide thought leaders. Thus, I joined the Regional Directors Program as a representative of the Middle East &amp; Africa. Up until April 2016, I had the pleasure of being the only representative of Africa in this group.</p><p>I have 20-years of experience in the ICT field with more than 87 projects that served the national, regional, and international levels. This includes Egypt's ICT indicators project that won first prize at the ITU (International Telecommunication Union) in December 2014 and Egypt's ICT dashboard project that won first prize of Public Service Administration (PSA) of the United Nations in 2013.”</p><p>In 2013, I was selected as a member in the Microsoft Customer Advisory Council (CAC) of the Cloud-Based load testing Microsoft product as one of the top 10 experts in this technology worldwide.</p><p>I am a frequent expert and speaker in many international technical events including, but not limited to; TechEd Europe , TechEd Middle East Worldwide ALM Summit USA, Microsoft Visual Studio Launches, and other events that have been keynoted by Microsoft Corp's CEOs).</p><p>In 2014 the Microsoft MVP team posted an interview with me on the MVP award home page.I am a father of two sons; Bahaa, and Omar.</p><p>Talk to me about: [Cloud Computing,Big Data,Mobile Development,SW Development,IoT,DevOps,Microsoft Office,SQL Server,Data Warehousing,BI,Multidimensional Analysis,Testing,Requirements Engineeering,SaaS,IaaS ,PaaS ,AWS,JavaScript,HTML5,AngularJS,Docker,,Data Analytics,Hadoop,Configuration &amp;Continuous delivery,Azure,.NET,Visual Studio,SWEngineering,ASP.NET,C#,Java,SQL Server,R]</p>
+
+  ## Spotlight
+  <p>According to the EU Rapid Alert System for Food and Feed (RASFF) portal, in 2016 40 Egyptian agriculture shipments were rejected from entering the EU. This happens annually, leading to hundreds of millions of dollars in losses of Egyptian exports.&nbsp;</p><p>My company, CompuPharaohs, is designing a solution that integrates state-of-the-art Azure technologies to deliver a high availability, intelligent traceability system that delivers a rigid set of insights, patterns discovery, and capacity planning from deep learning techniques that utilizes Azure Machine Learning, and HDInsight. The source of the data is an IoT solution designed to deliver the core insights about the used amounts of cultivation materials. The development leverages Visual Studio Team Services as well as SQL Server 2016.</p><p>An intelligent, integrated information platform for agribusiness could improve the capacities of producers by increasing productivity and enhancing quality compliance. Ultimately, the solution aims to strengthen the linkages of the value chain and support Egyptian producers’ groups, all while increasing access to international and domestic markets.</p>
+tagline:
+image:
+  alt: "Ahmed Bahaa"
+  src: media/profiles/ahmed-bahaa.jpg
+twitter: https://twitter.com/@AhmedBahaa2010
+facebook: https://facebook.com/ahmedbahaafarid
+linkedin: https://www.linkedin.com/in/ahmed-bahaa-ba006aa8
+location:
+  display: Cairo, Egypt
+  lat: 30.049909
+  long: 31.2486
+  country: Australia

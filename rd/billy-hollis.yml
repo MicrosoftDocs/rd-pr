@@ -1,0 +1,19 @@
+### YamlMime:Profile
+uid: rd.billy-hollis
+name: Billy Hollis
+metadata:
+  title: Billy Hollis - Microsoft Regional Director
+  description: Designer, Developer, and Microsoft Regional Director in Nashville, Tennessee
+remarks: |
+  ## Bio
+  <p>Generalist. Problem solver. Developer. Designer. Speaker. Author. Trainer. Contrarian.</p><p>I’ve been using software technology to solve problems for 40 years. These days, I have the great privilege of leading a world class team of developers, specializing in native applications on Microsoft platforms. We’ve done applications with an international reputation for innovation in user experience.</p><p>We are not content to grind out another code-centric, buzzword-driven morass of an application that makes code-addicted technonerds happy, but doesn’t fit the needs of the user. Instead, we work with clients starting with investigation of the problem, through UX design and prototyping, and then architecting and developing the application in collaboration with client developers.</p><p>That takes up about two-thirds of my time. I spend most of the rest sharing the lessons we’ve learned by speaking at major conferences, talking to CxOs at companies who depend on technology, writing books and articles, and doing training videos and classes. I began public speaking in the second grade, and yet I still get a charge out of walking on stage and showing audiences new concepts, new designs, and new ways to use software technology.</p><p>I’ve been part of Microsoft Regional Director program for 19 years. That doesn’t mean I work for Microsoft. It means that I have the privilege of being in a group of some of the savviest people in the industry and learning from them, while contributing some of my own experiences and lessons. I’m also a Microsoft MVP in Windows Platform Development, and that gets some nice insider access to the Windows 10 / UWP team.</p><p>If you need some out of the box thinking about using modern technologies to solve business problems, contact me. Together with my team, we have helped many organizations, from Fortune 100 to small companies, enter the modern app era</p><p>Talk to me about:</p><p>Windows 10</p><p>Universal Windows Platform</p><p>XAML</p><p>Visual Studio</p><p>.NET Framework</p><p>Windows Presentation Foundation</p><p>Rules Engines</p><p>Dynamic User Interfaces</p><p>Hololens</p><p>IoT</p><p>User Experience Design</p><p>`.</p>
+tagline:
+image:
+  alt: "Billy Hollis"
+  src: media/profiles/billy-hollis.jpg
+twitter: https://twitter.com/billyhollis
+location:
+  display: Nashville, TN, United States
+  lat: 36.167839
+  long: -86.77816
+  country: United States

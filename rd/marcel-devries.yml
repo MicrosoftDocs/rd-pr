@@ -1,0 +1,26 @@
+### YamlMime:Profile
+uid: rd.marcel-devries
+name: Marcel de Vries
+metadata:
+  title: Marcel de Vries - Microsoft Regional Director
+  description: CTO, Public Speaker, and Consultant in Zutphen, Netherlands
+remarks: |
+  ## Bio
+  <p>I am the co-founder and CTO of <a href="http://xpirit.com" target="_blank" rel="noopener noreferrer">Xpirit</a>, a high end consulting firm based in Hilversum, Netherlands.</p><p>I co-founded Xpirit in 2014 as a spin off from <a href="http://Xebia.com" target="_blank" rel="noopener noreferrer">Xebia Netherlands</a>. Together with Xebia we help customers with Digital Transformation, Agile Consulting and Full Stack development with both Microsoft and open source products.</p><p>I spend most of my time looking at how new emerging technologies, a shift in mindset and a new way of work, can help organizations get software in production faster. Helping organizations transform towards a high speed, innovative and productive organization has become my passion. I love to learn new technologies and teach others what I have learned. Besides my work as CTO I also work as a consultant in the field of Application Lifecycle Management, Continuous Delivery, DevOps, Cloud/Web scale application architectures and Cross platform Enterprise Mobile app development with Xamarin.</p><p>I am a frequent speaker at leading industry conferences. I have delivered sessions at events like <a href="https://channel9.msdn.com/events/TechEd/Europe/2014/DEV-B209" target="_blank" rel="noopener noreferrer">Microsoft TechEd</a>, <a href="https://channel9.msdn.com/Events/Build/2014/3-595" target="_blank" rel="noopener noreferrer">Microsoft //Build</a>, <a href="https://channel9.msdn.com/events/TechDays/Techdays-2014-the-Netherlands/-Build-redux" target="_blank" rel="noopener noreferrer">Microsoft TechDays</a>, Visual Studio Live!, Devintersection, <a href="https://www.youtube.com/watch?v=LrqYuvSVpTI" target="_blank" rel="noopener noreferrer">Xebicon</a>, and Techorama . I host several meetups in my region on <a href="https://www.youtube.com/watch?v=LrqYuvSVpTI" target="_blank" rel="noopener noreferrer">Microsoft Azure</a>, <a href="https://www.youtube.com/watch?v=LrqYuvSVpTI" target="_blank" rel="noopener noreferrer">Xamarin</a>and <a href="https://www.youtube.com/watch?v=LrqYuvSVpTI" target="_blank" rel="noopener noreferrer">ALM</a>. In my spare time I am also an author of online courses at <a href="https://www.pluralsight.com/authors/marcel-devries" target="_blank" rel="noopener noreferrer">Pluralsight</a>.</p><p>I have been awarded by Microsoft the Microsoft ALM MVP award for 11 consecutive years and I am a Microsoft Regional Director since 2008.</p><p>Talk to me about: DevOps, ALM, Cloud Computing, Microservices, Mobile Development, Docker, IaaS, PaaS, SaaS</p>
+
+  ## Spotlight
+  <p>As a Regional Director I’ve had the honor of co-organizing TechDays, a successful tech conference in the Netherlands that attracts about 2000 developers each year. I’ve found that while giving primarily technical presentations at events like TechDays, it is very hard to make the conference attendees successful in applying what we teach them in their day job. Which begs the question: “How can we aid attendees in successfully adopting this cool technology&nbsp;after they leave the conference?”&nbsp;</p><p>The answer we found is to teach Digital Transformation to leadership teams.&nbsp;Through Digital Transformation companies can increase efficiency, and drive faster innovation by reimagining their operations and embracing Cloud, DevOps and Open Source. Together with Microsoft, I designed&nbsp;a special track for company thought leaders. We handpicked a substantial group of CTOs and built a one day program focused on providing practical guidance on how to embrace the Digital Transformation. This ultimately helps the conference audience get a better landing place in their company and bring their innovative ideas to life.</p>
+tagline:
+image:
+  alt: "Marcel de Vries"
+  src: media/profiles/marcel-devries.jpg
+twitter: https://www.twitter.com/marcelv
+linkedin: http://www.linkedin.com/in/marcelv
+wordpress: http://fluentbytes.com
+github: https://github.com/vriesmarcel
+instagram: https://instagram.com/vriesmarcel
+location:
+  display: Zutphen, Netherlands
+  lat: 52.126499
+  long: 6.209119
+  country: Netherlands

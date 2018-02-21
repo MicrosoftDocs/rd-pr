@@ -1,0 +1,25 @@
+### YamlMime:Profile
+uid: rd.richard-conway
+name: Richard Conway
+metadata:
+  title: Richard Conway - Microsoft Regional Director
+  description: Microsoft Regional Director, Software Engineer, and Data Scientist in London, United Kingdom
+remarks: |
+  ## Bio
+  <p>Welcome to my profile. My name is Richard Conway. I'm a Microsoft Regional Director and Microsoft Most Valuable Professional in Azure. I'm a Director of Elastacloud which is a Data Science consultancy working across key business sectors such as retail, finance, engineering and others.</p><p>As well as my role in business, I'm an author of books and courses and a key contributor to Apache open source projects with a love for all things cloud and data. Over the years I've become proficient in C++, C#, Java, Scala, Python and R and I mix and match these skills for my customers and community on a daily basis.</p><p>I love speaking to new audiences on aspects of cloud, data science and data platform and have spoken all across Europe over the last few years.</p><p>I'm a strong advocate of communities and over the years founded @ukazure and a few others.</p><p>As an advocate for child education in IT I've been working closely with Code Club in the UK. My most recent community contribution has been <a href="https://blogs.msdn.microsoft.com/ukschools/2016/05/16/3rd-4th-june-azurecraft-the-power-to-create-the-future-is-now-in-your-hands/" target="_blank" rel="noopener noreferrer">AzureCraft</a>, an annual two day event for developers, parents and kids to teach the Cloud and Programming through Minecraft.</p><p>Talk to me about: Microsoft Azure, Big Data, Apache Spark, Statistics, Machine Learning, Deep Learning</p>
+
+  ## Spotlight
+  <p>As a Microsoft Regional Director I've always challenged the status quo in both my business and community activities. Having used Microsoft Azure since its inception to conquer difficult tasks, I've not let lack of a platform service stop me from building large scale data solutions.&nbsp;</p><p>The combination of my zest for big data and data science led me to becoming an early adopter for Apache Spark and HDInsight. I’ve had the opportunity to transform a data orchestration pipeline for a large high-tech manufacturing company. Combinations of Apache Spark on HDInsight, R-Server and SQL DW were used to build precise ingestion pipelines that revolutionised the flow and scale of data. With such a heavy usage of Azure comes a heavy usage of governance so we also built in a fine-grained analytical control panel giving them cost-optimisation of all their Azure assets across 10s of subscriptions.</p><p>I look at Microsoft Azure and can relate to Satya’s vision of the Intelligent Cloud. It’s been my privilege to live and breathe this vision as it unfolds before my eyes. In the years to come I see large scale adoption of intelligent services where Microsoft Azure is the bridge between analytics and devices providing real-time, low-latency answers to everything from medical diagnoses to predicting which cinema film I want to watch next.</p>
+tagline:
+image:
+  alt: "Richard Conway"
+  src: media/profiles/richard-conway.jpg
+twitter: https://twitter.com/azurecoder
+linkedin: https://uk.linkedin.com/in/richardelastacloud
+github: https://github.com/azurecoder
+kickstarter: https://kickstarter.com/profile/azurecoder
+location:
+  display: London, England, United Kingdom
+  lat: 51.51042
+  long: -0.12321
+  country: United Kingdom

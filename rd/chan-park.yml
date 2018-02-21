@@ -1,0 +1,18 @@
+### YamlMime:Profile
+uid: rd.chan-park
+name: Chan Park
+metadata:
+  title: Chan Park - Microsoft Regional Director
+  description: Regional Director in 서울특별시, 대한민국
+remarks: |
+  ## Bio
+  <p>Howdy, I’m Chan. I’m a Engineer living in 서울특별시, 대한민국. I am a fan of technology, music, and food. You can listen to my music with a click on the button above.</p><p>Blog:icerainbow.tistory.com</p><p>Microsoft Security MVP(05~09)<br>Microsoft Consumer Security MVP (10~11)<br>Microsoft Windows Expert-IT Pro MVP (09~12)<br>Microsoft Azure MVP (16~ )<br>Microsoft RD (16~)</p><p>Technical Expertise<br> - Windows Security Trainer<br> - Developing Windows Server and Azure<br> - SI Project Management (Migration from<br> Windows Or Linux to Azure. In <br> Entertainment industry)</p><p>Community Leadership, Speaking Experience</p><p>- 2012 Korea MVP Open Day Speakers (Mar, 2012 / Common Windows Security)<br>- SK Co-promotion Provide training (Oct, 2012 / Windows 8)<br>- Microsoft KPC(Korea Partner Conference) / 9.15.2015 / Azure Applications Case<br>- Microsoft Korea 2016 Kick Off Conference / 8. 25.2015 / Collaboration with Microsoft</p>
+tagline:
+image:
+  alt: "Chan Park"
+  src: media/profiles/chan-park.jpg
+location:
+  display: 대한민국 Seoul
+  lat: 37.566535
+  long: 126.977966
+  country: 대한민국

@@ -1,0 +1,24 @@
+### YamlMime:Profile
+uid: rd.damir-tomicic
+name: Damir Tomicic
+metadata:
+  title: Damir Tomicic - Microsoft Regional Director
+  description: Microsoft Regional Director and CFO, Axinom in Nuremberg, Germany
+remarks: |
+  ## Bio
+  <p>I'm co-founder and chief financial officer of Axinom Group, one of the leading international software development vendors.</p><p>At <a href="http://www.axinom.com" target="_blank" rel="noopener noreferrer">Axinom</a>, we reinvent the way people consume digital media and services at home, at work and while traveling by providing them with the next generation of cloud-based digital platforms for entertainment, infotainment and e-commerce. You'll experience our solutions on your journey with some of the major global brands in media, aerospace and railway all around the world.</p><p>I'm collaborating with Microsoft Corporation in my role as a Microsoft Regional Director since 2004. My current focus is on Microsoft Azure based media solutions (Azure Media Services) and IoT solutions.</p><p>I'm President of International .NET Association Europe and member of ASPInsiders. Microsoft awarded me as Most Valuable Professional (MVP) since 2003.</p>
+
+  ## Spotlight
+  <p>At my company, Axinom, we reinvent the way people consume digital media and services at home, at work and while traveling by providing them with the next generation of digital platforms for entertainment, infotainment and e-commerce.</p><p>In our customer projects, we see that consumers expect premium video to be protected and delivered in the best possible way on a wide range of devices. This quality of service on a global scale is anything but easy to achieve.</p><p>We worked closely with Microsoft product groups to leverage Azure Media Services, an extensible cloud-based platform for scalable media management and delivery applications. Leveraging Axinom products in Azure, our customers can store, encode, and manage videos utilizing the richness of the Microsoft Azure cloud platform and instantly create and deploy cloud-based video platforms, such as VOD portals for consumer and corporate video. The Azure Marketplace offering helped us to extend the benefits to our customers and partners making it easier for them to evaluate Axinom products with a free trial.</p><p>Thanks to the investment in the cloud, Axinom was selected as one of 101 companies that matter most in online video in 2016 for the second year in a row.</p>
+tagline:
+image:
+  alt: "Damir Tomicic"
+  src: media/profiles/damir-tomicic.jpg
+twitter: http://www.twitter.com/Damir
+facebook: http://www.facebook.com/damir.tomicic
+linkedin: http://www.linkedin.com/in/tomicic
+location:
+  display: Nuremberg, Germany
+  lat: 49.454341
+  long: 11.07349
+  country: Germany

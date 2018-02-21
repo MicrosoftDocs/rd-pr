@@ -1,0 +1,23 @@
+### YamlMime:Profile
+uid: rd.benny-tritsch
+name: Benny Tritsch
+metadata:
+  title: Benny Tritsch - Microsoft Regional Director
+  description: Small Business Owner, Consultant, and Microsoft Regional Director in Ober-Ramstadt, Germany
+remarks: |
+  ## Bio
+  <p>Hi, my name is Benny Tritsch. I’m a solution architect, market analyst, community leader, author and founder of DrTritsch.com and REX Analytics, living close to Frankfurt in Germany. My expertise is in IT virtualization, user workspace monitoring, Cloud technologies, enterprise mobility, graphics remoting and remote end user experience benchmarking. I’m also interested in writing, public speaking and scuba diving. I'm a Microsoft Regional Director and a Microsoft Most Valuable Professional. You can read my blog with a click on the button above.</p>
+
+  ## Spotlight
+  <p>In my daily work as an independent enterprise architect and technical evangelist specializing in Windows desktop transformation, I move back and forth between software development and IT infrastructure analysis and design. When transforming conventional enterprise workplaces and their Windows applications to a world of cloud first and mobile first, customer feedback clearly indicates that perceived end-user experience is one of the most important success criteria. That’s why I've made it my mission to analyze, predict and optimize remote end-user experience defined by UI response time delays, immediate availability of user data and compatibility with all required media formats.</p><p>Together with other community fellows, I have developed my own remote end-user experience benchmarking methodology and test framework that allows me to collect vendor-independent results in a truly unique way. I’ve presented my benchmarking results including full telemetry data sets and screen capture comparison videos at international conferences, such as Microsoft TechEd and Ignite, community events and customer workshops. The results also made it into free community whitepapers and social media videos. It's my belief that superior and predictable end-user experience on a wide range of front-end devices is the number one success factor for workspaces and applications delivered in a Software-as-a-Service model.</p>
+tagline:
+image:
+  alt: "Benny Tritsch"
+  src: media/profiles/benny-tritsch.jpg
+twitter: https://twitter.com/drtritsch
+linkedin: http://www.linkedin.com/in/bernhardtritsch
+location:
+  display: Ober-Ramstadt, Germany
+  lat: 49.82928
+  long: 8.74715
+  country: Germany

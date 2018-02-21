@@ -1,0 +1,26 @@
+### YamlMime:Profile
+uid: rd.gill-cleeren
+name: Gill Cleeren
+metadata:
+  title: Gill Cleeren - Microsoft Regional Director
+  description: Consultant, Public Speaker, and Microsoft Regional Director in Tienen, Belgium
+remarks: |
+  ## Bio
+  <p>Hi, I'm Gill. I am a Microsoft Regional Director, Xamarin and mobile consultant and Microsoft senior architect. I speak at many international conferences such as VSLive, NDC, TechDays and many more. I'm also a <a href="http://app.pluralsight.com/author/gill-cleeren" target="_blank" rel="noopener noreferrer">Pluralsight author</a>. I'm the founder of <a href="http://www.techorama.be" target="_blank" rel="noopener noreferrer">Techorama</a>, Belgium's largest Microsoft conference. Currently, I live in Tienen, Belgium.</p><p>You can click the button above to view my website. If you’d like to get in touch, feel free to say hello through any of the social links below.</p><p>Talk to me about: Mobile Development, Xamarin, Software Development and DevOps, HTML5, iOS and Android development, .NET, ASP.NET, ASP.NET Core and C# of course!</p>
+
+  ## Spotlight
+  <p>In 2013 Microsoft Belgium decided to stop organizing their yearly – and very successful – TechDays conference. This conference attracted about 2000 developers and IT Pros.&nbsp;Microsoft technologists in Belgium were left with few alternatives to learn and collaborate, with no conferences that could muscle the demand for knowledge sharing.&nbsp;</p><p>With my position as a Regional Director in Belgium, the local Microsoft team asked me engage the local community to see they could take over the conference. I had been running a smaller community-driven conference for many years, but felt that I could do more on a larger scale. Together with 2 MVPs, we started Techorama, a developer conference with an international audience. The conference was an instant success, with a notable speaker line-up in the very first year, which included several RDs.&nbsp;</p><p>In 2016 the conference reached 1000 developers. For 2017, the Techorama team is widening its scope to cover the entire spectrum of the Microsoft landscape, including developer, IT Pro &amp; SharePoint content. With 100 speakers and 150 sessions, Techorama 2017 is now reaching a capacity of 1500 Microsoft enthusiasts. Techorama offers the national and international audience a conference where they can learn what’s new and hot in the Microsoft space, connect with peers and meet a group of fantastic speakers from all over the world.</p>
+tagline:
+image:
+  alt: "Gill Cleeren"
+  src: media/profiles/gill-cleeren.jpg
+facebook: http://www.facebook.com/gillcleeren
+twitter: http://www.twitter.com/gillcleeren
+instagram: http://instagram.com/gillcleeren
+linkedin: http://www.linkedin.com/in/gillcleeren
+github: https://github.com/gillcleeren
+location:
+  display: Tienen, Belgium
+  lat: 50.80968
+  long: 4.93013
+  country: Belgium

@@ -1,0 +1,21 @@
+### YamlMime:Profile
+uid: rd.jay-harris
+name: Jay Harris
+metadata:
+  title: Jay Harris - Microsoft Regional Director
+  description: Consultant, Web Developer, and Microsoft Regional Director in Las Vegas, Nevada
+remarks: |
+  ## Bio
+  <p>I am the founder and co-owner of <a href="http://www.aranasoft.com" target="_blank" rel="noopener noreferrer">Arana Software</a>, a web software consulting firm based out of Detroit, St. Louis, and Las Vegas.</p><p>As a software consultant, I have been developing solutions on the web since 1995, when the Blink tag lured me away from Visual Basic 3. Through my collaboration and contributions to software development, I have been awarded as a Microsoft Regional Director, an ASPInsider, and as a six-time Microsoft MVP.</p><p>Recognizing that the bottleneck to great software is a developer’s time, my continuing quest is for frameworks, modules, tools, and practices that make developers stronger, fitter, happier, and more productive. "Typing is not the hardest part of the day;" I strive for efficiency in implementation, so that we can focus on imagining ideas, solving problems, and providing solutions.</p><p>I am also president of <a href="http://givecamp.org/" target="_blank" rel="noopener noreferrer">GiveCamp Inc.</a>, a non-profit through which software developers, graphic designers, social media experts and other technologists volunteer their time and skills to help their local charities.</p><p>Talk to me about: Software Consulting, Web Development, <a href="http://givecamp.org/" target="_blank" rel="noopener noreferrer">GiveCamp</a>, Speaking, and <a href="http://www.reds.com" target="_blank" rel="noopener noreferrer">Baseball</a>.</p>
+tagline:
+image:
+  alt: "Jay Harris"
+  src: media/profiles/jay-harris.jpg
+twitter: http://www.twitter.com/jayharris
+linkedin: http://www.linkedin.com/in/jasonharris
+github: https://github.com/jayharris
+location:
+  display: Las Vegas, NV, United States
+  lat: 36.171909
+  long: -115.139968
+  country: United States

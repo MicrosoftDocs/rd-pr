@@ -1,0 +1,26 @@
+### YamlMime:Profile
+uid: rd.etienne-tremblay
+name: Etienne Tremblay
+metadata:
+  title: Etienne Tremblay - Microsoft Regional Director
+  description: Sr. ALM Consultant, Microsoft Regional Director, and Microsoft Visual Studio MVP in Montreal, Canada
+remarks: |
+  ## Bio
+  <p>Greetings, I have worked in the Information Technology industry for over 25 years as a consultant, solution architect and application lifecycle management expert. I am currently a senior ALM consutlant for Imaginet. In the past 15+ years,I have specialized in Microsoft technologies, specifically in application lifecycle management which has secured me with the Microsoft ALM MVP title since 2006. I've also been awarded Microsoft Regional Director in March 2017. I have expertise in the mining and car manufacturing industries and I am a well-known speaker at international conferences such as DevTeach and Microsoft TechDays. I currently manages the ALM chapter of the Montreal .NET user group.</p>
+tagline:
+image:
+  alt: "Etienne Tremblay"
+  src: media/profiles/etienne-tremblay.jpg
+linkedin: https://www.linkedin.com/in/etiennetremblay
+youtube: https://www.youtube.com/user/Tegaaa
+vimeo: https://vimeo.com/tegaaa
+github: https://github.com/tegaaa
+tumblr: http://tegaaaqc.tumblr.com/
+goodreads: https://goodreads.com/user/show/36598101-etienne
+twitter: https://twitter.com/tegaaa
+wordpress: http://blog.etiennetremblay.ca
+location:
+  display: Montreal, QC, Canada
+  lat: 45.516401
+  long: -73.550687
+  country: Canada

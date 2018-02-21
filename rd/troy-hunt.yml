@@ -1,0 +1,28 @@
+### YamlMime:Profile
+uid: rd.troy-hunt
+name: Troy Hunt
+metadata:
+  title: Troy Hunt - Microsoft Regional Director
+  description: Security Trainer, Web Developer, and Microsoft Regional Director in Prague, Australia
+remarks: |
+  ## Bio
+  <p>I'm Troy Hunt, an Australian <a href="http://www.troyhunt.com/2016/03/microsoft-regional-director.html" target="_blank" rel="noopener noreferrer">Microsoft Regional Director</a> and also a <a href="http://mvp.microsoft.com/en-us/overview.aspx" target="_blank" rel="noopener noreferrer">Microsoft Most Valuable Professional</a> for Developer Security. I don't work for Microsoft, but they're kind enough to recognise my community contributions by way of their award programs which I've been an awardee of since 2011. I get to interact with some fantastic people building their best products and then share what I know about creating secure applications for the web with the broader community.</p><p>I'm <a href="http://pluralsight.com/training/Authors/Details/troy-hunt" target="_blank" rel="noopener noreferrer">a Pluralsight author of many top-rating courses on web security</a> and other technologies. There's no better way to get up to speed on a topic quickly than through professional training that you can take at your own pace. As both an author and a student, I have nothing but positive things to say about the breadth and quality of Pluralsight courses.</p><p>For fourteen years prior to going fully independent, I worked at Pfizer with the last seven years being responsible for application architecture in the Asia Pacific region. Time spent in a large corporate environment gave me huge exposure to all aspects of technology as well as the diverse cultures my role spanned. Many of the things I teach in post-corporate life are based on these experiences, particularly as a result of working with a large number of outsourcing vendors across the globe. For more corporatey background, there's always my <a href="http://www.linkedin.com/in/troyhunt" target="_blank" rel="noopener noreferrer">LinkedIn profile</a>.</p><p>One of the key projects I'm involved in today is <a href="https://haveibeenpwned.com/" target="_blank" rel="noopener noreferrer">Have I been pwned?</a> (HIBP), a free service that aggregates data breaches and helps people establish if they've been impacted by malicious activity on the web. As well as being a useful service for the community, HIBP has given me an avenue to ship code that runs at scale on Microsoft's Azure cloud platform, one of the best ways we have of standing up services on the web today.</p><p>Talk to me about: Cloud Computing, Security</p>
+
+  ## Spotlight
+  <p>A few years ago, I analysed data breaches and saw some alarming trends. Most notably was the prevalence with which the same people appeared in multiple incidents, usually unbeknownst to them. I decided to create a solution to help people monitor their exposure in data breaches called “Have I been pwned” (HIBP). HIBP served the community by informing those impacted by these incidents, but also enabled me to showcase how modern apps can be built on Azure using cutting edge cloud paradigms. Fast forward to present day and the service now holds billions of records from hundreds of serious security incidents worldwide.</p><p>I wanted to demonstrate how much can be done with how little; in fact, the goal has always been to run it at a cost comparable to my daily cappuccinos. HIBP has enabled me to demonstrate how to apply features such as autoscale on Azure App Service and highlight the value proposition of non-traditional services, namely the rapid development, elasticity and commoditised pricing of Azure. Through my work I’ve built a deep knowledge of Azure which has since translated to numerous articles, conference talks and training courses.</p><p>HIBP receives millions of requests an hour and continues to be run on the aforementioned “coffee budget”. It’s been highlighted by the world’s largest media outlets, reaching hundreds of millions of people, whilst regularly being showcased as a “how to” of modern cloud architecture.</p>
+tagline:
+image:
+  alt: "Troy Hunt"
+  src: media/profiles/troy-hunt.jpg
+twitter: https://twitter.com/troyhunt
+facebook: https://facebook.com/troyahunt
+linkedin: https://www.linkedin.com/in/troyhunt
+youtube: https://www.youtube.com/user/troyhuntdotcom
+github: https://github.com/troyhunt
+googleplus: https://plus.google.com/+TroyHunt
+wikipedia: https://en.wikipedia.org/wiki/Troy_Hunt
+location:
+  display: Gold Coast, Queensland, Australia
+  lat: -28.00234
+  long: 153.428634
+  country: Australia

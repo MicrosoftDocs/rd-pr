@@ -1,0 +1,28 @@
+### YamlMime:Profile
+uid: rd.marcel-zehner
+name: Marcel Zehner
+metadata:
+  title: Marcel Zehner - Microsoft Regional Director
+  description: Microsoft Regional Director, Microsoft MVP, and CTO in Bern, Switzerland
+remarks: |
+  ## Bio
+  <p>I am a Microsoft Regional Director, Microsoft MVP, and Corporate Ambassador for itnetX from Bern, Switzerland.</p><p>I am strongly engaging with technical Microsoft communities, especially those with a focus on cloud and datacenter topics. I am speaking at different conferences around the world about Microsoft Azure and more.</p><p>Click the button above to read my blog.</p><p>Talk to me about: Azure, Azure Pack, Azure Stack, OMS, System Center, Operations Manager, Service Manager, Orchestrator, SMA, Powershell, Azure Automation, ITSM, ITIL Processes, IT Process Automation, Monitoring, Log Analytics, Private Cloud, Public Cloud, Hybrid Cloud.</p>
+
+  ## Spotlight
+  <p>Throughout my career I’ve noticed a need for community activities to transport the Microsoft mindset and messages to companies and individuals. I’ve learned a lot about the challenges and fears companies face on their journey to the cloud by working closely with our customers. Building cloud-based solutions is a complex task companies struggle with on their own. As someone who believes in the strength of the Microsoft community, I was motivated to run a European-wide community conference that brings together experts, customers and software vendors for a multi-day event called Experts Live Europe.&nbsp;</p><p>Since 2013, the conference has grown to 500+ attendees from more than 25 countries. I contribute its success, in part, to the strong need for more in-person conferences in Europe. By attending Experts Live Europe, companies and individuals learn first-hand knowledge from top experts in an easily-consumable fashion, discuss common pain points, challenges and solutions and make valuable, long-term connections for the future. With this knowledge, attendees gain an understanding for where the journey is going and are better equipped to make the best IT investments in the future.</p>
+tagline:
+image:
+  alt: "Marcel Zehner"
+  src: media/profiles/marcel-zehner.jpg
+twitter: https://twitter.com/marcelzehner
+facebook: https://facebook.com/MarcelZehnerCH
+instagram: https://instagram.com/marcel.zehner
+linkedin: https://www.linkedin.com/in/marcelzehner
+wordpress: https://marcelzehner.ch
+vimeo: https://vimeo.com/itnetx
+github: https://github.com/marcelzehner
+location:
+  display: Bern, Switzerland
+  lat: 46.948429
+  long: 7.44046
+  country: Switzerland

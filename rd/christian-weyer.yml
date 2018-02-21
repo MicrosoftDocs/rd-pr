@@ -1,0 +1,25 @@
+### YamlMime:Profile
+uid: rd.christian-weyer
+name: Christian Weyer
+metadata:
+  title: Christian Weyer - Microsoft Regional Director
+  description: CEO, Principal Consultant, and Microsoft Regional Director in Neustadt am Main, Germany
+remarks: |
+  ## Bio
+  <p>Hello, I am Christian Weyer from Germany.</p><p>As one of two founders, CEOs and Principal Consultants at my company, Thinktecture AG, I am a passionate technologist who loves to help customers solve their problems and realize their vision for their next-generation software solutions. On any platform.</p><p>In my daily business I am dealing with various - if not all - aspects of cross-platform architecture and technologies. This includes the obvious client side with applications being able to run on any operating system and on any physical device - but also involves the server side of things and any end-to-end aspects to consider when building modern real cross-platform solutions.</p><p>There is hardly anything better than passing on your experience to others - whether to customers in workshops, to developers at user groups or conferences or to kids in Hour of Code sessions.</p><p>I am a professional speaker, educator and mentor since 1996 and have given countless presentations on software architecture, server &amp; client technologies and cross-platform systems.</p><p>The events I speak at span from technical conferences by Microsoft, Google et. al. on to executive-style events in various verticals with a CxO audience.</p><p>For being active in the worldwide software architects &amp; developers community I have been awarded as a Microsoft Most Valuable Professional (MVP) since 2002 and as a Google Developer Expert (GDE) since 2015.</p><p>I am Microsoft Regional Director for Germany since 2003.</p><p>My passion is to build software solutions that can run anywhere.</p><p>Without borders.</p><p>Talk to me about: Cross Platform HTML5, Web Technologies, JavaScript, TypeScript, Single Page Applications (SPA), Angular 2, Cordova, Electron, .NET, C#, Web APIs, Push Services, Lightweight Architectures.</p>
+
+  ## Spotlight
+  <p>Years ago, my team and I observed a significant change in the usage of computing devices and systems in the personal space, which later infected the business landscape. We noticed that people began to care less about their one and only computer and use many different devices across various platforms. This was the original idea of ‘mobile-first’.</p><p>The issue with business software, both then and now, is that it is often written for a limited number of platforms, or even a single platform or operating system. However, the upcoming generations of users and developers will require modern software to run anywhere. This mindset isn’t limited to desktops and mobile devices, but extends to anything run on and with the web.</p><p>One part of a viable approach is to show enterprise organizations and ISVs the pure power of the modern web platform with HTML5/JavaScript/TypeScript and how they can build applications with one codebase for the browser, the desktop, mobile devices and more.</p><p>The second piece involves Cloud-enabled architectures based on Microsoft Azure to have a perfect backend for their next-generation web-based real-cross-platform software. This allows customers to use one architectural approach with one set of technologies to run their software everywhere, leading to happier end-users with increased confidence in the sustainability of those devices.</p>
+tagline:
+image:
+  alt: "Christian Weyer"
+  src: media/profiles/christian-weyer.jpg
+twitter: https://twitter.com/christianweyer
+github: https://github.com/christianweyer
+facebook: https://facebook.com/christianweyer74
+linkedin: https://www.linkedin.com/in/christianweyer
+location:
+  display: Neustadt am Main, Germany
+  lat: 49.933551
+  long: 9.570659
+  country: Germany

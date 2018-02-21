@@ -1,0 +1,23 @@
+### YamlMime:Profile
+uid: rd.keiji-kamebuchi
+name: Keiji Kamebuchi
+metadata:
+  title: Keiji Kamebuchi - Microsoft Regional Director
+  description: Microsoft Regional Director and Microsoft MVP for Azure in Helsinki, 日本
+remarks: |
+  ## Bio
+  <p>Greetings, I’m Keiji. I’m a software engineer living in 日本. I am a fan of programming, web development, and video games.</p><br>pnop Inc. / Senior Fellow / Developer /<p>Microsoft Azure /&nbsp;<br><span style="font-size: 16px; line-height: 1.3;">ASP.NET (MVC/WebAPI) / <br>Office 365 / WPF / Windows Store Apps /<br>ITPro / C# / Japan Azure User Group (JAZUG) /<br>Universal Windows Platform / IoT /<br>Holographics / HoloLens<br><br>Microsoft MVP for Microsoft Azure since 2011<br>Microsoft Regional Director since 2015</span></p>
+tagline:
+image:
+  alt: "Keiji Kamebuchi"
+  src: media/profiles/keiji-kamebuchi.jpg
+twitter: https://twitter.com/kosmosebi
+tumblr: http://buchizo.tumblr.com
+github: https://github.com/buchizo
+wordpress: https://buchizo.wordpress.com
+youtube: https://www.youtube.com/channel/UC3VHyKjqgTGSfRMVS1qET-A
+location:
+  display: Japan
+  lat: 36.653335
+  long: 137.981689
+  country: 日本

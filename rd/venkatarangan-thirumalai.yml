@@ -1,0 +1,25 @@
+### YamlMime:Profile
+uid: rd.venkatarangan-thirumalai
+name: Venkatarangan Thirumalai
+metadata:
+  title: Venkatarangan Thirumalai - Microsoft Regional Director
+  description: Entrepreneur, Microsoft Regional Director, and Inventor in Chennai, India
+remarks: |
+  ## Bio
+  <p>I am a white space leader, technology entrepreneur, living in Chennai. I am the founder &amp; former CEO of Software Services firm by name "Vishwak Solutions" with offices in Chennai &amp; Seattle. I am a former partner of LIFCO Books, a publishing firm founded in 1929.</p><p>I have been a <a href="http://rd.microsoft.com/venkatarangan.thirumalai" target="_blank" rel="noopener noreferrer">Microsoft Regional Director</a> from 1999 and a regular speaker in Microsoft conferences with two decades of Industry experience. I work regularly with CXOs to help them to demystify I.T. I am interested in movies and reading. A fan of photography and travelling. You can follow me on twitter @venkatarangan.</p><p>Talk to me about: Digital Transformation, Startup, Software Development &amp; Microsoft Azure.</p>
+
+  ## Spotlight
+  <p>Years ago when I learned FoxBase in order to develop an inventory management system for my family-owned publishing house in South India. Existing staff were resistant to the change even though the PC could give inventory for all hundreds of titles accurately in near real-time. Something had to be done. I spent time in convincing and training the oldest stakeholder, a septuagenarian, and that was the game-changer.&nbsp;</p><p>Having grasped the impact software can have on businesses, I have continued to design software that helps its users and remains easy to use. Recently I challenged myself to design a mobile app that was so simple users would feel it’s simplicity. Named Simpligic, it’s a NEWS app that has nothing to be configured or selected. The App uses Prediction.IO Machine Learning running in Microsoft Azure to come up with a story that the user will want to read at that instant, nothing more. Simply launch the app, read the story that appears and you’re done. No fuss. In the future, I plan to dictate the requirement for a Business App to Microsoft Cortana, who will automatically design, build and deploy an app to cloud that will be available to all my users within minutes.</p>
+tagline:
+image:
+  alt: "Venkatarangan Thirumalai"
+  src: media/profiles/venkatarangan-thirumalai.jpg
+twitter: https://twitter.com/venkatarangan
+instagram: https://instagram.com/venkatarangan
+linkedin: https://www.linkedin.com/in/venkatarangan
+youtube: https://www.youtube.com/c/VenkataranganThirumalai
+location:
+  display: Chennai, Tamil Nadu, India
+  lat: 13.08358
+  long: 80.282577
+  country: India

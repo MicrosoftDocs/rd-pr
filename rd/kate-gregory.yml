@@ -1,0 +1,22 @@
+### YamlMime:Profile
+uid: rd.kate-gregory
+name: Kate Gregory
+metadata:
+  title: Kate Gregory - Microsoft Regional Director
+  description: Consultant, Microsoft Regional Director, and Small Business Owner in Helsinki, Canada
+remarks: |
+  ## Bio
+  <p>Hi, I’m Kate. I've&nbsp;been using C++ since before Microsoft had a C++ compiler, and been paid to program since 1979.&nbsp;I love C++ (especially with all the changes this century) and believe that software should make our lives easier. That includes making the lives of developers easier! I'll stay up late arguing about deterministic destruction or how modern C++ is not the C++ you remember.</p><p><p>I&nbsp;run a small consulting firm in rural Ontario and provide mentoring and management consultant services, as well as writing code every week.&nbsp;I have&nbsp;spoken all over the world, written over a dozen books, and helped thousands of developers to be better at what they do.&nbsp;I'm a Microsoft Regional Director, a Visual C++ MVP, an Imagine Cup judge and mentor, and an active contributor to StackOverflow and other StackExchange sites.&nbsp;I've founded multiple user groups and love to speak to community organizations.</p><p>I develop courses for Pluralsight, primarily on C++ and Visual Studio. Since its founding in 2014&nbsp;I am the Open Content Chair for CppCon, the largest C++ conference ever held. I love to help teams move to C++ and discover how their strategy can expand when they use today's C++, the most powerful cross-platform language ever. Whether it's architecture, business scope, team dynamics, or even struggles with syntax, my role is to lower the pain and make creating amazing software fun and successful.</p></p>
+tagline:
+image:
+  alt: "Kate Gregory"
+  src: media/profiles/kate-gregory.jpg
+twitter: https://twitter.com/gregcons
+facebook: https://facebook.com/Kate.Gregory.Public
+linkedin: https://ca.linkedin.com/in/kate-gregory-711351
+youtube: https://www.youtube.com/channel/UCmpDSdp7LEA4wHF8v3Pihlw
+location:
+  display: Ontario, Canada
+  lat: 50.068752
+  long: -85.828125
+  country: Canada

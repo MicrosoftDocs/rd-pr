@@ -1,0 +1,24 @@
+### YamlMime:Profile
+uid: rd.joe-homnick
+name: Joe Homnick
+metadata:
+  title: Joe Homnick - Microsoft Regional Director
+  description: Microsoft Regional Director, IT Speaker/Mentor, and Data Scientist in Miami, Florida
+remarks: |
+  ## Bio
+  <p>Joe Homnick is a <a href="http://rd.microsoft.com" target="_blank" rel="noopener noreferrer">Microsoft Regional Director</a> since the start of the program over 20 years ago and is a principal owner of <a href="http://www.homnick.com" target="_blank" rel="noopener noreferrer">Homnick Systems</a> (HSI), a Microsoft Gold Certified Partner located in Boca Raton, Florida. HSI is one of the most established Microsoft Certified Partners in the world, dating back to the beginning of the program in 1993.</p><p>HSI delivers Microsoft services in the areas of system development and implementation through the practices of software consulting, development, training and mentoring. They hold Competencies in Cloud Technologies, Data Analytics, Business Intelligence, Software Development, Application Lifecycle Management and Portals and Collaboration.</p><p>He enjoys speaking and can be found presenting at conferences like Microsoft Tech Ed, the Microsoft Professional Developers Conference (PDC), all Microsoft DevDays events and the SQL PASS Summit.</p><p>Joe founded the Gold Coast Users Group <a href="http://GCUsersGroup.org" target="_blank" rel="noopener noreferrer">http://GCUsersGroup.org</a> which serves the South Florida area delivering Microsoft SQL Server, O/S and Developer knowledge to the community for 20 years.</p><p>His previous professional experience includes being an adjunct professor at Florida Atlantic University and a Computer Audit Specialist for KPMG.</p><p>Check out his blog at <a href="http://JoeBlog.Homnick.com" target="_blank" rel="noopener noreferrer">http://JoeBlog.Homnick.com</a> and network with him on FaceBook, Twitter and LinkedIn.</p><p>Talk to me about: Data analytics, Big Data, IaaS (Infrastructure as a Service), PaaS (Platform as a Service), SaaS (Software as a Service)</p>
+
+  ## Spotlight
+  <p>I have always gravitated to the concept of “Making Data Intelligent” during my over 30 years in the IT industry and over 20 as a Regional Director. My background as a CPA has helped immensely as my company has concentrated in delivering Business Intelligence (BI) integration into Enterprise Apps.</p><p>With the release of Cortana Analytics, we have seen huge benefits leveraging offerings like Machine Learning and Power BI into the Application Lifecycle. We used Azure Machine Learning to create a monthly Churn Analysis so that sales people could highlight the customers most likely to leave and helped target emails be more predictive in their implementation. Dashboards, made up of Key Performance Indicators and other visual BI data, are the central means for delivering BI to support decision makers. Power BI has allowed us to integrate Intelligent dashboards into nearly every app in the enterprise.</p><p>Data Scientist is one of today’s hottest jobs and is rapidly growing in response to the exponential amounts of data being captured and analyzed. I am happy to be part of the first wave of people certified as a Data Scientist - Microsoft Professional Program.&nbsp;</p>
+tagline:
+image:
+  alt: "Joe Homnick"
+  src: media/profiles/joe-homnick.jpg
+linkedin: http://www.linkedin.com/in/joehomnick
+twitter: https://twitter.com/smokingjoe
+facebook: https://facebook.com/joe.homnick
+location:
+  display: Miami, FL, United States
+  lat: 25.77481
+  long: -80.197731
+  country: United States
