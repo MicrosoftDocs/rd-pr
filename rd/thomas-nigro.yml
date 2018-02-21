@@ -7,19 +7,31 @@ metadata:
 remarks: |
   ## Bio
   ENGLISH
-
-  I am an open source developer, Microsoft Regional Director and Opuscope co-founder.
-
-  At 16 years old, I became Microsoft Student Partner Lead and was awarded as Developer Hero by Microsoft France. Then I studied at Paris Descartes university and decided to join the VideoLAN organization, where I led the VLC on Windows Store project, with more than 22 millions downloads to date. In 2016 I co-founded Opuscope, a startup creating new tools to empower people and organizations in creating their own experiences in mixed reality.
-
+  
+  I am an open source developer, Microsoft Regional Director and Opuscope co-
+  founder.
+  
+  At 16 years old, I became Microsoft Student Partner Lead and was awarded as
+  Developer Hero by Microsoft France. Then I studied at Paris Descartes
+  university and decided to join the VideoLAN organization, where I led the VLC
+  on Windows Store project, with more than 22 millions downloads to date. In
+  2016 I co-founded Opuscope, a startup creating new tools to empower people and
+  organizations in creating their own experiences in mixed reality.
+  
   FRANÇAIS
-
-  Je suis un développeur open-source, Microsoft Regional Director et cofondateur d'Opuscope.
-
-  À 16 ans, j'ai été awardé Microsoft Student Partner et récompensé comme Developer Hero par Microsoft France. Étudiant à l'IUT Paris Descartes, j'ai contribué au projet VideoLAN pour devenir le maintainer principal du projet VLC pour Windows Store, avec plus de 22 millions de téléchargements. En 2016, j'ai co-fondé Opuscope, une startup développant un logiciel qui permettra de créer soi-même des expériences 3D.
-
+  
+  Je suis un développeur open-source, Microsoft Regional Director et cofondateur
+  d'Opuscope.
+  
+  À 16 ans, j'ai été awardé Microsoft Student Partner et récompensé comme
+  Developer Hero par Microsoft France. Étudiant à l'IUT Paris Descartes, j'ai
+  contribué au projet VideoLAN pour devenir le maintainer principal du projet
+  VLC pour Windows Store, avec plus de 22 millions de téléchargements. En 2016,
+  j'ai co-fondé Opuscope, une startup développant un logiciel qui permettra de
+  créer soi-même des expériences 3D.
+  
   Talk to me about #ImmersiveComputing #mixedreality #UWP #SaaS #dotnet
-tagline:
+tagline: Entrepreneurship / Innovation
 image:
   alt: "Thomas Nigro"
   src: media/profiles/thomas-nigro.jpg

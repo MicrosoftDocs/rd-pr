@@ -6,20 +6,41 @@ metadata:
   description: CTO, Small Business Owner, and Microsoft Regional Director in Charlotte, North Carolina
 remarks: |
   ## Bio
-  I’m co-founder and CTO of Logical Advantage in Charlotte, North Carolina. We are dedicated to helping companies build better IoT and software solutions faster.
-
-  I love my job! We work with some of the most incredible software architects, software developers, business analysts and PMs in the region who place a high importance on community and learning. I get to focus on emerging technologies and help to ensure that our projects are architected to meet the client's current and future needs.
-
-  Awarded by Microsoft as a Regional Director that consists of some of the world's top technology visionaries from over 50 countries chosen specifically for cross-platform expertise, community leadership, and commitment to business results. I'm president and founder of the Charlotte Internet of Things (IoT) and the Logical Advantage Charlotte Tech Talks user groups. I'm on the steering committee of the Regional Internet of Things and the Enterprise Developers Guild. I was awarded Microsoft Most Valuable Professional MVP for my engagement in the community around IoT/cloud. I'm an accomplished open source contributor and my articles and videos have over a million views.
-
-  Before Logical Advantage, I served as application development director for the largest Microsoft Business Solutions Partner in the Carolinas. During this time, my team won two global Microsoft Pinnacle awards.
-
-  I attended North Carolina State University on a full scholarship program with General Motors, and graduated summa cum laude with dual degrees in Electrical Engineering and Computer Engineering.
-
-  I am a fan of IoT, cloud services, and practically any technology- basically a total geek. I love spending time with my family and I’m also interested in DIY, hiking and being outdoors.
-
-  Talk to me about: IoT, Industrial IoT (IIoT), Cloud computing, Azure IoT Hub and enterprise software development!
-tagline:
+  I’m co-founder and CTO of Logical Advantage in Charlotte, North Carolina. We
+  are dedicated to helping companies build better IoT and software solutions
+  faster.
+  
+  I love my job! We work with some of the most incredible software architects,
+  software developers, business analysts and PMs in the region who place a high
+  importance on community and learning. I get to focus on emerging technologies
+  and help to ensure that our projects are architected to meet the client's
+  current and future needs.
+  
+  Awarded by Microsoft as a Regional Director that consists of some of the
+  world's top technology visionaries from over 50 countries chosen specifically
+  for cross-platform expertise, community leadership, and commitment to business
+  results. I'm president and founder of the Charlotte Internet of Things (IoT)
+  and the Logical Advantage Charlotte Tech Talks user groups. I'm on the
+  steering committee of the Regional Internet of Things and the Enterprise
+  Developers Guild. I was awarded Microsoft Most Valuable Professional MVP for
+  my engagement in the community around IoT/cloud. I'm an accomplished open
+  source contributor and my articles and videos have over a million views.
+  
+  Before Logical Advantage, I served as application development director for the
+  largest Microsoft Business Solutions Partner in the Carolinas. During this
+  time, my team won two global Microsoft Pinnacle awards.
+  
+  I attended North Carolina State University on a full scholarship program with
+  General Motors, and graduated summa cum laude with dual degrees in Electrical
+  Engineering and Computer Engineering.
+  
+  I am a fan of IoT, cloud services, and practically any technology- basically a
+  total geek. I love spending time with my family and I’m also interested in
+  DIY, hiking and being outdoors.
+  
+  Talk to me about: IoT, Industrial IoT (IIoT), Cloud computing, Azure IoT Hub
+  and enterprise software development!
+tagline: Azure / cloud
 image:
   alt: "Dan Thyer"
   src: media/profiles/dan-thyer.jpg

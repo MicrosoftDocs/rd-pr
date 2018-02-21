@@ -6,27 +6,55 @@ metadata:
   description: Architect, Software Engineer, and Microsoft Regional Director in Brussels, Belgium
 remarks: |
   ## Bio
-  I work as a trainer and coach at U2U, a Belgium based training company. I love learning about new software technologies and have been doing that since I got my Master of Computer Science from Brussels University (VUB) in 1989.
-
-  That newly acquired knowledge is then used to build development courses with a practical and hands-on approach so trainees hit the ground running.
-
-  I have been delivering .NET, iOS and web development training all over Europe and the Middle-East where I am always excited to meet new people.
-
-  In addition to my role as a trainer I have been involved as a software architect in many web and mobile development projects.
-
-  I am a professional speaker and have delivered sessions at Microsoft TechEd, DevDays, Techorama, ...
-
-  Also a Microsoft Regional Director since 2003, and co-founded the Belgian Visual Studio User group (VISUG) in 2006.
-
+  I work as a trainer and coach at U2U, a Belgium based training company. I love
+  learning about new software technologies and have been doing that since I got
+  my Master of Computer Science from Brussels University (VUB) in 1989.
+  
+  That newly acquired knowledge is then used to build development courses with a
+  practical and hands-on approach so trainees hit the ground running.
+  
+  I have been delivering .NET, iOS and web development training all over Europe
+  and the Middle-East where I am always excited to meet new people.
+  
+  In addition to my role as a trainer I have been involved as a software
+  architect in many web and mobile development projects.
+  
+  I am a professional speaker and have delivered sessions at Microsoft TechEd,
+  DevDays, Techorama, ...
+  
+  Also a Microsoft Regional Director since 2003, and co-founded the Belgian
+  Visual Studio User group (VISUG) in 2006.
+  
   Why not click the button above to visit my company website.
-
-  Talk to me about: C#, VB.NET, .NET development (WPF, WCF, WF, Entity Framework), .NET Core, ASP.NET MVC, ASP.NET Core, Visual Studio Team Services, Design Patterns, Testing, Swift, iOS development, BizTalk, HTML5, JavaScript, KnockOutJS
+  
+  Talk to me about: C#, VB.NET, .NET development (WPF, WCF, WF, Entity
+  Framework), .NET Core, ASP.NET MVC, ASP.NET Core, Visual Studio Team Services,
+  Design Patterns, Testing, Swift, iOS development, BizTalk, HTML5, JavaScript,
+  KnockOutJS
 
   ## Spotlight
-  As a Microsoft Regional Director, trainer and coach it is my responsibility to help companies get the most out of Microsoft technologies. The training curriculum at my company uses machines which have been provisioned to make the training experience as smooth as possible, but getting them to this point was quite time-consuming. Unfortunately, existing cloud offerings didn’t provide a solution for speeding up the provisioning of virtual machines. So, I decided to build it myself using Azure Active Directory, Azure Virtual Machines and the Azure Resource Manager. In a few days I built a system that can provision a machine image and then rapidly clone instances for students and trainers. The solution has saved us time and money and allows students to use their virtual machines outside of the classroom. 
-
-  In the future, I believe we will see virtualization integrate with local computing, where the operating system will run simple jobs on local hardware, and hard jobs on faster virtualized hardware in the cloud. Imagine your cell phone as your primary workstation. You can take it on the road with you and dock it for the convenience of a big screen, mouse and keyboard. Now imagine this integrated with virtualized machines running in the cloud. When connected to the cloud, the OS can offload heavy tasks to the cloud, seamlessly integrating.&nbsp;Laptops will become hulls to host keyboard, mouse and screen, and extend battery life.
-tagline:
+  As a Microsoft Regional Director, trainer and coach it is my responsibility to
+  help companies get the most out of Microsoft technologies. The training
+  curriculum at my company uses machines which have been provisioned to make the
+  training experience as smooth as possible, but getting them to this point was
+  quite time-consuming. Unfortunately, existing cloud offerings didn’t provide a
+  solution for speeding up the provisioning of virtual machines. So, I decided
+  to build it myself using Azure Active Directory, Azure Virtual Machines and
+  the Azure Resource Manager. In a few days I built a system that can provision
+  a machine image and then rapidly clone instances for students and trainers.
+  The solution has saved us time and money and allows students to use their
+  virtual machines outside of the classroom.
+  
+  In the future, I believe we will see virtualization integrate with local
+  computing, where the operating system will run simple jobs on local hardware,
+  and hard jobs on faster virtualized hardware in the cloud. Imagine your cell
+  phone as your primary workstation. You can take it on the road with you and
+  dock it for the convenience of a big screen, mouse and keyboard. Now imagine
+  this integrated with virtualized machines running in the cloud. When connected
+  to the cloud, the OS can offload heavy tasks to the cloud, seamlessly
+  integrating. Laptops will become hulls to host keyboard, mouse and screen, and
+  extend battery life.
+tagline: Programming / Technology
 image:
   alt: "Peter Himschoot"
   src: media/profiles/peter-himschoot.jpg

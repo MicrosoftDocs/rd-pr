@@ -6,10 +6,17 @@ metadata:
   description: Microsoft Regional Director, Enterprise Architect, and Public Speaker in São Paulo, Brazil
 remarks: |
   ## Bio
-  Enterprise IT operates far differently today than it did a decade or even just five years ago. The modern app era is redefining the way that enterprise IT teams build, run, manage, and secure their applications. To stay competitive, businesses must be innovating all the time. Their customers expect personalized apps that anticipate their needs.
-
-  As a Regional Director, I’m focusing efforts on using technology to provide better products and services to our customers or partners. My goal is to project and assess technologies' impact on the corporation and its customers. I’m also connected to the technical and academic communities.
-tagline:
+  Enterprise IT operates far differently today than it did a decade or even just
+  five years ago. The modern app era is redefining the way that enterprise IT
+  teams build, run, manage, and secure their applications. To stay competitive,
+  businesses must be innovating all the time. Their customers expect
+  personalized apps that anticipate their needs.
+  
+  As a Regional Director, I’m focusing efforts on using technology to provide
+  better products and services to our customers or partners. My goal is to
+  project and assess technologies' impact on the corporation and its customers.
+  I’m also connected to the technical and academic communities.
+tagline: Education / Movies
 image:
   alt: "Carlos Mattos"
   src: media/profiles/carlos-mattos.jpg

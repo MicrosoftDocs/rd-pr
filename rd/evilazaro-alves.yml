@@ -6,8 +6,11 @@ metadata:
   description: Chief Business Development Officer and Microsoft Regional Director in São Paulo, Brasil
 remarks: |
   ## Bio
-  Hello, I’m Evilázaro. I’m a Chief Business Development Officer at BR Soluções Integradas and Microsoft Regional Director living in São Paulo, Brasil. I am a fan of technology, music, and entrepreneurship. I’m also interested in travel and movies. You can read my blog with a click on the button above.
-tagline:
+  Hello, I’m Evilázaro. I’m a Chief Business Development Officer at BR Soluções
+  Integradas and Microsoft Regional Director living in São Paulo, Brasil. I am a
+  fan of technology, music, and entrepreneurship. I’m also interested in travel
+  and movies. You can read my blog with a click on the button above.
+tagline: Entrepreneurship / Movies
 image:
   alt: "Evilázaro Alves"
   src: media/profiles/evilazaro-alves.jpg

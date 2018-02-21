@@ -6,24 +6,34 @@ metadata:
   description: Public Speaker, Microsoft Regional Director, and Consultant in Avignon, France
 remarks: |
   ## Bio
-  Hey, I’m Jean Francois. I'm a senior consultant with 30 years of IT experience.
-
-  I'm now in charge of the delevery team at PROJETLYS as a "Directeur des Operations" (CTO) pour the Southern Region.
-
-  For years, I've managed Dev and Ops team, working on lot of technologies and cross platfoms, so today my main focus is DevOps :-) :-).
-
-  I'm Microsoft Regional Director since 2017 and MVP on "System Center Cloud and Datacenter Management" since October, 2008.
-
-  Expert on Microsoft Technologies around System Center, Azure, docker and O365, I'm used to be a speaker for Microsoft and community events like : Technet Event, Technet tour, Techdays, MS Experience, MSCloud Summit, ... every years since 2009
-
-  I'am also co fonder of the french speaking community : CMD http://cmd.community
-
-  Skills : Microsoft Azure, System Center, DevOps, Docker, Active Directory, ITIL,
-
-  I am a fan of rugby, (coach and player), also interested in cooking : recipes of south of France, and impassioned by Chocolate.
-
+  Hey, I’m Jean Francois. I'm a senior consultant with 30 years of IT
+  experience.
+  
+  I'm now in charge of the delevery team at PROJETLYS as a "Directeur des
+  Operations" (CTO) pour the Southern Region.
+  
+  For years, I've managed Dev and Ops team, working on lot of technologies and
+  cross platfoms, so today my main focus is DevOps :-) :-).
+  
+  I'm Microsoft Regional Director since 2017 and MVP on "System Center Cloud and
+  Datacenter Management" since October, 2008.
+  
+  Expert on Microsoft Technologies around System Center, Azure, docker and O365,
+  I'm used to be a speaker for Microsoft and community events like : Technet
+  Event, Technet tour, Techdays, MS Experience, MSCloud Summit, ... every years
+  since 2009
+  
+  I'am also co fonder of the french speaking community : CMD
+  http://cmd.community
+  
+  Skills : Microsoft Azure, System Center, DevOps, Docker, Active Directory,
+  ITIL,
+  
+  I am a fan of rugby, (coach and player), also interested in cooking : recipes
+  of south of France, and impassioned by Chocolate.
+  
   You can visit my website with a click on the button above.
-tagline:
+tagline: Cooking / Innovation
 image:
   alt: "Jean Francois BERENGUER"
   src: media/profiles/jeanfrancois-berenguer.jpg

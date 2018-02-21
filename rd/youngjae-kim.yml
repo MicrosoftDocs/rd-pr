@@ -7,11 +7,13 @@ metadata:
 remarks: |
   ## Bio
   I’m Youngjae, a Microsoft Regional Director living in Seoul.
-
-  I love to programming on top of Azure platform and Android. I'm working for tech lead in Bapul, a startup in K-12 education.
-
-  As a 3-year highschool mathematics teacher and ICT researcher, my objective is to bring new insight to education with technology.
-tagline:
+  
+  I love to programming on top of Azure platform and Android. I'm working for
+  tech lead in Bapul, a startup in K-12 education.
+  
+  As a 3-year highschool mathematics teacher and ICT researcher, my objective is
+  to bring new insight to education with technology.
+tagline: Design / Education
 image:
   alt: "Youngjae KIM"
   src: media/profiles/youngjae-kim.jpg

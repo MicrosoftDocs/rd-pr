@@ -6,10 +6,14 @@ metadata:
   description: Public Speaker, Father, and Consultant in Coquitlam, Canada
 remarks: |
   ## Bio
-  I am a public speaker, father, and consultant currently living in Coquitlam, British Columbia, Canada. My interests range from technology to entrepreneurship. I am also interested in programming, volunteering, and web development.
-
-  You can click the button above to support my charity. If you’d like to get in touch, feel free to say hello through any of the social links below.
-tagline:
+  I am a public speaker, father, and consultant currently living in Coquitlam,
+  British Columbia, Canada. My interests range from technology to
+  entrepreneurship. I am also interested in programming, volunteering, and web
+  development.
+  
+  You can click the button above to support my charity. If you’d like to get in
+  touch, feel free to say hello through any of the social links below.
+tagline: Entrepreneurship / Programming
 image:
   alt: "Richard Campbell"
   src: media/profiles/richard-campbell.jpg

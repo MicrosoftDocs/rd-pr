@@ -7,15 +7,20 @@ metadata:
 remarks: |
   ## Bio
   Microsoft Regional Director, Founder C# Corner, CEO Mindcracker Inc.
-
-  At Mindcracker Inc., I help technical teams to build better software solutions by providing advice on architecture, design, usability, innovation, and team mentoring.
-
-  My expertise and interests include C#/.NET, UWP, Mixed-Reality, AI/ML, Cloud, Startups, and Innovation.
-
-  As a founder of C# Corner, I enjoy working on new features and ideas to help developers write better code and become better human being.
-
-  I love Philosophy, Cognitive Studies, Community, Public Speaking, Writing, Basketball, and Philadelphia Eagles.
-tagline:
+  
+  At Mindcracker Inc., I help technical teams to build better software solutions
+  by providing advice on architecture, design, usability, innovation, and team
+  mentoring.
+  
+  My expertise and interests include C#/.NET, UWP, Mixed-Reality, AI/ML, Cloud,
+  Startups, and Innovation.
+  
+  As a founder of C# Corner, I enjoy working on new features and ideas to help
+  developers write better code and become better human being.
+  
+  I love Philosophy, Cognitive Studies, Community, Public Speaking, Writing,
+  Basketball, and Philadelphia Eagles.
+tagline: Basketball / Entrepreneurship
 image:
   alt: "Mahesh Chand"
   src: media/profiles/mahesh-chand.jpg

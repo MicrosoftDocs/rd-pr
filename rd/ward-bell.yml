@@ -6,42 +6,62 @@ metadata:
   description: President/Co-Founder IdeaBlade, Public Speaker, and Microsoft Regional Director in San Francisco, California
 remarks: |
   ## Bio
-  I’ve advanced business objectives with software solutions for more than forty years. The technologies change but the fundamentals don’t: understand your pain points and what you want to achieve, find a fast, affordable, reliable path from where you are to where you want to be, apply the appropriate technologies, and iterate rapidly so that you experience continuous progress.
-
-  I lead a company of great people, with decades of real-world experience, who specialize today in end-to-end development of data-driven, web applications.
-
-  No one owns the web. To live on the web is to embrace open source technologies from multiple vendors. We have a long Microsoft pedigree and confidently recommend Microsoft platforms. We also recommend technologies from Google, Amazon, Facebook, and myriad smaller players, integrating across the stacks where that makes sense … as it often does.
-
-  I spend half of my time on client projects, working on design and writing code. The other half I devote to learning and teaching.
-
-  The cross-platform, open source world is tumultuous. My job and my pleasure is to sift among the extraordinary claims, separating reality from hype, looking for gems and trends that matter, experimenting, and talking to the people who know what they’re doing. You’ll find me speaking at major conferences, hosting a podcast, talking to customers, writing articles, creating videos and teaching classes.
-
-  I don’t work for Microsoft. Being a “Microsoft Regional Director” means that I share insights and learn from some of the brightest, most experienced and respected people in our industry. I’m also a Microsoft MVP and a Google GDE, two programs for nuts-and-bolts engineers who write code for a living.
-
-  Contact me if you think a modern web application, running on mobile or desktop devices, might be in your future. My team has helped many organizations of all sizes make a successful transition to the web.
-
+  I’ve advanced business objectives with software solutions for more than forty
+  years. The technologies change but the fundamentals don’t: understand your
+  pain points and what you want to achieve, find a fast, affordable, reliable
+  path from where you are to where you want to be, apply the appropriate
+  technologies, and iterate rapidly so that you experience continuous progress.
+  
+  I lead a company of great people, with decades of real-world experience, who
+  specialize today in end-to-end development of data-driven, web applications.
+  
+  No one owns the web. To live on the web is to embrace open source technologies
+  from multiple vendors. We have a long Microsoft pedigree and confidently
+  recommend Microsoft platforms. We also recommend technologies from Google,
+  Amazon, Facebook, and myriad smaller players, integrating across the stacks
+  where that makes sense … as it often does.
+  
+  I spend half of my time on client projects, working on design and writing
+  code. The other half I devote to learning and teaching.
+  
+  The cross-platform, open source world is tumultuous. My job and my pleasure is
+  to sift among the extraordinary claims, separating reality from hype, looking
+  for gems and trends that matter, experimenting, and talking to the people who
+  know what they’re doing. You’ll find me speaking at major conferences, hosting
+  a podcast, talking to customers, writing articles, creating videos and
+  teaching classes.
+  
+  I don’t work for Microsoft. Being a “Microsoft Regional Director” means that I
+  share insights and learn from some of the brightest, most experienced and
+  respected people in our industry. I’m also a Microsoft MVP and a Google GDE,
+  two programs for nuts-and-bolts engineers who write code for a living.
+  
+  Contact me if you think a modern web application, running on mobile or desktop
+  devices, might be in your future. My team has helped many organizations of all
+  sizes make a successful transition to the web.
+  
   Talk to me about:
-
-  - angular / react
-
-  - ASP.NET / .NET Framework
-
-  - BreezeJS / redux / application data management
-
-  - JavaScript / TypeScript
-
-  - node.js on client and web
-
-  - mobile
-
-  - open source
-
-  - SQL Server / Cosmos / relational and non-relational databases
-
-  - user experience
-
-  - Visual Studio
-tagline:
+  
+  \- angular / react
+  
+  \- ASP.NET / .NET Framework
+  
+  \- BreezeJS / redux / application data management
+  
+  \- JavaScript / TypeScript
+  
+  \- node.js on client and web
+  
+  \- mobile
+  
+  \- open source
+  
+  \- SQL Server / Cosmos / relational and non-relational databases
+  
+  \- user experience
+  
+  \- Visual Studio
+tagline: Arts / Coffee
 image:
   alt: "Ward Bell"
   src: media/profiles/ward-bell.jpg

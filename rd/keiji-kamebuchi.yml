@@ -6,26 +6,22 @@ metadata:
   description: Microsoft Regional Director and Microsoft MVP for Azure in Helsinki, 日本
 remarks: |
   ## Bio
-  Greetings, I’m Keiji. I’m a software engineer living in 日本. I am a fan of programming, web development, and video games.
-
-  pnop Inc. / Senior Fellow / Developer /Microsoft Azure /&nbsp;
-
-  ASP.NET (MVC/WebAPI) / 
-
-  Office 365 / WPF / Windows Store Apps /
-
-  ITPro / C# / Japan Azure User Group (JAZUG) /
-
-  Universal Windows Platform / IoT /
-
-  Holographics / HoloLens
-
+  Greetings, I’m Keiji. I’m a software engineer living in 日本. I am a fan of
+  programming, web development, and video games.
   
-
-  Microsoft MVP for Microsoft Azure since 2011
-
+    
+  pnop Inc. / Senior Fellow / Developer /
+  
+  Microsoft Azure /  
+  ASP.NET (MVC/WebAPI) /  
+  Office 365 / WPF / Windows Store Apps /  
+  ITPro / C# / Japan Azure User Group (JAZUG) /  
+  Universal Windows Platform / IoT /  
+  Holographics / HoloLens  
+    
+  Microsoft MVP for Microsoft Azure since 2011  
   Microsoft Regional Director since 2015
-tagline:
+tagline: Programming / Video Games
 image:
   alt: "Keiji Kamebuchi"
   src: media/profiles/keiji-kamebuchi.jpg

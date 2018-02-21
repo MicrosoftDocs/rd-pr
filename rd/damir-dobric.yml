@@ -6,12 +6,20 @@ metadata:
   description: CEO and Microsoft Regional Director in Frankfurt, Germany
 remarks: |
   ## Bio
-  CEO and lead architect of DAENET Corporation, which is Microsoft long term Gold Certified Partner and leading technology integrator specialized in software technologies with strong focus on Cloud Computing, IoT, Machine Learning and HoloLens.
-
-  I'm Microsoft Regional Director and Azure MVP working with Microsoft on helping customers to adopt modern technologies. Have over 30 years of experience as a software developer, architect, speaker and author. My focus is practical implementation of custom solutions, which enable digital transformation.
-
-  I also work as docent for software engineering and distributed systems on University of Applied sciences in Frankfurt am Main.
-tagline:
+  CEO and lead architect of DAENET Corporation, which is Microsoft long term
+  Gold Certified Partner and leading technology integrator specialized in
+  software technologies with strong focus on Cloud Computing, IoT, Machine
+  Learning and HoloLens.
+  
+  I'm Microsoft Regional Director and Azure MVP working with Microsoft on
+  helping customers to adopt modern technologies. Have over 30 years of
+  experience as a software developer, architect, speaker and author. My focus is
+  practical implementation of custom solutions, which enable digital
+  transformation.
+  
+  I also work as docent for software engineering and distributed systems on
+  University of Applied sciences in Frankfurt am Main.
+tagline: Innovation / Programming
 image:
   alt: "Damir Dobric"
   src: media/profiles/damir-dobric.jpg

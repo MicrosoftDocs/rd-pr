@@ -6,25 +6,62 @@ metadata:
   description: Cloud / Security Architect and Microsoft Regional Director in San Diego
 remarks: |
   ## Bio
-  I am originally from Toronto, Canada - but have lived in San Diego since 1992 where I took my first programming job. Since then I have been fortunate to experience many opportunities in technology as a programmer, manager, executive, consultant, teacher, writer, book author, public speaker and entrepreneur. Turns out there are a vast number of opportunities in the technology space - and somehow I did not get the memo that you don't have to do them all!
-
-  I have dabbled in many areas of technology but my deep expertise lies in designing and implementing scalable cloud solutions, microservices (docker and service fabric), identity and access management, security and compliance, and C-Suite mentoring. I put things in the cloud before it was called the cloud and now spend time helping customers reach success in all things technology. I also have a passion for helping new businesses get off the ground as what I call a "Startup Architect".
-
-  My company is Solliance - a unique consulting firm that assembles the "dream team" of hand-picked deep technical experts balanced with a trusted implementation team to help customers solve problems, scale their operations and deliver value. We are based in San Diego but our partners are worldwide.
-
-  While Solliance keeps me very busy, I still spend quite a bit of time speaking internationally, delivering workshops and writing technical content. A big part of my involvement in the technical community also includes my role as a Microsoft Regional Director since 2003. I have also been awarded Azure MVP and Azure Elite status.
-
-  To say that I keep busy is a gross understatement, but my husband and son help me keep it real, and balanced.
-
-  Talk to me about: Cloud Computing, Microservices, Azure, Amazon Web Services, Service Fabric, Docker, Security, Compliance
+  I am originally from Toronto, Canada - but have lived in San Diego since 1992
+  where I took my first programming job. Since then I have been fortunate to
+  experience many opportunities in technology as a programmer, manager,
+  executive, consultant, teacher, writer, book author, public speaker and
+  entrepreneur. Turns out there are a vast number of opportunities in the
+  technology space - and somehow I did not get the memo that you don't have to
+  do them all!
+  
+  I have dabbled in many areas of technology but my deep expertise lies in
+  designing and implementing scalable cloud solutions, microservices (docker and
+  service fabric), identity and access management, security and compliance, and
+  C-Suite mentoring. I put things in the cloud before it was called the cloud
+  and now spend time helping customers reach success in all things technology. I
+  also have a passion for helping new businesses get off the ground as what I
+  call a "Startup Architect".
+  
+  My company is Solliance - a unique consulting firm that assembles the "dream
+  team" of hand-picked deep technical experts balanced with a trusted
+  implementation team to help customers solve problems, scale their operations
+  and deliver value. We are based in San Diego but our partners are worldwide.
+  
+  While Solliance keeps me very busy, I still spend quite a bit of time speaking
+  internationally, delivering workshops and writing technical content. A big
+  part of my involvement in the technical community also includes my role as a
+  Microsoft Regional Director since 2003. I have also been awarded Azure MVP and
+  Azure Elite status.
+  
+  To say that I keep busy is a gross understatement, but my husband and son help
+  me keep it real, and balanced.
+  
+  Talk to me about: Cloud Computing, Microservices, Azure, Amazon Web Services,
+  Service Fabric, Docker, Security, Compliance
 
   ## Spotlight
-  My company, Solliance, and I noticed a growing interest from our customers needing to release new features more quickly with less overhead and risk. Many began turning to microservices principles and related platforms to solve this problem. As a business we spent time evaluating the ability of microservices to positively impact business agility and scale with less potential risk. Through interactions with the Azure team we also validated this with respect to Azure customer experiences.&nbsp;
-
-  Since then, Solliance has launched a microservices practice that proudly includes services from several other Regional Directors. Together we’ve successfully implemented projects for several companies in the travel, retail, medical and technology industries - including solutions on Azure Container Service with Apache Mesos/DCOS, Azure Service Fabric, Docker Data Center and Amazon EC2 Container Service. Additionally, I’m running global workshops to share invaluable platform comparisons and get the community up to speed through our microservices experiences.
-
-  Early customer feedback combined with my access to Microsoft engineering through the Regional Director Program is particularly valuable in our ability to swiftly guide customers to success on Azure, and to continue refining platform tooling to support evolving customer needs.
-tagline:
+  My company, Solliance, and I noticed a growing interest from our customers
+  needing to release new features more quickly with less overhead and risk. Many
+  began turning to microservices principles and related platforms to solve this
+  problem. As a business we spent time evaluating the ability of microservices
+  to positively impact business agility and scale with less potential risk.
+  Through interactions with the Azure team we also validated this with respect
+  to Azure customer experiences.
+  
+  Since then, Solliance has launched a microservices practice that proudly
+  includes services from several other Regional Directors. Together we’ve
+  successfully implemented projects for several companies in the travel, retail,
+  medical and technology industries - including solutions on Azure Container
+  Service with Apache Mesos/DCOS, Azure Service Fabric, Docker Data Center and
+  Amazon EC2 Container Service. Additionally, I’m running global workshops to
+  share invaluable platform comparisons and get the community up to speed
+  through our microservices experiences.
+  
+  Early customer feedback combined with my access to Microsoft engineering
+  through the Regional Director Program is particularly valuable in our ability
+  to swiftly guide customers to success on Azure, and to continue refining
+  platform tooling to support evolving customer needs.
+tagline: Entrepreneurship / Fitness
 image:
   alt: "Michele Leroux Bustamante"
   src: media/profiles/michele-lerouxbustamante.jpg

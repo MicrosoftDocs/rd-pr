@@ -6,18 +6,26 @@ metadata:
   description: Microsoft Regional Director and Manager in Lyon, France
 remarks: |
   ## Bio
-  Hi, I’m Vincent. I’m a Microsoft Regional Director working for VISEO and living in Lyon, France.
-
-  I am a fan of technology, Cloud, Agility and innovation. I’m also interested in hiking/travelling, DIY, NPL and Montessori ! You can read my blog with a click on the button above.
-
-  As a living, I am helping companies transforming their businesses by using the Cloud from Executive level, down to the architecture/code.
-
-  I am expert on Azure (awarded MVP Azure), on DevOps and Agility. As such, I write articles, and often get invited to many conferences to share my insights and expertise, in France or abroad (UK, Switzerland).
-
-  I am the co-founder of the Azure User Group France (AZUG FR), and locally, I am on the board of the Microsoft User Group Lyon (MUG Lyon).
-
-  Don't ask me questions about these topics unless you have many hours in front of you !
-tagline:
+  Hi, I’m Vincent. I’m a Microsoft Regional Director working for VISEO and
+  living in Lyon, France.
+  
+  I am a fan of technology, Cloud, Agility and innovation. I’m also interested
+  in hiking/travelling, DIY, NPL and Montessori ! You can read my blog with a
+  click on the button above.
+  
+  As a living, I am helping companies transforming their businesses by using the
+  Cloud from Executive level, down to the architecture/code.
+  
+  I am expert on Azure (awarded MVP Azure), on DevOps and Agility. As such, I
+  write articles, and often get invited to many conferences to share my insights
+  and expertise, in France or abroad (UK, Switzerland).
+  
+  I am the co-founder of the Azure User Group France (AZUG FR), and locally, I
+  am on the board of the Microsoft User Group Lyon (MUG Lyon).
+  
+  Don't ask me questions about these topics unless you have many hours in front
+  of you !
+tagline: Agility / Cloud
 image:
   alt: "Vincent Thavonekham"
   src: media/profiles/vincent-thavonekham.jpg

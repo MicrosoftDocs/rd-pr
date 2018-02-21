@@ -6,17 +6,40 @@ metadata:
   description: Entrepreneur, Microsoft Regional Director, and Inventor in Chennai, India
 remarks: |
   ## Bio
-  I am a white space leader, technology entrepreneur, living in Chennai. I am the founder &amp; former CEO of Software Services firm by name "Vishwak Solutions" with offices in Chennai &amp; Seattle. I am a former partner of LIFCO Books, a publishing firm founded in 1929.
-
-  I have been a [Microsoft Regional Director](http://rd.microsoft.com/venkatarangan.thirumalai) from 1999 and a regular speaker in Microsoft conferences with two decades of Industry experience. I work regularly with CXOs to help them to demystify I.T. I am interested in movies and reading. A fan of photography and travelling. You can follow me on twitter @venkatarangan.
-
-  Talk to me about: Digital Transformation, Startup, Software Development &amp; Microsoft Azure.
+  I am a white space leader, technology entrepreneur, living in Chennai. I am
+  the founder & former CEO of Software Services firm by name "Vishwak Solutions"
+  with offices in Chennai & Seattle. I am a former partner of LIFCO Books, a
+  publishing firm founded in 1929.
+  
+  I have been a [Microsoft Regional
+  Director](http://rd.microsoft.com/venkatarangan.thirumalai) from 1999 and a
+  regular speaker in Microsoft conferences with two decades of Industry
+  experience. I work regularly with CXOs to help them to demystify I.T. I am
+  interested in movies and reading. A fan of photography and travelling. You can
+  follow me on twitter @venkatarangan.
+  
+  Talk to me about: Digital Transformation, Startup, Software Development &
+  Microsoft Azure.
 
   ## Spotlight
-  Years ago when I learned FoxBase in order to develop an inventory management system for my family-owned publishing house in South India. Existing staff were resistant to the change even though the PC could give inventory for all hundreds of titles accurately in near real-time. Something had to be done. I spent time in convincing and training the oldest stakeholder, a septuagenarian, and that was the game-changer.&nbsp;
-
-  Having grasped the impact software can have on businesses, I have continued to design software that helps its users and remains easy to use. Recently I challenged myself to design a mobile app that was so simple users would feel it’s simplicity. Named Simpligic, it’s a NEWS app that has nothing to be configured or selected. The App uses Prediction.IO Machine Learning running in Microsoft Azure to come up with a story that the user will want to read at that instant, nothing more. Simply launch the app, read the story that appears and you’re done. No fuss. In the future, I plan to dictate the requirement for a Business App to Microsoft Cortana, who will automatically design, build and deploy an app to cloud that will be available to all my users within minutes.
-tagline:
+  Years ago when I learned FoxBase in order to develop an inventory management
+  system for my family-owned publishing house in South India. Existing staff
+  were resistant to the change even though the PC could give inventory for all
+  hundreds of titles accurately in near real-time. Something had to be done. I
+  spent time in convincing and training the oldest stakeholder, a
+  septuagenarian, and that was the game-changer.
+  
+  Having grasped the impact software can have on businesses, I have continued to
+  design software that helps its users and remains easy to use. Recently I
+  challenged myself to design a mobile app that was so simple users would feel
+  it’s simplicity. Named Simpligic, it’s a NEWS app that has nothing to be
+  configured or selected. The App uses Prediction.IO Machine Learning running in
+  Microsoft Azure to come up with a story that the user will want to read at
+  that instant, nothing more. Simply launch the app, read the story that appears
+  and you’re done. No fuss. In the future, I plan to dictate the requirement for
+  a Business App to Microsoft Cortana, who will automatically design, build and
+  deploy an app to cloud that will be available to all my users within minutes.
+tagline: Books / Digital
 image:
   alt: "Venkatarangan Thirumalai"
   src: media/profiles/venkatarangan-thirumalai.jpg

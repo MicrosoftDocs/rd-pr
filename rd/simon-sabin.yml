@@ -7,27 +7,37 @@ metadata:
 remarks: |
   ## Bio
   Hello, I’m Simon.
-
-  I'm a serial data guy that is determined to enable companies make the most of their data and to educate folks to enable them to help their companies do it.
-
-  Following on from a career in IT working across many industry sectors online retail, insurance, finance, motor sport, I founded Sabin.io with the view of enabling companies to further drive this goal. &nbsp;
-
+  
+  I'm a serial data guy that is determined to enable companies make the most of
+  their data and to educate folks to enable them to help their companies do it.
+  
+  Following on from a career in IT working across many industry sectors online
+  retail, insurance, finance, motor sport, I founded Sabin.io with the view of
+  enabling companies to further drive this goal.  
+  
   I work with companies to help them:
-
-  Improve their development practices including implementation of devops, agile methodologies and continuous integration/delivery.
-
+  
+  Improve their development practices including implementation of devops, agile
+  methodologies and continuous integration/delivery.
+  
   Understand and define a cloud data platform strategy.
-
-  Optimise their data platform, including performance, scalability, security and certification.
-
-  Education of people is at the heart of what I am about and what sabin.io stands for. It is epitomised by [SQLBits](http://www.sqlbits.com), which I founded in 2007. It's the largest SQL Server conference outside of Europe and many view as the best in the world, always maintaining a free element and ensuring education for everyone.
-
+  
+  Optimise their data platform, including performance, scalability, security and
+  certification.
+  
+  Education of people is at the heart of what I am about and what sabin.io
+  stands for. It is epitomised by [SQLBits](http://www.sqlbits.com), which I
+  founded in 2007. It's the largest SQL Server conference outside of Europe and
+  many view as the best in the world, always maintaining a free element and
+  ensuring education for everyone.
+  
   I am a Microsoft Regional Director and have been Microsoft MVP since 2005
-
-  I live in London, United Kingdom. I am a fan of food, tennis, and family. I’m also interested in innovation and gadgets.
-
+  
+  I live in London, United Kingdom. I am a fan of food, tennis, and family. I’m
+  also interested in innovation and gadgets.
+  
   You can visit my website with a click on the button above.
-tagline:
+tagline: Family / Food
 image:
   alt: "Simon Sabin"
   src: media/profiles/simon-sabin.jpg

@@ -6,16 +6,29 @@ metadata:
   description: Software Engineer, Architect, and Microsoft Regional Director in Chandler, Arizona
 remarks: |
   ## Bio
-  I'm Chief Software Architect at Wahlin Consulting. We provide consulting, architecture and training on various technologies such as C#, ASP.NET Core, Azure, Docker, JavaScript, Angular, Node and more. We've developed applications and provided architecture guidance and training to the largest (and smallest) companies in the world from telecoms and financial institutions to semiconductor chip makers and federal/state/county government organizations..
-
-  In additional to consulting and training, I also create software development courses for Pluralsight.com and Udemy.com. I've also authored/co-authored multiple books, written hundreds of technical articles and authored technical documents for companies such as Microsoft, Google and others.
-
-  I frequently speak at technical conferences around the world and provide hands-on technical workshops. I also enjoy speaking at different user groups and meetups.
-
-  I'm honored to be a part of Microsoft's Regional Director and MVP programs as well as the Docker Captains and Google Developer Expert (GDE) programs.
-
-  Talk to me about: C#, ASP.NET, Web API, JavaScript, TypeScript, Angular, Node.js, Docker, Azure, Software Development, HTML5, jQuery, NoSQL, .NET.
-tagline:
+  I'm Chief Software Architect at Wahlin Consulting. We provide consulting,
+  architecture and training on various technologies such as C#, ASP.NET Core,
+  Azure, Docker, JavaScript, Angular, Node and more. We've developed
+  applications and provided architecture guidance and training to the largest
+  (and smallest) companies in the world from telecoms and financial institutions
+  to semiconductor chip makers and federal/state/county government
+  organizations..
+  
+  In additional to consulting and training, I also create software development
+  courses for Pluralsight.com and Udemy.com. I've also authored/co-authored
+  multiple books, written hundreds of technical articles and authored technical
+  documents for companies such as Microsoft, Google and others.
+  
+  I frequently speak at technical conferences around the world and provide
+  hands-on technical workshops. I also enjoy speaking at different user groups
+  and meetups.
+  
+  I'm honored to be a part of Microsoft's Regional Director and MVP programs as
+  well as the Docker Captains and Google Developer Expert (GDE) programs.
+  
+  Talk to me about: C#, ASP.NET, Web API, JavaScript, TypeScript, Angular,
+  Node.js, Docker, Azure, Software Development, HTML5, jQuery, NoSQL, .NET.
+tagline: Movies / Programming
 image:
   alt: "Dan Wahlin"
   src: media/profiles/dan-wahlin.jpg

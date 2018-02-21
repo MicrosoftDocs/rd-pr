@@ -6,18 +6,28 @@ metadata:
   description: Agile Coach, architect, Software Engineer, and Microsoft Regional Director in Dunakeszi, Hungary
 remarks: |
   ## Bio
-  I am a principal and the chief technology consultant of SoftwArt, a small Hungarian IT consulting company. Most of my time I train and coach teams for agile software development and teach them how to use modern tools and practices.
-
-  My specialty is managing small and productive teams using Microsoft related technologies to create and maintain their software product.
-
-  Besides mentoring university students and young software engineers, I write and publish web development books.
-
-  I am a recognized expert in .NET, Visual Studio, and related technologies (Microsoft Most Valuable Professional). I had already been a Microsoft Regional Director between since 2011 and 2015, and I was awarded this title in 2017 again.
-
-  My life would not be full without my wonderful wife and beautiful daughters. I am a rabid fan of long distance running and scuba diving.
-
-  Talk me about: Scrum, agile values, agile architecture, C#, Visual Studio, VSX, VS Code, application life cycle management.
-tagline:
+  I am a principal and the chief technology consultant of SoftwArt, a small
+  Hungarian IT consulting company. Most of my time I train and coach teams for
+  agile software development and teach them how to use modern tools and
+  practices.
+  
+  My specialty is managing small and productive teams using Microsoft related
+  technologies to create and maintain their software product.
+  
+  Besides mentoring university students and young software engineers, I write
+  and publish web development books.
+  
+  I am a recognized expert in .NET, Visual Studio, and related technologies
+  (Microsoft Most Valuable Professional). I had already been a Microsoft
+  Regional Director between since 2011 and 2015, and I was awarded this title in
+  2017 again.
+  
+  My life would not be full without my wonderful wife and beautiful daughters. I
+  am a rabid fan of long distance running and scuba diving.
+  
+  Talk me about: Scrum, agile values, agile architecture, C#, Visual Studio,
+  VSX, VS Code, application life cycle management.
+tagline: Innovation / Running
 image:
   alt: "Istvan Novak"
   src: media/profiles/istvan-novak.jpg

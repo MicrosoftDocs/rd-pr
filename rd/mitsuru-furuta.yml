@@ -6,12 +6,18 @@ metadata:
   description: Software Engineer, Small Business Owner, and Microsoft Regional Director in Paris, France
 remarks: |
   ## Bio
-  I am a software engineer, small business owner and Microsoft Regional Director currently living in Paris, France. My interests range from sport to technology. As my company ([Sensorit](http://www.sensorit.fr)) is editing a digital collaborative solution for large interactive screens ([Yellow](http://www.getyellow.io)), I am deeply involved in entrepreneurship, digital transformation, UX and innovation.
-
-  As a former Microsoft technical evangelist, I've remained an active speaker and it will be a pleasure to meet you at some conferences.
-
+  I am a software engineer, small business owner and Microsoft Regional Director
+  currently living in Paris, France. My interests range from sport to
+  technology. As my company ([Sensorit](http://www.sensorit.fr)) is editing a
+  digital collaborative solution for large interactive screens
+  ([Yellow](http://www.getyellow.io)), I am deeply involved in entrepreneurship,
+  digital transformation, UX and innovation.
+  
+  As a former Microsoft technical evangelist, I've remained an active speaker
+  and it will be a pleasure to meet you at some conferences.
+  
   Talk to me about : Programming, Language design, Desktop apps, UX, Azure
-tagline:
+tagline: Entrepreneurship / Innovation
 image:
   alt: "Mitsuru Furuta"
   src: media/profiles/mitsuru-furuta.jpg

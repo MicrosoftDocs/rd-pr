@@ -6,22 +6,38 @@ metadata:
   description: Microsoft Regional Director, Chief Architect, and Public Speaker in Quito, Costa Rica
 remarks: |
   ## Bio
-  Eduardo Castro is an Enterprise Chief Architect, Microsoft Regional Director and Microsoft Data Platform MVP, living in San José Province, Costa Rica.
-
-  With more than 20 years of experience in IT projects in public sector and large companies, Eduardo has helped the companies to achieve their best using technology based on Windows or Linux.
-
-  A fan of new technology, entrepreneurship, and travel, he enjoys drinking good cup of coffee. Eduardo is a regular speaker in several Microsoft Conferences and Community Events in USA and Latin America, you can watch his videos about architecture and data with a click on the button above.
-
-  Talk to me about: SQL Server, R Services, Data Science, Machine Learning, Cloud Computing, CloudArchitecture &amp; Strategy, Microsoft BOT, Microsoft Azure, Cognitive Services.
-
-  Eduardo Castro es arquitecto empresarial, Microsoft Regional Director y Microsoft Data Platform MVP, vive de San José, Costa Rica.
-
-  Con más de 20 años de experiencia en proyectos de TI en el sector público y empresas multinacionales, Eduardo ha ayudado a las empresas a lograr sus objetivos con el uso de la tecnología Windows o basada en Linux.
-
-  Aficionado a la nueva tecnología, el espíritu empresarial y los viajes, le gusta beber una buena taza de café. Eduardo es orador en varias Conferencias de Microsoft y Eventos de Comunidad en Estados Unidos y Latinoamérica, puedes ver sus videos sobre arquitectura y datos con un clic en el botón de arriba.
-
-  Hablemos sobre: SQL Server, R Services, Data Science, Machine Learning, Cloud Computing, Cloud Architecture &amp; Strategy, Microsoft BOT, Microsoft Azure, Cognitive Services.
-tagline:
+  Eduardo Castro is an Enterprise Chief Architect, Microsoft Regional Director
+  and Microsoft Data Platform MVP, living in San José Province, Costa Rica.
+  
+  With more than 20 years of experience in IT projects in public sector and
+  large companies, Eduardo has helped the companies to achieve their best using
+  technology based on Windows or Linux.
+  
+  A fan of new technology, entrepreneurship, and travel, he enjoys drinking good
+  cup of coffee. Eduardo is a regular speaker in several Microsoft Conferences
+  and Community Events in USA and Latin America, you can watch his videos about
+  architecture and data with a click on the button above.
+  
+  Talk to me about: SQL Server, R Services, Data Science, Machine Learning,
+  Cloud Computing, CloudArchitecture & Strategy, Microsoft BOT, Microsoft Azure,
+  Cognitive Services.
+  
+  Eduardo Castro es arquitecto empresarial, Microsoft Regional Director y
+  Microsoft Data Platform MVP, vive de San José, Costa Rica.
+  
+  Con más de 20 años de experiencia en proyectos de TI en el sector público y
+  empresas multinacionales, Eduardo ha ayudado a las empresas a lograr sus
+  objetivos con el uso de la tecnología Windows o basada en Linux.
+  
+  Aficionado a la nueva tecnología, el espíritu empresarial y los viajes, le
+  gusta beber una buena taza de café. Eduardo es orador en varias Conferencias
+  de Microsoft y Eventos de Comunidad en Estados Unidos y Latinoamérica, puedes
+  ver sus videos sobre arquitectura y datos con un clic en el botón de arriba.
+  
+  Hablemos sobre: SQL Server, R Services, Data Science, Machine Learning, Cloud
+  Computing, Cloud Architecture & Strategy, Microsoft BOT, Microsoft Azure,
+  Cognitive Services.
+tagline: Coffee / Entrepreneurship
 image:
   alt: "Eduardo Castro"
   src: media/profiles/eduardo-castro.jpg

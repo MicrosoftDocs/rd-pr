@@ -6,14 +6,22 @@ metadata:
   description: Microsoft Regional Director, Managing Director JP and APAC, and senior UX architect in Helsinki, 日本
 remarks: |
   ## Bio
-  Hi, I am Ken Azuma. I am the mixture of passionate sales leader, UX architect, technology consultant.
-
-  Started my career as IT division person, then worked at system development company as project manager, then at UI design / development shop as UX architect, then now, working at Infragistics as managing director of both Japan and APAC regions.
-
-  In this ever changing world, cross-experience is the really important knowledge, I believe so. my border less connection through my entire work life is one of my treasure.
-
-  Also I am regular speaker of technical community which is focusing on User Interface / Client side, as face of every system. My best expertise makes me an advisor for selection of client technology for specific situations.
-tagline:
+  Hi, I am Ken Azuma. I am the mixture of passionate sales leader, UX architect,
+  technology consultant.
+  
+  Started my career as IT division person, then worked at system development
+  company as project manager, then at UI design / development shop as UX
+  architect, then now, working at Infragistics as managing director of both
+  Japan and APAC regions.
+  
+  In this ever changing world, cross-experience is the really important
+  knowledge, I believe so. my border less connection through my entire work life
+  is one of my treasure.
+  
+  Also I am regular speaker of technical community which is focusing on User
+  Interface / Client side, as face of every system. My best expertise makes me
+  an advisor for selection of client technology for specific situations.
+tagline: Design / motorcycle
 image:
   alt: "Ken Azuma"
   src: media/profiles/ken-azuma.jpg

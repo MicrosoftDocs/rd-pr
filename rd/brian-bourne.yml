@@ -6,14 +6,23 @@ metadata:
   description: Security Guy and Microsoft Regional Director in Toronto, Canada
 remarks: |
   ## Bio
-  Hi, I’m Brian. I've been active in the computer industry since the early 90's. In 2015, [New Signature](http://newsignature.com) (a full stack, premier Microsoft Partner) acquired my professional services and managed service companies. I spent a couple of years with this amazing team and am currently focused on my security interests.
-
-  My passion has always been large, complex enterprise systems infrastructure and security has always been a very important part of this. After years of going to events such as Defcon and Blackhat, I co-founded a Toronto security user group called [TASK](http://task.to) in 2006 and then an annual conference called [SecTor](http://sector.ca) in 2007.
-
+  Hi, I’m Brian. I've been active in the computer industry since the early 90's.
+  In 2015, [New Signature](http://newsignature.com) (a full stack, premier
+  Microsoft Partner) acquired my professional services and managed service
+  companies. I spent a couple of years with this amazing team and am currently
+  focused on my security interests.
+  
+  My passion has always been large, complex enterprise systems infrastructure
+  and security has always been a very important part of this. After years of
+  going to events such as Defcon and Blackhat, I co-founded a Toronto security
+  user group called [TASK](http://task.to) in 2006 and then an annual conference
+  called [SecTor](http://sector.ca) in 2007.
+  
   You will regularly find me speaking on a variety of cloud and security topics.
-
-  When I'm not involved in something IT related, you can usually find me burning gasoline in some sort of vehicle or out pretending to be a triathlete.
-tagline:
+  
+  When I'm not involved in something IT related, you can usually find me burning
+  gasoline in some sort of vehicle or out pretending to be a triathlete.
+tagline: azure / Entrepreneurship
 image:
   alt: "Brian Bourne"
   src: media/profiles/brian-bourne.jpg

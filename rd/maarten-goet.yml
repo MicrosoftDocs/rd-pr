@@ -6,19 +6,42 @@ metadata:
   description: Microsoft MVP, Microsoft Regional Director in Almere, Netherlands
 remarks: |
   ## Bio
-  Maarten Goet is a ten-year Microsoft MVP, and in 2015 became a Microsoft RD for The Netherlands. Microsoft’s Cloud &amp; Enterprise solutions has always been his core focus, first with Windows Server and System Center, in recent years he focuses on Azure, EMS and OMS. He is founder of the OperationsManagementSuite.org blog platform. Maarten is a well known speaker at international conferences such as Microsoft MMS, Teched, Techdays and System Center Universe. In his day job he helps enterprises envision, design and succesfully implement Microsoft Hybrid environments.
-
-  Talk to me about: Azure, Azure Stack, Windows Server, Hyper-V, System Center, OMS, EMS, Office 365 and Windows 10
+  Maarten Goet is a ten-year Microsoft MVP, and in 2015 became a Microsoft RD
+  for The Netherlands. Microsoft’s Cloud & Enterprise solutions has always been
+  his core focus, first with Windows Server and System Center, in recent years
+  he focuses on Azure, EMS and OMS. He is founder of the
+  OperationsManagementSuite.org blog platform. Maarten is a well known speaker
+  at international conferences such as Microsoft MMS, Teched, Techdays and
+  System Center Universe. In his day job he helps enterprises envision, design
+  and succesfully implement Microsoft Hybrid environments.
+  
+  Talk to me about: Azure, Azure Stack, Windows Server, Hyper-V, System Center,
+  OMS, EMS, Office 365 and Windows 10
 
   ## Spotlight
-  As an RD I've always been on the forefront of cloud development. With an infrastructure background and having been involved in many projects as an architect I am frequently asked to reimagine datacenters and applications, and prepare them for the cloud-era.
-
-  Recently I've worked with a pharmaceuticals company who produces precision medication and has highly automated labs around the world to make them. They needed to better support their pharmacists so that they could optimize medicine for their local markets.
-
-  Using a familiar automation principle, we created a datacenter migration program and moved all applications and resources into Microsoft Azure, and configured Operations Management Suite so that they would be audit compliant, and would be in control of their cloud operations. That now allows them to enter new markets quickly; taking the automation and templates we've created and using any of the 32+ Azure regions too stand up a new 'cloud datacenter' within one week.
-
-  With this fundament in place we helped them utilize Azure's data capabilities. By connecting Microsoft Dynamics into Azure SQL, Azure Analytics Services and PowerBI, local pharmacists can now intelligently analyze their breadth of data and provide more targeted medicine solutions.
-tagline:
+  As an RD I've always been on the forefront of cloud development. With an
+  infrastructure background and having been involved in many projects as an
+  architect I am frequently asked to reimagine datacenters and applications, and
+  prepare them for the cloud-era.
+  
+  Recently I've worked with a pharmaceuticals company who produces precision
+  medication and has highly automated labs around the world to make them. They
+  needed to better support their pharmacists so that they could optimize
+  medicine for their local markets.
+  
+  Using a familiar automation principle, we created a datacenter migration
+  program and moved all applications and resources into Microsoft Azure, and
+  configured Operations Management Suite so that they would be audit compliant,
+  and would be in control of their cloud operations. That now allows them to
+  enter new markets quickly; taking the automation and templates we've created
+  and using any of the 32+ Azure regions too stand up a new 'cloud datacenter'
+  within one week.
+  
+  With this fundament in place we helped them utilize Azure's data capabilities.
+  By connecting Microsoft Dynamics into Azure SQL, Azure Analytics Services and
+  PowerBI, local pharmacists can now intelligently analyze their breadth of data
+  and provide more targeted medicine solutions.
+tagline: Entrepreneurship / Music
 image:
   alt: "Maarten Goet"
   src: media/profiles/maarten-goet.jpg
