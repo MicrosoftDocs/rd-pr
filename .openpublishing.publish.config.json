@@ -11,10 +11,7 @@
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
-        "RestApi": "Content",
-        "Profile": "Content",
-        "ProfileList": "Content",
-        "Twitter": "Content"
+        "RestApi": "Content"
       },
       "build_entry_point": "docs",
       "template_folder": "_themes"
@@ -23,13 +20,13 @@
   "notification_subscribers": [],
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
-  "need_preview_pull_request": true,
+  "need_preview_pull_request": false,
   "contribution_branch_mappings": {},
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
       "url": "https://github.com/Microsoft/templates.docs.msft",
-      "branch": "develop",
+      "branch": "master",
       "branch_mapping": {}
     }
   ],
