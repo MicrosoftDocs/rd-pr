@@ -1,4 +1,4 @@
-### YamlMime:Profile
+﻿### YamlMime:Profile
 uid: rd.andrewj-brust
 name: Andrew J. Brust
 metadata:
@@ -6,10 +6,32 @@ metadata:
   description: Tech Strategist, industry analyst and Microsoft Regional Director in New York, New York
 remarks: |
   ## Bio
-  <p>Andrew is Senior Director, Market Strategy and Intelligence at Big Data software company Datameer. He’s also ZDNet’s original Big Data blogger, a conference co-chair of Visual Studio Live! and author of several Big Data and NoSQL courses on Pluralsight. Andrew’s been a Microsoft Regional Director since 2002 and a Microsoft Most Valuable Professional since 2004. He also served on Microsoft's Business Intelligence Partner Advisory Council (BI PAC) from 2005 to 2011.</p><p>Andrew has developed in Microsoft Visual Basic, .NET and SQL Server from their respective first versions, and has focused on Microsoft BI technologies since the late 1990s.</p><p>Andrew began his career as a professional programmer while still in college, working for the City of New York, Department of Parks and Recreation. After graduation, Andrew served as Computer Systems Director at New York City’s Department of Cultural Affairs.</p><p>Moving on to two small consulting firms, then global tech firm Cap Gemini, Andrew helped build an array of computing systems, including the Bank of New York’s first Windows-based client management system, which went on to win best financial application in the Windows World Open competition, sponsored by Microsoft and Computerworld, in 1993.</p><p>After Cap Gemini, Andrew became an independent consultant working at Bankers Trust, then founded his own company, Progressive Systems Consulting.</p><p>After running Progressive Systems for 10 years, Andrew sold it to a 35-person Microsoft-focused consulting firm called Citigate Hudson, later renamed twentysix New York. At twentysix, Andrew became chief salesperson, winning roughly 10 million dollars worth of business during his tenure from 2004 – 2010.</p><p>After six years, Andrew moved on to establish his own firm, Blue Badge Insights, focused on helping consulting companies and Independent Software Vendors (ISVs) navigate the Microsoft partner channel.</p><p>Andrew was invited to become ZDNet’s new Big Data correspondent soon after founding Blue Badge Insights. Andrew also became a freelance analyst, focused on Big Data, for Gigaom Research, and was eventually recruited to become its first Research Director dedicated to Big Data.</p><p>In 2015, Andrew joined Big Data analytics software company Datameer, as Senior Director, Product Strategy and Intelligence. He also returned to writing about Big Data for ZDNet.</p><p>Talk to me about: Big Data, BI, HDInsight, Power BI, SQL Server Analysis Services, Hadoop, Spark</p>
+  Andrew is Senior Director, Market Strategy and Intelligence at Big Data software company Datameer. He’s also ZDNet’s original Big Data blogger, a conference co-chair of Visual Studio Live! and author of several Big Data and NoSQL courses on Pluralsight. Andrew’s been a Microsoft Regional Director since 2002 and a Microsoft Most Valuable Professional since 2004. He also served on Microsoft's Business Intelligence Partner Advisory Council (BI PAC) from 2005 to 2011.
+
+  Andrew has developed in Microsoft Visual Basic, .NET and SQL Server from their respective first versions, and has focused on Microsoft BI technologies since the late 1990s.
+
+  Andrew began his career as a professional programmer while still in college, working for the City of New York, Department of Parks and Recreation. After graduation, Andrew served as Computer Systems Director at New York City’s Department of Cultural Affairs.
+
+  Moving on to two small consulting firms, then global tech firm Cap Gemini, Andrew helped build an array of computing systems, including the Bank of New York’s first Windows-based client management system, which went on to win best financial application in the Windows World Open competition, sponsored by Microsoft and Computerworld, in 1993.
+
+  After Cap Gemini, Andrew became an independent consultant working at Bankers Trust, then founded his own company, Progressive Systems Consulting.
+
+  After running Progressive Systems for 10 years, Andrew sold it to a 35-person Microsoft-focused consulting firm called Citigate Hudson, later renamed twentysix New York. At twentysix, Andrew became chief salesperson, winning roughly 10 million dollars worth of business during his tenure from 2004 – 2010.
+
+  After six years, Andrew moved on to establish his own firm, Blue Badge Insights, focused on helping consulting companies and Independent Software Vendors (ISVs) navigate the Microsoft partner channel.
+
+  Andrew was invited to become ZDNet’s new Big Data correspondent soon after founding Blue Badge Insights. Andrew also became a freelance analyst, focused on Big Data, for Gigaom Research, and was eventually recruited to become its first Research Director dedicated to Big Data.
+
+  In 2015, Andrew joined Big Data analytics software company Datameer, as Senior Director, Product Strategy and Intelligence. He also returned to writing about Big Data for ZDNet.
+
+  Talk to me about: Big Data, BI, HDInsight, Power BI, SQL Server Analysis Services, Hadoop, Spark
 
   ## Spotlight
-  <p>I noticed that the Microsoft stacks for traditional database technology, BI, and Big Data were steadily growing, but separately. I also saw them becoming increasingly relevant to each other, a trend reflected in the market overall.&nbsp;New features in SQL Server directly relate to capabilities in Azure HDInsight; facets of Power BI are relevant to both products, and Azure Machine Learning is germane as well.</p><p>With the integration of the R programming language throughout Microsoft Data Platform, I saw how that technology is unifying all four components.&nbsp;Additionally, communities around these products were emerging in a siloed fashion, with the experts on each product a bit isolated from understanding the relevance of the others.</p><p>Connecting the dots, I developed an all-day workshop around these technologies, and others.&nbsp;Called “Big Data, BI and Analytics on The Microsoft Stack,” the workshop was presented at Live 360!, an independent event for the Microsoft developer and IT Pro communities that I co-chair and speak at. The workshop weaves these technologies together, with an eye toward making professionals in the larger Microsoft data community able to leverage them better, and help Microsoft’s customers do the same.</p>
+  I noticed that the Microsoft stacks for traditional database technology, BI, and Big Data were steadily growing, but separately. I also saw them becoming increasingly relevant to each other, a trend reflected in the market overall.&nbsp;New features in SQL Server directly relate to capabilities in Azure HDInsight; facets of Power BI are relevant to both products, and Azure Machine Learning is germane as well.
+
+  With the integration of the R programming language throughout Microsoft Data Platform, I saw how that technology is unifying all four components.&nbsp;Additionally, communities around these products were emerging in a siloed fashion, with the experts on each product a bit isolated from understanding the relevance of the others.
+
+  Connecting the dots, I developed an all-day workshop around these technologies, and others.&nbsp;Called “Big Data, BI and Analytics on The Microsoft Stack,” the workshop was presented at Live 360!, an independent event for the Microsoft developer and IT Pro communities that I co-chair and speak at. The workshop weaves these technologies together, with an eye toward making professionals in the larger Microsoft data community able to leverage them better, and help Microsoft’s customers do the same.
 tagline:
 image:
   alt: "Andrew J. Brust"

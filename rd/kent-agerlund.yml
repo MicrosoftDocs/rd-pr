@@ -1,4 +1,4 @@
-### YamlMime:Profile
+﻿### YamlMime:Profile
 uid: rd.kent-agerlund
 name: Kent Agerlund
 metadata:
@@ -6,7 +6,13 @@ metadata:
   description: Microsoft Regional Director and Chief Technical Architect in København, Danmark
 remarks: |
   ## Bio
-  <p>As an author, speaker, trainer, evangelist, chief technical architect, and founder of CT Global (formerly Coretech Global), I specialize in solutions. My technology background has given me an in-depth knowledge and expertise to understand the needs of many diverse enterprises. As Microsoft Regional Director for the Nordics and Benelux, I am pleased I can now lend my support to broader Microsoft community.</p><p>I’m a frequent speaker at industry events such as Microsoft Ignite, MMS, System Center Universe, Devconnections, local user groups around the globe and am the main author of Mastering Configuration Manager and other Enterprise Client Management books. I’m actively involved in communities like TechNet forums, local user groups, and is awarded Microsoft Most Valuable Professional (MVP) for his work with Microsoft Enterprise mobility. I’m probably best known for using “Real World” scenarios to demonstrate solutions and ability to reach the core issue.</p><p>My company, CT Global (formally Coretech Global), is a global cloud platform consultancy rapidly expanding worldwide. A team of industry experts, CT Global provides decades of experience and a passion for sharing knowledge about technology, tools, methods, and progressive solutions to meet the ever-evolving needs of the digital world.</p><p>Talk to me about: Cloud Computing, Cloud Architecture &amp; Strategy, Microsoft Enterprise Mobility +security, Microsoft Azure, Office 365 and System Center Configuration Manager.</p>
+  As an author, speaker, trainer, evangelist, chief technical architect, and founder of CT Global (formerly Coretech Global), I specialize in solutions. My technology background has given me an in-depth knowledge and expertise to understand the needs of many diverse enterprises. As Microsoft Regional Director for the Nordics and Benelux, I am pleased I can now lend my support to broader Microsoft community.
+
+  I’m a frequent speaker at industry events such as Microsoft Ignite, MMS, System Center Universe, Devconnections, local user groups around the globe and am the main author of Mastering Configuration Manager and other Enterprise Client Management books. I’m actively involved in communities like TechNet forums, local user groups, and is awarded Microsoft Most Valuable Professional (MVP) for his work with Microsoft Enterprise mobility. I’m probably best known for using “Real World” scenarios to demonstrate solutions and ability to reach the core issue.
+
+  My company, CT Global (formally Coretech Global), is a global cloud platform consultancy rapidly expanding worldwide. A team of industry experts, CT Global provides decades of experience and a passion for sharing knowledge about technology, tools, methods, and progressive solutions to meet the ever-evolving needs of the digital world.
+
+  Talk to me about: Cloud Computing, Cloud Architecture &amp; Strategy, Microsoft Enterprise Mobility +security, Microsoft Azure, Office 365 and System Center Configuration Manager.
 tagline:
 image:
   alt: "Kent Agerlund"

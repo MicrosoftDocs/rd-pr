@@ -1,4 +1,4 @@
-### YamlMime:Profile
+﻿### YamlMime:Profile
 uid: rd.lei-xu
 name: Lei Xu
 metadata:
@@ -6,7 +6,7 @@ metadata:
   description: Software Engineer, Writer, and Public Speaker in 北京市, 中国
 remarks: |
   ## Bio
-  <p>Hi, I'm Lei Xu, a Microsoft Regional Director and Most Valuable Professional specialised in developer tools, agile and DevOps. I blog about my work very often and I'm running the biggest webchat DevOps channel in China. I'm also a frequent speaker on many technical events, e.g. TechEd/Ignite, QCon etc. Read my blogs to know more about me and my work ...</p>
+  Hi, I'm Lei Xu, a Microsoft Regional Director and Most Valuable Professional specialised in developer tools, agile and DevOps. I blog about my work very often and I'm running the biggest webchat DevOps channel in China. I'm also a frequent speaker on many technical events, e.g. TechEd/Ignite, QCon etc. Read my blogs to know more about me and my work ...
 tagline:
 image:
   alt: "Lei Xu"

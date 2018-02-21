@@ -1,4 +1,4 @@
-### YamlMime:Profile
+﻿### YamlMime:Profile
 uid: rd.stavros-menegos
 name: Stavros Menegos
 metadata:
@@ -6,7 +6,9 @@ metadata:
   description: Software Architect / Engineer and Microsoft Regional Director in Pireas, Greece
 remarks: |
   ## Bio
-  <p>I am a Software Architect / Engineer and Microsoft Regional Director at Entersoft SA currently living in Athens, Greece. My interests range from photography to technology. I am also interested in video games, running, and programming.</p><p>You can click the button above to visit my company website. If you’d like to get in touch, feel free to say hello through any of the social links below.</p>
+  I am a Software Architect / Engineer and Microsoft Regional Director at Entersoft SA currently living in Athens, Greece. My interests range from photography to technology. I am also interested in video games, running, and programming.
+
+  You can click the button above to visit my company website. If you’d like to get in touch, feel free to say hello through any of the social links below.
 tagline:
 image:
   alt: "Stavros Menegos"

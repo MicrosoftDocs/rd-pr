@@ -1,4 +1,4 @@
-### YamlMime:Profile
+﻿### YamlMime:Profile
 uid: rd.robert-folkesson
 name: Robert Folkesson
 metadata:
@@ -6,7 +6,13 @@ metadata:
   description: CTO, Software Architect, and Microsoft Regional Director in Stockholm, Sverige
 remarks: |
   ## Bio
-  <p>Hi, I’m Robert. I'm a CTO at Active Solution - a consulting services firm based in Stockholm, Sweden, focusing on helping customers build cloud based solutions. I'm deeply passionate about technology and how the digital transformation is changing our way of living, how we work and how our society functions as a whole.</p><p>As the CTO of Active Solution I am responsible for the overall technical and architectural strategy for the company. I am also responsible for constantly keeping our skills and knowledge up to date through cutting edge projects, training with the worlds best experts and knowledge sharing between colleagues and projects.</p><p>As a public speaker I love doing regular appearances at conferences like Developer Summit, TechDays and TechX - speaking about cloud computing, machine learning and architecture - among other things. This year I'm honored and happy to be part of the Developer Summit Advisory Board.</p><p>I'm also a Microsoft Regional Director. That doesn't mean that I work for Microsoft, but that they have recognized my knowledge and community leadership by awarding me the title.</p>
+  Hi, I’m Robert. I'm a CTO at Active Solution - a consulting services firm based in Stockholm, Sweden, focusing on helping customers build cloud based solutions. I'm deeply passionate about technology and how the digital transformation is changing our way of living, how we work and how our society functions as a whole.
+
+  As the CTO of Active Solution I am responsible for the overall technical and architectural strategy for the company. I am also responsible for constantly keeping our skills and knowledge up to date through cutting edge projects, training with the worlds best experts and knowledge sharing between colleagues and projects.
+
+  As a public speaker I love doing regular appearances at conferences like Developer Summit, TechDays and TechX - speaking about cloud computing, machine learning and architecture - among other things. This year I'm honored and happy to be part of the Developer Summit Advisory Board.
+
+  I'm also a Microsoft Regional Director. That doesn't mean that I work for Microsoft, but that they have recognized my knowledge and community leadership by awarding me the title.
 tagline:
 image:
   alt: "Robert Folkesson"

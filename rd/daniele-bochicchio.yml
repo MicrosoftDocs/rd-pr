@@ -1,4 +1,4 @@
-### YamlMime:Profile
+﻿### YamlMime:Profile
 uid: rd.daniele-bochicchio
 name: Daniele Bochicchio
 metadata:
@@ -6,10 +6,28 @@ metadata:
   description: Chief Digital Officer, Entrepreneur, and Microsoft Regional Director in Milan, Italy
 remarks: |
   ## Bio
-  <p>I am Chief Digital Officer for <a href="http://icubed.it/" target="_blank" rel="noopener noreferrer">iCubed</a>, a leading Microsoft Gold Partner, currently living in Milan, Italy.</p><p>We help customers build fantastic and innovative applications, drive the digital transformation of their business, thought web, mobile, and new technologies. I'm also responsible for the learning division, thanks to my 20 years of expertise in this area.</p><p>I'm Microsoft Regional Director for Italy, helping customers to be in touch with Microsoft, and Microsoft ASP.NET MVP since 2002.</p><p>In 1998 I founded and I'm currently serving as network manager for <a href="http://www.aspitalia.com/" target="_blank" rel="noopener noreferrer">ASPItalia.com</a>, the largest Italian dev community, counting about 70,000 users. I'm publishing code since 1998 with open source license, driving the Microsoft ecosystem in Italy to exchange more broadly.</p><p>I'm a well-known professional author with 20+ published books, and a speaker at the main developer-focused events worldwide.</p><p>I'm the organizer of <a href="http://www.communitydays.it/" target="_blank" rel="noopener noreferrer">CommunityDays.it</a>, the most important community conference in Italy, with 1,000+ participants every year.</p><p>I'm an AC Milan fan, and very passionate about design and home automation.</p><p>Talk to me about: Cloud Computing, Mobile Development, Software Development, Microsoft Office, PaaS, JavaScript, HTML5, AngularJS, jQuery, iOS Development, Android Development, Continuous delivery, Azure, .NET, Visual Studio, Software engineering, ASP.NET, C#</p>
+  I am Chief Digital Officer for [iCubed](http://icubed.it/), a leading Microsoft Gold Partner, currently living in Milan, Italy.
+
+  We help customers build fantastic and innovative applications, drive the digital transformation of their business, thought web, mobile, and new technologies. I'm also responsible for the learning division, thanks to my 20 years of expertise in this area.
+
+  I'm Microsoft Regional Director for Italy, helping customers to be in touch with Microsoft, and Microsoft ASP.NET MVP since 2002.
+
+  In 1998 I founded and I'm currently serving as network manager for [ASPItalia.com](http://www.aspitalia.com/), the largest Italian dev community, counting about 70,000 users. I'm publishing code since 1998 with open source license, driving the Microsoft ecosystem in Italy to exchange more broadly.
+
+  I'm a well-known professional author with 20+ published books, and a speaker at the main developer-focused events worldwide.
+
+  I'm the organizer of [CommunityDays.it](http://www.communitydays.it/), the most important community conference in Italy, with 1,000+ participants every year.
+
+  I'm an AC Milan fan, and very passionate about design and home automation.
+
+  Talk to me about: Cloud Computing, Mobile Development, Software Development, Microsoft Office, PaaS, JavaScript, HTML5, AngularJS, jQuery, iOS Development, Android Development, Continuous delivery, Azure, .NET, Visual Studio, Software engineering, ASP.NET, C#
 
   ## Spotlight
-  <p>When I started web programming in 1997, being a Microsoft developer wasn’t considered “cool”. 20 years later, ASP.NET Core has become multi-platform which benefits me as a full stack web developer, enriching the ecosystem with new tools.&nbsp;In my experience, emerging technologies like Angular or TypeScript are changing the game, making it impossible to remain competitive on Windows-only technologies.</p><p>At my company, iCubed, Azure was a key factor in our evolution. Azure and the way Microsoft has embraced Open Source has tremendously simplified the porting of services from on-premises to the cloud. We recently helped Microsoft Italy coach ISVs while they began their journey to the cloud by organizing a series of labs on their behalf. The return for the ISVs was simply amazing, because they could embrace the cloud more quickly. The cloud has such an impact on the way we build web services that being a Microsoft-only shop doesn’t cut it anymore. Azure can offer the same benefit to all kinds of developers.</p><p>The Regional Director Program has helped grow my network by connecting me with influential people inside of Microsoft and presenting ways for me to consult and coach my favorite web programming topics, Visual Studio, and Azure, to both our customers and our community in Italy.</p>
+  When I started web programming in 1997, being a Microsoft developer wasn’t considered “cool”. 20 years later, ASP.NET Core has become multi-platform which benefits me as a full stack web developer, enriching the ecosystem with new tools.&nbsp;In my experience, emerging technologies like Angular or TypeScript are changing the game, making it impossible to remain competitive on Windows-only technologies.
+
+  At my company, iCubed, Azure was a key factor in our evolution. Azure and the way Microsoft has embraced Open Source has tremendously simplified the porting of services from on-premises to the cloud. We recently helped Microsoft Italy coach ISVs while they began their journey to the cloud by organizing a series of labs on their behalf. The return for the ISVs was simply amazing, because they could embrace the cloud more quickly. The cloud has such an impact on the way we build web services that being a Microsoft-only shop doesn’t cut it anymore. Azure can offer the same benefit to all kinds of developers.
+
+  The Regional Director Program has helped grow my network by connecting me with influential people inside of Microsoft and presenting ways for me to consult and coach my favorite web programming topics, Visual Studio, and Azure, to both our customers and our community in Italy.
 tagline:
 image:
   alt: "Daniele Bochicchio"

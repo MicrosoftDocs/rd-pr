@@ -1,4 +1,4 @@
-### YamlMime:Profile
+﻿### YamlMime:Profile
 uid: rd.gonzalo-laguna
 name: Gonzalo Laguna
 metadata:
@@ -6,7 +6,17 @@ metadata:
   description: Microsoft Regional Director, Chief Architect, and Co-Founder in Bruxelles, Uruguay
 remarks: |
   ## Bio
-  <p>Involved in the software industry for more than two decades, I am Co-Founder of GreenBlue Technologies, Professor of Software Architecture at the Faculty of Engineering at ORT University, and a Microsoft Regional Director in Montevideo, Uruguay</p><p>On my day to day role I lead a team of technical experts designing solutions for mission-critical corporate projects throughout South America, with a strong emphasis on cloud computing, distributed solutions and enterprise architecture.</p><p>As a Microsoft Regional Director, I engage with our customers executives, helping them define a successful path into the Digital Transformation.</p><p>Being a sought after advisor and regular speaker for the industry main events throughout the region, my favorites topics range from cloud computing &amp; software architectures, to sharing a passion for critical thinking.</p><p>I’m passionate about software, music, science, tennis &amp; traveling, but most of all, being able to share all that with my wife and twin sons.</p><p>Talk to me about: Cloud Computing, Azure, Microservices, Machine Learning, IoT, DevOps</p>
+  Involved in the software industry for more than two decades, I am Co-Founder of GreenBlue Technologies, Professor of Software Architecture at the Faculty of Engineering at ORT University, and a Microsoft Regional Director in Montevideo, Uruguay
+
+  On my day to day role I lead a team of technical experts designing solutions for mission-critical corporate projects throughout South America, with a strong emphasis on cloud computing, distributed solutions and enterprise architecture.
+
+  As a Microsoft Regional Director, I engage with our customers executives, helping them define a successful path into the Digital Transformation.
+
+  Being a sought after advisor and regular speaker for the industry main events throughout the region, my favorites topics range from cloud computing &amp; software architectures, to sharing a passion for critical thinking.
+
+  I’m passionate about software, music, science, tennis &amp; traveling, but most of all, being able to share all that with my wife and twin sons.
+
+  Talk to me about: Cloud Computing, Azure, Microservices, Machine Learning, IoT, DevOps
 tagline:
 image:
   alt: "Gonzalo Laguna"

@@ -1,4 +1,4 @@
-### YamlMime:Profile
+﻿### YamlMime:Profile
 uid: rd.vinod-unny
 name: Vinod Unny
 metadata:
@@ -6,10 +6,24 @@ metadata:
   description: Consultant, Software Engineer, and Microsoft Regional Director in Gurgaon, India
 remarks: |
   ## Bio
-  <p>Hi there!</p><p>I'm Vinod Unny, the Owner of <a href="http://www.enterpriseinfotech.com" target="_blank" rel="noopener noreferrer">Enterprise InfoTech</a>, a technology consultancy company based in Gurgaon, India. My role is that of a Senior Technology Consultant. I am an active member of India’s Information Technology community. I've lead both technical and techno-business teams in the United States, Japan and of course in India and have traveled widely and regularly, both in India and around the world for projects and events.</p><p>I've been an active and popular speaker in many different technology seminars across the country. My speaking engagements range from large industry conferences to private events of many management &amp; technical institutes as well as organizations. I also conduct trainings, both online and on-site, for tech teams on latest technologies and have trained employees of companies from across the world.</p><p>I'm proud to be a Microsoft Regional Director for many years now. It allows me to work closely with Microsoft and clients, both theirs and ours, to provide technology solutions that are effective.</p><p>Talk to me about: Cloud Computing, Information Management and Security, Software Architecture, Network Infrastructure Architecture, Software Development, C#, ASP.NET, SharePoint, Office 365, SQL Server, Windows Server, Windows Client</p>
+  Hi there!
+
+  I'm Vinod Unny, the Owner of [Enterprise InfoTech](http://www.enterpriseinfotech.com), a technology consultancy company based in Gurgaon, India. My role is that of a Senior Technology Consultant. I am an active member of India’s Information Technology community. I've lead both technical and techno-business teams in the United States, Japan and of course in India and have traveled widely and regularly, both in India and around the world for projects and events.
+
+  I've been an active and popular speaker in many different technology seminars across the country. My speaking engagements range from large industry conferences to private events of many management &amp; technical institutes as well as organizations. I also conduct trainings, both online and on-site, for tech teams on latest technologies and have trained employees of companies from across the world.
+
+  I'm proud to be a Microsoft Regional Director for many years now. It allows me to work closely with Microsoft and clients, both theirs and ours, to provide technology solutions that are effective.
+
+  Talk to me about: Cloud Computing, Information Management and Security, Software Architecture, Network Infrastructure Architecture, Software Development, C#, ASP.NET, SharePoint, Office 365, SQL Server, Windows Server, Windows Client
 
   ## Spotlight
-  <p>My role as a senior technology consultant and advisory member involves helping organizations use technology effectively to design and implement infrastructure, increase productivity through software, and minimize data security risks.&nbsp;</p><p>For instance, I have helped a micro-finance organization implement a solution for its consumers in India using Azure SQL Service.&nbsp;I’ve also implemented an IaaS + SaaS solution using Azure + Office 365 for another client to migrate their on-premises deployments. And it doesn’t stop there.</p><p>I’ve noticed that while many of these organizations have heard of the term "cloud", they are unsure of its true meaning and what it entails to move to the “cloud’. Helping them understand the ‘what’, ‘why’, ‘how’, and even ‘if’ they should implement cloud solutions has been one of my key tasks in recent times. In my opinion, educating the top management and employees of an organization in latest technology trends such as cloud and big data is even more important than managing technical challenges and risks.&nbsp;</p><p>In this respect, I've held preparatory trainings to bring organizations up to speed with technologies. Such activities, in turn, have helped me design and deliver solutions that meets their needs more effectively.</p>
+  My role as a senior technology consultant and advisory member involves helping organizations use technology effectively to design and implement infrastructure, increase productivity through software, and minimize data security risks.&nbsp;
+
+  For instance, I have helped a micro-finance organization implement a solution for its consumers in India using Azure SQL Service.&nbsp;I’ve also implemented an IaaS + SaaS solution using Azure + Office 365 for another client to migrate their on-premises deployments. And it doesn’t stop there.
+
+  I’ve noticed that while many of these organizations have heard of the term "cloud", they are unsure of its true meaning and what it entails to move to the “cloud’. Helping them understand the ‘what’, ‘why’, ‘how’, and even ‘if’ they should implement cloud solutions has been one of my key tasks in recent times. In my opinion, educating the top management and employees of an organization in latest technology trends such as cloud and big data is even more important than managing technical challenges and risks.&nbsp;
+
+  In this respect, I've held preparatory trainings to bring organizations up to speed with technologies. Such activities, in turn, have helped me design and deliver solutions that meets their needs more effectively.
 tagline:
 image:
   alt: "Vinod Unny"

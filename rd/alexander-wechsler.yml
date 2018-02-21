@@ -1,4 +1,4 @@
-### YamlMime:Profile
+﻿### YamlMime:Profile
 uid: rd.alexander-wechsler
 name: Alexander Wechsler
 metadata:
@@ -6,10 +6,28 @@ metadata:
   description: CEO Wechsler Consulting, Microsoft Regional Director, and Architect in Dießen am Ammersee, Deutschland
 remarks: |
   ## Bio
-  <p>Hi, I am Alexander Wechsler, a consultant, architect, developer, entrepreneur, who has been working many years in project and partner management for customers in the enterprise and embedded market. Many of my projects turned into best practice showcases for the successful use of modern software technology.</p><p>I am the founder and CEO of Wechsler Consulting GmbH &amp; Co. KG, a consulting company delivering first class IT consulting services based close to Munich, Germany.</p><p>As one of the international leading specialists I speak at IT/developer conferences and at universities on application and system architectures using the newest Microsoft technologies.</p><p>For my work on educational methods, courses for developers as well as project managers I have been recognized several times with national and international “Enterprise Knowledge Management” and “Best Practice” awards.</p><p>In 2006 I was elected as a Microsoft Regional Director for Germany and am very proud to work in this senior group of people to advance and innovate the Microsoft technology eco-system in all areas.</p><p>Talk to me about:</p><p>Azure Cloud Computing, Azure IoT, Software Engineering, Device and System Management, Enterprise Architectures, Mobile Development, Microservices, Machine Learning, C#, .NET, Arduino, Roboticss, Cross-Platform Development</p>
+  Hi, I am Alexander Wechsler, a consultant, architect, developer, entrepreneur, who has been working many years in project and partner management for customers in the enterprise and embedded market. Many of my projects turned into best practice showcases for the successful use of modern software technology.
+
+  I am the founder and CEO of Wechsler Consulting GmbH &amp; Co. KG, a consulting company delivering first class IT consulting services based close to Munich, Germany.
+
+  As one of the international leading specialists I speak at IT/developer conferences and at universities on application and system architectures using the newest Microsoft technologies.
+
+  For my work on educational methods, courses for developers as well as project managers I have been recognized several times with national and international “Enterprise Knowledge Management” and “Best Practice” awards.
+
+  In 2006 I was elected as a Microsoft Regional Director for Germany and am very proud to work in this senior group of people to advance and innovate the Microsoft technology eco-system in all areas.
+
+  Talk to me about:
+
+  Azure Cloud Computing, Azure IoT, Software Engineering, Device and System Management, Enterprise Architectures, Mobile Development, Microservices, Machine Learning, C#, .NET, Arduino, Roboticss, Cross-Platform Development
 
   ## Spotlight
-  <p>My passion in the field of digital innovation is to serve as a pathfinder to explore new ways to solve problems for customers as well as community. Together with early adopters, I help sort out the dos and don’ts in new technology areas and provide this valuable insight through blog posts, educational courses and directly as a digital architect.&nbsp;</p><p>Our digital world is changing at lightning-speed, making it hard for even seasoned professionals to keep pace. Cloud Computing is at the forefront of these changes. Tasks will be accomplished easier and faster than ever before and artificial intelligence systems will act proactively, saving valuable time.&nbsp;</p><p>In this transition, there is huge potential to improve many issues we face as individuals, companies or even as societies. Such issues range from simple day-to-day tasks like buying food or scheduling meetings to highly advanced professional systems, planning manufacturing processes or airplane maintenance. Social networks, digital democracy, and virtual/augmented realities have already altered the way we live our lives and how we communicate.</p><p>I support customers’ transition to the modern Cloud era by developing highly efficient and scalable architectures that meet the agile needs of modern solutions, while simultaneously reducing privacy and reliability risks.</p>
+  My passion in the field of digital innovation is to serve as a pathfinder to explore new ways to solve problems for customers as well as community. Together with early adopters, I help sort out the dos and don’ts in new technology areas and provide this valuable insight through blog posts, educational courses and directly as a digital architect.&nbsp;
+
+  Our digital world is changing at lightning-speed, making it hard for even seasoned professionals to keep pace. Cloud Computing is at the forefront of these changes. Tasks will be accomplished easier and faster than ever before and artificial intelligence systems will act proactively, saving valuable time.&nbsp;
+
+  In this transition, there is huge potential to improve many issues we face as individuals, companies or even as societies. Such issues range from simple day-to-day tasks like buying food or scheduling meetings to highly advanced professional systems, planning manufacturing processes or airplane maintenance. Social networks, digital democracy, and virtual/augmented realities have already altered the way we live our lives and how we communicate.
+
+  I support customers’ transition to the modern Cloud era by developing highly efficient and scalable architectures that meet the agile needs of modern solutions, while simultaneously reducing privacy and reliability risks.
 tagline:
 image:
   alt: "Alexander Wechsler"

@@ -1,4 +1,4 @@
-### YamlMime:Profile
+﻿### YamlMime:Profile
 uid: rd.herve-thibault
 name: Hervé Thibault
 metadata:
@@ -6,10 +6,20 @@ metadata:
   description: Consultant and Microsoft Regional Director in Paris, France
 remarks: |
   ## Bio
-  <p>Hello, I’m Hervé. I’m a consultant working in Paris (France), specialized on digital environnements &amp; entreprise mobility.</p><p>I am a fan of Microsoft for 20 years, leading the french System Center User Group during 8 years, and involved on Microsoft events (TechDays, ITCamp, TechNet, ...) &amp; presales (Pseller) to promote technologies such as Windows 10, Enterprise Mobility Suite/intune, Office 365, System Center &amp; Azure.</p><p>MVP (Most Valuable Professional) on SMS/System Center Configuration Manager from 2008 to 2014, I have the great honour to be a Microsoft Regional Director (IT Pro) since 2015.</p>
+  Hello, I’m Hervé. I’m a consultant working in Paris (France), specialized on digital environnements &amp; entreprise mobility.
+
+  I am a fan of Microsoft for 20 years, leading the french System Center User Group during 8 years, and involved on Microsoft events (TechDays, ITCamp, TechNet, ...) &amp; presales (Pseller) to promote technologies such as Windows 10, Enterprise Mobility Suite/intune, Office 365, System Center &amp; Azure.
+
+  MVP (Most Valuable Professional) on SMS/System Center Configuration Manager from 2008 to 2014, I have the great honour to be a Microsoft Regional Director (IT Pro) since 2015.
 
   ## Spotlight
-  <p>A company that offers higher education in luxury hotels and restaurants needed help deploying a complete and operational environment for over 100 first-time students within a short timeframe. They required Windows tablets in BYOD mode, a secured identity &amp; access solution with AD on-premises remotely managed (VPN) by a service provider and GPOs for managing devices, and a billing solution suitable for a tight budget.</p><p>I proposed using innovative Surface Pro 4 devices with a business store to highlight applications for BYOD usage. Regarding infrastructure, the best solution for the customer was “full cloud" based on EMS:&nbsp;Azure AD Premium to avoid any AD infrastructure on premise &amp; VPN, AAD Device integration for single sign-on &amp; automatic MDM enrollment, self-service portal for resetting students passwords &amp; MFA for admins, and Microsoft Intune for device management.</p><p>The final solution exceeded expectations by delivering 100% functional coverage, a digital environment considered “sexy as iOS” by students, and predictable costs (single payment package per user/month &amp; no initial investment) in only 2 weeks’ time.</p><p>Personally, I enjoyed providing a “real life” application of the Microsoft cloud’s ability to provide all services expected in an Information System with a simple, affordable funding model.</p>
+  A company that offers higher education in luxury hotels and restaurants needed help deploying a complete and operational environment for over 100 first-time students within a short timeframe. They required Windows tablets in BYOD mode, a secured identity &amp; access solution with AD on-premises remotely managed (VPN) by a service provider and GPOs for managing devices, and a billing solution suitable for a tight budget.
+
+  I proposed using innovative Surface Pro 4 devices with a business store to highlight applications for BYOD usage. Regarding infrastructure, the best solution for the customer was “full cloud" based on EMS:&nbsp;Azure AD Premium to avoid any AD infrastructure on premise &amp; VPN, AAD Device integration for single sign-on &amp; automatic MDM enrollment, self-service portal for resetting students passwords &amp; MFA for admins, and Microsoft Intune for device management.
+
+  The final solution exceeded expectations by delivering 100% functional coverage, a digital environment considered “sexy as iOS” by students, and predictable costs (single payment package per user/month &amp; no initial investment) in only 2 weeks’ time.
+
+  Personally, I enjoyed providing a “real life” application of the Microsoft cloud’s ability to provide all services expected in an Information System with a simple, affordable funding model.
 tagline:
 image:
   alt: "Hervé Thibault"

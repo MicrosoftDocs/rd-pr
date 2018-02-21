@@ -1,4 +1,4 @@
-### YamlMime:Profile
+﻿### YamlMime:Profile
 uid: rd.colin-melia
 name: Colin Melia
 metadata:
@@ -6,7 +6,15 @@ metadata:
   description: Device-To-Cloud Architect, Microsoft Regional Director, and Trainer/Author/Mentor in São José dos Campos, Canada
 remarks: |
   ## Bio
-  <p>I'm a British author, software architect, CxO, trainer and mentor in Canada, leading the charge with a team of experts delivering productive solutions and training from the holographic client to the intelligent cloud.</p><p>Over 20+ years I've founded companies both sides of the Atlantic and reached out to corporate, open source and academic communities through business, events and mentorship.</p><p>You can hear my authoritative and knowledgeable British accent on numerous training videos or in person when we talk about how my team can deliver great time to value for your enterprise or customers on Windows 10 (where I'm repeatedly recognised by Microsoft as an expert and community contributor), on mobile where my team has delivered applications for major business and entertainment brands, and in the cloud with business intelligence and optimized IoT information processing.</p><p>You can ask me about HoloLens solutions for exhibits, training and industrial applications with a click on the button above.</p><p>Talk to me about: HoloLens, Mobile Development, UWP, Xamarin, iOS Development, Android Development, IoT, Robotics, Game Development, Software Development, Visual Studio, C#, .NET, ASP.NET, nodeJS, JavaScript, HTML5, AngularJS, JQuery, DevOps, Continuous Delivery, Microsoft Office, Cloud Computing, PaaS, SaaS, Azure, Big Data</p>
+  I'm a British author, software architect, CxO, trainer and mentor in Canada, leading the charge with a team of experts delivering productive solutions and training from the holographic client to the intelligent cloud.
+
+  Over 20+ years I've founded companies both sides of the Atlantic and reached out to corporate, open source and academic communities through business, events and mentorship.
+
+  You can hear my authoritative and knowledgeable British accent on numerous training videos or in person when we talk about how my team can deliver great time to value for your enterprise or customers on Windows 10 (where I'm repeatedly recognised by Microsoft as an expert and community contributor), on mobile where my team has delivered applications for major business and entertainment brands, and in the cloud with business intelligence and optimized IoT information processing.
+
+  You can ask me about HoloLens solutions for exhibits, training and industrial applications with a click on the button above.
+
+  Talk to me about: HoloLens, Mobile Development, UWP, Xamarin, iOS Development, Android Development, IoT, Robotics, Game Development, Software Development, Visual Studio, C#, .NET, ASP.NET, nodeJS, JavaScript, HTML5, AngularJS, JQuery, DevOps, Continuous Delivery, Microsoft Office, Cloud Computing, PaaS, SaaS, Azure, Big Data
 tagline:
 image:
   alt: "Colin Melia"

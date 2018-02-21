@@ -1,4 +1,4 @@
-### YamlMime:Profile
+﻿### YamlMime:Profile
 uid: rd.alon-fliess
 name: Alon Fliess
 metadata:
@@ -6,10 +6,42 @@ metadata:
   description: Software Architect, Microsoft Regional Director in Linz, Israel
 remarks: |
   ## Bio
-  <p>I am the Chief Architect and founder of CodeValue. CodeValue is a leading software company, consists of locally and internationally acclaimed technology experts. CodeValue delivers a full-spectrum of software services, builds and designs software tools, foundations and products. Our flagship product is OzCode – an Amazing debugging add-on for Visual Studio. CodeValue is a Microsoft Partner in two domains - Software Development and Cloud Platform.</p><p>With more than 25 years of experience I have done many major software development, design and architecture for global leading and cutting edge companies such as KLA-Tencor, Kodak, Landa Labs, LivePerson, Israel Aerospace Industries, Rafael, B&amp;H Photo &amp; Video and many more.</p><p>I am recognized as a Microsoft Regional Director since 2010 and a Microsoft Azure MVP. I am an MVP since 2005. I serve as a focal point between Microsoft product teams and their customers, helping product teams to better understand their customers' needs as well as assisting customers in leveraging Microsoft's technologies. In 2013 I was awarded the MVP of the year.</p><p>I have expertise in many technologies, be it Microsoft Azure Development, Windows internals, C++ , .NET with C#, Internet of Things – hardware &amp; software development and cross-platform development (Windows &amp; Linux).</p><p>I am very well known within the international community of software developers and considered to be a trusted advisor for all software development related issues.</p><p>I am a co-author and technical reviewer of several books, I am a frequent “Developer course” instructor and conferences speaker. I am a co-leader of Azure Israel – The Israeli Azure Developer Community.</p><p>More than all, I love the nights. This is the time I enjoy sitting in front of the computer, learning and testing new technologies, writing code, designing and printing 3D items with my DIY upgraded 3D printer.</p><p>Talk to me about: Software Architecture, Cloud Computing, Internet of Things, &amp; Cross Platform Development.</p><p>OzCode:</p><p><a href="http://oz-code.com" target="_blank" rel="noopener noreferrer">http://oz-code.com</a></p><p>Azure Israel:</p><p><a href="http://www.meetup.com/AzureIsrael/" target="_blank" rel="noopener noreferrer">http://www.meetup.com/AzureIsrael/</a></p><p>Open SourceProjects:</p><p><a href="https://github.com/alonf" target="_blank" rel="noopener noreferrer">https://github.com/alonf</a></p><p><a href="https://www.codeplex
+  I am the Chief Architect and founder of CodeValue. CodeValue is a leading software company, consists of locally and internationally acclaimed technology experts. CodeValue delivers a full-spectrum of software services, builds and designs software tools, foundations and products. Our flagship product is OzCode – an Amazing debugging add-on for Visual Studio. CodeValue is a Microsoft Partner in two domains - Software Development and Cloud Platform.
+
+  With more than 25 years of experience I have done many major software development, design and architecture for global leading and cutting edge companies such as KLA-Tencor, Kodak, Landa Labs, LivePerson, Israel Aerospace Industries, Rafael, B&amp;H Photo &amp; Video and many more.
+
+  I am recognized as a Microsoft Regional Director since 2010 and a Microsoft Azure MVP. I am an MVP since 2005. I serve as a focal point between Microsoft product teams and their customers, helping product teams to better understand their customers' needs as well as assisting customers in leveraging Microsoft's technologies. In 2013 I was awarded the MVP of the year.
+
+  I have expertise in many technologies, be it Microsoft Azure Development, Windows internals, C++ , .NET with C#, Internet of Things – hardware &amp; software development and cross-platform development (Windows &amp; Linux).
+
+  I am very well known within the international community of software developers and considered to be a trusted advisor for all software development related issues.
+
+  I am a co-author and technical reviewer of several books, I am a frequent “Developer course” instructor and conferences speaker. I am a co-leader of Azure Israel – The Israeli Azure Developer Community.
+
+  More than all, I love the nights. This is the time I enjoy sitting in front of the computer, learning and testing new technologies, writing code, designing and printing 3D items with my DIY upgraded 3D printer.
+
+  Talk to me about: Software Architecture, Cloud Computing, Internet of Things, &amp; Cross Platform Development.
+
+  OzCode:
+
+  [http://oz-code.com](http://oz-code.com)
+
+  Azure Israel:
+
+  [http://www.meetup.com/AzureIsrael/](http://www.meetup.com/AzureIsrael/)
+
+  Open SourceProjects:
+
+  [https://github.com/alonf](https://github.com/alonf)
 
   ## Spotlight
-  <p>Technology moves fast and so am I. New technologies, new foundations and new services, provide a better foundation for building modern, always on, high scale applications and services. About a year ago, I realized the potential of Azure Service Fabric. I established an architecture team within my company, CodeValue, and together we have built the foundation for the new Kodak Photographer network – Kodakit.&nbsp;</p><p>Kodakit is a B2B and B2C system that connects professional photographers with personal and business clients. As a Regional Director, I had access to the Service Fabric dev team that supported us during the time where the technology was still in its preview stage. Service Fabric allows us to build a high scale, high available, high performance, Microservice based system with less concerns regarding Microservice health management, state management and versioning. For the mobile application, I decided to use Xamarin. Using Xamarin provides the foundation for building cross platform, iOS, Android and Windows client applications while reducing the learning curve of the dev team by using the same familiar programming language and development tools.&nbsp;</p><p>Nowadays, I am the architect of another microservice based solution, this time we use Docker Containers as our hosting and management environment, running Node.js and Angular 2.0 on Linux.</p><p>Beside Microservices architecture I also develop Internet of Things systems and Cross Platform applications on Windows/Linux and mobile platforms using C# (Xamarin) and ISO C++.</p>
+  Technology moves fast and so am I. New technologies, new foundations and new services, provide a better foundation for building modern, always on, high scale applications and services. About a year ago, I realized the potential of Azure Service Fabric. I established an architecture team within my company, CodeValue, and together we have built the foundation for the new Kodak Photographer network – Kodakit.&nbsp;
+
+  Kodakit is a B2B and B2C system that connects professional photographers with personal and business clients. As a Regional Director, I had access to the Service Fabric dev team that supported us during the time where the technology was still in its preview stage. Service Fabric allows us to build a high scale, high available, high performance, Microservice based system with less concerns regarding Microservice health management, state management and versioning. For the mobile application, I decided to use Xamarin. Using Xamarin provides the foundation for building cross platform, iOS, Android and Windows client applications while reducing the learning curve of the dev team by using the same familiar programming language and development tools.&nbsp;
+
+  Nowadays, I am the architect of another microservice based solution, this time we use Docker Containers as our hosting and management environment, running Node.js and Angular 2.0 on Linux.
+
+  Beside Microservices architecture I also develop Internet of Things systems and Cross Platform applications on Windows/Linux and mobile platforms using C# (Xamarin) and ISO C++.
 tagline:
 image:
   alt: "Alon Fliess"

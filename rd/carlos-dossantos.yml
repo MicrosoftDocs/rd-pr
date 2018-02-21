@@ -1,4 +1,4 @@
-### YamlMime:Profile
+﻿### YamlMime:Profile
 uid: rd.carlos-dossantos
 name: Carlos dos Santos
 metadata:
@@ -6,7 +6,65 @@ metadata:
   description: Microsoft Regional Director and Software Engineer in Alexandria, Brasil
 remarks: |
   ## Bio
-  <p>- More than 28 year of software development experience;<br>- Team coordinator using Microsoft Visual Studio Foundation Server and Scrum;<br>- Many types of software developed for several areas;<br>- Speaker about Microsoft technologies in many events;<br>- Software Architect;<br>- Software Developer;<br>- Microsoft MVP Visual Studio since 2008;<br>- Articles - write articles for some newsletters;<br>- Microsoft Cloud Computing with Azure</p><p>ServicesSpecialties: <br>- Cloud Development<br>- IoT Development <br>- Mobility Development;<br>- User Group Lead;<br>- Visual Studio Team Foundation Server;<br>- ALM<br>- Author - articles and trainings;<br>- Microsoft certified;<br>- Visual Studio ALM certified;<br>- Professional Scrum Master;<br>- Professional Scrum Developer;<br>- Open Source Projects:<br> <a href="http://www.github.com/code-cracker" target="_blank" rel="noopener noreferrer">http://www.github.com/code-cracker</a> <br><a href="http://www.github.com/boletonet" target="_blank" rel="noopener noreferrer">http://www.github.com/boletonet</a><br><a href="http://www.github.com/cdsinformatica" target="_blank" rel="noopener noreferrer">http://www.github.com/cdsinformatica</a><br>Visual Studio 2015 and Roslyn<br>- Microsoft Office 365- Training for companies in Microsoft technologies</p><p>My hobbies:</p><p>I like walking, running, traveling and piloting drones.</p><p>Being in touch with a nature.</p>
+  - More than 28 year of software development experience;
+
+  - Team coordinator using Microsoft Visual Studio Foundation Server and Scrum;
+
+  - Many types of software developed for several areas;
+
+  - Speaker about Microsoft technologies in many events;
+
+  - Software Architect;
+
+  - Software Developer;
+
+  - Microsoft MVP Visual Studio since 2008;
+
+  - Articles - write articles for some newsletters;
+
+  - Microsoft Cloud Computing with Azure
+
+  ServicesSpecialties: 
+
+  - Cloud Development
+
+  - IoT Development 
+
+  - Mobility Development;
+
+  - User Group Lead;
+
+  - Visual Studio Team Foundation Server;
+
+  - ALM
+
+  - Author - articles and trainings;
+
+  - Microsoft certified;
+
+  - Visual Studio ALM certified;
+
+  - Professional Scrum Master;
+
+  - Professional Scrum Developer;
+
+  - Open Source Projects:
+
+   [http://www.github.com/code-cracker](http://www.github.com/code-cracker) 
+
+  [http://www.github.com/boletonet](http://www.github.com/boletonet)
+
+  [http://www.github.com/cdsinformatica](http://www.github.com/cdsinformatica)
+
+  Visual Studio 2015 and Roslyn
+
+  - Microsoft Office 365- Training for companies in Microsoft technologies
+
+  My hobbies:
+
+  I like walking, running, traveling and piloting drones.
+
+  Being in touch with a nature.
 tagline:
 image:
   alt: "Carlos dos Santos"

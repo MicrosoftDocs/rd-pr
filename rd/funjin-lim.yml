@@ -1,4 +1,4 @@
-### YamlMime:Profile
+﻿### YamlMime:Profile
 uid: rd.funjin-lim
 name: Fun Jin Lim
 metadata:
@@ -6,10 +6,20 @@ metadata:
   description: CEO and Microsoft Regional Director in São Paulo, Malaysia
 remarks: |
   ## Bio
-  <p>Greetings! I am CEO of ISA Technologies in Malaysia. A technologist to the core, and an entrepreneur by accident. My passion is developing solutions that transforms businesses to be agile and compete in today's dynamic market landscape.</p><p>Over the 20 years in the IT industry, as an Industry Speaker, Community Leader, and Trusted Advisor, I have led ISA Technologies in Malaysia to successfully implement some of the largest IT projects covering Financial Services, Government and Oil and Gas sectors. Throughout thejourney, we have picked up local, regional and global awards for the work thatwe do.</p><p>I am honored to be a part of the Microsoft Regional Director program since 2002, and continue to enjoy my role in helping CxO's decide on the next best thing(s) for their companies.</p><p>Talk to me about: Cloud Management Platforms, Azure, UI/UX, Mobile Strategy</p>
+  Greetings! I am CEO of ISA Technologies in Malaysia. A technologist to the core, and an entrepreneur by accident. My passion is developing solutions that transforms businesses to be agile and compete in today's dynamic market landscape.
+
+  Over the 20 years in the IT industry, as an Industry Speaker, Community Leader, and Trusted Advisor, I have led ISA Technologies in Malaysia to successfully implement some of the largest IT projects covering Financial Services, Government and Oil and Gas sectors. Throughout thejourney, we have picked up local, regional and global awards for the work thatwe do.
+
+  I am honored to be a part of the Microsoft Regional Director program since 2002, and continue to enjoy my role in helping CxO's decide on the next best thing(s) for their companies.
+
+  Talk to me about: Cloud Management Platforms, Azure, UI/UX, Mobile Strategy
 
   ## Spotlight
-  <p>There is so much to adapt to and embrace in this digital age.&nbsp;I love talking with people in the industry who are at a crossroads in making IT decisions and having brainstorming sessions to discuss possible approaches and next steps. It is a two-way learning process in every session, and I believe that the more we engage the more we learn.&nbsp;</p><p>Recently I was tasked with helping to decide on whether to host a new service on a Public Cloud or with a local hosting provider for a Malaysian government-linked company.&nbsp;This new system would integrate with other local organizations, making data privacy and data sovereignty crucial factors in the decision. Other important considerations included long term cost, flexibility and scalability.</p><p>The end approach was to consider “what if’s” instead of taking a clear black or white decision.&nbsp;We discussed implementing an inter-organization system integration where highly classified data was kept within the country, and a subset of processed data with lower classification was moved from the on-premises system to Azure public cloud for the system to serve the masses.&nbsp;We scrutinized this architecture by throwing in possible objections and looked at the merits of what we were achieving through this approach.&nbsp;The final design passed all stakeholder concerns and set the stage to implement an “oh-so cool” system that serves the industry through a hybrid cloud approach.</p>
+  There is so much to adapt to and embrace in this digital age.&nbsp;I love talking with people in the industry who are at a crossroads in making IT decisions and having brainstorming sessions to discuss possible approaches and next steps. It is a two-way learning process in every session, and I believe that the more we engage the more we learn.&nbsp;
+
+  Recently I was tasked with helping to decide on whether to host a new service on a Public Cloud or with a local hosting provider for a Malaysian government-linked company.&nbsp;This new system would integrate with other local organizations, making data privacy and data sovereignty crucial factors in the decision. Other important considerations included long term cost, flexibility and scalability.
+
+  The end approach was to consider “what if’s” instead of taking a clear black or white decision.&nbsp;We discussed implementing an inter-organization system integration where highly classified data was kept within the country, and a subset of processed data with lower classification was moved from the on-premises system to Azure public cloud for the system to serve the masses.&nbsp;We scrutinized this architecture by throwing in possible objections and looked at the merits of what we were achieving through this approach.&nbsp;The final design passed all stakeholder concerns and set the stage to implement an “oh-so cool” system that serves the industry through a hybrid cloud approach.
 tagline:
 image:
   alt: "Fun Jin Lim"

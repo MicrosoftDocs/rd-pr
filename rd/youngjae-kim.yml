@@ -1,4 +1,4 @@
-### YamlMime:Profile
+﻿### YamlMime:Profile
 uid: rd.youngjae-kim
 name: Youngjae KIM
 metadata:
@@ -6,7 +6,11 @@ metadata:
   description: Microsoft Regional Director, Software Engineer, and Project Manager in 서울특별시, 대한민국
 remarks: |
   ## Bio
-  <p>I’m Youngjae, a Microsoft Regional Director living in Seoul.</p><p>I love to programming on top of Azure platform and Android. I'm working for tech lead in Bapul, a startup in K-12 education.</p><p>As a 3-year highschool mathematics teacher and ICT researcher, my objective is to bring new insight to education with technology.</p>
+  I’m Youngjae, a Microsoft Regional Director living in Seoul.
+
+  I love to programming on top of Azure platform and Android. I'm working for tech lead in Bapul, a startup in K-12 education.
+
+  As a 3-year highschool mathematics teacher and ICT researcher, my objective is to bring new insight to education with technology.
 tagline:
 image:
   alt: "Youngjae KIM"

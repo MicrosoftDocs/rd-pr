@@ -1,4 +1,4 @@
-### YamlMime:Profile
+﻿### YamlMime:Profile
 uid: rd.andre-carlucci
 name: Andre Carlucci
 metadata:
@@ -6,7 +6,19 @@ metadata:
   description: CTO and Microsoft Regional Director in St. John's, Brazil
 remarks: |
   ## Bio
-  <p>Hello, I’m Andre. I’m the CTO of Way2 Technology, living in Brazil. I am a fan of technology, programming, and new things.</p><p>I have a deep understanding of the Utilities Market and the systems and software related to it.</p><p>I’m also Vice-Director of the IoT Board of Santa Catarina State’s Business Technology Association (ACATE). We work hand in hand with private and public Innovation Centers and influence public decisions regarding technology and new initiatives in our State.</p><p>I speak frequently at TI conferences, meetups and user groups around the country. I'm a Microsoft Most Valuable Professional for the past 5 years, part of the Microsoft Regional Director Program, Intel Innovator and Intel BlackBelt.<br></p><p>Talk to me about: asp.net core, cloud, IoT, Cognitive Services, Software Architecture, Software Development Teams and Strategy.</p><p>I’m also interested in travel, good coffee and craft beer. Get in touch!</p>
+  Hello, I’m Andre. I’m the CTO of Way2 Technology, living in Brazil. I am a fan of technology, programming, and new things.
+
+  I have a deep understanding of the Utilities Market and the systems and software related to it.
+
+  I’m also Vice-Director of the IoT Board of Santa Catarina State’s Business Technology Association (ACATE). We work hand in hand with private and public Innovation Centers and influence public decisions regarding technology and new initiatives in our State.
+
+  I speak frequently at TI conferences, meetups and user groups around the country. I'm a Microsoft Most Valuable Professional for the past 5 years, part of the Microsoft Regional Director Program, Intel Innovator and Intel BlackBelt.
+
+  
+
+  Talk to me about: asp.net core, cloud, IoT, Cognitive Services, Software Architecture, Software Development Teams and Strategy.
+
+  I’m also interested in travel, good coffee and craft beer. Get in touch!
 tagline:
 image:
   alt: "Andre Carlucci"

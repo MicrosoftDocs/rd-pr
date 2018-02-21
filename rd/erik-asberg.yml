@@ -1,4 +1,4 @@
-### YamlMime:Profile
+﻿### YamlMime:Profile
 uid: rd.erik-asberg
 name: Erik Åsberg
 metadata:
@@ -6,7 +6,17 @@ metadata:
   description: CTO | Microsoft Regional Director in Halden, Norway
 remarks: |
   ## Bio
-  <p>I am the CTO at eSmart Systems and Microsoft Regional Director living in Halden, Norway. My interests range from technology to skiing. I am also interested in innovation and entrepreneurship.</p><p>You can click the button above to read my blog. If you’d like to get in touch, feel free to say hello through any of the social links below.</p><p>With over 20 years’ experience from the energy &amp; IT field, I know a few things about the technology challenges the energy- and related industries face, and how they can navigate towards a modern, cloud based architecture and still be compliant with industry specific regulations.</p><p>My expertise is how to leverage the use of new technology to strengthen your business through complete eco-systems in Microsoft Azure, utilizing PaaS.</p><p>On a day-to-day basis, I work on enterprise level Digital Transformation and how to merge and integrate an existing system portfolio with a Microsoft Azure based platform, strategically with an architectural focus.</p><p>I also have a strong interest in startups and how they can use the possibilities that come with the Microsoft BizSpark program to speed up growth.</p>
+  I am the CTO at eSmart Systems and Microsoft Regional Director living in Halden, Norway. My interests range from technology to skiing. I am also interested in innovation and entrepreneurship.
+
+  You can click the button above to read my blog. If you’d like to get in touch, feel free to say hello through any of the social links below.
+
+  With over 20 years’ experience from the energy &amp; IT field, I know a few things about the technology challenges the energy- and related industries face, and how they can navigate towards a modern, cloud based architecture and still be compliant with industry specific regulations.
+
+  My expertise is how to leverage the use of new technology to strengthen your business through complete eco-systems in Microsoft Azure, utilizing PaaS.
+
+  On a day-to-day basis, I work on enterprise level Digital Transformation and how to merge and integrate an existing system portfolio with a Microsoft Azure based platform, strategically with an architectural focus.
+
+  I also have a strong interest in startups and how they can use the possibilities that come with the Microsoft BizSpark program to speed up growth.
 tagline:
 image:
   alt: "Erik Åsberg"

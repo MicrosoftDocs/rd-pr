@@ -1,4 +1,4 @@
-### YamlMime:Profile
+﻿### YamlMime:Profile
 uid: rd.henriklykke-nielsen
 name: Henrik Lykke Nielsen
 metadata:
@@ -6,10 +6,24 @@ metadata:
   description: Software Architect, Microsoft Regional Director in Aarhus, Danmark
 remarks: |
   ## Bio
-  <p>Hi I am .Henrik.</p><p>I am a .NET aficionado, an ambitious and pragmatic software architect, a Microsoft Regional Director, a rock solid coder, a strategy game enthusiast and a history geek.</p><p>I have experience from a wide range of software development projects where I have worked as a developer, software architect, project manager, trainer, mentor and advisory consultant. Most of my professional career has centered around Microsoft's development platform and since the year 2000 I have specialized in Microsoft’s .NET platform where I among other things work with teaching, software architecture, web services, XAML based clients, component based frameworks, reuse and best practices for software development.</p><p>Over the years I have - together with other passionate people -spent a lot of time and energy engaging and building the Danish Microsoft development community and in line with that I am Microsoft Regional Director for Denmark – Microsoft’s selected partner in connection with their strategies towards Danish developers. Grab hold of me if you got ideas for stuff we should do for the community...</p><p>I am always open to partnerships concerning development of products and services so if you got an idea for something awesome we should create together don't hesitate to ping me.</p><p>Talk to me about: Software Development, Software architectures, Design Patterns, Software Reuse, API Driven Test Automation (Unit Tests, Integration Tests etc), SaaS (Software as a Service), Multi-tenancy, Web Services, REST Services, ASP.NET Web API, WCF, WPF, EF (Entity Framework), .NET, C#, VB.NET.</p>
+  Hi I am .Henrik.
+
+  I am a .NET aficionado, an ambitious and pragmatic software architect, a Microsoft Regional Director, a rock solid coder, a strategy game enthusiast and a history geek.
+
+  I have experience from a wide range of software development projects where I have worked as a developer, software architect, project manager, trainer, mentor and advisory consultant. Most of my professional career has centered around Microsoft's development platform and since the year 2000 I have specialized in Microsoft’s .NET platform where I among other things work with teaching, software architecture, web services, XAML based clients, component based frameworks, reuse and best practices for software development.
+
+  Over the years I have - together with other passionate people -spent a lot of time and energy engaging and building the Danish Microsoft development community and in line with that I am Microsoft Regional Director for Denmark – Microsoft’s selected partner in connection with their strategies towards Danish developers. Grab hold of me if you got ideas for stuff we should do for the community...
+
+  I am always open to partnerships concerning development of products and services so if you got an idea for something awesome we should create together don't hesitate to ping me.
+
+  Talk to me about: Software Development, Software architectures, Design Patterns, Software Reuse, API Driven Test Automation (Unit Tests, Integration Tests etc), SaaS (Software as a Service), Multi-tenancy, Web Services, REST Services, ASP.NET Web API, WCF, WPF, EF (Entity Framework), .NET, C#, VB.NET.
 
   ## Spotlight
-  <p>A couple of decades ago many IT systems replaced manual procedures, but today most new enterprise IT systems seem to replace existing systems.</p><p>One of my customers has an extensive system targeted at the health care sector. Over the last couple of years I have helped them transform their desktop oriented solution into a service based hostable one. Their system is complex because of not only the comprehensive business knowledge it incorporates, but also because of the many external systems and hardware devices it integrates with. Doing a big bang port of the system is not realistic so our approach has been to gradually transform the system into an increasingly service based one. An example of one of the big challenges has been how to handle the integration of local hardware devices in a hosted solution, but by creating an event based communication architecture leveraging SignalR we have solved it in an easy-to-use and robust manner.</p><p>Most developers seem to prefer green-field projects, and the aspect of creating marvelous architectures from scratch is most certainly tantalizing, but modernizing an existing system can also provide technical and architectural challenges and the satisfaction of a job well done.</p>
+  A couple of decades ago many IT systems replaced manual procedures, but today most new enterprise IT systems seem to replace existing systems.
+
+  One of my customers has an extensive system targeted at the health care sector. Over the last couple of years I have helped them transform their desktop oriented solution into a service based hostable one. Their system is complex because of not only the comprehensive business knowledge it incorporates, but also because of the many external systems and hardware devices it integrates with. Doing a big bang port of the system is not realistic so our approach has been to gradually transform the system into an increasingly service based one. An example of one of the big challenges has been how to handle the integration of local hardware devices in a hosted solution, but by creating an event based communication architecture leveraging SignalR we have solved it in an easy-to-use and robust manner.
+
+  Most developers seem to prefer green-field projects, and the aspect of creating marvelous architectures from scratch is most certainly tantalizing, but modernizing an existing system can also provide technical and architectural challenges and the satisfaction of a job well done.
 tagline:
 image:
   alt: "Henrik Lykke Nielsen"
