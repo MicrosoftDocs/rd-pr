@@ -1,0 +1,34 @@
+### YamlMime:Profile
+uid: rd.johan-lindfors
+name: Johan Lindfors
+metadata:
+  title: Johan Lindfors - Microsoft Regional Director
+  description: Public Speaker, Software Engineer, and Microsoft Regional Director in Winnipeg, Sweden
+remarks: |
+  ## Bio
+  I've been working with Windows and Windows Phone since the early days and I'm
+  often speaking about the platform and technologies at various events. In the
+  middle of 2011 I founded the company Coderox, currently entirely focused on
+  Microsoft platform with various customers and engagements, some leveraging
+  XAML and C#, others using C++ and DirectX. Before Coderox, I worked at
+  Microsoft for almost 13 years, and have also been the head of development at
+  Infozone.
+  
+  I've also been nominated and accepted into the Microsoft Regional Director
+  program thanks to my experience in cross platform client development and prior
+  customer and speaking engagements.
+  
+  Talk to me about: Universal Windows Platform, C++, C#, XAML, Mixed Reality and
+  Game Development
+tagline: Gaming / Martial Arts
+image:
+  alt: "Johan Lindfors"
+  src: media/profiles/johan-lindfors.jpg
+linkedin: http://www.linkedin.com/in/lindforsjohan
+twitter: https://www.twitter.com/JohanLindfors
+facebook: http://www.facebook.com/johan.lindfors
+location:
+  display: Sweden
+  lat: 62.821792
+  long: 16.735385
+  country: Sweden

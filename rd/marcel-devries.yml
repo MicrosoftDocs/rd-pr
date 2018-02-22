@@ -1,0 +1,78 @@
+### YamlMime:Profile
+uid: rd.marcel-devries
+name: Marcel de Vries
+metadata:
+  title: Marcel de Vries - Microsoft Regional Director
+  description: CTO, Public Speaker, and Consultant in Zutphen, Netherlands
+remarks: |
+  ## Bio
+  I am the co-founder and CTO of [Xpirit](http://xpirit.com), a high end
+  consulting firm based in Hilversum, Netherlands.
+  
+  I co-founded Xpirit in 2014 as a spin off from [Xebia
+  Netherlands](http://Xebia.com). Together with Xebia we help customers with
+  Digital Transformation, Agile Consulting and Full Stack development with both
+  Microsoft and open source products.
+  
+  I spend most of my time looking at how new emerging technologies, a shift in
+  mindset and a new way of work, can help organizations get software in
+  production faster. Helping organizations transform towards a high speed,
+  innovative and productive organization has become my passion. I love to learn
+  new technologies and teach others what I have learned. Besides my work as CTO
+  I also work as a consultant in the field of Application Lifecycle Management,
+  Continuous Delivery, DevOps, Cloud/Web scale application architectures and
+  Cross platform Enterprise Mobile app development with Xamarin.
+  
+  I am a frequent speaker at leading industry conferences. I have delivered
+  sessions at events like [Microsoft
+  TechEd](https://channel9.msdn.com/events/TechEd/Europe/2014/DEV-B209),
+  [Microsoft //Build](https://channel9.msdn.com/Events/Build/2014/3-595),
+  [Microsoft
+  TechDays](https://channel9.msdn.com/events/TechDays/Techdays-2014-the-
+  Netherlands/-Build-redux), Visual Studio Live!, Devintersection,
+  [Xebicon](https://www.youtube.com/watch?v=LrqYuvSVpTI), and Techorama . I host
+  several meetups in my region on [Microsoft
+  Azure](https://www.youtube.com/watch?v=LrqYuvSVpTI),
+  [Xamarin](https://www.youtube.com/watch?v=LrqYuvSVpTI)and
+  [ALM](https://www.youtube.com/watch?v=LrqYuvSVpTI). In my spare time I am also
+  an author of online courses at
+  [Pluralsight](https://www.pluralsight.com/authors/marcel-devries).
+  
+  I have been awarded by Microsoft the Microsoft ALM MVP award for 11
+  consecutive years and I am a Microsoft Regional Director since 2008.
+  
+  Talk to me about: DevOps, ALM, Cloud Computing, Microservices, Mobile
+  Development, Docker, IaaS, PaaS, SaaS
+
+  ## Spotlight
+  As a Regional Director I’ve had the honor of co-organizing TechDays, a
+  successful tech conference in the Netherlands that attracts about 2000
+  developers each year. I’ve found that while giving primarily technical
+  presentations at events like TechDays, it is very hard to make the conference
+  attendees successful in applying what we teach them in their day job. Which
+  begs the question: “How can we aid attendees in successfully adopting this
+  cool technology after they leave the conference?”
+  
+  The answer we found is to teach Digital Transformation to leadership teams.
+  Through Digital Transformation companies can increase efficiency, and drive
+  faster innovation by reimagining their operations and embracing Cloud, DevOps
+  and Open Source. Together with Microsoft, I designed a special track for
+  company thought leaders. We handpicked a substantial group of CTOs and built a
+  one day program focused on providing practical guidance on how to embrace the
+  Digital Transformation. This ultimately helps the conference audience get a
+  better landing place in their company and bring their innovative ideas to
+  life.
+tagline: .NET / ALM
+image:
+  alt: "Marcel de Vries"
+  src: media/profiles/marcel-devries.jpg
+twitter: https://www.twitter.com/marcelv
+linkedin: http://www.linkedin.com/in/marcelv
+wordpress: http://fluentbytes.com
+github: https://github.com/vriesmarcel
+instagram: https://instagram.com/vriesmarcel
+location:
+  display: Zutphen, Netherlands
+  lat: 52.126499
+  long: 6.209119
+  country: Netherlands

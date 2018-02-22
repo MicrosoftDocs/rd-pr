@@ -1,0 +1,40 @@
+### YamlMime:Profile
+uid: rd.mark-michaelis
+name: Mark Michaelis
+metadata:
+  title: Mark Michaelis - Microsoft Regional Director
+  description: Software Engineer, Writer, and Regional Directory in Spokane, Washington
+remarks: |
+  ## Bio
+  Mark Michaelis ([Blog](http://intellitect.com/author/mark-michaelis/))is the
+  founder of [IntelliTect](http://IntelliTect.com) and serves as the Chief
+  Technical Architect and Trainer. Since 1996, he has been a Microsoft MVP for
+  C#, Visual Studio Team System, and the Windows SDK and in 2007, he was
+  recognized as a Microsoft Regional Director. He also serves on several
+  Microsoft software design review teams, including C#, the Connected Systems
+  Division, and VSTS. Mark speaks at developer conferences and has written
+  numerous articles and books - [Essential C#
+  6.0](http://intellitect.com/EssentialCSharp) is his most recent. Mark holds a
+  Bachelor of Arts in Philosophy from the University of Illinois and a Masters
+  in Computer Science from the Illinois Institute of Technology. When not
+  bonding with his computer, Mark is busy with his family or training for
+  another Ironman (having completed his first in 2008). Mark lives in Spokane,
+  Washington, with his wife Elisabeth and three children, Benjamin, Hanna and
+  Abigail.
+  
+  Talk to me about: .NET/C#/.NET Core, DevOps/ALM/Agile/Continuous Delivery,
+  Robotics, Azure, ASP.NET, Test Automation, Visual Studio, PowerShell, Software
+  Architecture, Micro-services (docker), Deployment Automation, etc.
+tagline: Cycling / Entrepreneurship
+image:
+  alt: "Mark Michaelis"
+  src: media/profiles/mark-michaelis.jpg
+twitter: https://www.twitter.com/MarkMichaelis
+linkedin: http://www.linkedin.com/in/markmichaelis
+facebook: https://www.facebook.com/Mark.Michaelis
+wordpress: https://IntelliTect.com/mark
+location:
+  display: Spokane, WA, United States
+  lat: 47.65726
+  long: -117.412277
+  country: United States

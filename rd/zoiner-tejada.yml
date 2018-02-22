@@ -1,0 +1,52 @@
+### YamlMime:Profile
+uid: rd.zoiner-tejada
+name: Zoiner Tejada
+metadata:
+  title: Zoiner Tejada - Microsoft Regional Director
+  description: CEO, Architect, Microsoft Regional Director in Encinitas, California
+remarks: |
+  ## Bio
+  Hello there, it is an honor to meet you.
+  
+  I am most passionate about the business of software, with a strong combination
+  of business and technical acumen. On the technical side, I have written 3
+  books on Azure, a degree in computer science from Stanford, and have been
+  designing and building complex solutions for almost 20 years.
+  
+  However, since I began my consulting business as a junior in high school it
+  was never lost on me that excellent software without a profitable business is
+  just vaporware.
+  
+  Today, I’m a Microsoft Regional Director and have authored 5 books capturing
+  strategies to help Microsoft Partners build, grow and optimize successful
+  consulting practices, just like I have done with my partners at Solliance. I
+  am fortunate that I get to work with amazing clients to help them deliver
+  profitable innovation.
+  
+  One of my favorite business of software success stories is a small mom and pop
+  startup that we worked with- the matriarch and CEO had a big vision for where
+  she wanted to take her media company that was selling PDFs to help special
+  needs students learn to read. We helped them move away from selling static
+  PDF's of news and lessons to offering highly interactive experiences that
+  included narration and drag & drop puzzles and only required a browser. We
+  enabled their digital transformation by realizing there was more value in this
+  business than just providing the interactive article- we built a web-based
+  digital publishing platform (running entirely in Azure) that let their staff
+  build beautiful, interactive experiences and publish it for their subscribers
+  to see without having to use any other tools. The end result? They grew
+  quickly and were acquired at a significant valuation.
+  
+  How can I help you deliver profitable innovation?
+  
+  Talk to me about: Azure, Big Data, Data Science, Machine Learning, Cloud,
+  Consulting, Systems Integration and Profitability
+tagline: Entrepreneurship / Innovation
+image:
+  alt: "Zoiner Tejada"
+  src: media/profiles/zoiner-tejada.jpg
+twitter: https://twitter.com/zoinertejada
+location:
+  display: Encinitas, CA, United States
+  lat: 33.04581
+  long: -117.292572
+  country: United States

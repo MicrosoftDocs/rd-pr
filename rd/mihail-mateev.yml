@@ -1,0 +1,34 @@
+### YamlMime:Profile
+uid: rd.mihail-mateev
+name: Mihail Mateev
+metadata:
+  title: Mihail Mateev - Microsoft Regional Director
+  description: Microsoft Regional Director and Senior Solutions architect in Sofia, Bulgaria
+remarks: |
+  ## Bio
+  I am a Microsoft Regional Director currently living in Sofia, Bulgaria. My
+  interests range from technology to entrepreneurship. I am also interested in
+  programming, web development, and education.
+  
+  Technical Consultant, Community enthusiast, PASS Regional Mentor for Central
+  Eastern Europe, chapter lead, Microsoft MVP - Microsoft Azure, Data Platform.
+  
+  Organizer of SQLSaturday, Azure Bootcamp, IoT and JavaScript conferences.
+  
+  My experience is in various areas related to Microsoft technologies, including
+  Windows Platform, ASP.Net MVC, MS SQL Server and Microsoft Azure.
+  
+  I have a PhD in cloud computing and am a university lecturer on Smart Homes
+  and Smart Energy IoT Solutions
+tagline: Education / Entrepreneurship
+image:
+  alt: "Mihail Mateev"
+  src: media/profiles/mihail-mateev.jpg
+facebook: https://www.facebook.com/mihail.mateev
+twitter: https://twitter.com/mihailmateev
+linkedin: https://www.linkedin.com/in/mmateev/
+location:
+  display: Sofia, Bulgaria
+  lat: 42.697181
+  long: 23.32431
+  country: Bulgaria

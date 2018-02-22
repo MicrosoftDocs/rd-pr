@@ -1,0 +1,34 @@
+### YamlMime:Profile
+uid: rd.luke-han
+name: Luke Han
+metadata:
+  title: Luke Han - Microsoft Regional Director
+  description: CEO at Kyligence Inc, VP of Apache Kylin, and Microsoft Regional Director in 北京市, Colombia
+remarks: |
+  ## Bio
+  Hi, I'm Luke Han (韩卿 in Chinese), living in Shanghai, China. I'm co-founder
+  and CEO at Kyligence Inc., a leading data intelligence company focusing on Big
+  Data technologies and innovation, formed by the team who created Apache Kylin.
+  Also I'm co-creator and VP of Apache Kylin, an Apache Software Foundation Top
+  Level Project, first born in China TLP, and a Microsoft Regional Director and
+  MVP.
+  
+  I have spoken at a variety of events over the years about Big Data and Open
+  Source, including Strata Data Conference, Hadoop Summit, QCon, ApcheCon and
+  others, in different cities such as San Francisco, to London, Beijing,
+  Shanghai.
+  
+  Talk to me about : Open Source, Big Data, Data Warehouse, Business
+  Intelligence, Hadoop, Kylin, Cloud Computing or delicious food（not only
+  Chinese one:-)
+tagline: Food / Movies
+image:
+  alt: "Luke Han"
+  src: media/profiles/luke-han.jpg
+linkedin: https://linkedin.com/in/lukehq
+twitter: https://twitter.com/lukehq
+location:
+  display: Shanghai
+  lat: 31.169605
+  long: 121.516799
+  country: Colombia

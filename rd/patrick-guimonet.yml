@@ -1,0 +1,51 @@
+### YamlMime:Profile
+uid: rd.patrick-guimonet
+name: Patrick Guimonet
+metadata:
+  title: Patrick Guimonet - Microsoft Regional Director
+  description: Enterprise Solution Architect, CTO, and CEO in Versailles, France
+remarks: |
+  ## Bio
+  I am Enterprise Solution Architect, CTO, and CEO at Abalon currently living in
+  Châteaufort, France. My main focus is Office 365 and SharePoint. I am also
+  interested in Data Platform from Power BI to SQL Server and all Azure
+  services. I am found of IT technology in general.
+  
+  I created Abalon in 2011 to help customers deliver the best value from Office
+  365 and Microsoft collaborative platform.
+  
+  You can click the button above to read my blog. If you’d like to get in touch,
+  feel free to say hello through any of the social links below.
+
+  ## Spotlight
+  As an Office 365 enterprise solution architect, I constantly meet people, from
+  end-users to IT admins, who either don’t know what the service offers and how
+  it can help their business, or who largely underestimate the value and
+  richness of this offering. I am often asked how to present, explain and give
+  an accurate and easy-to-understand global vision of the Office 365 offering.
+  
+  My answer was to define a set of representations of Office 365 sub-services.
+  These sub-services define “the big picture” of Office 365 and present ways to
+  embrace this huge service, such as by defining several users’ targets,
+  comparing services inside Office365 to commonly used services on the Internet
+  via similar functionalities or by defining the Maslow’s hierarchy of Office
+  365 services.
+  
+  All these help a lot in conveying the big picture around Office 365 which is
+  the first step toward great user adoption.
+tagline: Microsoft Azure / Office 365
+image:
+  alt: "Patrick Guimonet"
+  src: media/profiles/patrick-guimonet.jpg
+twitter: https://twitter.com/patricg
+linkedin: https://fr.linkedin.com/in/patrickguimonet
+facebook: https://facebook.com/patrick.guimonet
+instagram: https://instagram.com/patrick_guimonet/
+youtube: https://www.youtube.com/channel/UCloGzYQ-NgFFWxvzTlY9Pig
+pinterest: https://pinterest.com/patrickguimonet/
+googleplus: https://plus.google.com/u/0/103626722141862651123
+location:
+  display: Versailles, France
+  lat: 48.801948
+  long: 2.131079
+  country: France

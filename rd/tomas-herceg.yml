@@ -1,0 +1,63 @@
+### YamlMime:Profile
+uid: rd.tomas-herceg
+name: Tomáš Herceg
+metadata:
+  title: Tomáš Herceg - Microsoft Regional Director
+  description: CEO, Software Architect, and Microsoft Regional Director in Prague, Czech Republic
+remarks: |
+  ## Bio
+  Hi, my name is Tomas Herceg and I am the CEO of RIGANTI, small software
+  development company located in Prague, Czech Republic.
+  
+  I am a Microsoft Regional Director and Microsoft Most Valuable Professional.
+  
+  I am the author of DotVVM, an open source .NET-based web framework which lets
+  you build Line-of-Business applications easily and without writing thousands
+  lines of Javascript code.
+  
+  You can find me speaking about .NET and web development, software
+  architecture, cloud computing and other topics at technical conferences.
+  
+  I am co-author of dotNETportal, the biggest Czech website about .NET
+  development. I have published many articles there.
+  
+  I am the co-founder of dotNETcollege, a company which hosts developer
+  trainings and organizes various community events.
+  
+  Talk to me about: Software Development,Mobile Development, Cloud Computing,
+  Open Source,Azure, Visual Studio, Software Engineering, ASP.NET,
+  C#,JavaScript, HTML5,DevOps, Xamarin
+
+  ## Spotlight
+  My company, RIGANTI, had been developing line of business applications using
+  many different technologies and JavaScript frameworks, like Angular or React.
+  We weren't satisfied with the amount of knowledge and steep learning curve,
+  and we didn't like writing tons of JavaScript code that only transferred data
+  from one place to another. Additionally, we had to build an infrastructure to
+  connect the client side with our .NET backend.
+  
+  We saw the need for a framework which would make us more productive, and which
+  could enable even less-skilled developers to start quickly. After we built a
+  prototype of the framework called DotVVM, we decided to make it open source
+  and build a set of products and services around it. DotVVM made us more
+  productive, allowed us to concentrate on the business logic of our
+  applications, instead of writing tons of boilerplate JavaScript code, and
+  changed our business dramatically.
+  
+  While we still do custom software development for our clients, we also have
+  our own product portfolio based on DotVVM. There are many companies that
+  already use DotVVM, and the number grows constantly. We help these companies
+  to architect their solutions based on DotVVM, and teach them how to use it
+  properly.
+tagline: Education / Programming
+image:
+  alt: "Tomáš Herceg"
+  src: media/profiles/tomas-herceg.jpg
+facebook: https://facebook.com/hercegtomas
+twitter: https://twitter.com/hercegtomas
+linkedin: https://cz.linkedin.com/in/hercegtomas
+location:
+  display: Prague, Czech Republic
+  lat: 50.066802
+  long: 14.465841
+  country: Czech Republic

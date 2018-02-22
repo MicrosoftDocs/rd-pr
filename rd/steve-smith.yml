@@ -1,0 +1,58 @@
+### YamlMime:Profile
+uid: rd.steve-smith
+name: Steve Smith
+metadata:
+  title: Steve Smith - Microsoft Regional Director
+  description: Microsoft Regional Director and Business Owner in Leicester, United Kingdom
+remarks: |
+  ## Bio
+  Hi, my name is Steve Smith based out of the UK and I am the founder of
+  Combined Knowledge in the UK and CEO of Mindsharp in the US and I have been a
+  collaboration and infrastructure specialist for the last 30 years.
+  
+  My company's primary goal since 2003 has been to focus on creating and
+  building customized courseware, solutions and products that work together to
+  enable companies to have a complete education and adoption methodology when
+  deploying Microsoft collaboration products be it on premises, Cloud or Hybrid.
+  
+  Our current development focus is building productivity, training, support and
+  helpdesk apps that integrate with SharePoint online and on premises as well as
+  Office 365 Apps using Azure AD applications and Office Add-ins. we already
+  have several apps in the market with over 750,000 subscribers.
+  
+  I am also the founder and organizer of the SharePoint Evolution Conference as
+  well the UK SharePoint User Group since 2006 and have been a Microsoft MCT
+  since 1998 and a SharePoint MVP since 2006, speaking and keynoted at many
+  Microsoft and community events over the last 10 years.
+  
+  Talk to me about: SharePoint,Hybrid,Office365,Productivity, Adoption,Training
+
+  ## Spotlight
+  Over the last 30 years I have seen many challenges for companies as technology
+  has progressed but none so challenging and exciting as the current landscape.
+  I see companies struggle to decide if they should remain on-premises with
+  legacy infrastructure or should they move 100% to a hosted service platform
+  like Office 365 removing some of the legacy control and management issues. But
+  that brings with it another set of issues like skills gaps, adoption and data
+  migration not to mention data protection. But not every company wants the
+  evergreen world for everything so they look at hybrid solutions and this adds
+  its own challenges with questions around identity management, connectivity and
+  what systems go where. But hybrid brings control and time frames and I think
+  that the next few years will see hybrid deployments flourishing as a natural
+  stepping stone for the business. They can control the skills gap issue by
+  focusing on specific systems and functionality that will shift to a hosted
+  model in say Azure or Office 365. It’s still early for hybrid though, as the
+  business and provider come to terms with building solutions that can maximize
+  productivity yet remaining cost effective.
+tagline: Education / Entrepreneurship
+image:
+  alt: "Steve Smith"
+  src: media/profiles/steve-smith.jpg
+twitter: https://twitter.com/SteveSmithCK
+linkedin: https://uk.linkedin.com/in/steve-smith-7990611
+youtube: https://www.youtube.com/user/combinedknowledge/videos
+location:
+  display: Leicester, England, United Kingdom
+  lat: 52.637958
+  long: -1.140419
+  country: United Kingdom

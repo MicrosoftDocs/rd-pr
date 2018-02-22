@@ -1,0 +1,82 @@
+### YamlMime:Profile
+uid: rd.oleksandr-krakovetskyi
+name: Oleksandr Krakovetskyi
+metadata:
+  title: Oleksandr Krakovetskyi - Microsoft Regional Director
+  description: Microsoft Regional Director, Software Engineer, and Architect in Roma, Ukraine
+remarks: |
+  ## Bio
+  I am CEO of [DevRain Solutions](http://devrain.com), IT company from Ukraine.
+  We are good in creating web, cloud, mobile and artificial intelligence
+  solutions. In 2013 company was awarded as "Lead partner in creating mobile
+  solutions on Windows Phone 8 platform" by Microsoft Ukraine.
+  
+  I am a [Microsoft Regional Director](http://rd.microsoft.com/) and [Microsoft
+  Most Valuable Professional](https://mvp.microsoft.com/en-
+  us/PublicProfile/4032160) in several categories - previously ASP.NET/IIS,
+  Windows Phone, Windows Platform Development and now it's an Artificial
+  Intelligence. Also I was nominated as Telerik Developer Expert for several
+  years and got ["The Best Professional in Software Architecture" Ukrainian IT
+  award](https://itawards.ua/en/).
+  
+  I am CTO of [DonorUA](https://donor.ua) \- automated blood donors recruitment
+  system and CTO of [Udonors](http://udonors.com) \- the most intelligent system
+  for recruiting blood donors. We won several competitions such as [Stockholm
+  Startup Weekend: Social
+  Innovation](http://www.kyivpost.com/article/content/technology/ukrainian-tech-
+  startup-aims-to-encourage-blood-donation-412073.html), [IDCEE
+  Hackathon](http://idcee.org/news/idcee-social-entrepreneurship-hackathon-
+  winner-donorua-has-launched/), "Ukraine is looking for startups" etc.
+  
+  I am PhD. in Computer Science. My work was connected with Data Mining,
+  information search, NER/NLP problems. Published 20 science articles and one
+  book about IT in Ukraine, education and R&D.
+  
+  I founded my first User Group in 2005. It was Microsoft .NET User Group
+  Vinnytsia. After that I founded "Windows Phone 7 Rocks!" and now driving
+  ["AppClub { build, monetize }"](http://appclub.im) community for IT startups
+  and entrepreneurs.
+  
+  Open Data expert in Ukrainian state agency of e-government, community lead in
+  [Kyiv Smart City](http://www.kyivsmartcity.com/) initiative, ex-coordinator of
+  EGAP Challenge (contest for e-demIT startups), mentor of 1991 Open Data
+  Incubator, Apps4Cities, EGAP Challenge etc.
+
+  ## Spotlight
+  My company, DevRain Solutions, and I noticed a growing interest from our
+  customers needing to extend their presence on different devices and platforms
+  , whether they be Windows, iOS, Android, or XBOX One. Previously we used
+  native tools and various ecosystems to build all these applications. Starting
+  as a one-platform development company, we transitioned to Xamarin which
+  allowed us quickly extend the number of platforms, significantly optimize the
+  development process, and decrease the average time to market for our products
+  and solutions.
+  
+  We have successfully implemented many solutions for several companies in the
+  communication, healthcare, entertainment, and technology industries -
+  including solutions on Microsoft Azure, Office 365, Azure Cognitive Services,
+  Bot Framework, ASP.NET MVC and Xamarin. For example, I built an intelligent
+  search system for blood donors in Ukraine. With this cloud and chatbot-based
+  solution, the average time of identifying blood donors was decreased from 3-4
+  days to mere hours.
+  
+  I can provide more accurate vision and technical details to my customers,
+  governmental institutions, and community thanks to the two-directional
+  communication with Microsoft visionaries and access to resources and tutorials
+  provided by the Regional Director Program.
+tagline: Entrepreneurship / Innovation
+image:
+  alt: "Oleksandr Krakovetskyi"
+  src: media/profiles/oleksandr-krakovetskyi.jpg
+twitter: https://twitter.com/msugvnua
+facebook: https://facebook.com/alex.krakovetskiy
+linkedin: https://www.linkedin.com/in/krakovetskiy
+soundcloud: https://soundcloud.com/alex-krakovetskiy
+github: https://github.com/DevRainSolutions/
+angel-list: https://angel.co/sashaeve
+youtube: https://youtube.com/user/appclubim
+location:
+  display: Kyiv city, Ukraine
+  lat: 50.449558
+  long: 30.548883
+  country: Ukraine

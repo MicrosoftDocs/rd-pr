@@ -1,0 +1,54 @@
+### YamlMime:Profile
+uid: rd.david-yack
+name: David Yack
+metadata:
+  title: David Yack - Microsoft Regional Director
+  description: Microsoft Regional Director, Photographer, and Public Speaker in Colorado Springs, Colorado
+remarks: |
+  ## Bio
+  David is the CTO of Colorado Technology Consultants based in Colorado. He is a
+  Microsoft Regional Director and a Microsoft MVP. As a senior hands’ on
+  technology and business consultant with over 20 years of industry experience,
+  David enjoys developing applications on the Microsoft platforms, specializing
+  in large system architecture and design. David focus is on helping clients
+  migrate and build new applications on Microsoft technologies, as well as
+  helping to mentor and train their staffs.
+  
+  David is a is a frequent speaker/trainer at user group, industry events and
+  private company events around the world. Antarctica is the only continent
+  David hasn't been on and he is accepting invitations.
+  
+  David has been on the author team of multiple .NET related books including the
+  book CRM as a Rapid Development Platform (TheCRMBook.com). You can read his
+  blogs at blog.davidyack.com and crm.davidyack.com.
+  
+  Ask me about Dynamics 365, Office 365, Microsoft Azure, Windows development,
+  Mobile development, Cloud Computing
+
+  ## Spotlight
+  Challenge yourself to innovate! It’s tempting to keep doing what you’ve always
+  done and not learn the latest technology, especially considering the rapid
+  pace of technology changes today. But that can be a problem when you start
+  falling behind your peers who are investing in learning new technologies. One
+  day you will look up and realize you aren’t a good fit for any of the new
+  project skill demands. You can’t learn everything that is newly released; you
+  must focus on one or two new technologies to invest in.
+  
+  I’ve had a lot of fun helping others do this by leading innovation challenge
+  days at one of the popular Dynamics 365 conferences. We start the day by
+  brainstorming ideas and then form teams. This is where the magic happens. Two
+  recent teams used the Bot Framework and IoT with Connected Field Service. In
+  both examples, the teams left with hands-on experience and a good
+  understanding of what each of the technologies can do. So even setting aside a
+  single day can make a difference and if you get a chance to do it with a team
+  it can be even more rewarding!
+tagline: Photography / Technology
+image:
+  alt: "David Yack"
+  src: media/profiles/david-yack.jpg
+twitter: https://twitter.com/davidyack
+location:
+  display: Colorado Springs, CO, United States
+  lat: 38.83348
+  long: -104.821807
+  country: United States

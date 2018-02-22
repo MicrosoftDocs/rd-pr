@@ -1,0 +1,26 @@
+### YamlMime:Profile
+uid: rd.michel-hubert
+name: Michel Hubert
+metadata:
+  title: Michel Hubert - Microsoft Regional Director
+  description: CTO, Microsoft Regional Director, and MVP Azure in Paris, France
+remarks: |
+  ## Bio
+  I am a consultant, architect, and Microsoft Regional Director currently living
+  in Paris, France. My interests range from BizTalk to Azure. I am also
+  interested in Architecture, technology, and programming.
+  
+  You can click the button above to visit my company website. If you’d like to
+  get in touch, feel free to say hello through any of the social links below.
+tagline: Architecture / Azure
+image:
+  alt: "Michel Hubert"
+  src: media/profiles/michel-hubert.jpg
+twitter: https://twitter.com/MichelHubert
+linkedin: http://www.linkedin.com/pub/michel-hubert/18/6b8/ab2
+facebook: https://facebook.com/michelhubertcellenza
+location:
+  display: Paris, France
+  lat: 48.861208
+  long: 2.345439
+  country: France

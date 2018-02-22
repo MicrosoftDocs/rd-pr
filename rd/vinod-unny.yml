@@ -1,0 +1,68 @@
+### YamlMime:Profile
+uid: rd.vinod-unny
+name: Vinod Unny
+metadata:
+  title: Vinod Unny - Microsoft Regional Director
+  description: Consultant, Software Engineer, and Microsoft Regional Director in Gurgaon, India
+remarks: |
+  ## Bio
+  Hi there!
+  
+  I'm Vinod Unny, the Owner of [Enterprise
+  InfoTech](http://www.enterpriseinfotech.com), a technology consultancy company
+  based in Gurgaon, India. My role is that of a Senior Technology Consultant. I
+  am an active member of India’s Information Technology community. I've lead
+  both technical and techno-business teams in the United States, Japan and of
+  course in India and have traveled widely and regularly, both in India and
+  around the world for projects and events.
+  
+  I've been an active and popular speaker in many different technology seminars
+  across the country. My speaking engagements range from large industry
+  conferences to private events of many management & technical institutes as
+  well as organizations. I also conduct trainings, both online and on-site, for
+  tech teams on latest technologies and have trained employees of companies from
+  across the world.
+  
+  I'm proud to be a Microsoft Regional Director for many years now. It allows me
+  to work closely with Microsoft and clients, both theirs and ours, to provide
+  technology solutions that are effective.
+  
+  Talk to me about: Cloud Computing, Information Management and Security,
+  Software Architecture, Network Infrastructure Architecture, Software
+  Development, C#, ASP.NET, SharePoint, Office 365, SQL Server, Windows Server,
+  Windows Client
+
+  ## Spotlight
+  My role as a senior technology consultant and advisory member involves helping
+  organizations use technology effectively to design and implement
+  infrastructure, increase productivity through software, and minimize data
+  security risks.
+  
+  For instance, I have helped a micro-finance organization implement a solution
+  for its consumers in India using Azure SQL Service. I’ve also implemented an
+  IaaS + SaaS solution using Azure + Office 365 for another client to migrate
+  their on-premises deployments. And it doesn’t stop there.
+  
+  I’ve noticed that while many of these organizations have heard of the term
+  "cloud", they are unsure of its true meaning and what it entails to move to
+  the “cloud’. Helping them understand the ‘what’, ‘why’, ‘how’, and even ‘if’
+  they should implement cloud solutions has been one of my key tasks in recent
+  times. In my opinion, educating the top management and employees of an
+  organization in latest technology trends such as cloud and big data is even
+  more important than managing technical challenges and risks.
+  
+  In this respect, I've held preparatory trainings to bring organizations up to
+  speed with technologies. Such activities, in turn, have helped me design and
+  deliver solutions that meets their needs more effectively.
+tagline: Gaming / Movies
+image:
+  alt: "Vinod Unny"
+  src: media/profiles/vinod-unny.jpg
+twitter: https://twitter.com/vinodunny
+facebook: https://facebook.com/vinod.unny
+linkedin: https://www.linkedin.com/in/vinodunny
+location:
+  display: Gurgaon, Haryana, India
+  lat: 28.477619
+  long: 77.069557
+  country: India

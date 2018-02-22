@@ -1,0 +1,45 @@
+### YamlMime:Profile
+uid: rd.sasha-goldshtein
+name: Sasha Goldshtein
+metadata:
+  title: Sasha Goldshtein - Microsoft Regional Director
+  description: CTO, Microsoft Regional Director in Kefar Sava, Israel
+remarks: |
+  ## Bio
+  I'm Sasha, a software engineer, author, consultant, blogger, and trainer. I'm
+  based in Israel but spend many weeks abroad speaking at conferences, working
+  with customers, and traveling. My expertise is around performance
+  optimization, production monitoring and diagnostics, system architecture, and
+  mobile development.
+  
+  I'm the CTO of Sela Group, a consulting, training, and outsourcing company
+  working with customers on software development, testing, architecture and
+  design, and lifecycle management. We work closely with Microsoft Azure, Amazon
+  Web Services, and Google Cloud Platform, across a variety of operating
+  systems, software stacks, and deployment tools.
+  
+  I divide my time between working on multiple open source projects for
+  performance tracing of Linux and Windows systems, helping customers with
+  impossible production problems, teaching and speaking at conferences, building
+  cloud migration plans, and organizing conferences, including Sela Developer
+  Practice, Israel's biggest software developer conference. I'm also the author
+  of "Pro .NET Performance" (Apress) and three Pluralsight courses.
+  
+  I am recognized as a Microsoft Regional Director, and I work closely with the
+  local Microsoft subsidiary as well as Microsoft product teams advising,
+  organizing, and helping shape the future of the Microsoft platform.
+tagline: Programming / Running
+image:
+  alt: "Sasha Goldshtein"
+  src: media/profiles/sasha-goldshtein.jpg
+github: https://github.com/goldshtn
+linkedin: https://www.linkedin.com/in/sashag/
+slideshare: https://www.slideshare.net/goldshtn
+stackoverflow: https://stackoverflow.com/users/587772/sasha-goldshtein
+twitter: https://twitter.com/goldshtn
+wordpress: http://blog.sashag.net
+location:
+  display: Kfar Saba, Israel
+  lat: 32.182678
+  long: 34.912517
+  country: Israel

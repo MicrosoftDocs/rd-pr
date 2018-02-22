@@ -1,0 +1,85 @@
+### YamlMime:Profile
+uid: rd.grzegorz-rycaj
+name: Grzegorz Rycaj
+metadata:
+  title: Grzegorz Rycaj - Microsoft Regional Director
+  description: Board Member, R&amp;D Director, and Microsoft Regional Director in Warszawa, Polska
+remarks: |
+  ## Bio
+  I am a highly motivated professional, passionate about getting more productive
+  every day and about letting people improve their efficiency. Seriously, that's
+  something, that I can't stop thinking about.
+  
+  I am currently holding the position of CTO / R&D Director at Billennium, one
+  of the fastest growing tech companies in CEE, according to Deloitte Fast 50
+  Ranking. My expertise and community dedication has resulted in recognizing me
+  since 2011 as the only Polish Microsoft MVP on Visual Studio and Development
+  Technologies and Microsoft Regional Director since 2016.
+  
+  As a Team Lead I am currently developing and deploying business software
+  mainly based on Paperless platform. What I care about the most is constantly
+  looking for embracing disruptive, innovative technology.
+  
+  Several years ago our company established a partnership with Microsoft,
+  managing and implementing many successful projects, including cloud
+  transformations.
+  
+  I repeatedly appear as a speaker on the regional and international conferences
+  focused on the latest technologies, including Microsoft Technology Summit,
+  Days of Computer Science editions, as well as at the meetings of professional
+  user groups and business oriented conferences. I also act as a leader of
+  Warsaw Official .Net User Group, the offline community for Microsoft related
+  technology enthusiasts.
+  
+  I have participated in the Ask The Expert on several conferences holding the
+  role of the Visual Studio Application Lifecycle Management specialist. I also
+  had a pleasure to work with Microsoft on authoring a couple of articles on
+  MSDN portal.
+  
+  Outside of work I mainly spend time with my recently extended family (rookie
+  in a father role) including 2 great dogs, that can eat everything they find in
+  our appartment. We travel quite a lot, always happy to visit new places.
+  Recently our travels are joined with my triathlon events, that I really enjoy
+  attending!
+  
+  Talk to me about:  
+  \- Software Development  
+  \- SaaS (Software as a Service)  
+  \- Cloud Computing  
+  \- DevOps  
+  \- Continuous delivery
+
+  ## Spotlight
+  My company and I have been working with Microsoft to deliver fresh, top-notch
+  technologies to our customers. In 2016 we jumped at the opportunity to create
+  the first country-wide solution in the Polish public sector, especially
+  considering we had prior experience migrating one of the products for Insead
+  University from AWS to Azure cloud.
+  
+  The customer's need itself was an ideal scenario to be deployed in the cloud.
+  Standard Audit Files (SAF) were uploaded throughout the month, but we noticed
+  there were 2 days of significantly heavy traffic. In fact, 99% of files were
+  uploaded within this short timeframe.
+  
+  My team and I spent several intensive weeks designing and implementing a SAF
+  solution which fully utilized the Azure stack, including App Service
+  Environment, Service Bus – Queue, Storage Account – Blob, WebJobs, Application
+  Insights, and Redis Cache. We ran the process based on agile practices and an
+  ALM engine provided by Visual Studio Team Services underneath.
+  
+  I was extremely –pleased with the result. All major Polish companies can now
+  submit their data without delay and the platform itself is designed to scale
+  to serve next levels of traffic load. We have proved that there are great
+  opportunities in which using a cloud approach can have a huge impact and I
+  can’t wait for our next opportunity to contribute to our digital world.
+tagline: Design / Education
+image:
+  alt: "Grzegorz Rycaj"
+  src: media/profiles/grzegorz-rycaj.jpg
+linkedin: https://pl.linkedin.com/in/grzegorzrycaj
+wordpress: http://www.visualstudioalm.com/
+location:
+  display: Warszawa, Polska
+  lat: 52.23558
+  long: 21.010269
+  country: Polska

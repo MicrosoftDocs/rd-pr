@@ -1,0 +1,44 @@
+### YamlMime:Profile
+uid: rd.nicola-ferrini
+name: Nicola Ferrini
+metadata:
+  title: Nicola Ferrini - Microsoft Regional Director
+  description: Trainer, Cloud Expert, and Microsoft Regional Director in Roma, Italia
+remarks: |
+  ## Bio
+  I'm a freelance Microsoft Certified Trainer (MCT) and I work for several
+  Microsoft CPLS (Certified Partner for Learning Solutions) in Italy. I have
+  several thousand hours of instructor-led training experience.
+  
+  I'm a fan of virtualization at the server, desktop and application level.
+  
+  I started to use computers in 1998 and this passion led me to improve and
+  achieve prestigious international certifications, like MCSE and MCT.
+  
+  I also hold several certifications from important vendors like CompTIA, CWNP,
+  CEH, BlackBerry, Veeam and VMware.
+  
+  My principal activities are training, technical writing and systems
+  engineering.
+  
+  I am a Microsoft Most Valuable Professional for Microsoft Azure and Windows &
+  Devices for IT (2 awarded categories)
+  
+  I am a member of the Microsoft Regional Director Program and Community Lead of
+  ICTPower.it, an IT Pro technical community.
+  
+  Talk to me about: Cloud Computing, IaaS (Infrastructure as a Service), System
+  administration, Virtualization, Windows Server, Windows Client, Azure, VMware,
+  VDI, Horizon View.
+tagline: DIY / Education
+image:
+  alt: "Nicola Ferrini"
+  src: media/profiles/nicola-ferrini.jpg
+twitter: https://twitter.com/nicolaferrini
+facebook: https://facebook.com/NicolaFerrini.it
+linkedin: https://it.linkedin.com/in/nicolaferrini
+location:
+  display: Roma, RM, Italia
+  lat: 41.903221
+  long: 12.49565
+  country: Italia

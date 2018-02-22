@@ -1,0 +1,42 @@
+### YamlMime:Profile
+uid: rd.rockford-lhotka
+name: Rockford Lhotka
+metadata:
+  title: Rockford Lhotka - Microsoft Regional Director
+  description: CTO, Author, and Microsoft Regional Director in Minneapolis, Minnesota
+remarks: |
+  ## Bio
+  Rockford Lhotka is the CTO of [Magenic](http://magenic.com), and is the
+  creator of the widely used [CSLA .NET](http://cslanet.com) open-source
+  development framework.
+  
+  He is the author of numerous books, and regularly speaks at major conferences
+  around the world. Rockford is a Microsoft Regional Director and MVP. He is co-
+  chair of the [Visual Studio Live!](http://vslive.com), and the chair of the
+  [Modern Apps Live](http://modernappslive.com) conferences.
+  
+  Rockford has worked on many projects in various roles, including software
+  architecture, design and development, network administration and project
+  management. Over his career he has designed and helped to create systems for
+  bio-medical manufacturing, agriculture, point of sale, credit card fraud
+  tracking, general retail, construction and healthcare.
+  
+  [Magenic](http://magenic.com) addresses your toughest, most complex software
+  development challenges and delivers results.
+  
+  Talk to me about: Software Development, Mobile Development, Cloud Computing,
+  Microservices
+tagline: Music / Programming
+image:
+  alt: "Rockford Lhotka"
+  src: media/profiles/rockford-lhotka.jpg
+facebook: https://facebook.com/RockfordLhotka
+linkedin: http://www.linkedin.com/in/rockfordlhotka
+github: https://github.com/rockfordlhotka
+twitter: https://twitter.com/rockylhotka
+goodreads: https://goodreads.com/rockylhotka
+location:
+  display: Minneapolis, MN, USA
+  lat: 44.979019
+  long: -93.264938
+  country: United States
