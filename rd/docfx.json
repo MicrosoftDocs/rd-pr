@@ -35,8 +35,8 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/rd/breadcrumb/toc.json",
-      "extendBreadcrumb": true
+      "Brand": "Regional Directors",
+	    "uhfHeaderId": "MSDocsHeader-RegionalDirectors"
     },
     "fileMetadata": {},
     "template": [],
