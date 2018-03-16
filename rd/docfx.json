@@ -36,7 +36,8 @@
     "externalReference": [],
     "globalMetadata": {
       "Brand": "Regional Directors",
-	    "uhfHeaderId": "MSDocsHeader-RegionalDirectors"
+      "uhfHeaderId": "MSDocsHeader-RegionalDirectors",
+      "hasComments": false
     },
     "fileMetadata": {},
     "template": [],
