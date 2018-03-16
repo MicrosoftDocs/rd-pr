@@ -6,7 +6,7 @@ metadata:
   description: Microsoft Regional Director, IT Speaker/Mentor, and Data Scientist in Miami, Florida
 remarks: |
   ## Bio
-  Joe Homnick is a [Microsoft Regional Director](http://rd.microsoft.com) since
+  Joe Homnick is a [Microsoft Regional Director](https://rd.microsoft.com) since
   the start of the program over 20 years ago and is a principal owner of
   [Homnick Systems](http://www.homnick.com) (HSI), a Microsoft Gold Certified
   Partner located in Boca Raton, Florida. HSI is one of the most established
@@ -59,7 +59,7 @@ tagline: Education / Innovation
 image:
   alt: "Joe Homnick"
   src: media/profiles/joe-homnick.jpg
-linkedin: http://www.linkedin.com/in/joehomnick
+linkedin: https://www.linkedin.com/in/joehomnick
 twitter: https://twitter.com/smokingjoe
 facebook: https://facebook.com/joe.homnick
 location:
