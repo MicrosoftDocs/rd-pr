@@ -1257,6 +1257,7 @@ profiles:
     display: Coquitlam, BC, Canada
     lat: 49.284919
     long: -122.79438
+  Country: Canada
 - uid: rd.richard-conway
   name: Richard Conway
   tagline: Astronomy / Data Science
