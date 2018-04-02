@@ -1,9 +1,4 @@
 { 
   "redirections": [ 
-    {
-       "source_path": "rd/adam.cogan",
-       "redirect_url": "/adam-cogan.yml",
-       "redirect_document_id": false
-    } 
   ] 
 }
