@@ -1,4 +1,4 @@
 ---
-redirect_url: adam.cogan.yml
+redirect_url: adam-cogan
 redirect_document_id: FALSE
 ---
