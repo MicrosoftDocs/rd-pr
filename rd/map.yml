@@ -857,16 +857,6 @@ profiles:
     display: ä¸­å›½åŒ—äº¬å¸‚Beijing Shi
     lat: 32.26667
     long: 115.716667
-- uid: rd.lei-xu
-  name: Lei Xu
-  tagline: DIY / Dogs
-  image:
-    src: media/profiles/lei-xu.jpg
-    alt: "Lei Xu"
-  location: 
-    display: ä¸­å›½åŒ—äº¬å¸‚Beijing Shi
-    lat: 32.26667
-    long: 115.716667
 - uid: rd.luis-linares
   name: Luis Linares
   tagline: Innovation / Technology
