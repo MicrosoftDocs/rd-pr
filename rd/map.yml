@@ -54,7 +54,7 @@ profiles:
     src: media/profiles/alexander-wechsler.jpg
     alt: "Alexander Wechsler"
   location: 
-    display: DieÃŸen am Ammersee, Deutschland
+    display: Diessen am Ammersee, Germany
     lat: 47.94868
     long: 11.10328
 - uid: rd.alex-tumanov
@@ -64,7 +64,7 @@ profiles:
     src: media/profiles/alex-tumanov.jpg
     alt: "Alex Tumanov"
   location: 
-    display: Odessa, Одесская область, Украина
+    display: Odessa, Ukraine
     lat: 46.472499
     long: 30.73711
 - uid: rd.allen-tuladhar
@@ -244,7 +244,7 @@ profiles:
     src: media/profiles/carsten-rachfahl.jpg
     alt: "Carsten Rachfahl"
   location: 
-    display: Hallenberg, Deutschland
+    display: Hallenberg, Germany
     lat: 51.111839
     long: 8.62172
 - uid: rd.chan-park
@@ -254,7 +254,7 @@ profiles:
     src: media/profiles/chan-park.jpg
     alt: "Chan Park"
   location: 
-    display: ëŒ€í•œë¯¼êµ­ Seoul
+    display: Seoul, South Korea
     lat: 37.566535
     long: 126.977966
 - uid: rd.chris-kinsman
@@ -324,7 +324,7 @@ profiles:
     src: media/profiles/damir-dizdarevic.jpg
     alt: "Damir Dizdarevic"
   location: 
-    display: Sarajevo, Federation of Bosnia and Herzegovina, Bosnia and Herzegovina
+    display: Sarajevo, Federation of Bosnia and Herzegovina
     lat: 43.85942
     long: 18.43576
 - uid: rd.damir-dobric
@@ -404,7 +404,7 @@ profiles:
     src: media/profiles/daron-yondem.jpg
     alt: "Daron Yondem"
   location: 
-    display: Ä°stanbul, Turkey
+    display: Istanbul, Turkey
     lat: 41.013
     long: 28.9638
 - uid: rd.dave-nel
@@ -438,21 +438,21 @@ profiles:
     lat: 8.505109
     long: 76.951408
 - uid: rd.drgreg-low
-  name: Dr Greg Low
+  name: Dr. Greg Low
   tagline: Education / Entrepreneurship
   image:
     src: media/profiles/drgreg-low.jpg
-    alt: "Dr Greg Low"
+    alt: "Dr. Greg Low"
   location: 
     display: Melbourne, Victoria, Australia
     lat: -37.817531
     long: 144.967147
 - uid: rd.duxraymond-sypmp
-  name: Dux Raymond   Sy, PMP
+  name: Dux Raymond Sy, PMP
   tagline: Entrepreneurship / Food
   image:
     src: media/profiles/duxraymond-sypmp.jpg
-    alt: "Dux Raymond   Sy, PMP"
+    alt: "Dux Raymond Sy, PMP"
   location: 
     display: Washington, DC
     lat: 38.890369
@@ -484,7 +484,7 @@ profiles:
     src: media/profiles/engin-polat.jpg
     alt: "Engin Polat"
   location: 
-    display: Ä°stanbul, KadÄ±kÃ¶y, Turkey
+    display: Istanbul, Turkey
     lat: 40.991218
     long: 29.022737
 - uid: rd.ericd-boyd
@@ -628,11 +628,11 @@ profiles:
     lat: 56.184501
     long: 10.190309
 - uid: rd.herve-thibault
-  name: HervÃ© Thibault
+  name: Herve Thibault
   tagline: Education / Enterprise Mobility
   image:
     src: media/profiles/herve-thibault.jpg
-    alt: "HervÃ© Thibault"
+    alt: "Herve Thibault"
   location: 
     display: Paris, France
     lat: 48.857208
@@ -844,7 +844,7 @@ profiles:
     src: media/profiles/koray-kocabas.jpg
     alt: "Koray Kocabas"
   location: 
-    display: Ä°stanbul, TÃ¼rkiye
+    display: Istanbul, Turkey
     lat: 41.017
     long: 28.9678
 - uid: rd.lei-xu
@@ -854,7 +854,7 @@ profiles:
     src: media/profiles/lei-xu.jpg
     alt: "Lei Xu"
   location: 
-    display: ä¸­å›½åŒ—äº¬å¸‚Beijing Shi
+    display: Beijing, China
     lat: 32.26667
     long: 115.716667
 - uid: rd.luis-linares
@@ -1044,7 +1044,7 @@ profiles:
     src: media/profiles/mitsuru-furuta.jpg
     alt: "Mitsuru Furuta"
   location: 
-    display: Paris, ÃŽle-de-France, France
+    display: Paris, Ile-de-France, France
     lat: 48.853208
     long: 2.337439
 - uid: rd.neil-roodyn
@@ -1094,7 +1094,7 @@ profiles:
     src: media/profiles/oleksandr-krakovetskyi.jpg
     alt: "Oleksandr Krakovetskyi"
   location: 
-    display: Kyiv city, Ukraine
+    display: Kiev, Ukraine
     lat: 50.449558
     long: 30.548883
 - uid: rd.orin-thomas
@@ -1124,7 +1124,7 @@ profiles:
     src: media/profiles/pablo-pelaez.jpg
     alt: "Pablo Pelaez"
   location: 
-    display: Madrid, EspaÃ±a
+    display: Madrid, Espana
     lat: 40.42028
     long: -3.70577
 - uid: rd.patrick-guimonet
@@ -1148,11 +1148,11 @@ profiles:
     lat: 42.880569
     long: -71.326759
 - uid: rd.patrik-lowendahl
-  name: Patrik LÃ¶wendahl
+  name: Patrik Loewendahl
   tagline: cloud / digital transformation
   image:
     src: media/profiles/patrik-lowendahl.jpg
-    alt: "Patrik LÃ¶wendahl"
+    alt: "Patrik Loewendahl"
   location: 
     display: Stockholm, Sweden
     lat: 59.332569
@@ -1174,7 +1174,7 @@ profiles:
     src: media/profiles/philipp-bauknecht.jpg
     alt: "Philipp Bauknecht"
   location: 
-    display: Pforzheim, Deutschland
+    display: Pforzheim, Germany
     lat: 48.89011
     long: 8.70013
 - uid: rd.philippe-sentenac
@@ -1234,7 +1234,7 @@ profiles:
     src: media/profiles/ricardo-gonzalez.jpg
     alt: "Ricardo Gonzalez"
   location: 
-    display: BogotÃ¡ - Bogota, Colombia
+    display: Bogota, Colombia
     lat: 4.61496
     long: -74.069412
 - uid: rd.richard-campbell
@@ -1374,7 +1374,7 @@ profiles:
     src: media/profiles/stavros-menegos.jpg
     alt: "Stavros Menegos"
   location: 
-    display: Î ÎµÎ¹ÏÎ±Î¹Î¬Ï‚, Î•Î»Î»Î¬Î´Î±
+    display: Pireas, Greece
     lat: 37.942848
     long: 23.64722
 - uid: rd.stephen-thair
@@ -1458,11 +1458,11 @@ profiles:
     lat: 33.75231
     long: -84.387113
 - uid: rd.tomas-herceg
-  name: TomÃ¡Å¡ Herceg
+  name: Tomas Herceg
   tagline: Education / Programming
   image:
     src: media/profiles/tomas-herceg.jpg
-    alt: "TomÃ¡Å¡ Herceg"
+    alt: "Tomas Herceg"
   location: 
     display: Prague, Czech Republic
     lat: 50.066802
