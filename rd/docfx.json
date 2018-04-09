@@ -35,7 +35,7 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "Brand": "Regional Directors",
+      "brand": "regional-directors",
       "uhfHeaderId": "MSDocsHeader-RegionalDirectors",
       "hide_comments": true,
       "feedback_system": "None"
