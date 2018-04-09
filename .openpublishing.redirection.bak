@@ -1,0 +1,14 @@
+{ 
+  "redirections": [ 
+    {
+       "source_path": "rd/richard.conway.md",
+       "redirect_url": "/rd/richard-conway",
+       "redirect_document_id": false
+    },
+    {
+       "source_path": "rd/ward.bell.md",
+       "redirect_url": "/rd/ward-bell",
+       "redirect_document_id": false
+    }
+  ] 
+}

@@ -1,0 +1,70 @@
+### YamlMime:Profile
+uid: rd.brian-noyes
+name: Brian Noyes
+metadata:
+  title: Brian Noyes - Microsoft Regional Director
+  description: CTO/Co-founder Solliance, Pluralsight Author, and Microsoft Regional Director in Alexandria, Virginia
+remarks: |
+  ## Bio
+  Hi, I'm Brian Noyes, CTO and Co-founder of Solliance Inc., a software
+  architect, consultant, author, and speaker specializing in multi-platform web,
+  mobile, and desktop client applications and cloud-based services to back them.
+  In my consulting role at Solliance, I get to work with many companies every
+  year to help them build amazing software products and systems, often advising
+  at the CxO level, and guiding senior technical team members on software
+  architecture and technologies.
+  
+  I am vice-president of the Captial Area .NET Users Group, and speak at dozens
+  of major software conferences, Code Camps, and User Groups every year on a
+  wide range of software technologies.
+  
+  As an author I have 11 courses in the Pluralsight Library, have authored
+  several books and many dozens of magazine and technical publication articles
+  and whitepapers.
+  
+  In my first career, I flew F-14 Tomcats in the U.S. Navy, attended TopGun
+  (U.S. Navy Fighter Weapons School), and U.S. Naval Test Pilot School, and
+  retired from the U.S. Naval Reserve as a Commander (0-5). I was and will
+  always be proud to have served my country, but I'm a techie guy by nature, so
+  followed my passion for software into my current career.
+  
+  Talk to me about: Cloud Computing with Microsoft Azure; Single Page
+  Applications with Angular, Aurelia, & Durandal; Desktop and Windows 10 Client
+  Apps with WPF or UWP; Multi-Platform Mobile Apps with Cordova and Xamarin; SOA
+  with ASP.NET, Node, or WCF.
+
+  ## Spotlight
+  Through consulting with many business customers in recent years, I've
+  recognized a pattern of thinking about building client applications that often
+  results in wasted effort and cost. Many businesses tend to approach the need
+  to build new or replacement client applications by sticking with what they
+  know - which often means building client applications as Windows Desktop
+  applications, even when a web or mobile solution might better meet their
+  business needs. Or if a desktop application is the best solution, many fail to
+  consider also building companion web or mobile apps with shared functionality.
+  
+  To address this problem, I have developed a methodical approach for extracting
+  the real business, platform, and technology requirements and constraints. By
+  interviewing the leadership and stakeholders that help customers decide on the
+  best technology for building new or replacement client applications and the
+  back-ends that support them, we can find a solution that meets their business
+  and financial needs.
+  
+  In collaboration with my business partners, RD and MVP resources in the
+  Solliance Partner Network, as well as contacts on the Microsoft Product Teams,
+  we enable the customer to define the optimal client application architecture,
+  resulting in client apps with great user experience, performance, and
+  longevity.
+tagline: Reading / Software
+image:
+  alt: "Brian Noyes"
+  src: media/profiles/brian-noyes.jpg
+twitter: https://twitter.com/briannoyes
+facebook: https://facebook.com/briandnoyes
+linkedin: https://www.linkedin.com/in/briandnoyes
+github: https://github.com/briannoyes
+googleplus: https://plus.google.com/u/0/+BrianNoyes/posts
+location:
+  display: Alexandria, VA, United States
+  lat: 38.804599
+  long: -77.043411

@@ -1,0 +1,43 @@
+### YamlMime:Profile
+uid: rd.vishwas-lele
+name: Vishwas Lele
+metadata:
+  title: Vishwas Lele - Microsoft Regional Director
+  description: CTO in Washington, District of Columbia
+remarks: |
+  ## Bio
+  Vishwas Lele serves as CTO at Applied Information Sciences, Inc. Mr Lele is
+  responsible for assisting organizations in envisoning, designing and
+  implementing enterprise solutions related cloud and mobility. Mr Lele brings
+  close to 27 years of experience and thought leadership to his position, and
+  has been with AIS for 22 years. A noted industry speaker and author, Mr. Lele
+  serves as the Microsoft Regional Director for Washington D.C. and is currently
+  an Azure MVP.
+
+  ## Spotlight
+  I have been fortunate to be a part of the fascinating Azure journey from the
+  very beginning. Over the past 10 years, I have had the opportunity to work
+  with many facets of Azure: programming, writing, working with customers, and
+  presenting to thousands of developers around the world.
+  
+  These experiences have helped me arrive at the notion of what I call **cloud
+  thinking**. Cloud thinking is about a mindset that goes beyond moving an
+  existing application to the cloud or building a new application that is born
+  in the cloud. Cloud thinking is a solution-focused approach to building
+  applications that maximizes the benefits that cloud has to offer. It starts
+  with understanding the motivation and constraints in moving to the cloud.
+  Next, it progresses to prototyping designed to select the right set of
+  building blocks that the cloud platform has to offer that considers agility,
+  cost, SLA, the roadmap of future capabilities, and of course, security and
+  compliance. The final phase converts the prototype into a production
+  application that is well-instrumented to collect data about its usage and
+  overall health, thereby allowing it to be improved continuously.
+tagline: Programming / Soccer
+image:
+  alt: "Vishwas Lele"
+  src: media/profiles/vishwas-lele.jpg
+twitter: https://twitter.com/vlele
+location:
+  display: Washington, D.C., DC, United States
+  lat: 38.894369
+  long: -77.027959

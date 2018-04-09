@@ -1,0 +1,38 @@
+### YamlMime:Profile
+uid: rd.taylor-gibb
+name: Taylor Gibb
+metadata:
+  title: Taylor Gibb - Microsoft Regional Director
+  description: Entrepreneur, software architect, and Microsoft Regional Director in Durban, South Africa
+remarks: |
+  ## Bio
+  These days Taylor finds himself working in the Research and Development space
+  of a large online gaming company. He is passionate about translating business
+  problems into technical solutions and thrives when faced with a challenge. He
+  is also a sought after public speaker and mentor, and has spoken at many
+  international conferences.
+  
+  Taylor is also the CEO of Developer Hut, a services company who works with the
+  large financial institutions and startups around Africa.
+  
+  He is a 4 time Microsoft MVP and the founder of an Augmented Reality startup
+  based in South Africa.
+  
+  When he is not working, you can find him dabbling in the worlds of Virtual and
+  Augmented reality as well as tackling the world of Machine Learning one bit at
+  a time.
+  
+  Talk to me about: Cloud Computing, Software Engineering, Serverless Computing,
+  Software Architecture, DevOps, Automation, C#, ASP.NET, Cloud Strategy,
+  Business, Startups, Virtual Reality, Augmented Reality, Unity, Continuous
+  Integration, Azure
+tagline: Design / Entrepreneurship
+image:
+  alt: "Taylor Gibb"
+  src: media/profiles/taylor-gibb.jpg
+twitter: https://twitter.com/taybgibb
+facebook: https://facebook.com/tgibb
+location:
+  display: Durban, KwaZulu-Natal, South Africa
+  lat: -29.847167
+  long: 30.987844

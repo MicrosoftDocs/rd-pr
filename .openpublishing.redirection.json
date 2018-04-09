@@ -1,0 +1,1384 @@
+{ 
+    "redirections": [
+
+   
+    {
+        "source_path": "rd/adam.cogan.md",
+        "redirect_url": "/rd/adam-cogan",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/adam.jorgensen.md",
+        "redirect_url": "/rd/adam-jorgensen",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/ahmed.bahaa.md",
+        "redirect_url": "/rd/ahmed-bahaa",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/alexander.wechsler.md",
+        "redirect_url": "/rd/alexander-wechsler",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/alex.tumanov.md",
+        "redirect_url": "/rd/alex-tumanov",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/allen.tuladhar.md",
+        "redirect_url": "/rd/allen-tuladhar",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/alois.reitbauer.md",
+        "redirect_url": "/rd/alois-reitbauer",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/alon.fliess.md",
+        "redirect_url": "/rd/alon-fliess",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/amanda.perran.md",
+        "redirect_url": "/rd/amanda-perran",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/andrea.saltarello.md",
+        "redirect_url": "/rd/andrea-saltarello",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/andre.carlucci.md",
+        "redirect_url": "/rd/andre-carlucci",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/andrewj.brust.md",
+        "redirect_url": "/rd/andrewj-brust",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/andrey.ivashentsev.md",
+        "redirect_url": "/rd/andrey-ivashentsev",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/andy.cross.md",
+        "redirect_url": "/rd/andy-cross",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/ayman.el.hattab.md",
+        "redirect_url": "/rd/ayman-el-hattab",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/benjamin.niaulin.md",
+        "redirect_url": "/rd/benjamin-niaulin",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/benny.tritsch.md",
+        "redirect_url": "/rd/benny-tritsch",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/billy.hollis.md",
+        "redirect_url": "/rd/billy-hollis",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/brian.bourne.md",
+        "redirect_url": "/rd/brian-bourne",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/brian.noyes.md",
+        "redirect_url": "/rd/brian-noyes",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/carlos.dossantos.md",
+        "redirect_url": "/rd/carlos-dossantos",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/carlos.mattos.md",
+        "redirect_url": "/rd/carlos-mattos",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/carsten.rachfahl.md",
+        "redirect_url": "/rd/carsten-rachfahl",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/chan.park.md",
+        "redirect_url": "/rd/chan-park",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/chris.kinsman.md",
+        "redirect_url": "/rd/chris-kinsman",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/christian.weyer.md",
+        "redirect_url": "/rd/christian-weyer",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/ciprian.jichici.md",
+        "redirect_url": "/rd/ciprian-jichici",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/claudenir.andrade.md",
+        "redirect_url": "/rd/claudenir-andrade",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/colin.melia.md",
+        "redirect_url": "/rd/colin-melia",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/conrad.akunga.md",
+        "redirect_url": "/rd/conrad-akunga",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/damir.dizdarevic.md",
+        "redirect_url": "/rd/damir-dizdarevic",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/damir.dobric.md",
+        "redirect_url": "/rd/damir-dobric",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/damir.tomicic.md",
+        "redirect_url": "/rd/damir-tomicic",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/dana.epp.md",
+        "redirect_url": "/rd/dana-epp",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/daniele.bochicchio.md",
+        "redirect_url": "/rd/daniele-bochicchio",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/danieltibor.fuchs.md",
+        "redirect_url": "/rd/danieltibor-fuchs",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/dan.thyer.md",
+        "redirect_url": "/rd/dan-thyer",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/dan.wahlin.md",
+        "redirect_url": "/rd/dan-wahlin",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/daron.yondem.md",
+        "redirect_url": "/rd/daron-yondem",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/dave.nel.md",
+        "redirect_url": "/rd/dave-nel",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/david.yack.md",
+        "redirect_url": "/rd/david-yack",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/destin.joy.md",
+        "redirect_url": "/rd/destin-joy",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/drgreg.low.md",
+        "redirect_url": "/rd/drgreg-low",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/duxraymond.sypmp.md",
+        "redirect_url": "/rd/duxraymond-sypmp",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/edgar.sanchez.md",
+        "redirect_url": "/rd/edgar-sanchez",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/eduardo.castro.md",
+        "redirect_url": "/rd/eduardo-castro",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/engin.polat.md",
+        "redirect_url": "/rd/engin-polat",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/ericd.boyd.md",
+        "redirect_url": "/rd/ericd-boyd",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/eric.overfield.md",
+        "redirect_url": "/rd/eric-overfield",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/erik.asberg.md",
+        "redirect_url": "/rd/erik-asberg",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/etienne.tremblay.md",
+        "redirect_url": "/rd/etienne-tremblay",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/evilazaro.alves.md",
+        "redirect_url": "/rd/evilazaro-alves",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/funjin.lim.md",
+        "redirect_url": "/rd/funjin-lim",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/gabriel.cor.md",
+        "redirect_url": "/rd/gabriel-cor",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/gaidar.magdanurov.md",
+        "redirect_url": "/rd/gaidar-magdanurov",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/gill.cleeren.md",
+        "redirect_url": "/rd/gill-cleeren",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/gokan.ozcifci.md",
+        "redirect_url": "/rd/gokan-ozcifci",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/gonzalo.laguna.md",
+        "redirect_url": "/rd/gonzalo-laguna",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/greg.levenhagen.md",
+        "redirect_url": "/rd/greg-levenhagen",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/grzegorz.rycaj.md",
+        "redirect_url": "/rd/grzegorz-rycaj",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/henriklykke.nielsen.md",
+        "redirect_url": "/rd/henriklykke-nielsen",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/herve.thibault.md",
+        "redirect_url": "/rd/herve-thibault",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/istvan.novak.md",
+        "redirect_url": "/rd/istvan-novak",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/james.carpinter.md",
+        "redirect_url": "/rd/james-carpinter",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/jamil.lopes.md",
+        "redirect_url": "/rd/jamil-lopes",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/janakiram.msv.md",
+        "redirect_url": "/rd/janakiram-msv",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/javier.ogarriot.md",
+        "redirect_url": "/rd/javier-ogarriot",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/jay.harris.md",
+        "redirect_url": "/rd/jay-harris",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/jeanfrancois.berenguer.md",
+        "redirect_url": "/rd/jeanfrancois-berenguer",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/joe.homnick.md",
+        "redirect_url": "/rd/joe-homnick",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/joel.semeniuk.md",
+        "redirect_url": "/rd/joel-semeniuk",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/johan.lindfors.md",
+        "redirect_url": "/rd/johan-lindfors",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/john.peluso.md",
+        "redirect_url": "/rd/john-peluso",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/joseantonio.silva.md",
+        "redirect_url": "/rd/joseantonio-silva",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/jouni.heikniemi.md",
+        "redirect_url": "/rd/jouni-heikniemi",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/julie.lerman.md",
+        "redirect_url": "/rd/julie-lerman",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/jussi.roine.md",
+        "redirect_url": "/rd/jussi-roine",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/kate.gregory.md",
+        "redirect_url": "/rd/kate-gregory",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/keiji.kamebuchi.md",
+        "redirect_url": "/rd/keiji-kamebuchi",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/ken.azuma.md",
+        "redirect_url": "/rd/ken-azuma",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/kent.agerlund.md",
+        "redirect_url": "/rd/kent-agerlund",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/khaled.chebat.md",
+        "redirect_url": "/rd/khaled-chebat",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/koray.kocabas.md",
+        "redirect_url": "/rd/koray-kocabas",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/lei.xu.md",
+        "redirect_url": "/rd/lei-xu",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/luis.linares.md",
+        "redirect_url": "/rd/luis-linares",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/luke.han.md",
+        "redirect_url": "/rd/luke-han",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/maarten.goet.md",
+        "redirect_url": "/rd/maarten-goet",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/magnus.martensson.md",
+        "redirect_url": "/rd/magnus-martensson",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/mahesh.chand.md",
+        "redirect_url": "/rd/mahesh-chand",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/marcel.devries.md",
+        "redirect_url": "/rd/marcel-devries",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/marcel.zehner.md",
+        "redirect_url": "/rd/marcel-zehner",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/marcin.borecki.md",
+        "redirect_url": "/rd/marcin-borecki",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/mark.ginnebaugh.md",
+        "redirect_url": "/rd/mark-ginnebaugh",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/mark.michaelis.md",
+        "redirect_url": "/rd/mark-michaelis",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/markus.egger.md",
+        "redirect_url": "/rd/markus-egger",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/martina.grom.md",
+        "redirect_url": "/rd/martina-grom",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/mauricio.angulos.md",
+        "redirect_url": "/rd/mauricio-angulos",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/michele.lerouxbustamante.md",
+        "redirect_url": "/rd/michele-lerouxbustamante",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/michel.hubert.md",
+        "redirect_url": "/rd/michel-hubert",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/michelle.caldwell.md",
+        "redirect_url": "/rd/michelle-caldwell",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/miguel.castro.md",
+        "redirect_url": "/rd/miguel-castro",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/mihail.mateev.md",
+        "redirect_url": "/rd/mihail-mateev",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/mitsuru.furuta.md",
+        "redirect_url": "/rd/mitsuru-furuta",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/neil.roodyn.md",
+        "redirect_url": "/rd/neil-roodyn",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/nicola.ferrini.md",
+        "redirect_url": "/rd/nicola-ferrini",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/nitin.paranjape.md",
+        "redirect_url": "/rd/nitin-paranjape",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/norman.sasono.md",
+        "redirect_url": "/rd/norman-sasono",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/oleksandr.krakovetskyi.md",
+        "redirect_url": "/rd/oleksandr-krakovetskyi",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/orin.thomas.md",
+        "redirect_url": "/rd/orin-thomas",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/oscar.garciacolon.md",
+        "redirect_url": "/rd/oscar-garciacolon",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/pablo.pelaez.md",
+        "redirect_url": "/rd/pablo-pelaez",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/patrick.guimonet.md",
+        "redirect_url": "/rd/patrick-guimonet",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/patrick.hynds.md",
+        "redirect_url": "/rd/patrick-hynds",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/patrik.lowendahl.md",
+        "redirect_url": "/rd/patrik-lowendahl",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/peter.himschoot.md",
+        "redirect_url": "/rd/peter-himschoot",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/philipp.bauknecht.md",
+        "redirect_url": "/rd/philipp-bauknecht",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/philippe.sentenac.md",
+        "redirect_url": "/rd/philippe-sentenac",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/prabhjot.bakshi.md",
+        "redirect_url": "/rd/prabhjot-bakshi",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/praveen.srivatsa.md",
+        "redirect_url": "/rd/praveen-srivatsa",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/rainer.stropek.md",
+        "redirect_url": "/rd/rainer-stropek",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/raymond.chou.md",
+        "redirect_url": "/rd/raymond-chou",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/ricardo.gonzalez.md",
+        "redirect_url": "/rd/ricardo-gonzalez",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/richard.campbell.md",
+        "redirect_url": "/rd/richard-campbell",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/richard.conway.md",
+        "redirect_url": "/rd/richard-conway",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/robert.folkesson.md",
+        "redirect_url": "/rd/robert-folkesson",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/robert.hogg.md",
+        "redirect_url": "/rd/robert-hogg",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/rockford.lhotka.md",
+        "redirect_url": "/rd/rockford-lhotka",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/rodrigo.diazconcha.md",
+        "redirect_url": "/rd/rodrigo-diazconcha",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/rodrigo.immaginario.md",
+        "redirect_url": "/rd/rodrigo-immaginario",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/rotem.rozmarin.md",
+        "redirect_url": "/rd/rotem-rozmarin",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/ryan.duguid.md",
+        "redirect_url": "/rd/ryan-duguid",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/samer.awajan.md",
+        "redirect_url": "/rd/samer-awajan",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/sasha.goldshtein.md",
+        "redirect_url": "/rd/sasha-goldshtein",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/simon.cox.md",
+        "redirect_url": "/rd/simon-cox",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/simon.sabin.md",
+        "redirect_url": "/rd/simon-sabin",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/stavros.menegos.md",
+        "redirect_url": "/rd/stavros-menegos",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/stephen.thair.md",
+        "redirect_url": "/rd/stephen-thair",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/steven.porter.md",
+        "redirect_url": "/rd/steven-porter",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/steve.smith.md",
+        "redirect_url": "/rd/steve-smith",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/taylor.gibb.md",
+        "redirect_url": "/rd/taylor-gibb",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/thomas.nigro.md",
+        "redirect_url": "/rd/thomas-nigro",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/tibi.covaci.md",
+        "redirect_url": "/rd/tibi-covaci",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/tim.huckaby.md",
+        "redirect_url": "/rd/tim-huckaby",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/todd.fine.md",
+        "redirect_url": "/rd/todd-fine",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/tomas.herceg.md",
+        "redirect_url": "/rd/tomas-herceg",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/troy.hunt.md",
+        "redirect_url": "/rd/troy-hunt",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/venkatarangan.thirumalai.md",
+        "redirect_url": "/rd/venkatarangan-thirumalai",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/vincent.thavonekham.md",
+        "redirect_url": "/rd/vincent-thavonekham",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/vinod.unny.md",
+        "redirect_url": "/rd/vinod-unny",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/vishwas.lele.md",
+        "redirect_url": "/rd/vishwas-lele",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/ward.bell.md",
+        "redirect_url": "/rd/ward-bell",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/youngjae.kim.md",
+        "redirect_url": "/rd/youngjae-kim",
+        "redirect_document_id": false
+     }
+
+    
+,
+   
+    {
+        "source_path": "rd/zoiner.tejada.md",
+        "redirect_url": "/rd/zoiner-tejada",
+        "redirect_document_id": false
+     }
+
+    
+
+
+  ]
+}
+

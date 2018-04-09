@@ -1,0 +1,61 @@
+### YamlMime:Profile
+uid: rd.jouni-heikniemi
+name: Jouni Heikniemi
+metadata:
+  title: Jouni Heikniemi - Microsoft Regional Director
+  description: CEO, Software consultant, and Microsoft Regional Director in Espoo, Suomi
+remarks: |
+  ## Bio
+  I am a software generalist with 20+ years of professional experience and a
+  deep specialization in the Microsoft technology platform. I have extensive
+  experience in fields like development, code auditing, architectural
+  transformation and technology strategy.
+  
+  I am also known as a public speaker, particularly in Microsoft-related events.
+  Developing the local tech community is one of my passions - I have founded and
+  ran the Finnish .NET User Group SANKO since 2010. Finnish listeners can also
+  hear me out on our regular Microsoft-focused podcast,
+  [Ikkunastudio](http://www.ikkunastud.io).
+  
+  I work as the CEO of Offbeat Solutions, a software company I founded with my
+  wife and some friends. Our specialty is rescuing failed projects, but we help
+  our customers with all sorts of tech challenges - adopting new technologies,
+  coaching floundering teams or facilitating cross-tech projects are all routine
+  for us. Quite obviously, Azure and other cloud services are pretty much what
+  drives us these days.
+  
+  Talk to me about: Cloud Computing, Microservices, Software Development, Azure,
+  PaaS, .NET, Visual Studio
+
+  ## Spotlight
+  I’m excited about how cloud adoption spreads like wildfire. Finland has always
+  been fairly cloud-savvy – for example, we have Office 365 seats for 20% of the
+  population – but much of the adoption has been about Infrastructure or
+  Software as a Service. That’s a great first step, but I believe the true
+  business revolution starts with platform services.
+  
+  I’ve been blessed with great customers who have been willing to explore the
+  Azure platform far and wide. I’ve been publishing data through modern managed
+  APIs, composing IoT data ingestion pipelines and building cloud-based service
+  buses. On that path, we’ve found great business successes – increasing vendor
+  independence, unlocking new insights from forgotten assets, and turning old
+  daily batch integrations into valuable real-time data streams are just a few
+  examples.
+  
+  Not every technology adoption is bliss. Successful digitalization is all about
+  modernizing swiftly while embracing and leveraging the legacy we all have. No
+  matter if you look for cost reduction, quality improvement or extra revenue,
+  picking the right services for the job is the first step. I’m excited to be on
+  the forefront of Microsoft’s massive service evolution - and happy to navigate
+  the maze with you.
+tagline: Cloud Computing / Digitalization
+image:
+  alt: "Jouni Heikniemi"
+  src: media/profiles/jouni-heikniemi.jpg
+twitter: https://twitter.com/jouniheikniemi
+linkedin: https://fi.linkedin.com/in/jouniheikniemi
+instagram: https://instagram.com/jouniheikniemi
+location:
+  display: Espoo, Finland
+  lat: 60.206779
+  long: 24.65578

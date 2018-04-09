@@ -1,0 +1,30 @@
+### YamlMime:Profile
+uid: rd.miguel-castro
+name: Miguel Castro
+metadata:
+  title: Miguel Castro - Microsoft Regional Director
+  description: Software Engineer in Lincoln Park, New Jersey
+remarks: |
+  ## Bio
+  Hey, I’m Miguel. a software engineer and trainer with over 30 years of
+  experience in the software industry. I've been Microsoft MVP since 2005, a
+  Microsoft Regional Director, and a member of several of the Microsoft Insider
+  groups. I have a Microsoft background that goes all the way back to VB 1.0
+  (and QuickBasic in fact), and speak regularly at numerous user groups, code
+  camps, and conferences in the US and abroad. I've been featured on several
+  technology talk shows on numerous occasions and am a PluralSight author.
+tagline: Cars / Fitness
+image:
+  alt: "Miguel Castro"
+  src: media/profiles/miguel-castro.jpg
+github: https://github.com/miguelcastro67
+facebook: https://facebook.com/miguelcastro67
+twitter: https://twitter.com/miguelcastro67
+linkedin: https://www.linkedin.com/in/miguelcastro67/
+snapchat: https://snapchat.com/add/miguelcastro67
+instagram: https://instagram.com/miguelcastro67
+spotify: https://open.spotify.com/user/miguelcastro67
+location:
+  display: Lincoln Park, NJ, United States
+  lat: 40.92163
+  long: -74.304138

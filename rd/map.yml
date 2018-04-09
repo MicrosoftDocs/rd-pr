@@ -1,0 +1,1549 @@
+### YamlMime:ProfileList
+title: Microsoft Regional Directors
+description: 
+ The Regional Director Program provides Microsoft leaders with the customer insights and real-world voices it needs to continue empowering developers and IT professionals with the world's most innovative and impactful tools, services, and solutions- 
+focalImage:
+  src: https://developer-microsoft-com/en-us/advocates/media/bitmicrosoft.png
+  alt: "This image shows the RD mascots"
+metadata:
+  title: Microsoft Regional Directors
+  description: Trusted advisors to developer and IT professionals-
+  hide_bc: true
+mode: map
+bannerLinks:
+- text: Map View
+  url: ./map
+- text: FAQ
+  url: ./faq
+filterText: Regional Directors
+profiles:
+- uid: rd.adam-cogan
+  name: Adam Cogan
+  tagline: -NET / ALM
+  image:
+    src: media/profiles/adam-cogan.jpg
+    alt: "Adam Cogan"
+  location: 
+    display: Sydney, New South Wales, Australia
+    lat: -33.869598
+    long: 151.206909
+- uid: rd.adam-jorgensen
+  name: Adam Jorgensen
+  tagline: Entrepreneurship / Photography
+  image:
+    src: media/profiles/adam-jorgensen.jpg
+    alt: "Adam Jorgensen"
+  location: 
+    display: Jacksonville, FL, United States
+    lat: 30.33147
+    long: -81.656219
+- uid: rd.ahmed-bahaa
+  name: Ahmed Bahaa
+  tagline: Education / Entrepreneurship
+  image:
+    src: media/profiles/ahmed-bahaa.jpg
+    alt: "Ahmed Bahaa"
+  location: 
+    display: Cairo, Egypt
+    lat: 30.049909
+    long: 31.2486
+- uid: rd.alexander-wechsler
+  name: Alexander Wechsler
+  tagline: Design / Education
+  image:
+    src: media/profiles/alexander-wechsler.jpg
+    alt: "Alexander Wechsler"
+  location: 
+    display: Diessen am Ammersee, Germany
+    lat: 47.94868
+    long: 11.10328
+- uid: rd.alex-tumanov
+  name: Alex Tumanov
+  tagline: Education / Entrepreneurship
+  image:
+    src: media/profiles/alex-tumanov.jpg
+    alt: "Alex Tumanov"
+  location: 
+    display: Odessa, Ukraine
+    lat: 46.472499
+    long: 30.73711
+- uid: rd.allen-tuladhar
+  name: Allen Tuladhar
+  tagline: Education / Entrepreneurship
+  image:
+    src: media/profiles/allen-tuladhar.jpg
+    alt: "Allen Tuladhar"
+  location: 
+    display: Kathmandu, Central Region, Nepal
+    lat: 28.259138
+    long: 83.94416
+- uid: rd.alois-reitbauer
+  name: Alois Reitbauer
+  tagline: Entrepreneurship / Innovation
+  image:
+    src: media/profiles/alois-reitbauer.jpg
+    alt: "Alois Reitbauer"
+  location: 
+    display: Linz, Austria
+    lat: 48.304229
+    long: 14.28812
+- uid: rd.alon-fliess
+  name: Alon Fliess
+  tagline: 3D Design / 3D Video Editing
+  image:
+    src: media/profiles/alon-fliess.jpg
+    alt: "Alon Fliess"
+  location: 
+    display: Israel
+    lat: 33.290782
+    long: 35.568275
+- uid: rd.amanda-perran
+  name: Amanda Perran
+  tagline: Camping / Coffee
+  image:
+    src: media/profiles/amanda-perran.jpg
+    alt: "Amanda Perran"
+  location: 
+    display: St- John's, Newfoundland, Canada
+    lat: 47.560638
+    long: -52.712318
+- uid: rd.andrea-saltarello
+  name: Andrea Saltarello
+  tagline: Innovation / Movies
+  image:
+    src: media/profiles/andrea-saltarello.jpg
+    alt: "Andrea Saltarello"
+  location: 
+    display: Milano, MI, Lombardy, Italy
+    lat: 45.46796
+    long: 9.181779
+- uid: rd.andre-carlucci
+  name: Andre Carlucci
+  tagline: Coffee / Music
+  image:
+    src: media/profiles/andre-carlucci.jpg
+    alt: "Andre Carlucci"
+  location: 
+    display: Brazil
+    lat: -10.776704
+    long: -53.067344
+- uid: rd.andrewj-brust
+  name: Andrew J- Brust
+  tagline: Food / Music
+  image:
+    src: media/profiles/andrewj-brust.jpg
+    alt: "Andrew J- Brust"
+  location: 
+    display: New York, NY, United States
+    lat: 40.71455
+    long: -74.007141
+- uid: rd.andrey-ivashentsev
+  name: Andrey Ivashentsev
+  tagline: Innovation / Technology
+  image:
+    src: media/profiles/andrey-ivashentsev.jpg
+    alt: "Andrey Ivashentsev"
+  location: 
+    display: Moscow, Russia
+    lat: 55.756961
+    long: 37.615009
+- uid: rd.andy-cross
+  name: Andy Cross
+  tagline: Cloud / Entrepreneurship
+  image:
+    src: media/profiles/andy-cross.jpg
+    alt: "Andy Cross"
+  location: 
+    display: London, United Kingdom
+    lat: 51.50642
+    long: -0.12721
+- uid: rd.ayman-el-hattab
+  name: Ayman El-Hattab
+  tagline: Cloud Computing / Enterprise Collaboration
+  image:
+    src: media/profiles/ayman-el-hattab.jpg
+    alt: "Ayman El-Hattab"
+  location: 
+    display: Dubai - United Arab Emirates
+    lat: 25.269519
+    long: 55.30883
+- uid: rd.benjamin-niaulin
+  name: Benjamin Niaulin
+  tagline: Design / Entrepreneurship
+  image:
+    src: media/profiles/benjamin-niaulin.jpg
+    alt: "Benjamin Niaulin"
+  location: 
+    display: Montreal, QC, Canada
+    lat: 45.512401
+    long: -73.554687
+- uid: rd.benny-tritsch
+  name: Benny Tritsch
+  tagline: Benchmarking / Cloud
+  image:
+    src: media/profiles/benny-tritsch.jpg
+    alt: "Benny Tritsch"
+  location: 
+    display: Ober-Ramstadt, Germany
+    lat: 49.82928
+    long: 8.74715
+- uid: rd.billy-hollis
+  name: Billy Hollis
+  tagline: Design / Music
+  image:
+    src: media/profiles/billy-hollis.jpg
+    alt: "Billy Hollis"
+  location: 
+    display: Nashville, TN, United States
+    lat: 36.167839
+    long: -86.77816
+- uid: rd.brian-bourne
+  name: Brian Bourne
+  tagline: azure / Entrepreneurship
+  image:
+    src: media/profiles/brian-bourne.jpg
+    alt: "Brian Bourne"
+  location: 
+    display: Toronto, ON, Canada
+    lat: 43.648689
+    long: -79.385437
+- uid: rd.brian-noyes
+  name: Brian Noyes
+  tagline: Reading / Software
+  image:
+    src: media/profiles/brian-noyes.jpg
+    alt: "Brian Noyes"
+  location: 
+    display: Alexandria, VA, United States
+    lat: 38.804599
+    long: -77.043411
+- uid: rd.carlos-dossantos
+  name: Carlos dos Santos
+  tagline: Coffee / Entrepreneurship
+  image:
+    src: media/profiles/carlos-dossantos.jpg
+    alt: "Carlos dos Santos"
+  location: 
+    display: CornÃ©lio ProcÃ³pio - PR, Brasil
+    lat: -23.181419
+    long: -50.64801
+- uid: rd.carlos-mattos
+  name: Carlos Mattos
+  tagline: Education / Movies
+  image:
+    src: media/profiles/carlos-mattos.jpg
+    alt: "Carlos Mattos"
+  location: 
+    display: SÃ£o Paulo - State of SÃ£o Paulo, Brazil
+    lat: -23.56287
+    long: -46.654678
+- uid: rd.carsten-rachfahl
+  name: Carsten Rachfahl
+  tagline: AzureStack / Datacenter
+  image:
+    src: media/profiles/carsten-rachfahl.jpg
+    alt: "Carsten Rachfahl"
+  location: 
+    display: Hallenberg, Germany
+    lat: 51.111839
+    long: 8.62172
+- uid: rd.chan-park
+  name: Chan Park
+  tagline: Food / Music
+  image:
+    src: media/profiles/chan-park.jpg
+    alt: "Chan Park"
+  location: 
+    display: Seoul, South Korea
+    lat: 37.566535
+    long: 126.977966
+- uid: rd.chris-kinsman
+  name: Chris Kinsman
+  tagline: Entrepreneurship / Innovation
+  image:
+    src: media/profiles/chris-kinsman.jpg
+    alt: "Chris Kinsman"
+  location: 
+    display: Redmond, WA, United States
+    lat: 47.678581
+    long: -122.131576
+- uid: rd.christian-weyer
+  name: Christian Weyer
+  tagline: Education / Entrepreneurship
+  image:
+    src: media/profiles/christian-weyer.jpg
+    alt: "Christian Weyer"
+  location: 
+    display: Neustadt am Main, Germany
+    lat: 49.933551
+    long: 9.570659
+- uid: rd.ciprian-jichici
+  name: Ciprian Jichici
+  tagline: Astronomy / Cloud computing
+  image:
+    src: media/profiles/ciprian-jichici.jpg
+    alt: "Ciprian Jichici"
+  location: 
+    display: TimiÈ™oara, TimiÈ™ County, Romania
+    lat: 45.839447
+    long: 24.985599
+- uid: rd.claudenir-andrade
+  name: Claudenir Andrade
+  tagline: Entrepreneurship / Movies
+  image:
+    src: media/profiles/claudenir-andrade.jpg
+    alt: "Claudenir Andrade"
+  location: 
+    display: SÃ£o JosÃ© dos Campos - State of SÃ£o Paulo, Brazil
+    lat: -23.17925
+    long: -45.887199
+- uid: rd.colin-melia
+  name: Colin Melia
+  tagline: Entrepreneurship / Innovation
+  image:
+    src: media/profiles/colin-melia.jpg
+    alt: "Colin Melia"
+  location: 
+    display: Nova Scotia, Canada
+    lat: 45.600307
+    long: -62.364051
+- uid: rd.conrad-akunga
+  name: Conrad Akunga
+  tagline: Entrepreneurship / Movies
+  image:
+    src: media/profiles/conrad-akunga.jpg
+    alt: "Conrad Akunga"
+  location: 
+    display: Nairobi, Nairobi County, Kenya
+    lat: -1.29118
+    long: 36.82103
+- uid: rd.damir-dizdarevic
+  name: Damir Dizdarevic
+  tagline: Education / Movies
+  image:
+    src: media/profiles/damir-dizdarevic.jpg
+    alt: "Damir Dizdarevic"
+  location: 
+    display: Sarajevo, Federation of Bosnia and Herzegovina
+    lat: 43.85942
+    long: 18.43576
+- uid: rd.damir-dobric
+  name: Damir Dobric
+  tagline: Innovation / Programming
+  image:
+    src: media/profiles/damir-dobric.jpg
+    alt: "Damir Dobric"
+  location: 
+    display: Frankfurt, Germany
+    lat: 50.112079
+    long: 8.683409
+- uid: rd.damir-tomicic
+  name: Damir Tomicic
+  tagline: cloud / Fitness
+  image:
+    src: media/profiles/damir-tomicic.jpg
+    alt: "Damir Tomicic"
+  location: 
+    display: Nuremberg, Germany
+    lat: 49.454341
+    long: 11.07349
+- uid: rd.dana-epp
+  name: Dana Epp
+  tagline: Entrepreneurship / Movies
+  image:
+    src: media/profiles/dana-epp.jpg
+    alt: "Dana Epp"
+  location: 
+    display: Vancouver, BC, Canada
+    lat: 49.260379
+    long: -123.113357
+- uid: rd.daniele-bochicchio
+  name: Daniele Bochicchio
+  tagline: Design / Entrepreneurship
+  image:
+    src: media/profiles/daniele-bochicchio.jpg
+    alt: "Daniele Bochicchio"
+  location: 
+    display: Milan, Italy
+    lat: 45.47196
+    long: 9.185779
+- uid: rd.danieltibor-fuchs
+  name: Daniel Tibor Fuchs
+  tagline: DIY / Innovation
+  image:
+    src: media/profiles/danieltibor-fuchs.jpg
+    alt: "Daniel Tibor Fuchs"
+  location: 
+    display: Brazil
+    lat: -10.772704
+    long: -53.063344
+- uid: rd.dan-thyer
+  name: Dan Thyer
+  tagline: Azure / cloud
+  image:
+    src: media/profiles/dan-thyer.jpg
+    alt: "Dan Thyer"
+  location: 
+    display: Charlotte, NC, United States
+    lat: 35.222858
+    long: -80.837959
+- uid: rd.dan-wahlin
+  name: Dan Wahlin
+  tagline: Movies / Programming
+  image:
+    src: media/profiles/dan-wahlin.jpg
+    alt: "Dan Wahlin"
+  location: 
+    display: Chandler, AZ, United States
+    lat: 33.303379
+    long: -111.840827
+- uid: rd.daron-yondem
+  name: Daron Yondem
+  tagline: Causes / Programming
+  image:
+    src: media/profiles/daron-yondem.jpg
+    alt: "Daron Yondem"
+  location: 
+    display: Istanbul, Turkey
+    lat: 41.013
+    long: 28.9638
+- uid: rd.dave-nel
+  name: Dave Nel
+  tagline: Azure / digital transformation
+  image:
+    src: media/profiles/dave-nel.jpg
+    alt: "Dave Nel"
+  location: 
+    display: Johannesburg, Gauteng, South Africa
+    lat: -26.204879
+    long: 28.04006
+- uid: rd.david-yack
+  name: David Yack
+  tagline: Photography / Technology
+  image:
+    src: media/profiles/david-yack.jpg
+    alt: "David Yack"
+  location: 
+    display: Colorado Springs, CO, United States
+    lat: 38.83348
+    long: -104.821807
+- uid: rd.destin-joy
+  name: Destin Joy
+  tagline: Innovation / Programming
+  image:
+    src: media/profiles/destin-joy.jpg
+    alt: "Destin Joy"
+  location: 
+    display: Thiruvananthapuram, Kerala, India
+    lat: 8.505109
+    long: 76.951408
+- uid: rd.drgreg-low
+  name: Dr. Greg Low
+  tagline: Education / Entrepreneurship
+  image:
+    src: media/profiles/drgreg-low.jpg
+    alt: "Dr. Greg Low"
+  location: 
+    display: Melbourne, Victoria, Australia
+    lat: -37.817531
+    long: 144.967147
+- uid: rd.duxraymond-sypmp
+  name: Dux Raymond Sy, PMP
+  tagline: Entrepreneurship / Food
+  image:
+    src: media/profiles/duxraymond-sypmp.jpg
+    alt: "Dux Raymond Sy, PMP"
+  location: 
+    display: Washington, DC
+    lat: 38.890369
+    long: -77.031959
+- uid: rd.edgar-sanchez
+  name: Edgar SÃ¡nchez
+  tagline: Analytics / Azure
+  image:
+    src: media/profiles/edgar-sanchez.jpg
+    alt: "Edgar SÃ¡nchez"
+  location: 
+    display: Quito, Pichincha, Ecuador
+    lat: -0.205599
+    long: -78.508773
+- uid: rd.eduardo-castro
+  name: Eduardo Castro
+  tagline: Coffee / Entrepreneurship
+  image:
+    src: media/profiles/eduardo-castro.jpg
+    alt: "Eduardo Castro"
+  location: 
+    display: San JosÃ© Province, Costa Rica
+    lat: 9.605283
+    long: -83.991615
+- uid: rd.engin-polat
+  name: Engin Polat
+  tagline: development / game
+  image:
+    src: media/profiles/engin-polat.jpg
+    alt: "Engin Polat"
+  location: 
+    display: Istanbul, Turkey
+    lat: 40.991218
+    long: 29.022737
+- uid: rd.ericd-boyd
+  name: Eric D- Boyd
+  tagline: cloud / Coffee
+  image:
+    src: media/profiles/ericd-boyd.jpg
+    alt: "Eric D- Boyd"
+  location: 
+    display: Chicago, IL, United States
+    lat: 41.88425
+    long: -87.632446
+- uid: rd.eric-overfield
+  name: Eric Overfield
+  tagline: Innovation / Skiing
+  image:
+    src: media/profiles/eric-overfield.jpg
+    alt: "Eric Overfield"
+  location: 
+    display: Davis, CA, United States
+    lat: 38.546691
+    long: -121.744567
+- uid: rd.erik-asberg
+  name: Erik Ã…sberg
+  tagline: Entrepreneurship / Innovation
+  image:
+    src: media/profiles/erik-asberg.jpg
+    alt: "Erik Ã…sberg"
+  location: 
+    display: Halden, Norway
+    lat: 59.086139
+    long: 11.495126
+- uid: rd.etienne-tremblay
+  name: Etienne Tremblay
+  tagline: Programming / Technology
+  image:
+    src: media/profiles/etienne-tremblay.jpg
+    alt: "Etienne Tremblay"
+  location: 
+    display: Montreal, QC, Canada
+    lat: 45.516401
+    long: -73.550687
+- uid: rd.evilazaro-alves
+  name: EvilÃ¡zaro Alves
+  tagline: Entrepreneurship / Movies
+  image:
+    src: media/profiles/evilazaro-alves.jpg
+    alt: "EvilÃ¡zaro Alves"
+  location: 
+    display: SÃ£o Paulo - SP, Brasil
+    lat: -23.55887
+    long: -46.650678
+- uid: rd.funjin-lim
+  name: Fun Jin Lim
+  tagline: Design / Education
+  image:
+    src: media/profiles/funjin-lim.jpg
+    alt: "Fun Jin Lim"
+  location: 
+    display: Kuala Lumpur Federal Territory Malaysia
+    lat: 2.549
+    long: 102.962615
+- uid: rd.gabriel-cor
+  name: Gabriel Cor
+  tagline: Coffee / Entrepreneurship
+  image:
+    src: media/profiles/gabriel-cor.jpg
+    alt: "Gabriel Cor"
+  location: 
+    display: Santiago, Chile
+    lat: -33.437221
+    long: -70.650016
+- uid: rd.gaidar-magdanurov
+  name: Gaidar Magdanurov
+  tagline: Cloud / Development
+  image:
+    src: media/profiles/gaidar-magdanurov.jpg
+    alt: "Gaidar Magdanurov"
+  location: 
+    display: Massachusetts, United States
+    lat: 42.156185
+    long: -71.566192
+- uid: rd.gill-cleeren
+  name: Gill Cleeren
+  tagline: Entrepreneurship / Innovation
+  image:
+    src: media/profiles/gill-cleeren.jpg
+    alt: "Gill Cleeren"
+  location: 
+    display: Tienen, Belgium
+    lat: 50.80968
+    long: 4.93013
+- uid: rd.gokan-ozcifci
+  name: Gokan Ozcifci
+  tagline: Cloud / Coffee
+  image:
+    src: media/profiles/gokan-ozcifci.jpg
+    alt: "Gokan Ozcifci"
+  location: 
+    display: Bruxelles, Belgique
+    lat: 50.84439
+    long: 4.35609
+- uid: rd.gonzalo-laguna
+  name: Gonzalo Laguna
+  tagline: Azure / Cloud Computing
+  image:
+    src: media/profiles/gonzalo-laguna.jpg
+    alt: "Gonzalo Laguna"
+  location: 
+    display: Uruguay
+    lat: -32.969738
+    long: -56.056064
+- uid: rd.greg-levenhagen
+  name: Greg Levenhagen
+  tagline: Entrepreneurship / Innovation
+  image:
+    src: media/profiles/greg-levenhagen.jpg
+    alt: "Greg Levenhagen"
+  location: 
+    display: Appleton, WI, United States
+    lat: 44.261779
+    long: -88.416557
+- uid: rd.grzegorz-rycaj
+  name: Grzegorz Rycaj
+  tagline: Design / Education
+  image:
+    src: media/profiles/grzegorz-rycaj.jpg
+    alt: "Grzegorz Rycaj"
+  location: 
+    display: Warszawa, Polska
+    lat: 52.23558
+    long: 21.010269
+- uid: rd.henriklykke-nielsen
+  name: Henrik Lykke Nielsen
+  tagline: Entrepreneurship / History
+  image:
+    src: media/profiles/henriklykke-nielsen.jpg
+    alt: "Henrik Lykke Nielsen"
+  location: 
+    display: Aarhus, Danmark
+    lat: 56.184501
+    long: 10.190309
+- uid: rd.herve-thibault
+  name: Herve Thibault
+  tagline: Education / Enterprise Mobility
+  image:
+    src: media/profiles/herve-thibault.jpg
+    alt: "Herve Thibault"
+  location: 
+    display: Paris, France
+    lat: 48.857208
+    long: 2.341439
+- uid: rd.istvan-novak
+  name: Istvan Novak
+  tagline: Innovation / Running
+  image:
+    src: media/profiles/istvan-novak.jpg
+    alt: "Istvan Novak"
+  location: 
+    display: Dunakeszi, Hungary
+    lat: 47.629119
+    long: 19.141019
+- uid: rd.james-carpinter
+  name: James Carpinter
+  tagline: AI / Cloud
+  image:
+    src: media/profiles/james-carpinter.jpg
+    alt: "James Carpinter"
+  location: 
+    display: Auckland, New Zealand
+    lat: -36.852329
+    long: 174.7639
+- uid: rd.jamil-lopes
+  name: Jamil Lopes
+  tagline: Education / Gaming
+  image:
+    src: media/profiles/jamil-lopes.jpg
+    alt: "Jamil Lopes"
+  location: 
+    display: SÃ£o Paulo - SP, Brasil
+    lat: -23.56687
+    long: -46.658678
+- uid: rd.janakiram-msv
+  name: Janakiram MSV
+  tagline: Big Data / Cloud Computing
+  image:
+    src: media/profiles/janakiram-msv.jpg
+    alt: "Janakiram MSV"
+  location: 
+    display: Hyderabad, Telangana, India
+    lat: 17.365999
+    long: 78.475997
+- uid: rd.javier-ogarriot
+  name: Javier Ogarrio T-
+  tagline: business models / cloud
+  image:
+    src: media/profiles/javier-ogarriot.jpg
+    alt: "Javier Ogarrio T-"
+  location: 
+    display: Guatemala
+    lat: 15.696111
+    long: -90.357086
+- uid: rd.jay-harris
+  name: Jay Harris
+  tagline: Baseball / GiveCamp
+  image:
+    src: media/profiles/jay-harris.jpg
+    alt: "Jay Harris"
+  location: 
+    display: Las Vegas, NV, United States
+    lat: 36.171909
+    long: -115.139968
+- uid: rd.jeanfrancois-berenguer
+  name: Jean Francois BERENGUER
+  tagline: Cooking / Innovation
+  image:
+    src: media/profiles/jeanfrancois-berenguer.jpg
+    alt: "Jean Francois BERENGUER"
+  location: 
+    display: Avignon, France
+    lat: 43.953441
+    long: 4.806009
+- uid: rd.joe-homnick
+  name: Joe Homnick
+  tagline: Education / Innovation
+  image:
+    src: media/profiles/joe-homnick.jpg
+    alt: "Joe Homnick"
+  location: 
+    display: Miami, FL, United States
+    lat: 25.77481
+    long: -80.197731
+- uid: rd.joel-semeniuk
+  name: Joel Semeniuk
+  tagline: Entrepreneurship / Music
+  image:
+    src: media/profiles/joel-semeniuk.jpg
+    alt: "Joel Semeniuk"
+  location: 
+    display: Winnipeg, MB, Canada
+    lat: 49.899528
+    long: -97.141128
+- uid: rd.johan-lindfors
+  name: Johan Lindfors
+  tagline: Gaming / Martial Arts
+  image:
+    src: media/profiles/johan-lindfors.jpg
+    alt: "Johan Lindfors"
+  location: 
+    display: Sweden
+    lat: 62.821792
+    long: 16.735385
+- uid: rd.john-peluso
+  name: John Peluso
+  tagline: Cooking / Innovation
+  image:
+    src: media/profiles/john-peluso.jpg
+    alt: "John Peluso"
+  location: 
+    display: Jersey City, NJ, United States
+    lat: 40.717479
+    long: -74.043853
+- uid: rd.joseantonio-silva
+  name: JosÃ© AntÃ³nio Silva
+  tagline: Entrepreneurship / Programming
+  image:
+    src: media/profiles/joseantonio-silva.jpg
+    alt: "JosÃ© AntÃ³nio Silva"
+  location: 
+    display: Portugal
+    lat: 39.679908
+    long: -7.968665
+- uid: rd.jouni-heikniemi
+  name: Jouni Heikniemi
+  tagline: Cloud Computing / Digitalization
+  image:
+    src: media/profiles/jouni-heikniemi.jpg
+    alt: "Jouni Heikniemi"
+  location: 
+    display: Espoo, Finland
+    lat: 60.206779
+    long: 24.65578
+- uid: rd.julie-lerman
+  name: Julie Lerman
+  tagline: Community / Outdoors
+  image:
+    src: media/profiles/julie-lerman.jpg
+    alt: "Julie Lerman"
+  location: 
+    display: Burlington, VT, United States
+    lat: 44.475929
+    long: -73.212768
+- uid: rd.jussi-roine
+  name: Jussi Roine
+  tagline: Community / Entrepreneur
+  image:
+    src: media/profiles/jussi-roine.jpg
+    alt: "Jussi Roine"
+  location: 
+    display: Helsinki, Finland
+    lat: 60.171161
+    long: 24.932649
+- uid: rd.kate-gregory
+  name: Kate Gregory
+  tagline: Education / Outdoors
+  image:
+    src: media/profiles/kate-gregory.jpg
+    alt: "Kate Gregory"
+  location: 
+    display: Ontario, Canada
+    lat: 50.068752
+    long: -85.828125
+- uid: rd.keiji-kamebuchi
+  name: Keiji Kamebuchi
+  tagline: Programming / Video Games
+  image:
+    src: media/profiles/keiji-kamebuchi.jpg
+    alt: "Keiji Kamebuchi"
+  location: 
+    display: Japan
+    lat: 36.653335
+    long: 137.981689
+- uid: rd.ken-azuma
+  name: Ken Azuma
+  tagline: Design / motorcycle
+  image:
+    src: media/profiles/ken-azuma.jpg
+    alt: "Ken Azuma"
+  location: 
+    display: Tokyo, Japan
+    lat: 35.684078
+    long: 139.808853
+- uid: rd.kent-agerlund
+  name: Kent Agerlund
+  tagline: Coffee / Entrepreneurship
+  image:
+    src: media/profiles/kent-agerlund.jpg
+    alt: "Kent Agerlund"
+  location: 
+    display: Copenhagen, Danmark
+    lat: 55.672599
+    long: 12.55317
+- uid: rd.khaled-chebat
+  name: Khaled Chebat
+  tagline: Education / Innovation
+  image:
+    src: media/profiles/khaled-chebat.jpg
+    alt: "Khaled Chebat"
+  location: 
+    display: Lebanon
+    lat: 33.927734
+    long: 35.737285
+- uid: rd.koray-kocabas
+  name: Koray Kocabas
+  tagline: Education / Entrepreneurship
+  image:
+    src: media/profiles/koray-kocabas.jpg
+    alt: "Koray Kocabas"
+  location: 
+    display: Istanbul, Turkey
+    lat: 41.017
+    long: 28.9678
+- uid: rd.lei-xu
+  name: Lei Xu
+  tagline: DIY / Dogs
+  image:
+    src: media/profiles/lei-xu.jpg
+    alt: "Lei Xu"
+  location: 
+    display: Beijing, China
+    lat: 32.26667
+    long: 115.716667
+- uid: rd.luis-linares
+  name: Luis Linares
+  tagline: Innovation / Technology
+  image:
+    src: media/profiles/luis-linares.jpg
+    alt: "Luis Linares"
+  location: 
+    display: Colombia
+    lat: 3.90893
+    long: -73.073455
+- uid: rd.luke-han
+  name: Luke Han
+  tagline: Food / Movies
+  image:
+    src: media/profiles/luke-han.jpg
+    alt: "Luke Han"
+  location: 
+    display: Shanghai
+    lat: 31.169605
+    long: 121.516799
+- uid: rd.maarten-goet
+  name: Maarten Goet
+  tagline: Entrepreneurship / Music
+  image:
+    src: media/profiles/maarten-goet.jpg
+    alt: "Maarten Goet"
+  location: 
+    display: Almere, Netherlands
+    lat: 52.380599
+    long: 5.181653
+- uid: rd.magnus-martensson
+  name: Magnus  MÃ¥rtensson
+  tagline: azure / Cloud Computing
+  image:
+    src: media/profiles/magnus-martensson.jpg
+    alt: "Magnus  MÃ¥rtensson"
+  location: 
+    display: MalmÃ¶, Sweden
+    lat: 55.596649
+    long: 13.00154
+- uid: rd.mahesh-chand
+  name: Mahesh Chand
+  tagline: Basketball / Entrepreneurship
+  image:
+    src: media/profiles/mahesh-chand.jpg
+    alt: "Mahesh Chand"
+  location: 
+    display: Philadelphia, PA, United States
+    lat: 39.95222
+    long: -75.162178
+- uid: rd.marcel-devries
+  name: Marcel de Vries
+  tagline: -NET / ALM
+  image:
+    src: media/profiles/marcel-devries.jpg
+    alt: "Marcel de Vries"
+  location: 
+    display: Zutphen, Netherlands
+    lat: 52.126499
+    long: 6.209119
+- uid: rd.marcel-zehner
+  name: Marcel Zehner
+  tagline: Entrepreneurship / Fitness
+  image:
+    src: media/profiles/marcel-zehner.jpg
+    alt: "Marcel Zehner"
+  location: 
+    display: Bern, Switzerland
+    lat: 46.948429
+    long: 7.44046
+- uid: rd.marcin-borecki
+  name: Marcin Borecki
+  tagline: Cloud / Innovation
+  image:
+    src: media/profiles/marcin-borecki.jpg
+    alt: "Marcin Borecki"
+  location: 
+    display: Poland
+    lat: 52.129039
+    long: 19.393701
+- uid: rd.mark-ginnebaugh
+  name: Mark Ginnebaugh
+  tagline: Cycling / Technology
+  image:
+    src: media/profiles/mark-ginnebaugh.jpg
+    alt: "Mark Ginnebaugh"
+  location: 
+    display: San Francisco, CA, United States
+    lat: 37.777118
+    long: -122.419639
+- uid: rd.mark-michaelis
+  name: Mark Michaelis
+  tagline: Cycling / Entrepreneurship
+  image:
+    src: media/profiles/mark-michaelis.jpg
+    alt: "Mark Michaelis"
+  location: 
+    display: Spokane, WA, United States
+    lat: 47.65726
+    long: -117.412277
+- uid: rd.markus-egger
+  name: Markus Egger
+  tagline: Entrepreneurship / Programming
+  image:
+    src: media/profiles/markus-egger.jpg
+    alt: "Markus Egger"
+  location: 
+    display: Houston, TX, United States
+    lat: 29.76058
+    long: -95.369682
+- uid: rd.martina-grom
+  name: Martina Grom
+  tagline: Azure / cloud computing
+  image:
+    src: media/profiles/martina-grom.jpg
+    alt: "Martina Grom"
+  location: 
+    display: Vienna, Austria
+    lat: 48.208423
+    long: 16.377822
+- uid: rd.mauricio-angulos
+  name: Mauricio Angulo S-
+  tagline: innovation / Mobile apps
+  image:
+    src: media/profiles/mauricio-angulos.jpg
+    alt: "Mauricio Angulo S-"
+  location: 
+    display: Mexico City, Mexico
+    lat: 19.43194
+    long: -99.133148
+- uid: rd.michele-lerouxbustamante
+  name: Michele Leroux Bustamante
+  tagline: Entrepreneurship / Fitness
+  image:
+    src: media/profiles/michele-lerouxbustamante.jpg
+    alt: "Michele Leroux Bustamante"
+  location: 
+    display: San Diego
+    lat: 32.715679
+    long: -117.161712
+- uid: rd.michel-hubert
+  name: Michel Hubert
+  tagline: Architecture / Azure
+  image:
+    src: media/profiles/michel-hubert.jpg
+    alt: "Michel Hubert"
+  location: 
+    display: Paris, France
+    lat: 48.861208
+    long: 2.345439
+- uid: rd.michelle-caldwell
+  name: Michelle Caldwell
+  tagline: Dogs / enterprise social
+  image:
+    src: media/profiles/michelle-caldwell.jpg
+    alt: "Michelle Caldwell"
+  location: 
+    display: Seattle, WA, United States
+    lat: 47.603569
+    long: -122.329452
+- uid: rd.miguel-castro
+  name: Miguel Castro
+  tagline: Cars / Fitness
+  image:
+    src: media/profiles/miguel-castro.jpg
+    alt: "Miguel Castro"
+  location: 
+    display: Lincoln Park, NJ, United States
+    lat: 40.92163
+    long: -74.304138
+- uid: rd.mihail-mateev
+  name: Mihail Mateev
+  tagline: Education / Entrepreneurship
+  image:
+    src: media/profiles/mihail-mateev.jpg
+    alt: "Mihail Mateev"
+  location: 
+    display: Sofia, Bulgaria
+    lat: 42.697181
+    long: 23.32431
+- uid: rd.mitsuru-furuta
+  name: Mitsuru Furuta
+  tagline: Entrepreneurship / Innovation
+  image:
+    src: media/profiles/mitsuru-furuta.jpg
+    alt: "Mitsuru Furuta"
+  location: 
+    display: Paris, Ile-de-France, France
+    lat: 48.853208
+    long: 2.337439
+- uid: rd.neil-roodyn
+  name: Dr. Neil Roodyn
+  tagline: Design / Entrepreneurship
+  image:
+    src: media/profiles/neil-roodyn.jpg
+    alt: "Dr. Neil Roodyn"
+  location: 
+    display: Sydney, New South Wales, Australia
+    lat: -33.865598
+    long: 151.210909
+- uid: rd.nicola-ferrini
+  name: Nicola Ferrini
+  tagline: DIY / Education
+  image:
+    src: media/profiles/nicola-ferrini.jpg
+    alt: "Nicola Ferrini"
+  location: 
+    display: Roma, RM, Italia
+    lat: 41.903221
+    long: 12.49565
+- uid: rd.nitin-paranjape
+  name: Dr. Nitin Paranjape
+  tagline: Design / Movies
+  image:
+    src: media/profiles/nitin-paranjape.jpg
+    alt: "Dr. Nitin Paranjape"
+  location: 
+    display: Mumbai, Maharashtra, India
+    lat: 18.94012
+    long: 72.834861
+- uid: rd.norman-sasono
+  name: Norman Sasono
+  tagline: data science / mathematics
+  image:
+    src: media/profiles/norman-sasono.jpg
+    alt: "Norman Sasono"
+  location: 
+    display: Jakarta, Indonesia
+    lat: -6.17146
+    long: 106.826477
+- uid: rd.oleksandr-krakovetskyi
+  name: Oleksandr Krakovetskyi
+  tagline: Entrepreneurship / Innovation
+  image:
+    src: media/profiles/oleksandr-krakovetskyi.jpg
+    alt: "Oleksandr Krakovetskyi"
+  location: 
+    display: Kiev, Ukraine
+    lat: 50.449558
+    long: 30.548883
+- uid: rd.orin-thomas
+  name: Orin Thomas
+  tagline: IT Operations / Microsoft Azure
+  image:
+    src: media/profiles/orin-thomas.jpg
+    alt: "Orin Thomas"
+  location: 
+    display: Melbourne, Victoria, Australia
+    lat: -37.813531
+    long: 144.971147
+- uid: rd.oscar-garciacolon
+  name: Oscar Garcia Colon
+  tagline: Carpentry / Education
+  image:
+    src: media/profiles/oscar-garciacolon.jpg
+    alt: "Oscar Garcia Colon"
+  location: 
+    display: Guatemala City, Guatemala
+    lat: 14.63175
+    long: -90.467498
+- uid: rd.pablo-pelaez
+  name: Pablo Pelaez
+  tagline: Design / Entrepreneurship
+  image:
+    src: media/profiles/pablo-pelaez.jpg
+    alt: "Pablo Pelaez"
+  location: 
+    display: Madrid, Espana
+    lat: 40.42028
+    long: -3.70577
+- uid: rd.patrick-guimonet
+  name: Patrick Guimonet
+  tagline: Microsoft Azure / Office 365
+  image:
+    src: media/profiles/patrick-guimonet.jpg
+    alt: "Patrick Guimonet"
+  location: 
+    display: Versailles, France
+    lat: 48.801948
+    long: 2.131079
+- uid: rd.patrick-hynds
+  name: Patrick Hynds
+  tagline: Entrepreneurship / Martial Arts
+  image:
+    src: media/profiles/patrick-hynds.jpg
+    alt: "Patrick Hynds"
+  location: 
+    display: Derry, NH, United States
+    lat: 42.880569
+    long: -71.326759
+- uid: rd.patrik-lowendahl
+  name: Patrik Loewendahl
+  tagline: cloud / digital transformation
+  image:
+    src: media/profiles/patrik-lowendahl.jpg
+    alt: "Patrik Loewendahl"
+  location: 
+    display: Stockholm, Sweden
+    lat: 59.332569
+    long: 18.066829
+- uid: rd.peter-himschoot
+  name: Peter Himschoot
+  tagline: Programming / Technology
+  image:
+    src: media/profiles/peter-himschoot.jpg
+    alt: "Peter Himschoot"
+  location: 
+    display: Brussels, Belgium
+    lat: 50.84839
+    long: 4.36009
+- uid: rd.philipp-bauknecht
+  name: Philipp Bauknecht
+  tagline: cloud / cross-platform
+  image:
+    src: media/profiles/philipp-bauknecht.jpg
+    alt: "Philipp Bauknecht"
+  location: 
+    display: Pforzheim, Germany
+    lat: 48.89011
+    long: 8.70013
+- uid: rd.philippe-sentenac
+  name: Philippe Sentenac
+  tagline: Enterprise Mobility / Entrepreneurship
+  image:
+    src: media/profiles/philippe-sentenac.jpg
+    alt: "Philippe Sentenac"
+  location: 
+    display: Issy-les-Moulineaux, France
+    lat: 48.82117
+    long: 2.251359
+- uid: rd.prabhjot-bakshi
+  name: Prabhjot Bakshi
+  tagline: Entrepreneurship / Innovation
+  image:
+    src: media/profiles/prabhjot-bakshi.jpg
+    alt: "Prabhjot Bakshi"
+  location: 
+    display: Ahmedabad, Gujarat, India
+    lat: 23.027769
+    long: 72.600242
+- uid: rd.praveen-srivatsa
+  name: Praveen Srivatsa
+  tagline: Education / Entrepreneurship
+  image:
+    src: media/profiles/praveen-srivatsa.jpg
+    alt: "Praveen Srivatsa"
+  location: 
+    display: Bangalore, Karnataka, India
+    lat: 12.966139
+    long: 77.586936
+- uid: rd.rainer-stropek
+  name: Rainer Stropek
+  tagline: Entrepreneurship / Fitness
+  image:
+    src: media/profiles/rainer-stropek.jpg
+    alt: "Rainer Stropek"
+  location: 
+    display: Leonding, Ã–sterreich
+    lat: 48.279228
+    long: 14.249159
+- uid: rd.raymond-chou
+  name: Raymond Chou
+  tagline: Entrepreneurship / Music
+  image:
+    src: media/profiles/raymond-chou.jpg
+    alt: "Raymond Chou"
+  location: 
+    display: Petaling Jaya Selangor Malaysia
+    lat: 3.10362
+    long: 101.647781
+- uid: rd.ricardo-gonzalez
+  name: Ricardo Gonzalez
+  tagline: azure / Cloud Computing
+  image:
+    src: media/profiles/ricardo-gonzalez.jpg
+    alt: "Ricardo Gonzalez"
+  location: 
+    display: Bogota, Colombia
+    lat: 4.61496
+    long: -74.069412
+- uid: rd.richard-campbell
+  name: Richard Campbell
+  tagline: Entrepreneurship / Programming
+  image:
+    src: media/profiles/richard-campbell.jpg
+    alt: "Richard Campbell"
+  location: 
+    display: Coquitlam, BC, Canada
+    lat: 49.284919
+    long: -122.79438
+- uid: rd.richard-conway
+  name: Richard Conway
+  tagline: Astronomy / Data Science
+  image:
+    src: media/profiles/richard-conway.jpg
+    alt: "Richard Conway"
+  location: 
+    display: London, England, United Kingdom
+    lat: 51.51042
+    long: -0.12321
+- uid: rd.robert-folkesson
+  name: Robert Folkesson
+  tagline: Artificial Intelligence / Cloud Computing
+  image:
+    src: media/profiles/robert-folkesson.jpg
+    alt: "Robert Folkesson"
+  location: 
+    display: Stockholm, Sverige
+    lat: 59.336569
+    long: 18.070829
+- uid: rd.robert-hogg
+  name: Robert Hogg
+  tagline: AI / blockchain
+  image:
+    src: media/profiles/robert-hogg.jpg
+    alt: "Robert Hogg"
+  location: 
+    display: United Kingdom
+    lat: 53.943832
+    long: -2.550558
+- uid: rd.rockford-lhotka
+  name: Rockford Lhotka
+  tagline: Music / Programming
+  image:
+    src: media/profiles/rockford-lhotka.jpg
+    alt: "Rockford Lhotka"
+  location: 
+    display: Minneapolis, MN, USA
+    lat: 44.979019
+    long: -93.264938
+- uid: rd.rodrigo-diazconcha
+  name: Rodrigo DÃ­az Concha
+  tagline: Movies / Music
+  image:
+    src: media/profiles/rodrigo-diazconcha.jpg
+    alt: "Rodrigo DÃ­az Concha"
+  location: 
+    display: Mexico
+    lat: 23.940769
+    long: -102.525459
+- uid: rd.rodrigo-immaginario
+  name: Rodrigo Immaginario
+  tagline: Education / Entrepreneurship
+  image:
+    src: media/profiles/rodrigo-immaginario.jpg
+    alt: "Rodrigo Immaginario"
+  location: 
+    display: Vila Velha - ES, Brasil
+    lat: -20.330289
+    long: -40.292179
+- uid: rd.rotem-rozmarin
+  name: Rotem Rozmarin
+  tagline: Astronomy / Fitness
+  image:
+    src: media/profiles/rotem-rozmarin.jpg
+    alt: "Rotem Rozmarin"
+  location: 
+    display: Israel
+    lat: 33.294782
+    long: 35.572275
+- uid: rd.ryan-duguid
+  name: Ryan Duguid
+  tagline: Cycling / Pilates
+  image:
+    src: media/profiles/ryan-duguid.jpg
+    alt: "Ryan Duguid"
+  location: 
+    display: Seattle, WA, United States
+    lat: 47.607569
+    long: -122.325452
+- uid: rd.samer-awajan
+  name: Samer Awajan
+  tagline: Fitness / Food
+  image:
+    src: media/profiles/samer-awajan.jpg
+    alt: "Samer Awajan"
+  location: 
+    display: Amman, Amman Governorate, Jordan
+    lat: 31.951799
+    long: 35.940418
+- uid: rd.sasha-goldshtein
+  name: Sasha Goldshtein
+  tagline: Programming / Running
+  image:
+    src: media/profiles/sasha-goldshtein.jpg
+    alt: "Sasha Goldshtein"
+  location: 
+    display: Kfar Saba, Israel
+    lat: 32.182678
+    long: 34.912517
+- uid: rd.simon-cox
+  name: Simon Cox
+  tagline: Crafts / Education
+  image:
+    src: media/profiles/simon-cox.jpg
+    alt: "Simon Cox"
+  location: 
+    display: Southampton, United Kingdom
+    lat: 50.909969
+    long: -1.407089
+- uid: rd.simon-sabin
+  name: Simon Sabin
+  tagline: Family / Food
+  image:
+    src: media/profiles/simon-sabin.jpg
+    alt: "Simon Sabin"
+  location: 
+    display: London, United Kingdom
+    lat: 51.50242
+    long: -0.13121
+- uid: rd.stavros-menegos
+  name: Stavros Menegos
+  tagline: Photography / Programming
+  image:
+    src: media/profiles/stavros-menegos.jpg
+    alt: "Stavros Menegos"
+  location: 
+    display: Pireas, Greece
+    lat: 37.942848
+    long: 23.64722
+- uid: rd.stephen-thair
+  name: Stephen Thair
+  tagline: DevOps / Entrepreneurship
+  image:
+    src: media/profiles/stephen-thair.jpg
+    alt: "Stephen Thair"
+  location: 
+    display: Guildford, United Kingdom
+    lat: 51.237091
+    long: -0.570469
+- uid: rd.steven-porter
+  name: Steven Porter
+  tagline: Entrepreneurship / Fitness
+  image:
+    src: media/profiles/steven-porter.jpg
+    alt: "Steven Porter"
+  location: 
+    display: Atlanta, GA, United States
+    lat: 33.74831
+    long: -84.391113
+- uid: rd.steve-smith
+  name: Steve Smith
+  tagline: Education / Entrepreneurship
+  image:
+    src: media/profiles/steve-smith.jpg
+    alt: "Steve Smith"
+  location: 
+    display: Leicester, England, United Kingdom
+    lat: 52.637958
+    long: -1.140419
+- uid: rd.taylor-gibb
+  name: Taylor Gibb
+  tagline: Design / Entrepreneurship
+  image:
+    src: media/profiles/taylor-gibb.jpg
+    alt: "Taylor Gibb"
+  location: 
+    display: Durban, KwaZulu-Natal, South Africa
+    lat: -29.847167
+    long: 30.987844
+- uid: rd.thomas-nigro
+  name: Thomas Nigro
+  tagline: Entrepreneurship / Innovation
+  image:
+    src: media/profiles/thomas-nigro.jpg
+    alt: "Thomas Nigro"
+  location: 
+    display: Paris, France
+    lat: 48.861208
+    long: 2.337439
+- uid: rd.tibi-covaci
+  name: Tibi Covaci
+  tagline: -NET / Advisor
+  image:
+    src: media/profiles/tibi-covaci.jpg
+    alt: "Tibi Covaci"
+  location: 
+    display: Santa Cruz de Tenerife, Spain
+    lat: 28.460779
+    long: -16.2639
+- uid: rd.tim-huckaby
+  name: Tim Huckaby
+  tagline: Hiking / Running
+  image:
+    src: media/profiles/tim-huckaby.jpg
+    alt: "Tim Huckaby"
+  location: 
+    display: Carlsbad, CA, United States
+    lat: 33.165878
+    long: -117.338218
+- uid: rd.todd-fine
+  name: Todd Fine
+  tagline: Entrepreneurship / Food
+  image:
+    src: media/profiles/todd-fine.jpg
+    alt: "Todd Fine"
+  location: 
+    display: Atlanta, GA, United States
+    lat: 33.75231
+    long: -84.387113
+- uid: rd.tomas-herceg
+  name: Tomas Herceg
+  tagline: Education / Programming
+  image:
+    src: media/profiles/tomas-herceg.jpg
+    alt: "Tomas Herceg"
+  location: 
+    display: Prague, Czech Republic
+    lat: 50.066802
+    long: 14.465841
+- uid: rd.troy-hunt
+  name: Troy Hunt
+  tagline: Coffee / Fitness
+  image:
+    src: media/profiles/troy-hunt.jpg
+    alt: "Troy Hunt"
+  location: 
+    display: Gold Coast, Queensland, Australia
+    lat: -28.00234
+    long: 153.428634
+- uid: rd.venkatarangan-thirumalai
+  name: Venkatarangan Thirumalai
+  tagline: Books / Digital
+  image:
+    src: media/profiles/venkatarangan-thirumalai.jpg
+    alt: "Venkatarangan Thirumalai"
+  location: 
+    display: Chennai, Tamil Nadu, India
+    lat: 13.08358
+    long: 80.282577
+- uid: rd.vincent-thavonekham
+  name: Vincent Thavonekham
+  tagline: Agility / Cloud
+  image:
+    src: media/profiles/vincent-thavonekham.jpg
+    alt: "Vincent Thavonekham"
+  location: 
+    display: Lyon, France
+    lat: 45.759391
+    long: 4.828979
+- uid: rd.vinod-unny
+  name: Vinod Unny
+  tagline: Gaming / Movies
+  image:
+    src: media/profiles/vinod-unny.jpg
+    alt: "Vinod Unny"
+  location: 
+    display: Gurgaon, Haryana, India
+    lat: 28.477619
+    long: 77.069557
+- uid: rd.vishwas-lele
+  name: Vishwas Lele
+  tagline: Programming / Soccer
+  image:
+    src: media/profiles/vishwas-lele.jpg
+    alt: "Vishwas Lele"
+  location: 
+    display: Washington, D-C-, DC, United States
+    lat: 38.894369
+    long: -77.027959
+- uid: rd.ward-bell
+  name: Ward Bell
+  tagline: Arts / Coffee
+  image:
+    src: media/profiles/ward-bell.jpg
+    alt: "Ward Bell"
+  location: 
+    display: San Francisco, CA, United States
+    lat: 37.781118
+    long: -122.415639
+- uid: rd.youngjae-kim
+  name: Youngjae KIM
+  tagline: Design / Education
+  image:
+    src: media/profiles/youngjae-kim.jpg
+    alt: "Youngjae KIM"
+  location: 
+    display: Seoul, South Korea
+    lat: 37.570535
+    long: 126.981966
+- uid: rd.zoiner-tejada
+  name: Zoiner Tejada
+  tagline: Entrepreneurship / Innovation
+  image:
+    src: media/profiles/zoiner-tejada.jpg
+    alt: "Zoiner Tejada"
+  location: 
+    display: Encinitas, CA, United States
+    lat: 33.04581
+    long: -117.292572

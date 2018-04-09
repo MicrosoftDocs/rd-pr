@@ -1,0 +1,61 @@
+### YamlMime:Profile
+uid: rd.praveen-srivatsa
+name: Praveen Srivatsa
+metadata:
+  title: Praveen Srivatsa - Microsoft Regional Director
+  description: Consultant, Public Speaker, and Microsoft Regional Director in Bengaluru, India
+remarks: |
+  ## Bio
+  Praveen Srivatsa started his career with CITIL (now Oracle Financials) in 1994
+  and has worked at ADITI Technologies and Orbit-e Consulting. He started
+  Asthrasoft Consulting in 2004 which offers consulting around leveraging the
+  latest technologies for a digital transformation solution. Asthrasoft has
+  incubated StudiDesk - a social learning platform and is working on an
+  analytics and machine learning service.
+  
+  Praveen is a technology enthusiast and has worked with multiple technologies.
+  Starting out with SQL 4.2 and Oracle 7, he has architect-ed solutions around a
+  variety of data and analytics platforms. He specializes in Analytics, Machine
+  learning and Cognitive interfaces around very large and streaming data sets.
+  He presented a customer case study on moving a 100TB application from Oracle
+  to SQL with real-time analytics at Microsoft TechED in Atlanta.
+  
+  Praveen is also on the technology advisory board of a few software companies.
+  
+  Talk to me about : Cloud, Bigdata, DevOps, Machine Learning, Analytics,
+  Cognitive
+
+  ## Spotlight
+  My love affair with computers started with a ZX81 Sinclair when I was 12 and
+  then moved into UNIX/DNIX, Windows and the Cloud. I now run Asthrasoft
+  Consulting, a consulting company that helps clients bridge their business
+  needs with technology solutions like cognitive computing, machine learning,
+  IoT integration and PowerBI all around a cloud platform. We recognize that
+  technology challenges are unique to each solution based on customer goals. To
+  better guide them we are building an e-learning platform, StudiDesk, to create
+  custom courses specific to customer needs from the repository of over 400
+  hours of original content that spans across technologies.
+  
+    
+  
+  We transform businesses using the right technology. For instance, we
+  transitioned one customer’s 100TB solution from Oracle to SQL while keeping
+  their application on Python on Linux. This significantly lowered the cost of
+  their platform. We moved another customer’s SAGE based VB6 solution to the
+  Azure cloud with which they are now offering hosted solutions for hospitals in
+  the Middle East. We leveraged StudiDesk to offer SQL with Python and SAGE
+  workloads on Azure IaaS trainings for their teams which was specifically
+  designed for them. In both cases, they could retain most of their existing
+  skill sets and transform the solutions dramatically to meet their business
+  goals.
+tagline: Education / Entrepreneurship
+image:
+  alt: "Praveen Srivatsa"
+  src: media/profiles/praveen-srivatsa.jpg
+twitter: https://twitter.com/srivatsapraveen
+facebook: https://facebook.com/srivatsapraveen
+linkedin: https://www.linkedin.com/in/srivatsapraveen
+location:
+  display: Bangalore, Karnataka, India
+  lat: 12.966139
+  long: 77.586936

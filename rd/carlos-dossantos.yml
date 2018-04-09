@@ -1,0 +1,54 @@
+### YamlMime:Profile
+uid: rd.carlos-dossantos
+name: Carlos dos Santos
+metadata:
+  title: Carlos dos Santos - Microsoft Regional Director
+  description: Microsoft Regional Director and Software Engineer in Alexandria, Brasil
+remarks: |
+  ## Bio
+  \- More than 28 year of software development experience;  
+  \- Team coordinator using Microsoft Visual Studio Foundation Server and Scrum;  
+  \- Many types of software developed for several areas;  
+  \- Speaker about Microsoft technologies in many events;  
+  \- Software Architect;  
+  \- Software Developer;  
+  \- Microsoft MVP Visual Studio since 2008;  
+  \- Articles - write articles for some newsletters;  
+  \- Microsoft Cloud Computing with Azure
+  
+  ServicesSpecialties:  
+  \- Cloud Development  
+  \- IoT Development  
+  \- Mobility Development;  
+  \- User Group Lead;  
+  \- Visual Studio Team Foundation Server;  
+  \- ALM  
+  \- Author - articles and trainings;  
+  \- Microsoft certified;  
+  \- Visual Studio ALM certified;  
+  \- Professional Scrum Master;  
+  \- Professional Scrum Developer;  
+  \- Open Source Projects:  
+  <https://www.github.com/code-cracker>  
+  <https://www.github.com/boletonet>  
+  <https://www.github.com/cdsinformatica>  
+  Visual Studio 2015 and Roslyn  
+  \- Microsoft Office 365- Training for companies in Microsoft technologies
+  
+  My hobbies:
+  
+  I like walking, running, traveling and piloting drones.
+  
+  Being in touch with a nature.
+tagline: Coffee / Entrepreneurship
+image:
+  alt: "Carlos dos Santos"
+  src: media/profiles/carlos-dossantos.jpg
+facebook: https://www.facebook.com/carloscds
+github: https://github.com/carloscds
+linkedin: https://www.linkedin.com/in/cdssoftware/
+twitter: https://twitter.com/cdssoftware
+location:
+  display: Cornélio Procópio - PR, Brasil
+  lat: -23.181419
+  long: -50.64801

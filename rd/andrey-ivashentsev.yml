@@ -1,0 +1,29 @@
+### YamlMime:Profile
+uid: rd.andrey-ivashentsev
+name: Andrey Ivashentsev
+metadata:
+  title: Andrey Ivashentsev - Microsoft Regional Director
+  description: Chief Innovation Officer and Microsoft Regional Director in Moscow, Russia
+remarks: |
+  ## Bio
+  Hello, I’m Andrey.
+  
+  I’m a Chief Innovation Officer at Game Insight and Regional Director at
+  Microsoft.
+  
+  My duties are about landing new innovative technologies into our games and
+  sharing our experience with developer community, focusing on areas like AR\VR
+  & Holograms, Game Development & Cloud Computing.
+  
+  You can ask me something or invite me to your event with a click on the button
+  above.
+  
+  <https://linkedin.com/in/aivashentsev>
+tagline: Innovation / Technology
+image:
+  alt: "Andrey Ivashentsev"
+  src: media/profiles/andrey-ivashentsev.jpg
+location:
+  display: Moscow, Russia
+  lat: 55.756961
+  long: 37.615009

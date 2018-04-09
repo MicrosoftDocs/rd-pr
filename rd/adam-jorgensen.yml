@@ -1,0 +1,25 @@
+### YamlMime:Profile
+uid: rd.adam-jorgensen
+name: Adam Jorgensen
+metadata:
+  title: Adam Jorgensen - Microsoft Regional Director
+  description: 
+remarks: |
+  ## Bio
+  Hey there, I'm Adam Jorgensen. I love helping others solve problems. I'm the
+  President of Pragmatic Works Consulting and the President of PASS, the global
+  community of data professionals. I'm also a Microsoft Regional Director and a
+  MVP (Most Valuable Professional) .
+  
+  I' delivered thousands of sessions on topics like data culture, strategy,
+  growth and professional development.
+  
+  Connect with me and let me know what you're doing with data!
+tagline: Entrepreneurship / Photography
+image:
+  alt: "Adam Jorgensen"
+  src: media/profiles/adam-jorgensen.jpg
+location:
+  display: Jacksonville, FL, United States
+  lat: 30.33147
+  long: -81.656219

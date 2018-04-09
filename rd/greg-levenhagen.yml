@@ -1,0 +1,64 @@
+### YamlMime:Profile
+uid: rd.greg-levenhagen
+name: Greg Levenhagen
+metadata:
+  title: Greg Levenhagen - Microsoft Regional Director
+  description: Software Engineer, Consultant, Public Speaker, and Microsoft Regional Director in Appleton, Wisconsin
+remarks: |
+  ## Bio
+  Making people’s lives better through software!
+  
+  I’m a Principal Consultant at Skyline Technologies, Microsoft Regional
+  Director (RD), and a Microsoft Most Valuable Professional (MVP) in Windows
+  development. I work with C-Suites and boards to advise them on complex
+  business problems, while still spending time developing solutions. Involvement
+  in the community is important to me and I serve on some non-profit boards for
+  IT Advisory and help colleges with curricula to keep up with business needs.
+  
+  Over the years, I’ve gained experience in a wide variety of technologies. I
+  spent the majority of the 90s developing on UNIX and Linux systems, while
+  jumping over to Windows for game development. After the turn of the
+  millennium, my primary dev stack switched to Windows. Now it bounces between
+  Windows and macOS to reach cross platform solutions. One of the common tools
+  I’ve used over all of those platforms is Vim; Vim > Emacs!
+  
+  Besides speaking at conferences, I’m a board member of ThatConference,
+  president of the Milwaukee Code Camp, president of the Northeast WI Code Camp,
+  president of the Northeast WI Developers User Group, co-organizer of the Fox
+  Valley Game Development Meetup, co-organizer of the MidwestAzureUser Group,
+  organizer of MobileMKE, cofounder of the Northeast WIAgile User Group, IEEE
+  member, ACM member, and a Microsoft Certified Trainer (MCT). I’m strong
+  supporter of TEALS to help STEM growth!
+  
+  I’m a true enthusiast of computer science, with undergraduate and graduate
+  degrees in computer science, along with some PhD studies. I enjoy substituting
+  at universities when the opportunity arises.
+  
+  Along with being a life-long geek, I enjoy golfing, football, woodworking,
+  philosophy and a tasty BBQ.
+  
+  Talk to me about: Augmented Reality (AR) / Mixed Reality (MR) / Virtual
+  Reality (VR) (HoloLens, Oculus, Vive), Cognitive Services, Artificial
+  Intelligence (AI), Emerging Experiences, Internet of Things (IoT), Cross
+  Platform Development, Cloud Computing (Azure, AWS, GCP), Web Development
+  (JavaScript, ASP.NET, PHP, WebAPI, Node, React, Angular), Mobile Development
+  (traditional native iOS and Android, Cordova and Xamarin), Windows Apps (WPF,
+  UWP), Game Development (DirectX, OpenGL, Unity, Unreal), Services /
+  Microservices, Containers, Databases and Data Stores (SQL Server, MySQL, NoSQL
+  solutions), Developer Security, ALM, DevOps.
+tagline: Entrepreneurship / Innovation
+image:
+  alt: "Greg Levenhagen"
+  src: media/profiles/greg-levenhagen.jpg
+twitter: https://twitter.com/greglevenhagen
+linkedin: https://www.linkedin.com/in/greglevenhagen
+facebook: https://facebook.com/greglevenhagen
+github: https://github.com/greglevenhagen
+googleplus: https://plus.google.com/+GregLevenhagen
+wordpress: https://greglevenhagen.com
+youtube: https://www.youtube.com/c/GregLevenhagen
+stackoverflow: https://stackoverflow.com/users/279665/greg-levenhagen
+location:
+  display: Appleton, WI, United States
+  lat: 44.261779
+  long: -88.416557

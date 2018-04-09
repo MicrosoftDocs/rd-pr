@@ -1,0 +1,57 @@
+### YamlMime:Profile
+uid: rd.javier-ogarriot
+name: Javier Ogarrio T.
+metadata:
+  title: Javier Ogarrio T. - Microsoft Regional Director
+  description: Microsoft Regional Director, Full-Stack Developer, and Startup Cofounder in Hyderabad, Guatemala
+remarks: |
+  ## Bio
+  ¡Hola!
+  
+  I am cofounder of Zynn.io, a young startup focused on mobile data recollection
+  solutions for businesses. I have strong affinity for elegant code, beautiful
+  user experiences, scalable infrastructures, plus I enjoy iterating over
+  business models.
+  
+  Before jumping to the startup world I started coding at 11, later moved to
+  Sweden as a software consultant for Dental Eye AB, came back and joined
+  Microsoft as Technical Advocate, moved to Nokia as Technical Sales Manager,
+  and my final stop was in Microsoft Mobile. Today I enjoy the rapid pace of
+  startups and the challenge of finding solutions to complex business problems
+  with technology.
+  
+  I am a huge fan of C# and JavaScript, starting a crush for R. I mostly spend
+  my time on integrating cloud solutions, designing APIs, and mobile B2B apps.
+  
+  For this I usually employ a mix of:  
+  Azure cloud, Bot Framework,  
+  Xamarin and PhoneGap,  
+  ASP.NET, PHP, Ruby, AForge, OpenCV,  
+  Angular.JS, React.JS, Node.JS,  
+  structured and unstructured data strategies,  
+  Google cloud, Google Script,  
+  and so on…
+  
+  There are always new frameworks and patterns out there, which I find fun to
+  learn. My code has powered government national elections, medical software,
+  education software, and business software.
+  
+  On the other hand, besides bytes and bits, I care for social development.
+  Coming from a region with so many hardships, I believe that improvement can
+  come by collaboration and creating sustainable frameworks. I’ve been Microsoft
+  YouthSpark Advocate, Microsoft Student Partner, TEDx speaker, Startup Weekend
+  organizer, Junior Achievement collaborator, AISEC collaborator, World Bank
+  collaborator and helped a few ONGs.
+  
+  Always open for a good talk, feel free to drop a line.
+tagline: business models / cloud
+image:
+  alt: "Javier Ogarrio T."
+  src: media/profiles/javier-ogarriot.jpg
+twitter: https://twitter.com/jogarriot
+facebook: https://facebook.com/jogarriot
+linkedin: https://gt.linkedin.com/in/jogarriot
+location:
+  display: Guatemala
+  lat: 15.696111
+  long: -90.357086

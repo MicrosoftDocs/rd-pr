@@ -1,0 +1,52 @@
+### YamlMime:Profile
+uid: rd.dave-nel
+name: Dave Nel
+metadata:
+  title: Dave Nel - Microsoft Regional Director
+  description: Managing Partner, Microsoft Regional Director, and Entrepreneur in Johannesburg, South Africa
+remarks: |
+  ## Bio
+  In 2010, along with my close friend, Ian Roberts, I started Tangent Solutions.
+  A cloud first, digital solutions consulting house that focuses on digital
+  transformation.
+  
+  I love mobile and cloud. I'm proficient on iOS and Android, Xamarin Forms,
+  Xamarin Native and true Native. I've done my time on HTML hybrids, and hope
+  not to do it again. Azure is king in my world and I have deployed a number of
+  workloads onto PaaS as well as Linux IaaS. Right now I'm quite excited about
+  using Kubernetes in Azure for our microservices framework, Nimble and the
+  upcoming release of Linux App Services on Azure.
+  
+  I enjoy working with developer communities and am involved with a couple of
+  User Groups. Currently I'm a co-organizer for the Azure User Group in
+  Johannesburg as well as the Durban Xamarin User Group, giving me an excuse to
+  head to the coast once a month.
+  
+  I'm very passionate about digital transformation. But digital transformation
+  done right. This means targeted MVPs with a DevOps delivery. This approach
+  allows for a improved build quality, reduced costs and most importantly, a
+  quicker time to market.
+  
+  Throughtout my career I've gained broad exposure to Information Technology
+  across South Africa doing work for SMEs, mid-size corporates and large scale
+  enterprises including amongst others, the JSE, Investec, Standard Bank,
+  Vodacom, Sun International and Liberty Life.
+  
+  I have my Masters in Information Technology and Philosophy and thoroughly
+  enjoy a good debate.
+  
+  I've spoken at a number of events in South Africa about Digital
+  Transformation, the power of the Cloud, Xamarin development and mobile DevOps.
+  
+  Talk to me about Digital Transformation, Azure, Xamarin, Microsoft and Open
+  Source.
+tagline: Azure / digital transformation
+image:
+  alt: "Dave Nel"
+  src: media/profiles/dave-nel.jpg
+linkedin: https://www.linkedin.com/in/dave-nel-88519726/
+twitter: https://twitter.com/TangentDave
+location:
+  display: Johannesburg, Gauteng, South Africa
+  lat: -26.204879
+  long: 28.04006

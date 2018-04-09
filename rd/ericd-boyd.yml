@@ -1,0 +1,38 @@
+### YamlMime:Profile
+uid: rd.ericd-boyd
+name: Eric D. Boyd
+metadata:
+  title: Eric D. Boyd - Microsoft Regional Director
+  description: Consultant, Architect, and Public Speaker in Chicago, Illinois
+remarks: |
+  ## Bio
+  Hey, I’m Eric, I'm the Founder and CEO of responsiveX, a Microsoft Azure MVP,
+  a Microsoft Regional Director, a regular conference speaker, and the co-author
+  of Step-by-Step Azure SQL Database from Microsoft Press.
+  
+  I am so passionate about business digital transformation that I started a
+  company called responsiveX in 2012. responsiveX is a technology company that
+  helps customers deliver great web, mobile and enterprise apps using the cloud
+  and Azure. And we've had the privilege of working on some exciting projects,
+  with some of the largest companies in the world.
+  
+  I've been deep into creating technology for almost two decades, starting with
+  a web development startup and in multiple roles since including developer,
+  consultant, technology executive and business owner.
+  
+  My family and I live between Chicago and Milwaukee where the winters are cold,
+  but the summer's are beautiful and we love the area.
+tagline: cloud / Coffee
+image:
+  alt: "Eric D. Boyd"
+  src: media/profiles/ericd-boyd.jpg
+twitter: https://twitter.com/EricDBoyd
+facebook: https://facebook.com/EricDBoyd
+linkedin: https://linkedin.com/in/EricDBoyd
+youtube: https://youtube.com/user/EricDBoyd
+spotify: https://open.spotify.com/user/EricDBoyd
+github: https://github.com/EricDBoyd
+location:
+  display: Chicago, IL, United States
+  lat: 41.88425
+  long: -87.632446

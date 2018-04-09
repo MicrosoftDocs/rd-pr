@@ -1,0 +1,65 @@
+### YamlMime:Profile
+uid: rd.andrea-saltarello
+name: Andrea Saltarello
+metadata:
+  title: Andrea Saltarello - Microsoft Regional Director
+  description: Entrepreneur, Software Architect, and Microsoft Regional Director in Milano, Italia
+remarks: |
+  ## Bio
+  I am an entrepreneur and consultant in the Software Architecture field from
+  Milan, Italy, serving as the CEO of Managed Designs yet still being eager to
+  write production code in order to get feedback about my architectural
+  decisions.
+  
+  I am the lead developer of MementoFX, an event sourcing framework aimed at
+  making the development of "time travelling software" a breeze.
+  
+  As a trainer and speaker, I had several speaking engagements for courses and
+  conferences across Europe such as TechEd, DevWeek and Software Architect
+  Conference; I taught "Operating Systems" during the "Master in Editoria
+  Multimediale" class organized by the University “Politecnico of Milan”.
+  
+  In 2001 I co-founded UGIdotNET (http://www.ugidotnet.org), the first Italian
+  .NET User Group, of which I am the President and leader.
+  
+  I have been designated as Microsoft MVP since 2003 and appointed as a
+  Microsoft Regional Director in 2016.
+  
+  My ultimate passion is music, being devoted to Depeche Mode with whom I fell
+  in love with since listening to Everything Counts for the first time.
+  
+  Talk to me about: Software Architecture, Domain Driven Design, CQRS, Event
+  Sourcing, ASP.NET, .NET Core, Azure
+
+  ## Spotlight
+  As a long-time Domain Driven Design practitioner, I warmly welcomed the advent
+  of Event Sourcing as a persistence strategy. What got me into the use of
+  events as a fundamental information chunk is that you can replay them to
+  rebuild any past system’s state, thus solving the problems of simulations and
+  information versioning.
+  
+  Back in the day, though, you couldn’t rely on already existing .NET SDKs to
+  leverage event management and persistence. To address this problem my company,
+  Managed Designs, and I implemented MementoFX, an ad-hoc application framework.
+  Released on NuGet under an open source license in April 2016, the suite has
+  been downloaded more than 6500 times up to January 2017.
+  
+  Since then, under the moniker of Mastreeno I have been evolving MementoFX to
+  make it the tool of choice for architects and developers building event-
+  processing applications such as BI or IoT systems, whether they are on-
+  premises or cloud-based. For how much services such as Event Hubs or Azure
+  IoT, just to name a few, are impeccable event collectors, software
+  applications do need to bind these events to business logic to produce
+  consolidated results and that’s where MementoFX kicks in, making this onerous
+  task a breeze.
+tagline: Innovation / Movies
+image:
+  alt: "Andrea Saltarello"
+  src: media/profiles/andrea-saltarello.jpg
+twitter: https://twitter.com/andysal74
+facebook: https://facebook.com/andysal
+linkedin: https://www.linkedin.com/in/andysal
+location:
+  display: Milano, MI, Lombardy, Italy
+  lat: 45.46796
+  long: 9.181779

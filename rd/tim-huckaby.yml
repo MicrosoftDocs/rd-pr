@@ -1,0 +1,66 @@
+### YamlMime:Profile
+uid: rd.tim-huckaby
+name: Tim Huckaby
+metadata:
+  title: Tim Huckaby - Microsoft Regional Director
+  description: Public Speaker, CEO, and Microsoft Regional Director in Carlsbad, California
+remarks: |
+  ## Bio
+  I am a Microsoft Global RD, a Microsoft MVP and serve on many councils and
+  boards like the Microsoft Application Development Partner Advisory Council. I
+  am focused on Emerging User Experiences, User Interaction Design and the
+  Natural User Interface (NUI).
+  
+  I have over 35 years of technology experience including working on a server
+  product team as a development lead on an architecture team at Microsoft. I
+  worked on some famous and not so famous Microsoft Server products in the late
+  nineties.
+  
+  I have been awarded many times for the highest rated technical & industry
+  presentations and keynotes for Microsoft and many other vertical & technology
+  conferences like CES and events all around the world. I am consistently rated
+  in the top 10% of all speakers at these events. Having worked for or with
+  Microsoft for over 25 years, I have been on stage with, and done numerous
+  keynote demos for many Microsoft executives including Bill Gates and Steve
+  Ballmer.
+  
+  Talk to me about: Hololens, Kinect for Windows, Microsoft Cognitive Services,
+  Emerging Experiences, Mixed Reality
+
+  ## Spotlight
+  My team amasses terabytes of raw consumer behavior data in Azure SQL for some
+  of the largest CPG companies in the world and the list is growing. Recently,
+  we ran into a large-scale problem that caused significant worry. Our Stored
+  Proc queries to Azure SQL were falling down, running in excess of six hours -
+  after that process, we compiled custom reporting in Excel, which took more
+  time. You can imagine how displeased our customers were when they wanted to
+  see their data in real time. Even more importantly, these customers
+  desperately wanted to see the data visualized so they could make strategic,
+  product-related decisions.
+  
+  Cloud architecture is difficult. I have a pretty strong skill set, but I’m
+  savvy enough in my own technical years to know how to lean on the best for
+  respected opinions. First, I asked software architects at my own company,
+  InterKnowlogy. Then I turned to my fellow RDs Vishwas Lele (from AIS) and
+  Edgar Sanchez (from LogicStudio).
+  
+  Ultimately, we landed on an awesome Azure SQL Data Warehouse solution. PowerBI
+  visualizes and reports on the data. We use Azure Data Factory to transform and
+  move the data into the Data Warehouse so that PowerBI can do its magic. The
+  solution was so beautiful, powerful, awesome, fast, and scalable that it made
+  for some very happy customers.
+tagline: Hiking / Running
+image:
+  alt: "Tim Huckaby"
+  src: media/profiles/tim-huckaby.jpg
+twitter: https://twitter.com/TimHuckaby
+facebook: https://facebook.com/Tim.Huckaby.Carlsbad
+linkedin: https://www.linkedin.com/in/timhuckaby
+youtube: http://www.youtube.com/user/TimHuckaby
+pinterest: https://pinterest.com/t_huckaby
+spotify: https://open.spotify.com/user/Tim.Huckaby.Carlsbad
+github: https://github.com/TimHuckaby
+location:
+  display: Carlsbad, CA, United States
+  lat: 33.165878
+  long: -117.338218

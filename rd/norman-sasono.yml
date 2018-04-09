@@ -1,0 +1,38 @@
+### YamlMime:Profile
+uid: rd.norman-sasono
+name: Norman Sasono
+metadata:
+  title: Norman Sasono - Microsoft Regional Director
+  description: Co-Founder &amp; Chief Technology Officer and Microsoft Regional Director in Roma, Indonesia
+remarks: |
+  ## Bio
+  I am Co-founder and Chief Technology Officer of www.bizzy.co.id, Indonesia's
+  leading B2B eCommerce and eProcurement platform. I lead the Product
+  Management, Engineering, QA and Data Science operations there.
+  
+  I am also Co-founder of a marketing platform www.loyaltiexpress.com. Before
+  that I worked for Microsoft in the Developer and Platform group for almost a
+  decade.
+  
+  I was CTO, Principal Engineer, Software Architect, Dev Lead and Software
+  Developer in several other local and multinational software companies.
+  
+  I studied Computer Science in IPB and Engineering Physics in ITS. My academic
+  focus was on Dynamical Systems, Numerical Analysis, Computational Mathematics
+  and Artificial Intelligence.
+  
+  In my free time I practice Brazilian Jiu-jitsu and read books on Mathematics.
+  
+  Talk to me about: Startups, Software Engineering, Product Management, Data
+  Science, Cloud Computing, Architecture, Microsoft Azure.
+tagline: data science / mathematics
+image:
+  alt: "Norman Sasono"
+  src: media/profiles/norman-sasono.jpg
+linkedin: https://www.linkedin.com/in/normansasono
+twitter: https://twitter.com/nsasono
+facebook: https://www.facebook.com/nsasono
+location:
+  display: Jakarta, Indonesia
+  lat: -6.17146
+  long: 106.826477

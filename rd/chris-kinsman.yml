@@ -1,0 +1,69 @@
+### YamlMime:Profile
+uid: rd.chris-kinsman
+name: Chris Kinsman
+metadata:
+  title: Chris Kinsman - Microsoft Regional Director
+  description: Software Engineer, Architect, and Microsoft Regional Director in Redmond, Washington
+remarks: |
+  ## Bio
+  I am the chief architect at PushSpring building the next generation of
+  audience driven mobile advertising.
+  
+  I have spent the last 20 years helping executive teams innovate and solve
+  problems with technology.
+  
+  I have experience on multiple platforms including both Azure and Amazon Web
+  Services and have worked in multiple technology stacks including NodeJS,
+  .NET/C#, Objective-C, and Java.
+  
+  I have been a Microsoft Regional Director since 2003. Microsoft Regional
+  Directors are not Microsoft employees. They are individuals who have been
+  awarded an honorary title and special privileged relationship with Microsoft
+  in recognition of Technical expertise and contributions to their developer
+  community. Theyact as a trusted bridge helping Microsoft better understand the
+  market and their customers' needs while assisting their customers in better
+  leveraging Microsoft's technologies and services for their environments and
+  solutions.
+  
+  I have spoken at a variety of events over the years including TechEd, VSLive,
+  VBITS, and others.
+  
+  I currently run a .NET user group in Redmond, WA (http://www.netda.net).
+  
+  I have been organizing the Seattle CodeCamp (https://seattle.codecamp.us) for
+  the last 15+ years getting together more than 600 developers to learn about a
+  variety of topics.
+  
+  Talk to me about: Cloud Computing, DevOps, Microservices, SaaS, or NodeJS,
+
+  ## Spotlight
+  The cloud has enabled startups to move faster and change their strategies
+  around capital utilization. The growing number of *-aaS platforms means
+  startups can focus on building their product instead of managing and running
+  infrastructure. If a capability doesn’t provide a unique value proposition for
+  your startup, I recommend buying instead of building. Startups must embrace
+  the elasticity of the cloud to use it in the most cost effective manner
+  possible. Infrastructure can no longer be static – it must continuously change
+  to meet the needs of the current workload.
+  
+  A common challenge for startups is finding market fit before they run out of
+  money. I help them leverage the cloud in cost-effective ways that extend their
+  runway while decreasing their time-to-market. With a broad knowledge of
+  multiple cloud platforms, Linux, Windows, microservices, containerization and
+  DevOps I help startups solve their most difficult challenges by building
+  services that ingest 100’s of millions of data points a day and combine them
+  with other datasets This allows customers to query and visualize more than 3
+  billion rows of data without any data science expertise. In today’s startup
+  industry, typical turnaround on data ingestion and custom segment creation is
+  1-2 weeks - our customer’s was shortened to less than a day. This provided a
+  huge differentiator that was brought to market in a matter of months.
+tagline: Entrepreneurship / Innovation
+image:
+  alt: "Chris Kinsman"
+  src: media/profiles/chris-kinsman.jpg
+linkedin: https://www.linkedin.com/in/chrislkinsman
+github: https://github.com/chriskinsman
+location:
+  display: Redmond, WA, United States
+  lat: 47.678581
+  long: -122.131576

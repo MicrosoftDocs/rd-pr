@@ -1,0 +1,34 @@
+### YamlMime:Profile
+uid: rd.andy-cross
+name: Andy Cross
+metadata:
+  title: Andy Cross - Microsoft Regional Director
+  description: Microsoft Regional Director and Entrepreneur in London, United Kingdom
+remarks: |
+  ## Bio
+  Andy Cross is a co-founder of Elastacloud. An international speaker, Andy has
+  lead teams building the largest Hadoop and HDInsight specialist deployments on
+  Azure.
+  
+  His passion for embedded software and high performance compute clusters gives
+  him a unique insight into a sphere of computation from the very small and
+  resource constrained to the massively scalable, limitless potential of the
+  cloud. He is an Azure Insider, co-founder of the UK London Azure User Group,
+  an Azure Most Valuable Professional and a Microsoft Regional Director. You can
+  tweet Andy at @andyelastacloud
+  
+  Talk to me about: Cloud Computing, PaaS, SaaS, Big Data, Hadoop, Nodejs, IoT,
+  Arduino, Microservices, Serverless Compute, Software Architecture, Javascript,
+  Apache Spark, MapReduce, .NET, Azure, Software Engineering, Project
+  efficiency, C#, ASP.NET, Cloud Strategy, Cloud Business, Multitenant, HTML5,
+  Service Fabric.
+tagline: Cloud / Entrepreneurship
+image:
+  alt: "Andy Cross"
+  src: media/profiles/andy-cross.jpg
+twitter: https://twitter.com/andyelastacloud
+github: https://github.com/andycross
+location:
+  display: London, United Kingdom
+  lat: 51.50642
+  long: -0.12721

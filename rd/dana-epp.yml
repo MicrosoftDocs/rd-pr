@@ -1,0 +1,36 @@
+### YamlMime:Profile
+uid: rd.dana-epp
+name: Dana Epp
+metadata:
+  title: Dana Epp - Microsoft Regional Director
+  description: Microsoft Regional Director in Vancouver, Canada
+remarks: |
+  ## Bio
+  Hey there, I’m Dana. As part of my day job I'm responsible for driving my
+  company's technology strategy with a focus on accelerating innovation, product
+  development and R&D across our portfolio of products. That's no small feat
+  when we deliver IT Service Management software to tens of millions of users
+  both on-premise and in the cloud.
+  
+  I've spent the last 25 years focusing on software security and has been
+  awarded the recognition and designation by Microsoft as an Enterprise Security
+  MVP for the past ten years. This last year I was also awarded for my Azure
+  experience in Cloud and Datacenter Management, and was appointed as a
+  Microsoft Regional Director.
+  
+  I travel regularly between my homes in Vancouver, British Columbia and Las
+  Vegas, Nevada. When I'm not working or touring around the world to speak about
+  information security and threat modeling, you can find me having fun with my
+  Internet film studio that produces web based TV shows like
+  <http://crackthecred.tv>.
+tagline: Entrepreneurship / Movies
+image:
+  alt: "Dana Epp"
+  src: media/profiles/dana-epp.jpg
+twitter: https://twitter.com/danaepp
+facebook: https://facebook.com/danaepp
+linkedin: http://ca.linkedin.com/in/danaepp/
+location:
+  display: Vancouver, BC, Canada
+  lat: 49.260379
+  long: -123.113357

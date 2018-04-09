@@ -1,0 +1,55 @@
+### YamlMime:Profile
+uid: rd.herve-thibault
+name: Hervé Thibault
+metadata:
+  title: Hervé Thibault - Microsoft Regional Director
+  description: Consultant and Microsoft Regional Director in Paris, France
+remarks: |
+  ## Bio
+  Hello, I’m Hervé. I’m a consultant working in Paris (France), specialized on
+  digital environnements & entreprise mobility.
+  
+  I am a fan of Microsoft for 20 years, leading the french System Center User
+  Group during 8 years, and involved on Microsoft events (TechDays, ITCamp,
+  TechNet, ...) & presales (Pseller) to promote technologies such as Windows 10,
+  Enterprise Mobility Suite/intune, Office 365, System Center & Azure.
+  
+  MVP (Most Valuable Professional) on SMS/System Center Configuration Manager
+  from 2008 to 2014, I have the great honour to be a Microsoft Regional Director
+  (IT Pro) since 2015.
+
+  ## Spotlight
+  A company that offers higher education in luxury hotels and restaurants needed
+  help deploying a complete and operational environment for over 100 first-time
+  students within a short timeframe. They required Windows tablets in BYOD mode,
+  a secured identity & access solution with AD on-premises remotely managed
+  (VPN) by a service provider and GPOs for managing devices, and a billing
+  solution suitable for a tight budget.
+  
+  I proposed using innovative Surface Pro 4 devices with a business store to
+  highlight applications for BYOD usage. Regarding infrastructure, the best
+  solution for the customer was “full cloud" based on EMS: Azure AD Premium to
+  avoid any AD infrastructure on premise & VPN, AAD Device integration for
+  single sign-on & automatic MDM enrollment, self-service portal for resetting
+  students passwords & MFA for admins, and Microsoft Intune for device
+  management.
+  
+  The final solution exceeded expectations by delivering 100% functional
+  coverage, a digital environment considered “sexy as iOS” by students, and
+  predictable costs (single payment package per user/month & no initial
+  investment) in only 2 weeks’ time.
+  
+  Personally, I enjoyed providing a “real life” application of the Microsoft
+  cloud’s ability to provide all services expected in an Information System with
+  a simple, affordable funding model.
+tagline: Education / Enterprise Mobility
+image:
+  alt: "Hervé Thibault"
+  src: media/profiles/herve-thibault.jpg
+facebook: https://facebook.com/herve.thibault.16
+twitter: https://twitter.com/thibherv
+linkedin: https://fr.linkedin.com/in/herv%C3%A9-thibault-065ab39
+location:
+  display: Paris, France
+  lat: 48.857208
+  long: 2.341439

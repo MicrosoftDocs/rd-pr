@@ -1,0 +1,50 @@
+### YamlMime:Profile
+uid: rd.orin-thomas
+name: Orin Thomas
+metadata:
+  title: Orin Thomas - Microsoft Regional Director
+  description: Technical Raconteur, Microsoft Regional Director, and Microsoft Press Textbook &amp; Pluralsight Author in Melbourne, Australia
+remarks: |
+  ## Bio
+  I am an MVP, a Microsoft Regional Director, an MCT, and have a string of
+  Microsoft MCSE and MCITP certifications. I have written more than 36 books for
+  Microsoft Press on IT Operations topics such as Windows Server, Office 365 and
+  Azure. I am an author at PluralSight, specializing in Azure and on-premises
+  Microsoft infrastructure topics, speak all over the world at technical
+  conferences such as TechMentor, Ignite and IT/Dev Connections. I am a "Gooroo
+  in residence" at Gooroo.io and a candidate in the Doctor of Information
+  Technology program at Charles Sturt University, with my thesis topic being
+  cloud security compliance accreditations.
+
+  ## Spotlight
+  As an IT Pro RD, I’ve noticed that many organizations “born in the cloud”
+  mistakenly believe that because much of the administration of running servers
+  and workloads is handled by the cloud provider, they don’t need to “think like
+  an IT Pro” about data protection, separating dev from production, and
+  security.
+  
+  This is likely due to how quickly organizations can get meaningful workloads
+  running in the cloud. Because new organizations can move so quickly, I’ve
+  noticed that these young organizations often bypass some of the fundamentals
+  they’d likely consider if they had built the infrastructure to host their
+  workloads in a traditional datacentre. It’s important to advise organizations
+  that have been born in the cloud to help ensure that the fundamentals are
+  right and can be improved upon.
+  
+  I’ve helped organizations reach a place where instead of deploying straight
+  into production, they use a test environment. I reconfigured permissions so
+  that certain people in the organization can modify resource settings in the
+  cloud, rather than maintaining a shared administrator account. Not only did I
+  help back up their data, but advised the recovery process be regularly tested
+  to verify that data is backed up correctly. Because even though the cloud is a
+  developer’s paradise, it helps to think like an IT Pro.
+tagline: IT Operations / Microsoft Azure
+image:
+  alt: "Orin Thomas"
+  src: media/profiles/orin-thomas.jpg
+twitter: https://twitter.com/orinthomas
+linkedin: https://au.linkedin.com/in/orin-thomas-3829a51
+location:
+  display: Melbourne, Victoria, Australia
+  lat: -37.813531
+  long: 144.971147

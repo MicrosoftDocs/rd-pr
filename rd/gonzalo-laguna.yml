@@ -1,0 +1,40 @@
+### YamlMime:Profile
+uid: rd.gonzalo-laguna
+name: Gonzalo Laguna
+metadata:
+  title: Gonzalo Laguna - Microsoft Regional Director
+  description: Microsoft Regional Director, Chief Architect, and Co-Founder in Bruxelles, Uruguay
+remarks: |
+  ## Bio
+  Involved in the software industry for more than two decades, I am Co-Founder
+  of GreenBlue Technologies, Professor of Software Architecture at the Faculty
+  of Engineering at ORT University, and a Microsoft Regional Director in
+  Montevideo, Uruguay
+  
+  On my day to day role I lead a team of technical experts designing solutions
+  for mission-critical corporate projects throughout South America, with a
+  strong emphasis on cloud computing, distributed solutions and enterprise
+  architecture.
+  
+  As a Microsoft Regional Director, I engage with our customers executives,
+  helping them define a successful path into the Digital Transformation.
+  
+  Being a sought after advisor and regular speaker for the industry main events
+  throughout the region, my favorites topics range from cloud computing &
+  software architectures, to sharing a passion for critical thinking.
+  
+  I’m passionate about software, music, science, tennis & traveling, but most of
+  all, being able to share all that with my wife and twin sons.
+  
+  Talk to me about: Cloud Computing, Azure, Microservices, Machine Learning,
+  IoT, DevOps
+tagline: Azure / Cloud Computing
+image:
+  alt: "Gonzalo Laguna"
+  src: media/profiles/gonzalo-laguna.jpg
+twitter: https://twitter.com/glaguna
+linkedin: https://www.linkedin.com/in/gonzalo-laguna-aa911353
+location:
+  display: Uruguay
+  lat: -32.969738
+  long: -56.056064

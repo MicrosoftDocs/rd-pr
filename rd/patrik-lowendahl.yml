@@ -1,0 +1,45 @@
+### YamlMime:Profile
+uid: rd.patrik-lowendahl
+name: Patrik Löwendahl
+metadata:
+  title: Patrik Löwendahl - Microsoft Regional Director
+  description: CTO in Stockholm, Sweden
+remarks: |
+  ## Bio
+  I've been passionate about technology for as long as I can remember. From the
+  first hobbling steps writing software on a VIC-20 to enabling digital
+  platforms and solutions in global organizations - this passion has followed me
+  every step of the way.
+  
+  My professional career I’ve lead through clients, through technology and
+  through business leadership; A path that have given me the good fortune to
+  share this passion many times with colleagues, clients and the wider industry
+  community across the globe.
+  
+  This have taken me into the forefront of the Microsoft community, who have
+  recognized me as a Regional Director. Further developing my insights into the
+  wide Microsoft eco-system of technology, partners and solutions.
+  
+  As I look into the future I am excited over the promises technology gives to
+  transform the business we conduct and the society around us. I am excited
+  because with this promise comes the opportunity for me to further explore and
+  expand my passion.
+  
+  To benefit from that passion, talk to me about:
+  
+  \- Innovation and creative processes  
+  \- Digital and cloud transformations  
+  \- Smart machines (Bots, AI, Cognitive services)  
+  \- Employee Experiences (Automation and productivity)  
+  \- Internet of Things (Connected and Intelligent)
+tagline: cloud / digital transformation
+image:
+  alt: "Patrik Löwendahl"
+  src: media/profiles/patrik-lowendahl.jpg
+linkedin: https://www.linkedin.com/in/lowendahll
+facebook: https://www.facebook.com/lowendahl
+twitter: https://twitter.com/lowendahl
+location:
+  display: Stockholm, Sweden
+  lat: 59.332569
+  long: 18.066829
