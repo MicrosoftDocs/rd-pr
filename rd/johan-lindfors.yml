@@ -20,7 +20,7 @@ remarks: |
   
   Talk to me about: Universal Windows Platform, C++, C#, XAML, Mixed Reality and
   Game Development
-tagline: Gaming / Martial Arts
+tagline: Windows Client / Gaming Technologies
 image:
   alt: "Johan Lindfors"
   src: media/profiles/johan-lindfors.jpg
@@ -28,6 +28,6 @@ linkedin: https://www.linkedin.com/in/lindforsjohan
 twitter: https://twitter.com/JohanLindfors
 facebook: https://www.facebook.com/johan.lindfors
 location:
-  display: Sweden
-  lat: 62.821792
-  long: 16.735385
+  display: Stockholm
+  lat: 59.329323
+  long: 18.068581
