@@ -3,7 +3,7 @@ uid: rd.gokan-ozcifci
 name: Gokan Ozcifci
 metadata:
   title: Gokan Ozcifci - Microsoft Regional Director
-  description: Microsoft Regional Director, Consultant, and entrepreneur in Bruxelles, Belgique
+  description: Microsoft Regional Director, Consultant and entrepreneur in Brussels, Belgium
 remarks: |
   ## Bio
   Gokan is an independent SharePoint and Office365 consultant for Neoxy where he
@@ -28,7 +28,7 @@ remarks: |
   
   You can always talk to me about: Soccer. World Traveling. Food. Next-Gen Cloud
   Systems. Architecture & Strategy. SharePoint + Office365!
-tagline: Cloud / Coffee
+tagline: Cloud Computing / Next-Gen Collaboration
 image:
   alt: "Gokan Ozcifci"
   src: media/profiles/gokan-ozcifci.jpg
@@ -36,6 +36,6 @@ facebook: https://www.facebook.com/gokan.ozcifci
 linkedin: https://www.linkedin.com/in/gokanozcifci/
 twitter: https://twitter.com/xGokan
 location:
-  display: Bruxelles, Belgique
+  display: Brussels, Belgium
   lat: 50.84439
   long: 4.35609
