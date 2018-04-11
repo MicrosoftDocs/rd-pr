@@ -3,23 +3,23 @@ uid: rd.daron-yondem
 name: Daron Yondem
 metadata:
   title: Daron Yondem - Microsoft Regional Director
-  description: CTO, Microsoft Regional Director, and Azure MVP in Milan, Turkey
+  description: CTO, Microsoft Regional Director, and Azure MVP in Istanbul, Turkey
 remarks: |
   ## Bio
   Hi, I’m Daron. I’m working for a US company called
-  [XOMNI](http://www.xomni.com) fulfilling CTO duties in our remote office in
+  [XOGO](http://www.xogo.io) fulfilling CTO duties in our remote office in
   Istanbul.
   
-  I'm a bilingual blogger, tweeter who loves software and technology.
+  I'm a [bilingual blogger](http://daron.me), [tweeter](http://www.twitter.com/daronyondem), [photographer](https://www.instagram.com/daronyondem/) who loves software and technology.
   
   I speak in international conferences and write books during holidays :)
   
   Microsoft calls me "[Most Valuable Professional](https://mvp.microsoft.com/en-
-  us/PublicProfile/4015692?fullName=Daron%2520%2520Yondem)" for 9 years now, and
-  "Microsoft Regional Director" for 8. During these years my expertise spanned
+  us/PublicProfile/4015692?fullName=Daron%2520%2520Yondem)" for 10 years now, and
+  "Microsoft Regional Director" for 9. During these years my expertise spanned
   around both client and server technologies.
   
-  Hope to get in touch and see what we can accomplish together. Talk to me
+  Hope to get in touch and see what we can accomplish together. Feel free to talk to me
   about: Cloud Computing, Mobile Development, IoT, DevOps, Microservices, SaaS,
   Paas, Docker, NoSQL, Azure, .NET, VB, C#.
   
@@ -45,7 +45,7 @@ remarks: |
   infrastructure with zero costs and scale when needed. Helping companies,
   technical or business decision makers, and developers to understand the pure
   form of cloud and the real value behind it is a joy for me.
-tagline: Causes / Programming
+tagline: Serverless / IoT / UWP
 image:
   alt: "Daron Yondem"
   src: media/profiles/daron-yondem.jpg
