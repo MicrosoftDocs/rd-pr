@@ -3,7 +3,7 @@ uid: rd.pablo-pelaez
 name: Pablo Pelaez
 metadata:
   title: Pablo Pelaez - Microsoft Regional Director
-  description: Consultant in Madrid, España
+  description: CEO at Plain Concepts in Madrid, España
 remarks: |
   ## Bio
   I have been the CEO and co-founder of Plain Concepts as well as a Microsoft
@@ -49,10 +49,12 @@ remarks: |
   videos in 2D or 3D on any mobile device with Cardboard. We are also working on
   several Hololens projects with our own 3D Engine: Wave Engine
   (www.waveengine.net).
-tagline: Design / Entrepreneurship
+tagline: Innovation / Technology
 image:
   alt: "Pablo Pelaez"
   src: media/profiles/pablo-pelaez.jpg
+  twitter: https://twitter.com/pablopela
+  linkedin: https://www.linkedin.com/in/pablo-pelaez-421182/
 location:
   display: Madrid, España
   lat: 40.42028
