@@ -3,7 +3,7 @@ uid: rd.alon-fliess
 name: Alon Fliess
 metadata:
   title: Alon Fliess - Microsoft Regional Director
-  description: Software Architect, Microsoft Regional Director in Linz, Israel
+  description: Software Architect, Microsoft Regional Director in Israel
 remarks: |
   ## Bio
   I am the Chief Architect and founder of CodeValue. CodeValue is a leading
@@ -15,8 +15,7 @@ remarks: |
   
   With more than 25 years of experience I have done many major software
   development, design and architecture for global leading and cutting edge
-  companies such as KLA-Tencor, Kodak, Landa Labs, LivePerson, Israel Aerospace
-  Industries, Rafael, B&H Photo & Video and many more.
+  companies.
   
   I am recognized as a Microsoft Regional Director since 2010 and a Microsoft
   Azure MVP. I am an MVP since 2005. I serve as a focal point between Microsoft
@@ -24,8 +23,8 @@ remarks: |
   their customers' needs as well as assisting customers in leveraging
   Microsoft's technologies. In 2013 I was awarded the MVP of the year.
   
-  I have expertise in many technologies, be it Microsoft Azure Development,
-  Windows internals, C++ , .NET with C#, Internet of Things – hardware &
+  I have expertise in many technologies, be it Microsoft Azure Development, 
+  .NET with C#, Windows internals, C++ , Internet of Things – hardware &
   software development and cross-platform development (Windows & Linux).
   
   I am very well known within the international community of software developers
@@ -82,7 +81,7 @@ remarks: |
   Beside Microservices architecture I also develop Internet of Things systems
   and Cross Platform applications on Windows/Linux and mobile platforms using C#
   (Xamarin) and ISO C++.
-tagline: 3D Design / 3D Video Editing
+tagline: Chief Software Architect / Azure / IoT
 image:
   alt: "Alon Fliess"
   src: media/profiles/alon-fliess.jpg
