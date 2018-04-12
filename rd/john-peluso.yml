@@ -3,7 +3,7 @@ uid: rd.john-peluso
 name: John Peluso
 metadata:
   title: John Peluso - Microsoft Regional Director
-  description: Sr. VP of Product Strategy, Microsoft Regional Director, and Consultant in Jersey City, New Jersey
+  description: CTO, Microsoft Regional Director, and Consultant in Jersey City, New Jersey
 remarks: |
   ## Bio
   Even after 20 years in the space, my passion for technology and the
@@ -34,7 +34,7 @@ remarks: |
   
   Ask me about: Office 365, SharePoint, Microsoft Teams, Yammer, Exchange, Skype
   for Business, OneDrive, Azure, Windows Server or competitive products.
-tagline: Cooking / Innovation
+tagline: Office 365 / Microsoft Teams / Governance
 image:
   alt: "John Peluso"
   src: media/profiles/john-peluso.jpg
