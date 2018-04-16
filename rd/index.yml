@@ -63,7 +63,7 @@ profiles:
     src: media/profiles/alex-tumanov.jpg
     alt: "Alex Tumanov"
   location: 
-    display: Odessa, ÐžÐ´ÐµÑÑÐºÐ°Ñ Ð¾Ð±Ð»Ð°ÑÑ‚ÑŒ, Ð£ÐºÑ€Ð°Ð¸Ð½Ð°
+    display: Odessa, Ukraine
     lat: 46.472499
     long: 30.73711
 - uid: rd.allen-tuladhar
@@ -223,7 +223,7 @@ profiles:
     src: media/profiles/carlos-dossantos.jpg
     alt: "Carlos dos Santos"
   location: 
-    display: CornÃ©lio ProcÃ³pio - PR, Brasil
+    display: Cornélio Procópio - PR, Brasil
     lat: -23.181419
     long: -50.64801
 - uid: rd.carlos-mattos
@@ -233,7 +233,7 @@ profiles:
     src: media/profiles/carlos-mattos.jpg
     alt: "Carlos Mattos"
   location: 
-    display: SÃ£o Paulo - State of SÃ£o Paulo, Brazil
+    display: São Paulo - State of São Paulo, Brazil
     lat: -23.56287
     long: -46.654678
 - uid: rd.carsten-rachfahl
@@ -253,7 +253,7 @@ profiles:
     src: media/profiles/chan-park.jpg
     alt: "Chan Park"
   location: 
-    display: ëŒ€í•œë¯¼êµ­ Seoul
+    display: Seoul, South Korea
     lat: 37.566535
     long: 126.977966
 - uid: rd.chris-kinsman
@@ -283,7 +283,7 @@ profiles:
     src: media/profiles/ciprian-jichici.jpg
     alt: "Ciprian Jichici"
   location: 
-    display: TimiÈ™oara, TimiÈ™ County, Romania
+    display: Timișoara, Timiș County, Romania
     lat: 45.839447
     long: 24.985599
 - uid: rd.claudenir-andrade
@@ -293,7 +293,7 @@ profiles:
     src: media/profiles/claudenir-andrade.jpg
     alt: "Claudenir Andrade"
   location: 
-    display: SÃ£o JosÃ© dos Campos - State of SÃ£o Paulo, Brazil
+    display: São José dos Campos - State of São Paulo, Brazil
     lat: -23.17925
     long: -45.887199
 - uid: rd.colin-melia
@@ -403,7 +403,7 @@ profiles:
     src: media/profiles/daron-yondem.jpg
     alt: "Daron Yondem"
   location: 
-    display: Ä°stanbul, Turkey
+    display: Istanbul, Turkey
     lat: 41.013
     long: 28.9638
 - uid: rd.dave-nel
@@ -473,7 +473,7 @@ profiles:
     src: media/profiles/eduardo-castro.jpg
     alt: "Eduardo Castro"
   location: 
-    display: San JosÃ© Province, Costa Rica
+    display: San José Province, Costa Rica
     lat: 9.605283
     long: -83.991615
 - uid: rd.engin-polat
@@ -483,7 +483,7 @@ profiles:
     src: media/profiles/engin-polat.jpg
     alt: "Engin Polat"
   location: 
-    display: Ä°stanbul, KadÄ±kÃ¶y, Turkey
+    display: Istanbul, Turkey
     lat: 40.991218
     long: 29.022737
 - uid: rd.ericd-boyd
@@ -507,11 +507,11 @@ profiles:
     lat: 38.546691
     long: -121.744567
 - uid: rd.erik-asberg
-  name: Erik Ã…sberg
+  name: Erik Åsberg
   tagline: Entrepreneurship / Innovation
   image:
     src: media/profiles/erik-asberg.jpg
-    alt: "Erik Ã…sberg"
+    alt: "Erik Åsberg"
   location: 
     display: Halden, Norway
     lat: 59.086139
@@ -527,13 +527,13 @@ profiles:
     lat: 45.516401
     long: -73.550687
 - uid: rd.evilazaro-alves
-  name: EvilÃ¡zaro Alves
+  name: Evilázaro Alves
   tagline: Entrepreneurship / Movies
   image:
     src: media/profiles/evilazaro-alves.jpg
-    alt: "EvilÃ¡zaro Alves"
+    alt: "Evilázaro Alves"
   location: 
-    display: SÃ£o Paulo - SP, Brasil
+    display: São Paulo - SP, Brasil
     lat: -23.55887
     long: -46.650678
 - uid: rd.funjin-lim
@@ -627,11 +627,11 @@ profiles:
     lat: 56.184501
     long: 10.190309
 - uid: rd.herve-thibault
-  name: HervÃ© Thibault
+  name: Herve Thibault
   tagline: Education / Enterprise Mobility
   image:
     src: media/profiles/herve-thibault.jpg
-    alt: "HervÃ© Thibault"
+    alt: "Herve Thibault"
   location: 
     display: Paris, France
     lat: 48.857208
@@ -663,7 +663,7 @@ profiles:
     src: media/profiles/jamil-lopes.jpg
     alt: "Jamil Lopes"
   location: 
-    display: SÃ£o Paulo - SP, Brasil
+    display: São Paulo - SP, Brasil
     lat: -23.56687
     long: -46.658678
 - uid: rd.janakiram-msv
@@ -747,11 +747,11 @@ profiles:
     lat: 40.717479
     long: -74.043853
 - uid: rd.joseantonio-silva
-  name: JosÃ© AntÃ³nio Silva
+  name: José António Silva
   tagline: Entrepreneurship / Programming
   image:
     src: media/profiles/joseantonio-silva.jpg
-    alt: "JosÃ© AntÃ³nio Silva"
+    alt: "José António Silva"
   location: 
     display: Portugal
     lat: 39.679908
@@ -843,7 +843,7 @@ profiles:
     src: media/profiles/koray-kocabas.jpg
     alt: "Koray Kocabas"
   location: 
-    display: Ä°stanbul, TÃ¼rkiye
+    display: Istanbul, Turkey
     lat: 41.017
     long: 28.9678
 - uid: rd.lei-xu
@@ -853,7 +853,7 @@ profiles:
     src: media/profiles/lei-xu.jpg
     alt: "Lei Xu"
   location: 
-    display: ä¸­å›½åŒ—äº¬å¸‚Beijing Shi
+    display: Beijing, China
     lat: 32.26667
     long: 115.716667
 - uid: rd.luis-linares
@@ -888,13 +888,13 @@ profiles:
     lat: 52.380599
     long: 5.181653
 - uid: rd.magnus-martensson
-  name: Magnus  MÃ¥rtensson
+  name: Magnus Mårtensson
   tagline: Enterprise Architecture / Azure / Cloud Computing
   image:
     src: media/profiles/magnus-martensson.jpg
-    alt: "Magnus  MÃ¥rtensson"
+    alt: "Magnus Mårtensson"
   location: 
-    display: MalmÃ¶, Sweden
+    display: Malmö, Sweden
     lat: 55.596649
     long: 13.00154
 - uid: rd.mahesh-chand
@@ -1044,7 +1044,7 @@ profiles:
     src: media/profiles/mitsuru-furuta.jpg
     alt: "Mitsuru Furuta"
   location: 
-    display: Paris, ÃŽle-de-France, France
+    display: Paris, Ile-de-France, France
     lat: 48.853208
     long: 2.337439
 - uid: rd.neil-roodyn
@@ -1124,7 +1124,7 @@ profiles:
     src: media/profiles/pablo-pelaez.jpg
     alt: "Pablo Pelaez"
   location: 
-    display: Madrid, EspaÃ±a
+    display: Madrid, Espana
     lat: 40.42028
     long: -3.70577
 - uid: rd.patrick-guimonet
@@ -1148,11 +1148,11 @@ profiles:
     lat: 42.880569
     long: -71.326759
 - uid: rd.patrik-lowendahl
-  name: Patrik LÃ¶wendahl
+  name: Patrik Loewendahl
   tagline: cloud / digital transformation
   image:
     src: media/profiles/patrik-lowendahl.jpg
-    alt: "Patrik LÃ¶wendahl"
+    alt: "Patrik Loewendahl"
   location: 
     display: Stockholm, Sweden
     lat: 59.332569
@@ -1214,7 +1214,7 @@ profiles:
     src: media/profiles/rainer-stropek.jpg
     alt: "Rainer Stropek"
   location: 
-    display: Leonding, Ã–sterreich
+    display: Leonding, Österreich
     lat: 48.279228
     long: 14.249159
 - uid: rd.raymond-chou
@@ -1234,7 +1234,7 @@ profiles:
     src: media/profiles/ricardo-gonzalez.jpg
     alt: "Ricardo Gonzalez"
   location: 
-    display: BogotÃ¡ - Bogota, Colombia
+    display: Bogota, Colombia
     lat: 4.61496
     long: -74.069412
 - uid: rd.richard-campbell
@@ -1292,7 +1292,7 @@ profiles:
   tagline: Movies / Music
   image:
     src: media/profiles/rodrigo-diazconcha.jpg
-    alt: "Rodrigo DÃ­az Concha"
+    alt: "Rodrigo Díaz  Concha"
   location: 
     display: Mexico
     lat: 23.940769
@@ -1374,7 +1374,7 @@ profiles:
     src: media/profiles/stavros-menegos.jpg
     alt: "Stavros Menegos"
   location: 
-    display: Î ÎµÎ¹ÏÎ±Î¹Î¬Ï‚, Î•Î»Î»Î¬Î´Î±
+    display: Pireas, Greece
     lat: 37.942848
     long: 23.64722
 - uid: rd.stephen-thair
@@ -1458,11 +1458,11 @@ profiles:
     lat: 33.75231
     long: -84.387113
 - uid: rd.tomas-herceg
-  name: TomÃ¡Å¡ Herceg
+  name: Tomas Herceg
   tagline: Education / Programming
   image:
     src: media/profiles/tomas-herceg.jpg
-    alt: "TomÃ¡Å¡ Herceg"
+    alt: "Tomas Herceg"
   location: 
     display: Prague, Czech Republic
     lat: 50.066802
