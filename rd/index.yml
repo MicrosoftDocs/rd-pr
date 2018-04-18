@@ -88,7 +88,7 @@ profiles:
     long: 14.28812
 - uid: rd.alon-fliess
   name: Alon Fliess
-  tagline: 3D Design / 3D Video Editing
+  tagline: Chief Software Architect / Azure / IoT
   image:
     src: media/profiles/alon-fliess.jpg
     alt: "Alon Fliess"
@@ -118,7 +118,7 @@ profiles:
     long: 9.181779
 - uid: rd.andre-carlucci
   name: Andre Carlucci
-  tagline: Coffee / Music
+  tagline: Technology / Innovation
   image:
     src: media/profiles/andre-carlucci.jpg
     alt: "Andre Carlucci"
@@ -128,7 +128,7 @@ profiles:
     long: -53.067344
 - uid: rd.andrewj-brust
   name: Andrew J. Brust
-  tagline: Food / Music
+  tagline: Analytics / Big Data / AI
   image:
     src: media/profiles/andrewj-brust.jpg
     alt: "Andrew J. Brust"
@@ -228,7 +228,7 @@ profiles:
     long: -50.64801
 - uid: rd.carlos-mattos
   name: Carlos Mattos
-  tagline: Education / Movies
+  tagline: Technology / Innovation / Entrepreneurship
   image:
     src: media/profiles/carlos-mattos.jpg
     alt: "Carlos Mattos"
@@ -268,7 +268,7 @@ profiles:
     long: -122.131576
 - uid: rd.christian-weyer
   name: Christian Weyer
-  tagline: Education / Entrepreneurship
+  tagline: Cloud-Native / Serverless / Cross-Plattform
   image:
     src: media/profiles/christian-weyer.jpg
     alt: "Christian Weyer"
@@ -318,7 +318,7 @@ profiles:
     long: 36.82103
 - uid: rd.damir-dizdarevic
   name: Damir Dizdarevic
-  tagline: Education / Movies
+  tagline: Identity Management / Enterprise Mobility / Security
   image:
     src: media/profiles/damir-dizdarevic.jpg
     alt: "Damir Dizdarevic"
@@ -348,7 +348,7 @@ profiles:
     long: 11.07349
 - uid: rd.dana-epp
   name: Dana Epp
-  tagline: Entrepreneurship / Movies
+  tagline: Azure / Security / Serverless Computing
   image:
     src: media/profiles/dana-epp.jpg
     alt: "Dana Epp"
@@ -388,7 +388,7 @@ profiles:
     long: -80.837959
 - uid: rd.dan-wahlin
   name: Dan Wahlin
-  tagline: Movies / Programming
+  tagline: Software Architecture / Containers / Cloud Computing
   image:
     src: media/profiles/dan-wahlin.jpg
     alt: "Dan Wahlin"
@@ -418,7 +418,7 @@ profiles:
     long: 28.04006
 - uid: rd.david-yack
   name: David Yack
-  tagline: Photography / Technology
+  tagline: Business Solutions / Azure
   image:
     src: media/profiles/david-yack.jpg
     alt: "David Yack"
@@ -708,7 +708,7 @@ profiles:
     long: 4.806009
 - uid: rd.joe-homnick
   name: Joe Homnick
-  tagline: Education / Innovation
+  tagline: Blockchain/ Business Intelligence/ Education
   image:
     src: media/profiles/joe-homnick.jpg
     alt: "Joe Homnick"
@@ -728,7 +728,7 @@ profiles:
     long: -97.141128
 - uid: rd.johan-lindfors
   name: Johan Lindfors
-  tagline: Gaming / Martial Arts
+  tagline: Windows Client / Gaming Technologies
   image:
     src: media/profiles/johan-lindfors.jpg
     alt: "Johan Lindfors"
@@ -738,7 +738,7 @@ profiles:
     long: 16.735385
 - uid: rd.john-peluso
   name: John Peluso
-  tagline: Cooking / Innovation
+  tagline: Office 365 / Microsoft Teams / Governance
   image:
     src: media/profiles/john-peluso.jpg
     alt: "John Peluso"
@@ -1059,7 +1059,7 @@ profiles:
     long: 151.210909
 - uid: rd.nicola-ferrini
   name: Nicola Ferrini
-  tagline: DIY / Education
+  tagline: Innovation / Technology
   image:
     src: media/profiles/nicola-ferrini.jpg
     alt: "Nicola Ferrini"
@@ -1289,7 +1289,7 @@ profiles:
     long: -93.264938
 - uid: rd.rodrigo-diazconcha
   name: Rodrigo DÃ­az Concha
-  tagline: Movies / Music
+  tagline: Software architecture / .NET / Azure
   image:
     src: media/profiles/rodrigo-diazconcha.jpg
     alt: "Rodrigo Díaz  Concha"
@@ -1499,7 +1499,7 @@ profiles:
     long: 4.828979
 - uid: rd.vinod-unny
   name: Vinod Unny
-  tagline: Gaming / Movies
+  tagline: Cloud / Business Intelligence / .NET
   image:
     src: media/profiles/vinod-unny.jpg
     alt: "Vinod Unny"
