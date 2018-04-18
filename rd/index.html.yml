@@ -1439,7 +1439,7 @@ profiles:
     long: -16.2639
 - uid: rd.tim-huckaby
   name: Tim Huckaby
-  tagline: Hiking / Running
+  tagline: Computer Vision / AI / AR / MR
   image:
     src: media/profiles/tim-huckaby.jpg
     alt: "Tim Huckaby"
