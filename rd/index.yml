@@ -457,11 +457,11 @@ profiles:
     lat: 38.890369
     long: -77.031959
 - uid: rd.edgar-sanchez
-  name: Edgar SÃ¡nchez
+  name: Edgar Sánchez
   tagline: Analytics / Azure
   image:
     src: media/profiles/edgar-sanchez.jpg
-    alt: "Edgar SÃ¡nchez"
+    alt: "Edgar Sánchez"
   location: 
     display: Quito, Pichincha, Ecuador
     lat: -0.205599
@@ -863,7 +863,7 @@ profiles:
     src: media/profiles/luis-linares.jpg
     alt: "Luis Linares"
   location: 
-    display: Colombia
+    display: Bogota, Colombia
     lat: 3.90893
     long: -73.073455
   twitter: luiselinares
@@ -1288,11 +1288,11 @@ profiles:
     lat: 44.979019
     long: -93.264938
 - uid: rd.rodrigo-diazconcha
-  name: Rodrigo DÃ­az Concha
+  name: Rodrigo Díaz Concha
   tagline: Software architecture / .NET / Azure
   image:
     src: media/profiles/rodrigo-diazconcha.jpg
-    alt: "Rodrigo Díaz  Concha"
+    alt: "Rodrigo Díaz Concha"
   location: 
     display: Mexico
     lat: 23.940769
