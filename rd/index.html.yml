@@ -478,7 +478,7 @@ profiles:
     long: -83.991615
 - uid: rd.engin-polat
   name: Engin Polat
-  tagline: development / game
+  tagline: Cloud / Cross-Platform / UWP / IoT
   image:
     src: media/profiles/engin-polat.jpg
     alt: "Engin Polat"
