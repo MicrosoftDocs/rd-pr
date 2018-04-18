@@ -208,7 +208,7 @@ profiles:
     long: -79.385437
 - uid: rd.brian-noyes
   name: Brian Noyes
-  tagline: Reading / Software
+  tagline: Cloud Computing / Artificial Intelligence / Client Application Development
   image:
     src: media/profiles/brian-noyes.jpg
     alt: "Brian Noyes"
@@ -268,7 +268,7 @@ profiles:
     long: -122.131576
 - uid: rd.christian-weyer
   name: Christian Weyer
-  tagline: Cloud-Native / Serverless / Cross-Plattform
+  tagline: Cloud-Native / Serverless / Cross-Platform
   image:
     src: media/profiles/christian-weyer.jpg
     alt: "Christian Weyer"
@@ -1449,7 +1449,7 @@ profiles:
     long: -117.338218
 - uid: rd.todd-fine
   name: Todd Fine
-  tagline: Entrepreneurship / Food
+  tagline: Azure Cloud / Data and AI / App Modernization
   image:
     src: media/profiles/todd-fine.jpg
     alt: "Todd Fine"
