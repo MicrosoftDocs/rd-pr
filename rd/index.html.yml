@@ -48,7 +48,7 @@ profiles:
     long: 31.2486
 - uid: rd.alexander-wechsler
   name: Alexander Wechsler
-  tagline: Design / Education
+  tagline: Architecture / Education
   image:
     src: media/profiles/alexander-wechsler.jpg
     alt: "Alexander Wechsler"
@@ -768,7 +768,7 @@ profiles:
     long: 24.65578
 - uid: rd.julie-lerman
   name: Julie Lerman
-  tagline: Community / Outdoors
+  tagline: .NET / Software Architecture / Domain-Driven Design
   image:
     src: media/profiles/julie-lerman.jpg
     alt: "Julie Lerman"

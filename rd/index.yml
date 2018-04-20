@@ -47,7 +47,7 @@ profiles:
     lat: 30.049909
     long: 31.2486
 - uid: rd.alexander-wechsler
-  name: Alexander Wechsler
+  name: Architecture / Education
   tagline: Design / Education
   image:
     src: media/profiles/alexander-wechsler.jpg
@@ -768,7 +768,7 @@ profiles:
     long: 24.65578
 - uid: rd.julie-lerman
   name: Julie Lerman
-  tagline: Community / Outdoors
+  tagline: .NET / Software Architecture / Domain-Driven Design
   image:
     src: media/profiles/julie-lerman.jpg
     alt: "Julie Lerman"
@@ -1279,7 +1279,7 @@ profiles:
     long: -2.550558
 - uid: rd.rockford-lhotka
   name: Rockford Lhotka
-  tagline: Music / Programming
+  tagline: Software Development / Distributed Architecture / Cloud Computing
   image:
     src: media/profiles/rockford-lhotka.jpg
     alt: "Rockford Lhotka"
