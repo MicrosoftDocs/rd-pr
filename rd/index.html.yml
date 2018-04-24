@@ -1279,7 +1279,7 @@ profiles:
     long: -2.550558
 - uid: rd.rockford-lhotka
   name: Rockford Lhotka
-  tagline: Music / Programming
+  tagline: Software Development / Distributed Architecture / Cloud Computing
   image:
     src: media/profiles/rockford-lhotka.jpg
     alt: "Rockford Lhotka"

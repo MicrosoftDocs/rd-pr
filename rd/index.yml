@@ -47,8 +47,8 @@ profiles:
     lat: 30.049909
     long: 31.2486
 - uid: rd.alexander-wechsler
-  name: Architecture / Education
-  tagline: Design / Education
+  name: Alexander Wechsler
+  tagline: Architecture / Education
   image:
     src: media/profiles/alexander-wechsler.jpg
     alt: "Alexander Wechsler"
