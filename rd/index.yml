@@ -688,7 +688,7 @@ profiles:
     long: -90.357086
 - uid: rd.jay-harris
   name: Jay Harris
-  tagline: Baseball / GiveCamp
+  tagline: Web Applications / Consulting / GiveCamp
   image:
     src: media/profiles/jay-harris.jpg
     alt: "Jay Harris"
