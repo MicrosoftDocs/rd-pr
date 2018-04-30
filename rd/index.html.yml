@@ -733,9 +733,9 @@ profiles:
     src: media/profiles/johan-lindfors.jpg
     alt: "Johan Lindfors"
   location: 
-    display: Sweden
-    lat: 62.821792
-    long: 16.735385
+    display: Stockholm
+    lat: 59.329323
+    long: 18.068581
 - uid: rd.john-peluso
   name: John Peluso
   tagline: Office 365 / Microsoft Teams / Governance
