@@ -438,7 +438,7 @@ profiles:
     long: 76.951408
 - uid: rd.drgreg-low
   name: Dr Greg Low
-  tagline: Education / Entrepreneurship
+  tagline: Big Data / AI / Analytics / Entrepreneurship
   image:
     src: media/profiles/drgreg-low.jpg
     alt: "Dr Greg Low"
