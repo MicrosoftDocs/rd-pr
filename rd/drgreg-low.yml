@@ -1,8 +1,8 @@
 ### YamlMime:Profile
 uid: rd.drgreg-low
-name: Dr Greg Low
+name: Dr. Greg Low
 metadata:
-  title: Dr Greg Low - Microsoft Regional Director
+  title: Dr. Greg Low - Microsoft Regional Director
   description: Consultant, Microsoft Regional Director, and Public Speaker in Melbourne, Australia
 remarks: |
   ## Bio
@@ -61,9 +61,9 @@ remarks: |
   their databases. Without this work, the software house's clients would
   have needed to provide infrastructure orders of magnitude larger (and many
   orders of magnitude more expensive) to run the same applications. 
-tagline: Big Data / AI / Analytics / Entrepreneurship
+tagline: Big Data / AI / Entrepreneurship
 image:
-  alt: "Dr Greg Low"
+  alt: "Dr. Greg Low"
   src: media/profiles/drgreg-low.jpg
 twitter: https://twitter.com/greglow
 linkedin: https://au.linkedin.com/in/greglow
