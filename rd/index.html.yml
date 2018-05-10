@@ -338,7 +338,7 @@ profiles:
     long: 8.683409
 - uid: rd.damir-tomicic
   name: Damir Tomicic
-  tagline: cloud / Fitness
+  tagline: cloud / video / IoT / enterprise solutions
   image:
     src: media/profiles/damir-tomicic.jpg
     alt: "Damir Tomicic"
@@ -438,7 +438,7 @@ profiles:
     long: 76.951408
 - uid: rd.drgreg-low
   name: Dr Greg Low
-  tagline: Big Data / AI / Analytics / Entrepreneurship
+  tagline: Big Data / AI / Entrepreneurship
   image:
     src: media/profiles/drgreg-low.jpg
     alt: "Dr Greg Low"
@@ -638,7 +638,7 @@ profiles:
     long: 2.341439
 - uid: rd.istvan-novak
   name: Istvan Novak
-  tagline: Innovation / Running
+  tagline: .NET / ALM / Agile product development
   image:
     src: media/profiles/istvan-novak.jpg
     alt: "Istvan Novak"
@@ -788,7 +788,7 @@ profiles:
     long: 24.932649
 - uid: rd.kate-gregory
   name: Kate Gregory
-  tagline: Education / Outdoors
+  tagline: Education / C++ / Team Dynamics
   image:
     src: media/profiles/kate-gregory.jpg
     alt: "Kate Gregory"
@@ -1469,7 +1469,7 @@ profiles:
     long: 14.465841
 - uid: rd.troy-hunt
   name: Troy Hunt
-  tagline: Coffee / Fitness
+  tagline: Security / Cloud
   image:
     src: media/profiles/troy-hunt.jpg
     alt: "Troy Hunt"
