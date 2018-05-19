@@ -182,7 +182,7 @@ function Format-Yaml {
         $startobject = ('  ' * ($depth - 1)) + '- '
         
 		$uid = if ($index) { $index.UID } else { $item.Name.Split('/') | Select-Object -Last 1 }
-        $name = $startobject + 'name: ' + $indexTitle
+        $name = $startobject + 'name: Regional Directors' #+ $indexTitle
         $href = if ($index.RelativePath) { $indent, 'href: ', $index.RelativePath -join '' } else { "" } 
         $expanded = $indent + 'expanded: true'
         $items = $indent + 'items: '
@@ -393,7 +393,7 @@ foreach ($source_folder in $source_folders) {
 
     # Use the globs to locate the files on disk, and build the TOC structure, serializing to md or yml.
     # TOC should go in top-level output folder from 'docsets_to_publish' array, it seems.
-    $docfx_json = Get-Content -Encoding UTF8 -Raw $docfx_path | Out-String | ConvertFrom-Json
+    $docfx_json = Get-Content  -Raw $docfx_path | Out-String | ConvertFrom-Json
     $includes = $docfx_json.build.content.files
     $excludes = $docfx_json.build.content.exclude
     $excludes = "**/toc.*", "**/map.*", "**/tweets.*"  # Exclude TOC, map and tweets files.
@@ -402,13 +402,13 @@ foreach ($source_folder in $source_folders) {
     #using @' '@  to avoid new line formatting notation 
     $content = @'
 metadata:
-  name: regional_irectors_toc
+  name: advocates_toc
 items:
 '@  
     $IndexFilecontent = @' 
 ### YamlMime:ProfileList
 title: Microsoft Regional Directors
-description: |
+description: 
   Trusted advisors to the developer and IT professional audiences and Microsoft.
 focalImage:
   src: ./media/RD-header-image.png
