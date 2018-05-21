@@ -11,10 +11,10 @@ tagline: Tagline1 / Tagline2 / Tagline3
 image:
   alt: "Christian Buckley"
   src: media/profiles/christian-buckley.jpg
-facebook: 
-twitter: 
-linkedin: 
+facebook: https://facebook.com/yourprofile
+twitter: https://twitter.com/yourprofile
+linkedin: https://linkedin.com/in/yourprofile
 location:
-  display: Utah, United States
-  lat: 40.514114
-  long: -112.032997
+  display: [City], [State, if applicable], [Country]
+  lat: [decimal latitude]
+  long: [decimal longitude]
