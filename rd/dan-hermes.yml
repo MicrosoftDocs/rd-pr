@@ -1,0 +1,20 @@
+### YamlMime:Profile
+uid: rd.dan-hermes
+name: Dan Hermes
+metadata:
+  title: Dan Hermes - Microsoft Regional Director
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  [Insert bio content here by following the guidelines provided by the RD Program team.]
+tagline: Tagline1 / Tagline2 / Tagline3
+image:
+  alt: "Dan Hermes"
+  src: media/profiles/dan-hermes.jpg
+facebook: 
+twitter: 
+linkedin: 
+location:
+  display: Massachusetts, United States
+  lat: 42.558430
+  long: -70.880051
