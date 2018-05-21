@@ -1,0 +1,20 @@
+### YamlMime:Profile
+uid: rd.david-rodriguez
+name: David Rodriguez
+metadata:
+  title: David Rodriguez - Microsoft Regional Director, [add professional title]
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  [Insert bio content here by following the guidelines provided by the RD Program team.]
+tagline: Tagline1 / Tagline2 / Tagline3
+image:
+  alt: "David Rodriguez"
+  src: media/profiles/david-rodriguez.jpg
+facebook: 
+twitter: 
+linkedin: 
+location:
+  display: Santa Cruz de Tenerife, Spain
+  lat: 28.291565
+  long: -16.629129
