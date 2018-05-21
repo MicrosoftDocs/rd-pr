@@ -15,6 +15,6 @@ facebook:
 twitter: 
 linkedin: 
 location:
-  display: Bengaluru, India
-  lat: 12.972442
-  long: 77.580643
+  display: [City], [State, if applicable], [Country]
+  lat: [decimal latitude]
+  long: [decimal longitude]
