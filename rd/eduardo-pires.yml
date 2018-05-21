@@ -1,0 +1,20 @@
+### YamlMime:Profile
+uid: rd.eduardo-pires
+name: Eduardo Pires 
+metadata:
+  title: Eduardo Pires - Microsoft Regional Director, [add professional title]
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  [Insert bio content here by following the guidelines provided by the RD Program team.]
+tagline: Tagline1 / Tagline2 / Tagline3
+image:
+  alt: "Eduardo Pires"
+  src: media/profiles/eduardo-pires.jpg
+facebook: 
+twitter: 
+linkedin: 
+location:
+  display: Sao Paulo, Brazil
+  lat: -23.533773
+  long: -46.625290
