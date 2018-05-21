@@ -11,10 +11,10 @@ tagline: Tagline1 / Tagline2 / Tagline3
 image:
   alt: "David Rodriguez"
   src: media/profiles/david-rodriguez.jpg
-facebook: 
-twitter: 
-linkedin: 
+facebook: https://facebook.com/yourprofile
+twitter: https://twitter.com/yourprofile
+linkedin: https://linkedin.com/in/yourprofile
 location:
-  display: Santa Cruz de Tenerife, Spain
-  lat: 28.291565
-  long: -16.629129
+  display: [City], [State, if applicable], [Country]
+  lat: [decimal latitude]
+  long: [decimal longitude]
