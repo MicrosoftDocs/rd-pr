@@ -1,0 +1,20 @@
+### YamlMime:Profile
+uid: rd.udi-dahan
+name: Udi Dahan
+metadata:
+  title: Udi Dahan - Microsoft Regional Director, [add professional title]
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  [Insert bio content here by following the guidelines provided by the RD Program team]
+tagline: Tagline1 / Tagline2 / Tagline3
+image:
+  alt: "Udi Dahan"
+  src: media/profiles/udi-dahan.jpg
+facebook: https://facebook.com/yourprofile
+twitter: https://twitter.com/yourprofile
+linkedin: https://linkedin.com/in/yourprofile
+location:
+  display: [City], [State, if applicable], [Country]
+  lat: [decimal latitude]
+  long: [decimal longitude]
