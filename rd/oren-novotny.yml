@@ -6,7 +6,27 @@ metadata:
   description: Chief Architect, DevOps & Modern Software at BlueMetal, and Microsoft Regional Director
 remarks: |
   ## Bio
-  [Insert bio content here by following the guidelines provided by the RD Program team]
+  I am Chief Architect, DevOps & Modern Software at BlueMetal, a division of Insight. 
+  I am also a member of the .NET Foundation Advisory Council 
+  and am responsible for its code signing services. I have been 
+  a Microsoft MVP for Windows Platform Development since 2014, a 
+  Microsoft MVP for Visual Studio and Development Technologies 
+  since 2016, and a Xamarin MVP since 2016.  My prior 
+  experience ranges from building identity solutions for global 
+  organizations, developing real-time trading systems dealing with 
+  massive amounts of data, to the complex data models of equity 
+  derivatives and the regulatory needs of Medicaid claims processing. 
+  
+  I am passionate about reducing friction in the development process 
+  and creating modern software solutions to solve complex business 
+  challenges. I believe that technology is meaningless in a vacuum I 
+  strive to show how the bleeding-edge delivers superior value to our 
+  clients’ bottom line and unlocks new business opportunities.
+
+  I always seek to enable others to be successful. In the community
+  that translates to creating libraries, publishing blog articles,
+  and doing anything else necessary, to simplify complex problems
+  and let developers focus on their end goal.
 tagline: .NET / Azure / Application Security
 image:
   alt: "Oren Novotny"
