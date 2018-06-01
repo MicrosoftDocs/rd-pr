@@ -2,19 +2,19 @@
 uid: rd.oren-novotny
 name: Oren Novotny
 metadata:
-  title: Oren Novotny - Microsoft Regional Director, [add professional title]
-  description: Microsoft Regional Director
+  title: Oren Novotny - Microsoft Regional Director, MVP in Windows App Dev and Visual Studio & Developer Tools
+  description: Chief Architect, DevOps & Modern Software at BlueMetal, and Microsoft Regional Director
 remarks: |
   ## Bio
   [Insert bio content here by following the guidelines provided by the RD Program team]
-tagline: Tagline1 / Tagline2 / Tagline3
+tagline: .NET / Azure / Application Security
 image:
   alt: "Oren Novotny"
   src: media/profiles/oren-novotny.jpg
-facebook: https://facebook.com/yourprofile
-twitter: https://twitter.com/yourprofile
-linkedin: https://linkedin.com/in/yourprofile
+facebook: https://www.facebook.com/onovotny
+twitter: https://twitter.com/onovotny
+linkedin: https://linkedin.com/in/orennovotny
 location:
-  display: [City], [State, if applicable], [Country]
-  lat: [decimal latitude]
-  long: [decimal longitude]
+  display: New York, New York, United States
+  lat: 40.7892182
+  long: -73.977826
