@@ -1,0 +1,20 @@
+### YamlMime:Profile
+uid: rd.nicki-borell
+name: Nicki Borell
+metadata:
+  title: Nicki Borell - Microsoft Regional Director, [add professional title]
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  [Insert bio content here by following the guidelines provided by the RD Program team]
+tagline: Tagline1 / Tagline2 / Tagline3
+image:
+  alt: "Nicki Borell"
+  src: media/profiles/nicki-borell.jpg
+facebook: https://facebook.com/yourprofile
+twitter: https://twitter.com/yourprofile
+linkedin: https://linkedin.com/in/yourprofile
+location:
+  display: [City], [State, if applicable], [Country]
+  lat: [decimal latitude]
+  long: [decimal longitude]

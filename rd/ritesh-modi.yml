@@ -1,0 +1,20 @@
+### YamlMime:Profile
+uid: rd.ritesh-modi
+name: Ritesh Modi
+metadata:
+  title: Ritesh Modi - Microsoft Regional Director, [add professional title]
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  [Insert bio content here by following the guidelines provided by the RD Program team]
+tagline: Tagline1 / Tagline2 / Tagline3
+image:
+  alt: "Ritesh Modi"
+  src: media/profiles/ritesh-modi.jpg
+facebook: https://facebook.com/yourprofile
+twitter: https://twitter.com/yourprofile
+linkedin: https://linkedin.com/in/yourprofile
+location:
+  display: [City], [State, if applicable], [Country]
+  lat: [decimal latitude]
+  long: [decimal longitude]
