@@ -2,19 +2,23 @@
 uid: rd.stefano-tempesta
 name: Stefano Tempesta
 metadata:
-  title: Stefano Tempesta - Microsoft Regional Director, [add professional title]
+  title: Stefano Tempesta - Microsoft Regional Director
   description: Microsoft Regional Director
 remarks: |
   ## Bio
-  [Insert bio content here by following the guidelines provided by the RD Program team]
-tagline: Tagline1 / Tagline2 / Tagline3
+  I am Chapter Leader for Dynamics 365 Community in Switzerland, and an instructor of courses about Dynamics 365, Blockchain and Machine Learning.
+  A regular speaker at international IT conferences, including Microsoft Ignite and Tech Summit, I created “Blogchain Space” (www.blogchain.space), a blog about Blockchain technologies, I write for MSDN Magazine and MS Dynamics World, and publish Machine Learning experiments on the “Azure AI Gallery” (gallery.azure.ai).
+  Microsoft MVP on Office Development and Sitecore MVP, I am a technology ambassador of beautiful software, experienced in the end-to-end onshore and offshore software development lifecycle, and agile team leadership.
+  A passionate traveler, a poor musician, and an avid learner of new technologies and (programming) languages. Have a can-do think-positive attitude. People say I live at a different speed.
+  I hold British and Italian citizenship, and speak fluent English, Italian, and terrible Russian.
+tagline: Blockchain / Machine Learning / Dynamics 365
 image:
   alt: "Stefano Tempesta"
   src: media/profiles/stefano-tempesta.jpg
-facebook: https://facebook.com/yourprofile
-twitter: https://twitter.com/yourprofile
-linkedin: https://linkedin.com/in/yourprofile
+facebook: https://facebook.com/stefanotempesta.net
+twitter: https://twitter.com/stefanotempesta
+linkedin: https://linkedin.com/in/stefanotempesta
 location:
-  display: [City], [State, if applicable], [Country]
-  lat: [decimal latitude]
-  long: [decimal longitude]
+  display: Zurich, Switzerland
+  lat: 47.377071
+  long: 8.53956
