@@ -1,0 +1,46 @@
+### YamlMime:Profile
+uid: rd.eran-stiller
+name: Eran Stiller
+metadata:
+  title: Eran Stiller - Microsoft Regional Director, Azure MVP & CodeValue CTO
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  I’m Eran Stiller - a software architect, consultant, instructor and technology addict. 
+  I most enjoy architecting, designing and developing large-scale software solutions, 
+  ranging from simple on-premise systems to highly-distributed highly-available cloud 
+  scale web & mobile applications. With many years of experience in software development 
+  and architecture and a track record of public speaking and community contribution, 
+  I am recognized as a Microsoft MVP on Microsoft Azure since 2016 and as Microsoft Regional 
+  Director since 2018. 
+
+  A Co-Founder at CodeValue Ltd., I practice software architecture at various clients on an 
+  almost daily basis, reviewing many designs in many professional fields. As CodeValue’s 
+  Chief Technology Officer, I am in charge of many of CodeValue’s projects and customer solutions
+  as well as the technical ability of our employees' to create these solutions. In addition, 
+  I perform software consultations on various topics including architecture and design reviews, 
+  Microsoft Azure, Amazon Web Services, Web APIs and many others. I am also highly experienced 
+  in technologically leading, architecting and developing software frameworks of various abstraction 
+  levels, ranging from low-level application frameworks up to fully fledged distributed system hosts.
+
+  I instruct various software courses and workshops and I am a frequent [public speaker](https://stiller.blog/public-speaking/) 
+  at various international events and user groups on topics I find especially interesting. 
+  Furthermore, I am a co-organizer of [Azure Israel](https://www.meetup.com/azureisrael) which 
+  meets every once in a while to discuss all things related to Microsoft Azure.
+
+  On the Academic side, I am a graduate of the Israeli Air-Force’s prestigious “Talpiot” program. 
+  I hold a B.Sc. in Computer Science, Physics and Mathematics from the Hebrew University at Jerusalem; 
+  as well as an M.B.A. (with Honors) in Business Management from the Tel-Aviv University. In addition,
+  I am an avid pastry chef and photographer, so if you ever need a cake or a good picture - you know
+  who to call.
+tagline: Software Architecture / Cloud / Azure
+image:
+  alt: "Eran Stiller"
+  src: media/profiles/eran-stiller.jpg
+facebook: https://facebook.com/estiller
+twitter: https://twitter.com/eranstiller
+linkedin: https://linkedin.com/in/estiller
+location:
+  display: Herzliya, Israel
+  lat: 32.158247
+  long: 34.8057273
