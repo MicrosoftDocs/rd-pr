@@ -1,0 +1,27 @@
+### YamlMime:Profile
+uid: rd.nicki-borell
+name: Nicki Borell
+metadata:
+  title: Nicki Borell - Microsoft Regional Director, Managing Consultant
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Nicki Borell is the founder and the head behind the label "Xperts At Work", co-founder of Experts Inside and partner of atwork GmbH.
+  He worked for many years in Microsoft enterprise environments and also as a trainer and consultant for SharePoint, Office 365 and Azure.
+  Hobbys: Disruptive Business Strategies and IT Security also covering regulations like GDPR.
+  
+  Nicki is the author of the well-known and continuously updated “GDPR Field Guide for Office 365 und Azure”.
+  His expertise extends from technical and strategic consulting all the way to project management,
+  with his core competencies covering KMU, enterprise environments and government data management.
+  Nicki is Microsoft Regional Director, MVP for Office Servers & Services, Microsoft P-Seller and professional Member of German Speaker Association e.V.
+tagline: M365 / GDPR / Azure
+image:
+  alt: "Nicki Borell"
+  src: media/profiles/nicki-borell.jpg
+facebook: https://www.facebook.com/borellnicki
+twitter: https://twitter.com/NickiBorell
+linkedin: https://www.linkedin.com/in/nicki-borell/
+location:
+  display: Kaiserslautern, Germany
+  lat: 49.443
+  long: 7.77161
