@@ -1,0 +1,46 @@
+### YamlMime:Profile
+uid: rd.laurence-liew
+name: Laurence Liew
+metadata:
+  title: Laurence Liew - Microsoft Regional Director, Director AI Singapore
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Laurence is the Director for AI Industry Innovation at AI Singapore, and is driving the adoption of AI by the Singapore
+  ecosystem through the 100 Experiments and AI Apprenticeship programmes.
+
+  A visionary and serial technopreneur, Laurence identified and introduced Singapore's enterprises to :
+  
+  - Linux and open source in 1999, by being the first RED HAT partner and authorized training center in Asia Pacific
+  
+  - High Performance Computing (HPC) Cluster in 2001, by building A-STAR IHPC first compute cluster (all of the initial
+    HPC clusters in NUS, NTU, SMU were built by Laurence and his team)
+  
+  - Grid Computing in 2003, by building and operating Singapore's first Grid platform - IDA's National Grid Pilot Platform
+  
+  - Cloud Computing in 2007, by architecting both the Cloud business and technology for then Singapore Computer Systems'
+    Alatum Cloud (now owned by Singtel)
+  
+  - Advanced Open Source Analytics in 2011, by building Revolution Analytics Inc business in Asia and R&D team in Singapore. 
+    Revolution Analytics was acquired by Microsoft in 2015.
+
+  Laurence was appointed as a Microsoft Regional Director in 2018 - an elite, worldwide group of around 150 technology
+  thought-leaders, who will provide Microsoft senior leadership team with unbiased third-party industry feedback on
+  technology trends and Microsoft technologies. Regional Directors are appointed on a pro-bono basis and are recognized
+  leaders in their space and for their achievements in communicating the benefits of emerging technologies to their ecosystem.
+
+  Laurence graduated from National University of Singapore (NUS) with First Class Honours in Engineering, and holds a
+  Masters in Knowledge Engineering from NUS.
+  
+tagline: Artificial Intelligence / High Performance Computing / Data Science
+
+image:
+  alt: "Laurence Liew"
+  src: media/profiles/laurence-liew.jpg
+facebook: https://facebook.com/laurence.liew.yk
+twitter: https://twitter.com/aisingapore
+linkedin: https://linkedin.com/in/laurenceliew
+location:
+  display: Singapore, Singapore
+  lat: 1.3521
+  long: 103.8198
