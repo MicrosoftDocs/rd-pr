@@ -1,0 +1,24 @@
+### YamlMime:Profile
+uid: rd.rene-schulte
+name: Rene Schulte
+metadata:
+  title: Rene Schulte - Microsoft Regional Director and Innovation Director
+  description: Microsoft Regional Director & Windows Dev MVP | Director of Global Innovation at Valorem
+remarks: |
+  ## Bio
+  René Schulte is Director of Global Innovation, Research & Incubation at Valorem establishing teams across the globe working on emerging technologies.
+  He has more than a decade experience with VR/AR/MR technology and 3D programming, developing for the Microsoft HoloLens since 2015 and was featured on Forbes. He also coded AI deep learning neural networks before it was cool and is an advocate of Blockchain technology.
+  He is a frequent speaker and panelist at conferences like //build, Unite, Vision VR/AR Summit, VRDC (GDC), AWE and blogs about many topics. He also created and maintains popular open source libraries like WriteableBitmapEx or the AR library SLARToolKit.
+  He was honored several times for his dev community work with the Microsoft MVP award and recognized as Microsoft Regional Director.
+  He is an avid cyclists and lives in Dresden, Germany with his wife and their 5 children.
+tagline: Mixed Reality|HoloLens / AI|Deep Learning
+image:
+  alt: "Rene Schulte"
+  src: media/profiles/rene-schulte.jpg
+facebook: https://www.facebook.com/rene.schulte
+twitter: https://twitter.com/rschu
+linkedin: https://linkedin.com/in/reneschulte
+location:
+  display: Dresden, Germany
+  lat: 51.069423
+  long: 13.673263
