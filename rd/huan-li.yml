@@ -1,0 +1,30 @@
+### YamlMime:Profile
+uid: rd.huan-li
+name: Huan LI
+metadata:
+  title: Huan LI - Microsoft Regional Director, PreAngel Partner
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Huan is an [Angel Investor](https://www.crunchbase.com/organization/preangel), Serial Entrepreneur, Open Source Evangelist with more than 20 years of Software Development experience, currently focuses on helping startups to use the State-Of-The-Art Machine Learning Algorithms to solve the Real-world Problem.
+
+  He was a Chief Scientist who leads technology team at YouKu.com (NYSE:YOKU) and also had founded two company AKA.cn (2001, Linux Solutions for Enterprise) and JiWai.com (2007, MicroBlogging in China). Huan studied at Tsinghua University and got EMBA master degree from CEIBS, currently had been accepted for the Ph.D. program in BUPT where he will be focusing on the latest research in artificial intelligence.
+
+  He is also a published author (Linux Network Programming 2001, Email Anti-Spamming 2006) and mentors startups for Entrepreneurship a lot.
+
+  Huan loves to share his knowledge of Machine Learning with others and maintains many Open Source Projects on GitHub, one is a [FaceNet](https://github.com/zixia/node-facenet) Node implementation based on TensorFlow and another is a ChatBot SDK [Wechaty](https://github.com/Chatie/wechaty) for helping people make AI ChatBots on top of Wechat Personal Account.
+
+  In his spare time, Huan plays paragliding, dance salsa and enjoy coding.
+
+tagline: AI / ChatBot / Entrepreneurship
+image:
+  alt: "Huan LI"
+  src: media/profiles/huan-li.jpg
+github: https://github.com/zixia
+facebook: https://facebook.com/lizhuohuan
+twitter: https://twitter.com/zixia
+linkedin: https://linkedin.com/in/zixia
+location:
+  display: Beijing, China
+  lat: 39.993208
+  long: 116.328306
