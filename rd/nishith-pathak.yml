@@ -1,0 +1,39 @@
+### YamlMime:Profile
+uid: rd.nishith-pathak
+name: Nishith Pathak
+metadata:
+  title: Nishith Pathak - Microsoft Regional Director, Software Architect
+  description: India's 1st AI MVP, Microsoft Regional Director
+remarks: |
+  ## Bio
+  Nishith Pathak is a India's 1st AI Microsoft Most Valuable Professional (MVP), Microsoft Regional Director,
+  architect, speaker, AI thinker, innovator, and strategist. He is a prolific writer and contributing author
+  and has authored half a dozen international books, articles, reviews, and columns for multiple electronic
+  and print publications, including his last book on AI titled "Artificial Intelligence for .NET". Having 20+
+  years of experience in IT, Nishith's expertise lies in innovation, research, architecting, designing, and
+  developing applications for Fortune 100 companies using next-generation tools and technologies. As an early
+  adopter of Microsoft technology, he has kept pace in the certification challenges and succeeded in getting
+  several of his certifications in beta stage.
+
+  For his expertise on Artificial intelligence, Microsoft have awarded him 1st Most Valuable Professional (MVP)
+  from India on Artificial Intelligence category. Globally, he is among 19 MVPs on AI, recognized by Microsoft
+  for their sheer expertise on AI. He is also awarded as "Microsoft Regional Director" award which consists of
+  150 of the world's top technology visionaries chosen specifically for their proven cross-platform expertise
+
+  Nishith also became gold member and sits on the advisory board of various national and international computer
+  science societies and organizations. He has been awarded the elite Microsoft Most Valuable Professional (MVP)
+  a couple of times for his exemplary work and his expertise in Microsoft technologies. He is a member of various
+  advisory groups for Microsoft. Nishith is currently working as Vice President for Accenture Technology Labs. He
+  is focused on key research areas, specifically Artificial Intelligence, Machine Learning, cognitive computing,
+  BlockChain, Internet of Things, cloud computing, and helping companies architect solutions based on these technologies
+tagline: Artificial Intelligence / Blockchain / IOT
+image:
+  alt: "Nishith Pathak"
+  src: media/profiles/nishith-pathak.jpg
+facebook: https://facebook.com/nishith.pathak.9
+twitter: https://twitter.com/nispathak
+linkedin: https://linkedin.com/in/nishithpathak
+location:
+  display: Delhi, India
+  lat: 28.644800
+  long: 77.216721
