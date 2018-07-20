@@ -2,19 +2,50 @@
 uid: rd.sebastian-fyda
 name: Sebastian Fyda
 metadata:
-  title: Sebastian Fyda - Microsoft Regional Director, [add professional title]
-  description: Microsoft Regional Director
+  title: Sebastian Fyda - Microsoft Regional Director, Cloud Solution Architect
+  description: CTO, CSA, Consultant, Public Speaker and Microsoft Regional Director in Wrocław, Poland
 remarks: |
   ## Bio
-  [Insert bio content here by following the guidelines provided by the RD Program team]
-tagline: Tagline1 / Tagline2 / Tagline3
+  I’m Sebastian Fyda and I'm an Infrastructure Architect and IT consultant deeply dedicated to the Open Source community.
+  I’ve been in the IT industry for over 15 years, but my adventure with Linux started almost 20 years ago.
+  As a hands-on type of person, I enjoy influencing best practices — either Dev/Ops, Software Lifecycle or simply
+  the organizational matters — in companies I do business with and watching how that helps them thrive.
+
+  Currently I’m serving as the Senior Cloud Solutions Architect at Synerise, praised by Satya Nadela
+  himself, a Polish startup that delivers an AI-driven next-generation growth cloud.
+
+  On top of that, I’m a frequent speaker/trainer at local Universities, industry gatherings and private corporate events around
+  Poland as well as an active member of the Azure Advisors community.
+
+  Prior to my recognition as a Microsoft Regional Director, I actively engaged and converted to companies that
+  could benefit most from the transition to Azure and helped them navigate the path leading to Cloud Operations and proper
+  DevOps culture. Being a trusted advisor to multiple CEO/CTOs and wining appreciation of developers and
+  SysOps alike allowed me to convert every single Bizspark+ benefit, that was granted on my behalf into a successful
+  cloud deployment with either EA or Open Subscription.  As an RD I continue that journey with even greater possibilities
+  than before.
+
+  Talk to me about: Cloud Computing,  Kubernetes, Machine Learning,  DevOps
+
+  ## Spotlight
+  As an IT Pro, I’ve have noticed that many IT-related organizations struggle with mostly the same problems, ranging
+  from software lifecycle management, through performance and ending with security. This is most commonly visible at
+  cloud-native startups, deep into usage of microservices, where “DevOps” is mistaken for a team or an engineer and
+  good system design is bypassed with  bunch of Ansible modules being executed.
+
+  This is likely due to how easily organizations can deploy to the cloud and new things can be built so quickly.
+  It’s important to make them aware of how to build robust development pipelines and secured cloud environment,
+  not only to easily deploy them but to maintain them going forward. I always try to provide some experience-based insight on how
+  things can be improved or should be designed and really enjoy it when my suggestions are put into practice and prove themselves in business environment.
+
+
+tagline: Cloud / Microservices / Architecture
 image:
   alt: "Sebastian Fyda"
   src: media/profiles/sebastian-fyda.jpg
-facebook: https://facebook.com/yourprofile
-twitter: https://twitter.com/yourprofile
-linkedin: https://linkedin.com/in/yourprofile
+github: https://github.com/UncleTawnos
+linkedin: https://www.linkedin.com/in/sebastian-fyda
+twitter: https://twitter.com/SebastianFyda
 location:
-  display: [City], [State, if applicable], [Country]
-  lat: [decimal latitude]
-  long: [decimal longitude]
+  display: Poland
+  lat: 51.056742
+  long: 17.058691
