@@ -3,13 +3,18 @@ uid: rd.troy-hunt
 name: Troy Hunt
 metadata:
   title: Troy Hunt - Microsoft Regional Director
-  description: Security Trainer, Web Developer, and Microsoft Regional Director in Prague, Australia
+  description: Security Trainer, Web Developer, and Microsoft Regional Director in the Gold Coast, Australia
 remarks: |
   ## Bio
   I'm Troy Hunt, an Australian [Microsoft Regional
   Director](https://www.troyhunt.com/2016/03/microsoft-regional-director.html)
-  and also a [Microsoft Most Valuable Professional](https://mvp.microsoft.com/en-
-  us/overview.aspx) for Developer Security. I don't work for Microsoft, but
+  and [Most Valuable Professional](https://mvp.microsoft.com/en-
+  us/overview.aspx). I'm also the creator of the [Have I Been
+  Pwned?](https://haveibeenpwned.com/) (HIBP) data breach notification service and
+  [I've peviously testified in front of US Congress on the impact of data breaches](https://www.troyhunt.com/heres-what-im-telling-us-congress-about-data-breaches/).
+  
+  
+  I don't work for Microsoft, but
   they're kind enough to recognise my community contributions by way of their
   award programs which I've been an awardee of since 2011. I get to interact
   with some fantastic people building their best products and then share what I
@@ -32,8 +37,7 @@ remarks: |
   outsourcing vendors across the globe. For more corporatey background, there's
   always my [LinkedIn profile](https://www.linkedin.com/in/troyhunt).
   
-  One of the key projects I'm involved in today is [Have I been
-  pwned?](https://haveibeenpwned.com/) (HIBP), a free service that aggregates
+  One of the key projects I'm involved in today is HIB), a free service that aggregates
   data breaches and helps people establish if they've been impacted by malicious
   activity on the web. As well as being a useful service for the community, HIBP
   has given me an avenue to ship code that runs at scale on Microsoft's Azure
