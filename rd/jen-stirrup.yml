@@ -2,19 +2,23 @@
 uid: rd.jen-stirrup
 name: Jen Stirrup
 metadata:
-  title: Jen Stirrup - Microsoft Regional Director, [add professional title]
+  title: Jen Stirrup - Microsoft Regional Director, Data Whisperer at Data Relish
   description: Microsoft Regional Director
 remarks: |
   ## Bio
-  [Insert bio content here by following the guidelines provided by the RD Program team]
-tagline: Tagline1 / Tagline2 / Tagline3
+  Jen is a data strategist and technologist, Microsoft Most Valuable Professional (MVP) and Microsoft Regional Director, founder of Data Relish Ltd, SQLFamily and community advocate, public speaker and blogger, published author of Tableau Dashboard Cookbook and Teched Alumni speaker. Jen is the founder of a boutique consultancy based in the UK, Data Relish, which focuses on delivering successful Business Intelligence and Artificial Intelligence solutions that add real value to customers worldwide.
+  Jen served on the Professional Association of SQL Server (PASS) Board for four years, spearheading their efforts into the Business Analytics sphere as well as their online work in the PASS Virtual Chapters portfolio.
+  Jen has appeared on the BBC as a guest expert, discussing analytics and data security. Jen has successfully led large organizations such as the NHS and local London government entities to use cloud as part of a larger strategic vision. Jen has led a number of Data Science programs for UK Government bodies in the UK and in Ireland.
+  In terms of the technical community, Jen has led efforts to be more diverse and inclusive for community events and organizations of varying sizes, from small meetups to large events. Jen has presented at global events in Asia, Europe and the United States, and she has presented keynotes for events from a few hundred people to over six thousand in-person attendees.
+  In her spare time, Jen is doing her MBA in order to formalize her twenty-year experience in Consulting. Jen is also owned by two Coton to Tulear dogs, Archie and Nimbus, who like to take her for long walks in the Hertfordshire countryside.
+tagline: Power BI / Azure Architecture / Microsoft Data Platform
 image:
   alt: "Jen Stirrup"
   src: media/profiles/jen-stirrup.jpg
-facebook: https://facebook.com/yourprofile
-twitter: https://twitter.com/yourprofile
-linkedin: https://linkedin.com/in/yourprofile
+facebook: https://www.facebook.com/TheDataWhisperer
+twitter: https://twitter.com/jenstirrup
+linkedin: https://www.linkedin.com/in/jenstirrup/
 location:
-  display: [City], [State, if applicable], [Country]
-  lat: [decimal latitude]
-  long: [decimal longitude]
+  display: London, UK
+  lat: 51.509865
+  long: -0.118092
