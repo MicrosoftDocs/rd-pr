@@ -4,5 +4,5 @@ _site/
 .optemp/
 _themes*/
 _repo.*/
-
+.idea
 .openpublishing.buildcore.ps1

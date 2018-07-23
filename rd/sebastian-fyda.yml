@@ -1,0 +1,50 @@
+### YamlMime:Profile
+uid: rd.sebastian-fyda
+name: Sebastian Fyda
+metadata:
+  title: Sebastian Fyda - Microsoft Regional Director, Cloud Solution Architect
+  description: CTO, CSA, Consultant, Public Speaker and Microsoft Regional Director in Wrocław, Poland
+remarks: |
+  ## Bio
+  I'm Sebastian Fyda - an Infrastructure Architect and IT consultant deeply dedicated to Open Source community.
+  I've been in IT industry for over 15 years, but my adventure with Linux started almost 20 years ago.
+  While I'm hands-on type of person, I enjoy influencing best practices, either Dev/Ops, Software Lifecycle or simply
+  organizational area, to companies I do business with and watching how it helps them thrive.
+
+  Currently I'm serving as Senior Cloud Solutions Architect at Synerise [https://synerise.com], a praised by Satya Nadela
+  himself, polish startup which delivers AI-driven next-generation growth cloud.
+
+  On top of that, I'm a frequent speaker/trainer at local University, industry events and private company events around
+  Poland and active member of Azure Advisors community.
+
+  Prior to my recognition as a Microsoft Regional Director, I actively engaged and converted to Azure  companies, that
+  could benefit most from the transition and helped them navigate through the path leading to Cloud Operations and proper
+  DevOps culture. Being viewed as trusted advisor by multiple CEO/CTOs and wining appreciation of developers and
+  SysOps alike, allowed me to convert every single Bizspark+ benefit, that was granted on my behalf into a successful
+  cloud deployment with either EA or Open Subscription.  As an RD I continue that journey with even greater possibilities
+  than before.
+
+  Talk to me about: Cloud Computing,  Kubernetes, Machine Learning,  DevOps
+
+  ## Spotlight
+  As an IT Pro, I've have noticed, that many IT-related organization struggle with mostly the same problems, ranging
+  from software lifecycle management, through performance, ending with security. This is most commonly visible at
+  cloud-native startups, deep into usage of microservices, where "DevOps" is mistaken for a team or an engineer and
+  good system design is bypassed with  bunch of Ansible modules being executed.
+
+  This is likely due to how easily organizations can deploy to the cloud and new things can be built so quickly.
+  It’s important to make them aware, how to build robust development pipelines and secured cloud environment,
+  easy not only to deploy but to maintain further on. I always try to provide some experience-based insight on how
+  things can be improved or should be designed and really enjoy when my suggestions are put into work and prove themselves.
+
+tagline: Cloud / Microservices / Architecture
+image:
+  alt: "Sebastian Fyda"
+  src: media/profiles/sebastian-fyda.jpg
+github: https://github.com/UncleTawnos
+linkedin: https://www.linkedin.com/in/sebastian-fyda
+twitter: https://twitter.com/SebastianFyda
+location:
+  display: Wroclaw, Poland
+  lat: 51.056742
+  long: 17.058691
