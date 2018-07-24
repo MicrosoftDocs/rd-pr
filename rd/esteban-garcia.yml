@@ -1,0 +1,42 @@
+### YamlMime:Profile
+uid: rd.esteban-garcia
+name: Esteban Garcia 
+metadata:
+  title: Esteban Garcia - Microsoft Regional Director, Founder and CEO at Nebbia Technology
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  I am the Founder and Chief Technologist at [Nebbia Technology](https://www.NebbiaTech.com), 
+  a consulting company focused on helping companies succeed with Azure while implementing DevOps 
+  best practices.  I started the company knowing that companies looking to get to the cloud could 
+  get there by having a solid DevOps practice in place.  I partner closely with customers, helping 
+  them create a sustainable cloud roadmap, anchored by empowering teams to deliver 
+  measurable value to the business.
+  
+  My background is in software development, with over 20 years of building enterprise software 
+  and delivering technology solutions helping companies delivery value to their customers early 
+  and often.  I value working software in production and creating feedback mechanisms that 
+  allow teams to learn from their users and quickly iterate to deliver to end-users.
+  
+  I have been awarded the Microsoft ALM MVP award since 2012.  I have a passion for sharing 
+  with the community through public speaking, teaching, and mentoring.  I speak frequently at 
+  industry conferences, such as Ignite, VSLive, DevOps Days, PuppetConf, our very successful 
+  [Orlando Code Camp](http://orlandocodecamp.com), and many others.  I am a 
+  [Pluralsight](https://www.pluralsight.com/authors/esteban-garcia) author, with courses in 
+  VSTS, Azure, testing, and general DevOps concepts.  Until 2018, I was the 
+  president of the [Orlando .NET User Group](https://www.meetup.com/onetug/) for almost 10 years 
+  and I am currently running [Orlando DevOps](https://www.meetup.com/orlando-devops/), along 
+  with being active in other groups in Florida.
+  
+  Talk to me about: DevOps, ALM, Cloud Computing, Agile software development practices, PaaS, SaaS, Serverless.
+tagline: DevOps / Azure / .NET
+image:
+  alt: "Esteban Garcia"
+  src: media/profiles/esteban-garcia.jpg
+facebook: https://www.facebook.com/EstebanFG
+twitter: https://twitter.com/estebanfgarcia
+linkedin: https://www.linkedin.com/in/estebangarcia/
+location:
+  display: Orlando, FL USA
+  lat: 28.5383
+  long: -81.3792

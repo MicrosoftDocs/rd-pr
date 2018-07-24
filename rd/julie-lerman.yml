@@ -11,14 +11,15 @@ remarks: |
   a [Microsoft Regional Director](https://rd.microsoft.com) (one of about 150
   around the world) with strong ties to a number of teams at Microsoft. I've
   also been recognized as a Microsoft MVP since 2003 for my technical expertise
-  and my community involvement.
+  and my community involvement. In 2018, I was made a member of the [Docker Captains]
+  (https://www.docker.com/docker-captains) program.
   
-  In addition to mentoring software teams, I present at software conferences
+  In addition to coaching software teams, I present at software conferences
   around the world on Microsoft technologies with a focus on Entity Framework
-  and Azure data stores and am excited to be leveraging Microsoft's new
+  and Azure services and am excited to be leveraging Microsoft's new
   direction with cross-platform and open source technologies. My speaking
   engagements and mentorship also lean heavily on practices from Domain-Driven
-  Design.
+  Design and even talks to share some of the wisdom I've gained over the years.
   
   I am the author of the highly acclaimed “Programming Entity Framework” books,
   the MSDN Magazine Data Points column and many popular videos on
@@ -67,7 +68,7 @@ remarks: |
   
   I’ve been fortunate to leverage my reputation to assure Windows developers
   that .NET and Windows programming remain a smart investment and career path.
-tagline: Community / Outdoors
+tagline: .NET / Software Architecture / Domain-Driven Design
 image:
   alt: "Julie Lerman"
   src: media/profiles/julie-lerman.jpg

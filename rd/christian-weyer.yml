@@ -40,9 +40,10 @@ remarks: |
   
   Without borders.
   
-  Talk to me about: Cross Platform HTML5, Web Technologies, JavaScript,
-  TypeScript, Single Page Applications (SPA), Angular 2, Cordova, Electron,
-  .NET, C#, Web APIs, Push Services, Lightweight Architectures.
+  Talk to me about: Azure, Cloud-native Architectures, .NET, .NET Core, C#,
+  Web APIs, Push Services, Lightweight Architectures, Cross Platform Applications,
+  Web Technologies, JavaScript, TypeScript, Single Page Applications (SPA),
+  Progressive Web Apps (PWA), Angular, Cordova, Electron
 
   ## Spotlight
   Years ago, my team and I observed a significant change in the usage of
@@ -68,7 +69,7 @@ remarks: |
   with one set of technologies to run their software everywhere, leading to
   happier end-users with increased confidence in the sustainability of those
   devices.
-tagline: Education / Entrepreneurship
+tagline: Cloud-Native / Serverless / Cross-Platform
 image:
   alt: "Christian Weyer"
   src: media/profiles/christian-weyer.jpg

@@ -1,0 +1,53 @@
+### YamlMime:Profile
+uid: rd.stan-schultes
+name: Stan Schultes
+metadata:
+  title: Stan Schultes - Microsoft Regional Director, Innovation Architect
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Hi, I'm Stan Schultes, Chief Architect at innovation firm Spark Growth, based on the beautiful west coast of Florida.
+  I'm an innovation consultant, solutions architect and developer, speaker, author, and problem solver. Not constrained
+  by traditional ways of thinking, I'm an expert in Strategic Doing (from the Purdue Agile Strategies Lab), using agile
+  strategies to help solve complex problems and to design, build and deploy resilient solutions that work nonstop.
+
+  With a broad background implementing enterprise solutions in what I call IDEAS (Innovation, Design and Engineering
+  Automation Systems), I've built large-scale systems that run worldwide. I have years of  experience in commercializing
+  new technology and managing tech transfer into production scale. As an entrepreneur and professional technologist, I
+  have led developer teams from the Fortune 200 to stewardship of several startups.
+
+  My current interests lie in working with civic decision makers on Smart Cities concepts, Innovation Districts
+  development, data analytics and integrating Internet of Everything solutions. In one of my current projects, I
+  co-produce Smart Cities Innovation Accelerators with the Innovators' Forum, an initiative out of Harvard TECH.
+  In the accelerators, we convene city decision makers from 25-30 cities at a time for intensive hands-on workshops
+  to create and refine their strategies and smart city action plans. I'm also the corporate partnerships director,
+  inviting and working with select industry-leading partner companies to contribute their knowledge and expertise
+  to the problem solving process.
+
+  I have long nurtured a passion for creating community engagement between entrepreneurs, investors, and educational
+  resources, and helping early stage companies grow. I'm co-founder of the Spark Growth Leaders' Exchange (annually
+  convening global thought leaders), and the community-focused DaVinci's Faire and BarCamp. I founded and run SarasotaDev,
+  a .NET Developers group for the past 15 years, and the Entrepreneurs and Startups meetup. I work actively with the
+  Manatee Chamber Downtown Redevelopment Committee and have served on the Suncoast Technology Forum Board of Directors
+  and Florida High Tech Corridor Core Council.
+
+  I'm certified in Business Incubator Management by the InBIA and co-founded Station 2 Innovation - a cowork-to-incubation
+  and entrepreneur education center. I've been an MVP since 2004 specializing in developer productivity through Developer
+  Tools & Languages, with Azure and Data Platform on the side. I've spoken at dozens of Code Camps, developer conferences,
+  and have produced many MSDN webcasts and Channel9 videos on developer tools topics. I'm a former Contributing Editor and
+  the Getting Started columnist, originally at VB Programmers Journal, which later became Visual Studio Magazine.
+
+  Talk to me about: strategic leadership, innovation processes, solutions architecture, systems integration, cloud services
+  architecture and data analytics application development, Smart Cities and IoT strategy, community building,
+  entrepreneurial mindset, startup sustainability, economic development, public speaking, book authoring.
+tagline: Innovation / Smart Cities / Entrepreneurship
+image:
+  alt: "Stan Schultes"
+  src: media/profiles/stan-schultes.jpg
+facebook: https://facebook.com/stan.schultes
+twitter: https://twitter.com/stanschultes
+linkedin: https://linkedin.com/in/stanschultes
+location:
+  display: Bradenton, FL, USA
+  lat: 27.4938188
+  long: -82.5554216

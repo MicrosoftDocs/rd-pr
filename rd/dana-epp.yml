@@ -6,30 +6,33 @@ metadata:
   description: Microsoft Regional Director in Vancouver, Canada
 remarks: |
   ## Bio
-  Hey there, I’m Dana. As part of my day job I'm responsible for driving my
-  company's technology strategy with a focus on accelerating innovation, product
-  development and R&D across our portfolio of products. That's no small feat
-  when we deliver IT Service Management software to tens of millions of users
-  both on-premise and in the cloud.
   
-  I've spent the last 25 years focusing on software security and has been
-  awarded the recognition and designation by Microsoft as an Enterprise Security
-  MVP for the past ten years. This last year I was also awarded for my Azure
-  experience in Cloud and Datacenter Management, and was appointed as a
-  Microsoft Regional Director.
+  Hey there, I’m Dana. I'm is a serial entrepreneur who has founded several 
+  security-based software companies that I've taken public or sold through acquisition. 
+  I have a passion for the startup growth mindset and believe that there aren't challenges 
+  in every opportunity, but opportunities in every challenge. Everything is impossible until 
+  someone does it.
   
-  I travel regularly between my homes in Vancouver, British Columbia and Las
-  Vegas, Nevada. When I'm not working or touring around the world to speak about
-  information security and threat modeling, you can find me having fun with my
-  Internet film studio that produces web based TV shows like
-  <http://crackthecred.tv>.
-tagline: Entrepreneurship / Movies
+  I've spent the last 25 years focusing on software security and have been awarded the recognition 
+  and designation by Microsoft as an Enterprise Security MVP for the past fourteen years. These 
+  past few years I was also awarded for my Azure experience in Cloud and Datacenter Management, and 
+  was appointed as a Microsoft Regional Director.
+  
+  I travel regularly between my homes in Vancouver, British Columbia and Las Vegas, Nevada. When I'm 
+  not working or touring around the world to speak about information security and security engineering, 
+  you can find me engaging as an Azure Advisor with Microsoft offering suggestions, guidance and 
+  recommendations to Microsoft's Azure strategy around technologies like cloud identity and security, 
+  containerization and serverless computing.
+  
+tagline: Azure / Security / Serverless Computing
 image:
   alt: "Dana Epp"
   src: media/profiles/dana-epp.jpg
 twitter: https://twitter.com/danaepp
 facebook: https://facebook.com/danaepp
 linkedin: http://ca.linkedin.com/in/danaepp/
+github: https://github.com/danaepp
+blog: https://danaepp.com
 location:
   display: Vancouver, BC, Canada
   lat: 49.260379

@@ -3,10 +3,10 @@ uid: rd.jay-harris
 name: Jay Harris
 metadata:
   title: Jay Harris - Microsoft Regional Director
-  description: Consultant, Web Developer, and Microsoft Regional Director in Las Vegas, Nevada
+  description: Entrepreneur, Public Speaker, and Microsoft Regional Director in Las Vegas, Nevada
 remarks: |
   ## Bio
-  I am the founder and co-owner of [Arana Software](http://www.aranasoft.com), a
+  I am the founder and owner of [Arana Software](http://www.aranasoft.com), a
   web software consulting firm based out of Detroit, St. Louis, and Las Vegas.
   
   As a software consultant, I have been developing solutions on the web since
@@ -29,7 +29,7 @@ remarks: |
   Talk to me about: Software Consulting, Web Development,
   [GiveCamp](http://givecamp.org/), Speaking, and
   [Baseball](http://www.reds.com).
-tagline: Baseball / GiveCamp
+tagline: Web Applications / Consulting / GiveCamp
 image:
   alt: "Jay Harris"
   src: media/profiles/jay-harris.jpg

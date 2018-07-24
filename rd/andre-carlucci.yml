@@ -3,7 +3,7 @@ uid: rd.andre-carlucci
 name: Andre Carlucci
 metadata:
   title: Andre Carlucci - Microsoft Regional Director
-  description: CTO and Microsoft Regional Director in St. John's, Brazil
+  description: CTO and Microsoft Regional Director in Florianopolis, Brazil
 remarks: |
   ## Bio
   Hello, I’m Andre. I’m the CTO of Way2 Technology, living in Brazil. I am a fan
@@ -18,15 +18,15 @@ remarks: |
   initiatives in our State.
   
   I speak frequently at TI conferences, meetups and user groups around the
-  country. I'm a Microsoft Most Valuable Professional for the past 5 years, part
+  country. I'm a Microsoft Most Valuable Professional, part
   of the Microsoft Regional Director Program, Intel Innovator and Intel
   BlackBelt.  
   
-  Talk to me about: asp.net core, cloud, IoT, Cognitive Services, Software
+  Talk to me about: asp.net core, cloud, microservices, apis, IoT, Cognitive Services, Software
   Architecture, Software Development Teams and Strategy.
   
   I’m also interested in travel, good coffee and craft beer. Get in touch!
-tagline: Coffee / Music
+tagline: Technology / Innovation
 image:
   alt: "Andre Carlucci"
   src: media/profiles/andre-carlucci.jpg
@@ -36,5 +36,5 @@ stackoverflow: https://stackoverflow.com/users/22693/andrecarlucci
 twitter: https://twitter.com/andrecarlucci
 location:
   display: Brazil
-  lat: -10.776704
-  long: -53.067344
+  lat: -27.593500
+  long: -48.558540

@@ -1,5 +1,5 @@
  $a = get-childitem .\rd
- 
+
  $b = $a.pschildname -split ('\.') -ne 'yml'
 
 $rdname = $b |select-string -pattern '[a-z]\-[a-z]'
@@ -11,13 +11,11 @@ $rdname = $b |select-string -pattern '[a-z]\-[a-z]'
 $redirectfile = "redirect.json"
 
 $header = @"
-{ 
+{
     "redirections": [
-
 "@
 
 $footer = @"
-
   ]
 }
 
@@ -31,16 +29,13 @@ foreach($i in $rdname) {
 
 
     $urlname = $i -replace("-",".")
-    
-    $content = @" 
-   
+
+    $content = @"
     {
         "source_path": "rd/$urlname.md",
-        "redirect_url": "/rd/$i",
+        "redirect_url": "/$i",
         "redirect_document_id": false
      }
-
-    
 "@
 
 
@@ -52,19 +47,19 @@ add-content -path $redirectfile -value ","
 }
 
 
-<# 
+<#
 
 ForEach($content in $name) {
 
-    $content = @" 
-   
+    $content = @"
+
         {
             "source_path": "rd/$urlname.md",
             "redirect_url": "/rd/$name",
             "redirect_document_id": false
          }
 
-        
+
 "@
 
 write-host "Write"

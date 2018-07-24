@@ -1,0 +1,23 @@
+### YamlMime:Profile
+uid: rd.maarten-eekels
+name: Maarten Eekels
+metadata:
+  title: Maarten Eekels - Microsoft Regional Director, CTO Portiva
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Maarten Eekels is Microsoft MVP, Microsoft Regional Director, and CTO of Portiva, one of the larger SharePoint and Office 365 implementation partners in the Netherlands.
+  
+  Maarten is an experienced Office 365 and SharePoint specialist and already since version 2003 he is involved in implementing SharePoint and (later) Office 365. His expertise includes Microsoft Teams, Security, PowerApps & Flow.
+  
+  Also, Maarten is a regular speaker on both national and international events, like conferences, SharePoint Saturdays, and user group meetings. In September 2015 he started a video blog series called Maarten’s Cloud Journaal, specifically targeted at Dutch speaking Office 365 users.
+tagline: Office 365 / Security / Productivity
+image:
+  alt: "Maarten Eekels"
+  src: media/profiles/maarten-eekels.jpg
+twitter: https://twitter.com/maarteneekels
+linkedin: https://linkedin.com/in/maarteneekels
+location:
+  display: Breda, Netherlands
+  lat: 51.58307
+  long: 4.7769505

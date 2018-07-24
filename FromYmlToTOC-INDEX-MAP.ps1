@@ -36,7 +36,7 @@ function Get-DocumentMetadata {
         
         if($file.Name -eq 'index.yml')
         {
-			$script:indexTitle = Get-IndexTitle -file $file
+			$script:indexTitle = Get-IndexTitle -file $file 
         }
         
         $title = Get-YamlProp -file $file -propName 'name'
@@ -46,7 +46,7 @@ function Get-DocumentMetadata {
         $metadata.UID = if ($uid) { $uid }
 
         $metadata.tagline = Get-YamlProp -file $file -propName 'tagline'
-        $metadata.twitter = Get-YamlProp -file $file -propName 'twitter'
+        #$metadata.twitter = Get-YamlProp -file $file -propName 'twitter'
         #$metadata.location = Get-YamlProp -file $file -propName 'location'
         $metadata.imageAlt = Get-YamlProp -file $file -propName '  alt'
         $metadata.imageSrc = Get-YamlProp -file $file -propName '  src'
@@ -58,8 +58,15 @@ function Get-DocumentMetadata {
     }
 
     if ($file.Extension -eq '.md') {
-		$title = Get-MarkdownMetadata -file $file
-		$metadata.Title = if ($title) { $title } else { $file.Name }
+		#$title = Get-MarkdownMetadata -file $file
+		#$metadata.Title = if ($title) { $title } else { $file.Name }
+        if($file.Name -eq 'index.md')
+            {
+			    $script:indexTitle = Get-IndexTitle -file $file
+            }
+        
+        $title = Get-YamlProp -file $file -propName 'name'
+        $metadata.Title = if ($title) { $title } 
 		return $metadata
     }
 }
@@ -121,7 +128,7 @@ function Get-YamlProp {
     $propRegex = ([regex]'^{$propName}\:.+')
 
     # Look for the metadata.title property.
-    foreach ($linegroup in (Get-Content $file.FullName -ReadCount 1000)) {
+    foreach ($linegroup in (Get-Content -Encoding UTF8 $file.FullName -ReadCount 1000)) {
 		
         #if ($propRegex.Match($linegroup).Success) {
         if ($linegroup -match '^'+$propName+'\:.+') 
@@ -175,7 +182,7 @@ function Format-Yaml {
         $startobject = ('  ' * ($depth - 1)) + '- '
         
 		$uid = if ($index) { $index.UID } else { $item.Name.Split('/') | Select-Object -Last 1 }
-        $name = $startobject + 'name: ' + $indexTitle
+        $name = $startobject + 'name: Regional Directors' #+ $indexTitle
         $href = if ($index.RelativePath) { $indent, 'href: ', $index.RelativePath -join '' } else { "" } 
         $expanded = $indent + 'expanded: true'
         $items = $indent + 'items: '
@@ -290,6 +297,7 @@ function Format-Index-Yaml {
                     }
 
                     ### Location properties
+                    
                     $displayVal = $_.display
                     IF([string]::IsNullOrEmpty($displayVal))
                     {
@@ -330,16 +338,16 @@ function Format-Index-Yaml {
                         $location = $indent + 'location: ' 
                     }
 
-                    $twitterval = $_.twitter
-                    IF([string]::IsNullOrEmpty($twitterval))
-                    {
-                        $twitter = ''
-                    }
-                    else
-                    {
-                        $twitter = $indent + 'twitter: '  + $_.twitter.Replace('https://twitter.com/', '')
-                    }
-                    return ($uid , $name, $tagline, $image, $imageSrc, $imageAlt, $location, $display, $lat, $long, $twitter | Where-Object { $_.Length -gt 0 } )-join [Environment]::NewLine
+                    #$twitterval = $_.twitter
+                    #IF([string]::IsNullOrEmpty($twitterval))
+                    #{
+                    #    $twitter = ''
+                    #}
+                    #else
+                    #{
+                    #    $twitter = $indent + 'twitter: '  + $_.twitter.Replace('https://twitter.com/', '')
+                    #}
+                    return ($uid , $name, $tagline, $image, $imageSrc, $imageAlt, $location, $display, $lat, $long | Where-Object { $_.Length -gt 0 } )-join [Environment]::NewLine
                 }
         } else {
             Write-Host "No children found"
@@ -385,7 +393,7 @@ foreach ($source_folder in $source_folders) {
 
     # Use the globs to locate the files on disk, and build the TOC structure, serializing to md or yml.
     # TOC should go in top-level output folder from 'docsets_to_publish' array, it seems.
-    $docfx_json = Get-Content -Raw $docfx_path | Out-String | ConvertFrom-Json
+    $docfx_json = Get-Content  -Raw $docfx_path | Out-String | ConvertFrom-Json
     $includes = $docfx_json.build.content.files
     $excludes = $docfx_json.build.content.exclude
     $excludes = "**/toc.*", "**/map.*", "**/tweets.*"  # Exclude TOC, map and tweets files.
@@ -399,38 +407,48 @@ items:
 '@  
     $IndexFilecontent = @' 
 ### YamlMime:ProfileList
-title: Cloud Developer Advocates
-description: |
-  We write, speak, and dream in code.  Our global team is maniacal about making the world amazing for developers of all backgrounds. Connect with us, write code with us, and let's meet up and talk cloud and all things developer!
+title: Microsoft Regional Directors
+description: 
+  Trusted advisors to the developer and IT professional audiences and Microsoft.
 focalImage:
-  src: https://developer.microsoft.com/en-us/advocates/media/bitmicrosoft.png
-  alt: "Alternative text for the image"
+  src: ./media/RD-header-image.png
+  alt: ""
 metadata:
-  title: Microsoft Cloud Developer Advocates
-  description: Trusted advisors to developer and IT professionals.
-  twitterWidgets: true
+  title: Microsoft Regional Directors
+  description: Trusted advisors to the developer and IT professional audiences and Microsoft.
   hide_bc: true
+bannerLinks:
+- text: Map View
+  url: ./map
+- text: About
+  url: ./about
+filterText: Regional Directors
 profiles:
 '@
 
  $MapFilecontent = @' 
 ### YamlMime:ProfileList
-title: Cloud Developer Advocates
-description: |
-  We write, speak, and dream in code.  Our global team is maniacal about making the world amazing for developers of all backgrounds. Connect with us, write code with us, and let's meet up and talk cloud and all things developer!
+title: Microsoft Regional Directors
+description: 
+  Trusted advisors to the developer and IT professional audiences and Microsoft.
 focalImage:
-  src: https://developer.microsoft.com/en-us/advocates/media/bitmicrosoft.png
-  alt: "Alternative text for the image"
+  src: ./media/RD-header-image.png
+  alt: ""
 metadata:
-  title: Microsoft Cloud Developer Advocates
-  description: Trusted advisors to developer and IT professionals.
-  twitterWidgets: true
+  title: Microsoft Regional Directors
+  description: Trusted advisors to the developer and IT professional audiences and Microsoft.
   hide_bc: true
 mode: map
+bannerLinks:
+- text: Map View
+  url: ./map
+- text: About
+  url: ./about
+filterText: Regional Directors
 profiles:
 '@
 
-    $objects = Get-ChildItem -Path $docfx_dir -Recurse -File `
+    $objects = Get-ChildItem -Path $docfx_dir -Recurse -File  `
         | Where-Object { (-Not (Check-GlobMatch -patterns $excludes -matchpath ( Remove-RootPath -rootpath $docfx_dir -fullpath $_.FullName ))) -and (Check-GlobMatch -patterns $includes -matchpath ( Remove-RootPath -rootpath $docfx_dir -fullpath $_.FullName )) } `
         | Sort-Object FullName `
         | ForEach-Object { Get-DocumentMetadata -file $_ -relativepath ( Remove-RootPath -rootpath $docfx_dir -fullpath $_.FullName ) } `
@@ -443,7 +461,7 @@ profiles:
 
     # writing to Index file 
     ForEach-Object -Begin { return $IndexFilecontent } -Process { Format-Index-Yaml -object $objects } `
-        | Out-File -filepath $index_path
+        | Out-File -filepath $index_path 
 
         # writing to map file 
     ForEach-Object -Begin { return $MapFilecontent } -Process { Format-Index-Yaml -object $objects } `

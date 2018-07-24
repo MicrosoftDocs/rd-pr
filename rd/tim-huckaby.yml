@@ -6,27 +6,24 @@ metadata:
   description: Public Speaker, CEO, and Microsoft Regional Director in Carlsbad, California
 remarks: |
   ## Bio
-  I am a Microsoft Global RD, a Microsoft MVP and serve on many councils and
-  boards like the Microsoft Application Development Partner Advisory Council. I
-  am focused on Emerging User Experiences, User Interaction Design and the
-  Natural User Interface (NUI).
-  
-  I have over 35 years of technology experience including working on a server
-  product team as a development lead on an architecture team at Microsoft. I
-  worked on some famous and not so famous Microsoft Server products in the late
-  nineties.
-  
-  I have been awarded many times for the highest rated technical & industry
-  presentations and keynotes for Microsoft and many other vertical & technology
-  conferences like CES and events all around the world. I am consistently rated
-  in the top 10% of all speakers at these events. Having worked for or with
-  Microsoft for over 25 years, I have been on stage with, and done numerous
-  keynote demos for many Microsoft executives including Bill Gates and Steve
-  Ballmer.
-  
-  Talk to me about: Hololens, Kinect for Windows, Microsoft Cognitive Services,
-  Emerging Experiences, Mixed Reality
-
+  Tim Huckaby is an industry luminary focused on AI, Computer Vision, Machine
+  Learning, AR/MR, & Emerging User Experiences.  Mr. Huckaby is a Microsoft
+  Global RD and a Microsoft MVP.
+  Mr. Huckaby has over 35 years of technology experience including serving on a
+  server product team as a development lead on an architecture team at Microsoft.
+  Mr. Huckaby worked on some famous and not so famous Microsoft Server products
+  in the late nineties.  Mr. Huckaby is a Microsoft Global RD, a Microsoft MVP
+  and serves on many councils and boards.  
+  Mr. Huckaby has been awarded many times for the highest rated technical &
+  industry presentations and keynotes for Microsoft and many other vertical &
+  technology conferences like CES and events all around the world. Mr. Huckaby is
+  consistently rated in the top 10% of all speakers at these events. Having
+  worked for or with Microsoft close to 30 years, Mr. Huckaby has been on stage
+  with, and done numerous keynote demos for many Microsoft executives including
+  Bill Gates and Steve Ballmer. 
+ 
+  Talk to Tim about: Hololens, Computer Vision, Microsoft Cognitive Services,
+  Emerging Experiences, Augmented & Mixed Reality
   ## Spotlight
   My team amasses terabytes of raw consumer behavior data in Azure SQL for some
   of the largest CPG companies in the world and the list is growing. Recently,
@@ -49,7 +46,7 @@ remarks: |
   move the data into the Data Warehouse so that PowerBI can do its magic. The
   solution was so beautiful, powerful, awesome, fast, and scalable that it made
   for some very happy customers.
-tagline: Hiking / Running
+tagline: Computer Vision, AI, AR & MR
 image:
   alt: "Tim Huckaby"
   src: media/profiles/tim-huckaby.jpg
