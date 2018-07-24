@@ -1,0 +1,45 @@
+### YamlMime:Profile
+uid: rd.stacia-varga
+name: Stacia Varga 
+metadata:
+  title: Stacia Varga - Microsoft Regional Director
+  description: Microsoft Regional Director, CEO of Data Inspirations, Vice President of 425BigData
+remarks: |
+  ## Bio
+  I started my career more than 30 years ago installing computer systems at tractor dealerships 
+  across North America and teaching the staff at these dealerships how to work with these green-screen 
+  newfangled machines. Like most software applications in the '80s, the application in this computer 
+  system had a lot of canned reports, but often my clients wanted to access the data inside the system 
+  in new ways and thus began my first forays into turning data into information. In those days, though, 
+  you had to know programming languages or use basic report writing tools to create information from data. 
+  It wasn't what we'd call user friendly.
+
+  Much has changed since then, but a common thread throughout my career has been helping people find and 
+  use their business data, transforming it into information that helps them make decisions. It was such a 
+  common thread that it became my career officially in 1999. 
+
+  Not only do I create information solutions for a diverse group of clients, but I teach others how to create 
+  these solutions for themselves. I do this by teaching in the classroom and through video courses available at 
+  [Pluralsight.com] (http://pluralsight.com/), speaking at technical conferences worldwide, and writing more than 
+  a dozen books on technical topics through Microsoft Press. In 2006, I launched my own consultancy firm, Data 
+  Inspirations, to provide these services. Since 2011, I have been honored to be recognized for my contributions 
+  to the technical community with the Microsoft MVP award. More recently, in 2017, I reunited with a former mentor 
+  to found 425BigData, a company that focuses on analytics on the Azure platform, and am truly excited by all the 
+  possibilities that the cloud enables for businesses large and small and to be of service to help make that happen successfully. 
+
+  As data continues to explode, the variety of tools at hand to explore, analyze, and learn from that data is also 
+  evolving. This proliferation of data and tools in addition to the rapidity of technological change can be quite 
+  overwhelming. My role is to help IT and business professionals make sense of these technologies, develop an appropriate 
+  data analytics strategy for their respective organizations, and implement the right tools at the right time as 
+  painlessly as possible. 
+tagline: Analytics / Strategy / Education
+image:
+  alt: "Stacia Varga"
+  src: media/profiles/stacia-varga.jpg
+facebook: https://facebook.com/DataInspirations
+twitter: https://twitter.com/_StaciaV_
+linkedin: https://linkedin.com/in/staciavarga
+location:
+  display: Las Vegas, NV, United States
+  lat: 36.1699
+  long: -115.1398
