@@ -2,19 +2,18 @@
 uid: rd.ritesh-modi
 name: Ritesh Modi
 metadata:
-  title: Ritesh Modi - Microsoft Regional Director, [add professional title]
+  title: Ritesh Modi - Microsoft Regional Director
   description: Microsoft Regional Director
 remarks: |
   ## Bio
-  [Insert bio content here by following the guidelines provided by the RD Program team]
-tagline: Tagline1 / Tagline2 / Tagline3
+  Ritesh Modi is an ex Microsoft senior technology evangelist and Microsoft regional lead. He has worked on Ethereum and Solidity, extensively helping and advising companies. Ritesh is a regular speaker on blockchain and Solidity at conferences and local meetups. He is an architect, evangelist, speaker, and a known leader for his contributions toward blockchain, data centers, Azure Bots, cognitive services, DevOps, Artificial Intelligence, and automation. He is the author of five books.
+tagline: Blockchain / Cloud / DevOps
 image:
   alt: "Ritesh Modi"
   src: media/profiles/ritesh-modi.jpg
-facebook: https://facebook.com/yourprofile
-twitter: https://twitter.com/yourprofile
-linkedin: https://linkedin.com/in/yourprofile
+
+twitter: https://twitter.com/automationnext
+linkedin: https://www.linkedin.com/in/ritesh-modi/
 location:
-  display: [City], [State, if applicable], [Country]
-  lat: [decimal latitude]
-  long: [decimal longitude]
+  display: Hyderabad, India
+
