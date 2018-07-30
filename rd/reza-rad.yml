@@ -9,7 +9,7 @@ remarks: |
   I'm Reza Rad, based in New Zealand. A Microsoft Regional
   Director and also a [Microsoft Most Valuable Professional]
   (https://mvp.microsoft.com/en-us/PublicProfile/4030647) for Data Platform. 
-  I run my own consulting business named RADACAD.
+  I run my own consulting business named [RADACAD](http://radacad.com).
   I am not a Microsoft employee, but my activities including writing books, speakring 
   in many conferences, writing blogs, and many others counted for Microsoft to be kind 
   to me and award me as the Most Valuable Professional since 2011. I have been a 
@@ -36,7 +36,7 @@ remarks: |
   the Power BI community around the world.
 
   If you ever want to hear me, or talk to me; either use my [blog](http://radacad.com/blog),
-  or contact me via social media channels. I am an active [LinkedIn blogger too](), and
+  or contact me via social media channels. I am an active LinkedIn blogger too, and
   you can connect to me via [Twitter as well]().
   
   My mission in life is simple; Help others to make changes in the world. I write 
@@ -53,12 +53,12 @@ remarks: |
   learn and grow in the technology.
   
   I run conferences [Difinity](http://difinity.co.nz), User group events [NZ BI User 
-  Group], write books, speak in conferences, write blogs. All of that to help the 
-  community. I believe in one sentense: Never Stop, Never Give up. If you have any
-  questions and challenges in Microsoft Data Analytics technologies, feel free to 
-  reach me and talk to me. I love to hear from you. If you want to learn from me,
-  read my books, blogs, watch my training courses and vidoes. If you want to follow
-  this path, I can help you.
+  Group]https://www.meetup.com/New-Zealand-Business-Intelligence-User-Group/), write 
+  books, speak in conferences, write blogs. All of that to help the community. I 
+  believe in one sentense: Never Stop, Never Give up. If you have any questions and 
+  challenges in Microsoft Data Analytics technologies, feel free to reach me and talk 
+  to me. I love to hear from you. If you want to learn from me, read my books, blogs, 
+  watch my training courses and vidoes. If you want to follow this path, I can help you.
 tagline: Power BI/ Business Intelligence / Data Analytics
 image:
   alt: "Reza Rad"
@@ -66,8 +66,8 @@ image:
 twitter: https://twitter.com/rad_reza
 facebook: https://facebook.com/rezaradf
 linkedin: https://www.linkedin.com/in/rezarad
-youtube: https://www.youtube.com/channel/UCsOfIwAXj1fT6LDqEDEAb4g  
+youtube: https://www.youtube.com/channel/UCsOfIwAXj1fT6LDqEDEAb4g   
 location:
   display: Auckland, New Zealand
   lat: -36.848460
-long: 174.763332
+  long: 174.763332  
