@@ -1,0 +1,33 @@
+### YamlMime:Profile
+uid: rd.dan-hermes
+name: Dan Hermes
+metadata:
+  title: Dan Hermes - Microsoft Regional Director, President
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Dan Hermes is a Xamarin and Microsoft MVP, software consultant, IBM Champion, and founder of Lexicon Systems, an award-winning 
+  Xamarin and .NET consulting firm. Dan helps developers create great mobile apps and helps businesses develop a winning mobile 
+  strategy by leveraging technologies such as Xamarin, Azure, Cognitive, and IoT. His company's Xamarin projects include a 
+  cross-platform app for Thermo Fisher Scientific which won a W3, a Davey award, and was a finalist for a Xammy award. Dan's 
+  clientele includes dozens of software-building firms such as Fidelity Investments, the Federal Aviation Administration (FAA), and 
+  successful, funded startups such as OrthoBullets. He and his team create video and written courseware for clients such as Microsoft.
+  
+  A contemporary Renaissance man, Mr. Hermes is also active in the arts. Dan is a recognized composer, his classical crossover music 
+  having aired on National Public Radio (NPR). He is also an active artist, exhibiting his work internationally, and a founding director 
+  of Art Technology New England (ATNE).
+
+  Dan speaks at developer user groups and conferences such as Ignite and IBM Think, and writes articles for publications such as 
+  MSDN Magazine and IBM's Mobile Business Insights.  Dan is the author of the Apress book Xamarin Mobile Application Development and 
+  Building Xamarin.Forms Apps Using XAML.
+
+tagline: Mobile Apps / Xamarin / Azure
+image:
+  alt: "Dan Hermes"
+  src: media/profiles/dan-hermes.jpg
+twitter: https://twitter.com/danhermes
+linkedin: https://www.linkedin.com/in/dan-hermes/
+location:
+  display: Boston, Massachusetts, United States
+  lat: 42.3601
+  long: -71.0589
