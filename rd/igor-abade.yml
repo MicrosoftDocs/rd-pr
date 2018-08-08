@@ -2,19 +2,23 @@
 uid: rd.igor-abade
 name: Igor Abade
 metadata:
-  title: Igor Abade - Microsoft Regional Director, [add professional title]
+  title: Igor Abade - Microsoft Regional Director, Microsoft DevOps MVP. CTO of Lambda3
   description: Microsoft Regional Director
 remarks: |
   ## Bio
-  [Insert bio content here by following the guidelines provided by the RD Program team]
-tagline: Tagline1 / Tagline2 / Tagline3
+  Igor Abade V. Leite (igor@tshooter.com.br) is a Microsoft Regional Director and a Microsoft MVP on ALM & DevOps.
+  
+  Speaker at various Software Development community events (DevOps Summit Brasil, TechEd Brasil, The Developers’ Conference, Agile Brazil, Visual Studio Summit, QCON among others), has also written articles in magazines and websites such as MSDN Brazil.
+  
+  Since March/2011 is one of the owners of Lambda3, a Brazilian consulting company specialized in DevOps & ALM, software development and cloud computing. Visit his blog about DevOps, ALM, Cloud Computing and tech-related topics at http://www.tshooter.com.br/ and follow him on Twitter @igorabade.
+tagline: DevOps / Cloud Computing / Software Development
 image:
   alt: "Igor Abade"
   src: media/profiles/igor-abade.jpg
-facebook: https://facebook.com/yourprofile
-twitter: https://twitter.com/yourprofile
-linkedin: https://linkedin.com/in/yourprofile
+facebook: https://facebook.com/igorabadealm
+twitter: https://twitter.com/igorabade
+linkedin: https://linkedin.com/in/igorleite
 location:
-  display: [City], [State, if applicable], [Country]
-  lat: [decimal latitude]
-  long: [decimal longitude]
+  display: São Paulo, MVP, Brazil
+  lat: -23.5523045
+  long: -46.6635707
