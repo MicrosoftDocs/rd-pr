@@ -10,13 +10,13 @@ remarks: |
 
   He was a Chief Scientist who leads technology team at YouKu.com (NYSE:YOKU) and also had founded two company AKA.cn (2001, Linux Solutions for Enterprise) and JiWai.com (2007, MicroBlogging in China). Huan studied at Tsinghua University and got EMBA master degree from CEIBS, currently had been accepted for the Ph.D. program in BUPT where he will be focusing on the latest research in artificial intelligence.
 
-  He is also a published author (Linux Network Programming 2001, Email Anti-Spamming 2006) and mentors startups for Entrepreneurship a lot.
+  He is also a published author (Linux Network Programming, 2001; Email Anti-Spamming, 2006; Intelligence Q/A with Deep Learning, 2018), [Microsoft AI MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003061) and mentors startups for Entrepreneurship a lot.
 
   Huan loves to share his knowledge of Machine Learning with others and maintains many Open Source Projects on GitHub, one is a [FaceNet](https://github.com/zixia/node-facenet) Node implementation based on TensorFlow and another is a ChatBot SDK [Wechaty](https://github.com/Chatie/wechaty) for helping people make AI ChatBots on top of Wechat Personal Account.
 
   In his spare time, Huan plays paragliding, dance salsa and enjoy coding.
 
-tagline: AI / ChatBot / Entrepreneurship
+tagline: Conversational AI / Azure Bot Service / TypeScript
 image:
   alt: "Huan LI (李卓桓)"
   src: media/profiles/huan-li.jpg
