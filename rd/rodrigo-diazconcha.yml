@@ -6,18 +6,16 @@ metadata:
   description: Microsoft Regional Director and Solutions Architect in Minneapolis, Mexico
 remarks: |
   ## Bio
-  I’m Rodrigo Díaz Concha, a Microsoft Regional Director living in Mexico City,
+  I’m Rodrigo Díaz Concha, a Microsoft Regional Director from Mexico City,
   Mexico.
   
   I'm a Carnegie Mellon® Software Engineering Institute Certified Software
-  Architecture Professional. For 9 consecutive years I have been recognized as a
-  Microsoft MVP -currently in the Windows Development and Visual Studio
-  Development and Technologies categories. In addition, I'm a Scrum Alliance
-  Certified ScrumMaster, MCT, MCSD, MCTS, MCPD and MCP.
+  Architecture Professional. For 10 consecutive years I have been recognized as a
+  Microsoft MVP, currently in the Developer Technologies category. In addition, I'm a Scrum Alliance
+  Certified ScrumMaster, MCSD, MCTS, MCPD and MCP.
   
-  I'm the founder of DevMasters a leading firm in software architecture,
-  development and deep-dive .NET and XAML technologies (mainly WPF, Xamarin and
-  UWP) training.
+  Founder of DevMasters: a leading brand in software architecture,
+  development and .NET deep-dive training.
   
   I'm also the author of "[Aplicaciones de Negocio con Silverlight
   5](https://www.amazon.es/Aplicaciones-Negocio-Microsoft-
@@ -30,11 +28,11 @@ remarks: |
   With more than 18 years of experience, I have architected international award-
   winner software solutions.
   
-  Currently, I'm the lead Solutions Architect for several national and
+  Currently, I'm the lead Solutions Architect for different national and
   international private companies and government institutions. Also, I'm a
-  frequent speaker at Microsoft and non-Microsoft events all over Latin America.
+  frequent speaker at Microsoft and non-Microsoft events all over Latin America, USA and Europe.
   
-  Talk to me about: Software Development, Software Engineering, Xamarin, .NET,
+  Talk to me about: Software Architecture, Software Development, Azure, .NET,
   C#
   
   *******
@@ -42,21 +40,19 @@ remarks: |
   Soy Rodrigo Díaz Concha, un Microsoft Regional Director para México.
   
   Soy un Carnegie Mellon® Software Engineering Institute Certified Software
-  Architecture Professional. Por 9 años consecutivos he sido reconocido como
-  Microsoft MVP -actualmente en las categorías de Windows Development y Visual
-  Studio Development and Technologies. Adicionalmente, soy un Scrum Alliance
-  Certified ScrumMaster, MCT, MCSD, MCTS, MCPD y MCP.
+  Architecture Professional. Por 10 años consecutivos he sido reconocido como
+  Microsoft MVP, actualmente en las categoría de Developer Technologies. Adicionalmente, soy un Scrum Alliance
+  Certified ScrumMaster, MCSD, MCTS, MCPD y MCP.
   
-  Soy el fundador de DevMasters, una firma líder en la arquitectura, desarrollo
-  y entrenamiento a profundidad en tecnologías .NET y XAML (principalmente WPF,
-  Xamarin.Forms y UWP).
+  Fundador de DevMasters: una marca líder en la arquitectura, desarrollo
+  y entrenamiento a profundidad en tecnologías .NET.
   
   Asimismo, soy el autor de "Aplicaciones de Negocio con Silverlight 5", el
   primer libro en español acerca de Silverlight 5 y de "Xamarin.Forms en acción:
   Aplicaciones de negocio" el primer libro en español acerca de Xamarin.Forms.
   
   Con más de 18 años de experiencia, he creado soluciones de software ganadoras
-  de premios internacionales.
+  de premios internacionales.  Asimismo, soy un orador frecuente en eventos Microsoft y no-Microsoft en Latino América, EUA y Europa.
 tagline: Software architecture / .NET / Azure
 image:
   alt: "Rodrigo Díaz Concha"
