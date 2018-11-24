@@ -6,29 +6,29 @@ metadata:
   description: Entrepreneur, Public Speaker, and Microsoft Regional Director in Las Vegas, Nevada
 remarks: |
   ## Bio
-  I am the founder and owner of [Arana Software](http://www.aranasoft.com), a
-  web software consulting firm based out of Detroit, St. Louis, and Las Vegas.
-  
+  I am the founder and owner of [Arana Software](https://www.aranasoft.com), a
+  web software consulting firm headquartered in Las Vegas.
+
   As a software consultant, I have been developing solutions on the web since
   1995, when the Blink tag lured me away from Visual Basic 3. Through my
   collaboration and contributions to software development, I have been awarded
-  as a Microsoft Regional Director, an ASPInsider, and as a six-time Microsoft
+  as a Microsoft Regional Director, an ASPInsider, and as a seven-time Microsoft
   MVP.
-  
+
   Recognizing that the bottleneck to great software is a developer’s time, my
   continuing quest is for frameworks, modules, tools, and practices that make
   developers stronger, fitter, happier, and more productive. "Typing is not the
   hardest part of the day;" I strive for efficiency in implementation, so that
   we can focus on imagining ideas, solving problems, and providing solutions.
-  
+
   I am also president of [GiveCamp Inc.](http://givecamp.org/), a non-profit
   through which software developers, graphic designers, social media experts and
   other technologists volunteer their time and skills to help their local
   charities.
-  
-  Talk to me about: Software Consulting, Web Development,
+
+Talk to me about: [Software Consulting](https://www.aranasoft.com), Web Development,
   [GiveCamp](http://givecamp.org/), Speaking, and
-  [Baseball](http://www.reds.com).
+  visting Las Vegas.
 tagline: Web Applications / Consulting / GiveCamp
 image:
   alt: "Jay Harris"
@@ -36,6 +36,7 @@ image:
 twitter: https://twitter.com/jayharris
 linkedin: https://www.linkedin.com/in/jasonharris
 github: https://github.com/jayharris
+facebook: https://www.facebook.com/meetjayharris
 location:
   display: Las Vegas, NV, United States
   lat: 36.171909
