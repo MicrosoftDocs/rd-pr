@@ -3,16 +3,28 @@ uid: rd.colin-melia
 name: Colin Melia
 metadata:
   title: Colin Melia - Microsoft Regional Director
-  description: Device-To-Cloud Architect, Microsoft Regional Director, and Trainer/Author/Mentor in São José dos Campos, Canada
+  description: Device-To-Cloud Architect, Trainer/Author/Mentor and Entrepreneur in Nova Scotia, Canada
 remarks: |
   ## Bio
   I'm a British author, software architect, CxO, trainer and mentor in Canada,
-  leading the charge with a team of experts delivering productive solutions and
+  leading the charge with a team of experts at Ace of Clouds, Inc., delivering productive solutions and 
   training from the holographic client to the intelligent cloud.
   
   Over 20+ years I've founded companies both sides of the Atlantic and reached
   out to corporate, open source and academic communities through business,
   events and mentorship.
+  
+  If you have needs for development in these areas, I'd be happy to discuss how my team can bring value to you: 
+  Windows application development (UWP, WPF, .NET) for the best in consumer and enterprise application, 
+  AR/VR (HoloLens and Windows Mixed Reality) for exhibits, training and industrial applications,  
+  Mobile (Xamarin, iOS, Android) solutions with cloud backends, 
+  Web (ASP.NET, Angular, JavaScript, MVC, etc.) for day to day applications, 
+  Cloud (Azure, etc.) for the ultimate scalable back-end, 
+  Machine Learning & Bots for productive and scalable use of your data, 
+  DevOps for efficient application delivery, 
+  Office for tight integration into your business workflow, 
+  Business & Data Analytics for getting actionable insights, 
+  IoT for bringing all aspects of life into the future. 
   
   You can hear my authoritative and knowledgeable British accent on numerous
   training videos or in person when we talk about how my team can deliver great
@@ -22,15 +34,7 @@ remarks: |
   entertainment brands, and in the cloud with business intelligence and
   optimized IoT information processing.
   
-  You can ask me about HoloLens solutions for exhibits, training and industrial
-  applications with a click on the button above.
-  
-  Talk to me about: HoloLens, Mobile Development, UWP, Xamarin, iOS Development,
-  Android Development, IoT, Robotics, Game Development, Software Development,
-  Visual Studio, C#, .NET, ASP.NET, nodeJS, JavaScript, HTML5, AngularJS,
-  JQuery, DevOps, Continuous Delivery, Microsoft Office, Cloud Computing, PaaS,
-  SaaS, Azure, Big Data
-tagline: Entrepreneurship / Innovation
+tagline: Windows Applications / Mixed Reality / Intelligent Cloud
 image:
   alt: "Colin Melia"
   src: media/profiles/colin-melia.jpg

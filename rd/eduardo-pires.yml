@@ -1,0 +1,27 @@
+### YamlMime:Profile
+uid: rd.eduardo-pires
+name: Eduardo Pires 
+metadata:
+  title: Eduardo Pires - Microsoft Regional Director
+  description: Microsoft Regional Director - Owner at Desenvolvedor.IO and DevXperience
+remarks: |
+  ## Bio
+  I'm a software developer and architect. My main focus is on developing architectures for large applications.
+  
+  I have also been MVP since 2014 and my mission is to share knowledge about good software development practices and focus on performance and security.
+  
+  As an owner in the company Developer.IO I develop content for various courses on software development. I also work as a consultant for large companies, multinationals and state companies.
+  
+  As an owner at DevXperience I organize technical events. These events occur once or twice a year and typically receive between 700 and 1000 visitors per edition.
+  
+tagline: .NET / Architecture / Cloud
+image:
+  alt: "Eduardo Pires"
+  src: media/profiles/eduardo-pires.jpg
+facebook: https://facebook.com/EduardoPiresBR
+twitter: https://twitter.com/EduardoPiresBR
+linkedin: https://linkedin.com/in/pireseduardo
+location:
+  display: São Paulo, São Paulo, Brazil
+  lat: -23.561105882809898
+  long: -46.57850640078453
