@@ -7,21 +7,18 @@ metadata:
 remarks: |
   ## Bio
   Andy Cross is a co-founder of Elastacloud. An international speaker, Andy has
-  lead teams building the largest Hadoop and HDInsight specialist deployments on
+  lead teams building the largest Data and Data Science specialist deployments on
   Azure.
   
-  His passion for embedded software and high performance compute clusters gives
-  him a unique insight into a sphere of computation from the very small and
-  resource constrained to the massively scalable, limitless potential of the
+  His passion for business outcomes through data innovation gives has lead Andy to 
+  found a number of businesses specialising in bringing leading edge data services
+  to enterprise customers utilising the massively scalable, limitless potential of the
   cloud. He is an Azure Insider, co-founder of the UK London Azure User Group,
   an Azure Most Valuable Professional and a Microsoft Regional Director. You can
   tweet Andy at @andyelastacloud
   
-  Talk to me about: Cloud Computing, PaaS, SaaS, Big Data, Hadoop, Nodejs, IoT,
-  Arduino, Microservices, Serverless Compute, Software Architecture, Javascript,
-  Apache Spark, MapReduce, .NET, Azure, Software Engineering, Project
-  efficiency, C#, ASP.NET, Cloud Strategy, Cloud Business, Multitenant, HTML5,
-  Service Fabric.
+  Talk to me about: Cloud Computing, PaaS, SaaS, Big Data, Azure, Software Engineering, 
+  Cloud Strategy, Cloud Business, Multitenant, Entrepreneurship, Poetry
 tagline: Cloud / Entrepreneurship
 image:
   alt: "Andy Cross"
