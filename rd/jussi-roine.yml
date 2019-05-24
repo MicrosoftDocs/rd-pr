@@ -6,27 +6,27 @@ metadata:
   description: Microsoft Regional Director in Helsinki, Finland
 remarks: |
   ## Bio
-  I have outstanding experience and mastery in SharePoint, Office 365, Microsoft
-  Azure and cloud and hybrid architectures. I'm also excellent in designing,
-  developing, deploying, managing and troubleshooting complex architectures and
-  solutions on the Microsoft platform.
+   My name is Jussi Roine, and I’m based in Helsinki, Finland. Having recently turned 40
+  I think I’ve tackled the inevitable midlife crisis well, at least for now. 
   
-  I'm able to communicate and create value on the CxO level on all things
-  Microsoft. I'm one of the selected few in the world to have attained the
-  highest technical certification from Microsoft, the Microsoft Certified
-  Solutions Master: SharePoint. I'm also a Microsoft Most Valuable Professional
-  (MVP) and a Microsoft Regional Director (RD).
+  I’ve worked in all things IT for almost 30 years, having founded my first company in
+  1991 at the ripe business age of 14. For the past 10 years I’ve worked as CTO for my
+  own company that I we recently merged with our competitor. Today, the company is about
+  100 people strong for which I’m a little bit proud of, in a quintessential Finnish way.
+  As part of my duties I’m actively presenting at international events and I’ve gotten really,
+  really good in doing my presentation slides at the last second. Things that resonate strongly
+  with me include cloud architectures, complex technical and business challenges and being 
+  outside my comfort zone. My only motivational and cheesy motto is "everything you’ve ever
+  wanted is on the other side of fear" and I live by it. 
   
-  When I'm not at customer site or in a classroom, I'm rock climbing, writing or
-  running. Or avoiding eating tomatoes.
+  I try and sometimes succeed in carving out some downtime for myself, that I then fill 
+  with rock climbing and scavenging activities for memorable red wines.
 tagline: Cloud Computing / Digital Transformation
 image:
   alt: "Jussi Roine"
   src: media/profiles/jussi-roine.jpg
-twitter: https://twitter.com/JussiRoine
-instagram: http://instagram.com/jussiroine
-linkedin: https://www.linkedin.com/in/juska
-facebook: https://facebook.com/jussi.roine
+twitter: https://twitter.com/jussiroine
+linkedin: https://www.linkedin.com/in/jroine
 location:
   display: Helsinki, Finland
   lat: 60.171161
