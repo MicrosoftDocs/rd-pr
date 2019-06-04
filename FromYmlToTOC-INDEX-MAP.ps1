@@ -422,6 +422,8 @@ bannerLinks:
   url: ./map
 - text: About
   url: ./about
+- text: Code of Conduct
+  url: ./CodeOfConduct
 filterText: Regional Directors
 profiles:
 '@
@@ -444,6 +446,8 @@ bannerLinks:
   url: ./map
 - text: About
   url: ./about
+- text: Code of Conduct
+  url: ./CodeOfConduct
 filterText: Regional Directors
 profiles:
 '@
