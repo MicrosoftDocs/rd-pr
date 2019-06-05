@@ -3,7 +3,7 @@ uid: rd.rotem-rozmarin
 name: Rotem Rozmarin
 metadata:
   title: Rotem Rozmarin - Microsoft Regional Director
-  description: Microsoft Regional Director, Microsoft P-TSP Azure &amp; DevOps, and CTO, Cloud Architect in Vila Velha, Israel
+  description: Microsoft Regional Director, Microsoft P-TSP Azure & DevOps, CTO Cloud Architect at GTC
 remarks: |
   ## Bio
   My name is Rotem and I am a Microsoft Regional Director and a P-TSP Azure,
@@ -35,7 +35,7 @@ remarks: |
   <https://www.meetup.com/AzureIsrael/>
   
   <https://www.linkedin.com/in/rotemrozmarin/>
-tagline: Astronomy / Fitness
+tagline: Azure / Identity and mobile Security / DevOps
 image:
   alt: "Rotem Rozmarin"
   src: media/profiles/rotem-rozmarin.jpg
