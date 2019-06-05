@@ -9,7 +9,7 @@
 
 ### This Code of Conduct summarizes Microsoft’s minimum expectations for RDs. 
 
-### Microsoft makes this Code of Conduct highly visible to clarify expectations, provide reporting resources for conduct violations and outline how Microsoft may choose to enforce this Code of Conduct. Microsoft reserves the right to amend or change this Code of Conduct at any time, without notice. RDs agree to periodically review this document to ensure they **_are in compliance with_** the obligations below.
+### Microsoft makes this Code of Conduct highly visible to clarify expectations, provide reporting resources for conduct violations and outline how Microsoft may choose to enforce this Code of Conduct. Microsoft reserves the right to amend or change this Code of Conduct at any time, without notice. RDs agree to periodically review this document to ensure they are in compliance with the obligations below.
 
 ## Expectations
 
@@ -46,4 +46,4 @@
 
 ## Enforcement  
 
-### Participation in the RD Program is a privilege and Microsoft **_reserves_** the right to remove any participant from the RD Program for violating this Code of Conduct. The determination to remove a person from the Program is made on a case-by-case basis at Microsoft's sole discretion.  Decisions to remove an RD are final.  When an RD is removed from the program, we retire the remaining benefits and his/her access to Microsoft resources.
+### Participation in the RD Program is a privilege and Microsoft reserves the right to remove any participant from the RD Program for violating this Code of Conduct. The determination to remove a person from the Program is made on a case-by-case basis at Microsoft's sole discretion.  Decisions to remove an RD are final.  When an RD is removed from the program, we retire the remaining benefits and his/her access to Microsoft resources.
