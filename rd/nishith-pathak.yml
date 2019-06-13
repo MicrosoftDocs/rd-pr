@@ -34,6 +34,6 @@ facebook: https://facebook.com/nishith.pathak.9
 twitter: https://twitter.com/nispathak
 linkedin: https://linkedin.com/in/nishithpathak
 location:
-  display: [Delhi], [State, if applicable], [India]
-  lat: [decimal latitude]
-  long: [decimal longitude]
+  display: Delhi, India
+  lat: 28.704060
+  long: 77.102493
