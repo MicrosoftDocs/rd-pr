@@ -2,27 +2,19 @@
 uid: rd.amit-bansal
 name: Amit Bansal
 metadata:
-  title: Amit Bansal - Microsoft Regional Director, Director-eDominer Systems
+  title: Amit Bansal - Microsoft Regional Director, [add professional title]
   description: Microsoft Regional Director
 remarks: |
   ## Bio
-  Amit R S Bansal is a SQL Server & Microsoft Data Platform Specialist at SQLMaestros (brand of eDominer Systems).
-  He leads the SQL and BI practice with a much focused team providing consulting,training and content development 
-  services to more than 160+ SQL customers globally. He frequently speaks at international conferences including 
-  Data Platform Summit (India), MS Ignite (US), SQLBits (UK), PASS Summit (US) & SQL Saturday events across the 
-  globe. Amit is also honored with Microsoft Regional Director status, MVP award and Microsoft Certified Master of
-  SQL Server credential. Amit has been working with SQL Server since 1999 and has been part of countless mission 
-  critical SQL deployments. Performance Tuning in SQL Server is his core area of expertise. 
-  His videos are available on https://www.youtube.com/user/SQLMaestros. To learn more about Amit, visit http://sqlmaestros.com/amit-bansal/
-  
-tagline: SQL Server / Machine Learning / AI
+  [Insert bio content here by following the guidelines provided by the RD Program team.]
+tagline: Tagline1 / Tagline2 / Tagline3
 image:
   alt: "Amit Bansal"
   src: media/profiles/amit-bansal.jpg
-facebook: https://www.facebook.com/amit.r.bansal
-twitter: https://twitter.com/A_Bansal
-linkedin: https://www.linkedin.com/in/amitbansal2010
+facebook: https://facebook.com/yourprofile
+twitter: https://twitter.com/yourprofile
+linkedin: https://linkedin.com/in/yourprofile
 location:
-  display: Bangalore, Karnataka, India
-  lat: 12.9716
-  long: 77.5946
+  display: Redmond, WA
+  lat: 47.673988
+  long: -122.121513

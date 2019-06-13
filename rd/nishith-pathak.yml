@@ -2,8 +2,8 @@
 uid: rd.nishith-pathak
 name: Nishith Pathak
 metadata:
-  title: Nishith Pathak - Microsoft Regional Director, Software Architect
-  description: India's 1st AI MVP, Microsoft Regional Director
+  title: Nishith Pathak - Microsoft Regional Director, [add professional title]
+  description: India's 1st AI MVP, Software Architect, Microsoft Regional Director
 remarks: |
   ## Bio
   Nishith Pathak is a India's 1st AI Microsoft Most Valuable Professional (MVP), Microsoft Regional Director,
@@ -35,5 +35,5 @@ twitter: https://twitter.com/nispathak
 linkedin: https://linkedin.com/in/nishithpathak
 location:
   display: Delhi, India
-  lat: 28.644800
-  long: 77.216721
+  lat: 28.704060
+  long: 77.102493
