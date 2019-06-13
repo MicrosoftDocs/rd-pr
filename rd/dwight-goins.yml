@@ -5,7 +5,7 @@ metadata:
   title: Dwight Goins - Microsoft Regional Director
   description: Public Speaker, CAO, and Microsoft Regional Director in West Palm Beach, Florida
 remarks: |
-  ##Bio
+  ## Bio
   Dwight Goins is an industry luminary focused on AI, Computer Vision, Machine
   Learning, AR/MR, & Emerging User Experiences.  Mr. Goins is also a Microsoft
   Global RD and a Microsoft MVP.
@@ -35,7 +35,7 @@ remarks: |
   Talk to Dwight about: C++, DirectX, AI, Machine Learning, Augmented Reality (AR), Mixed 
   Reality (MR), Virtual Reality (VR), HoloLens, Magic Leap, Containers (Docker), Kubernetes 
   (K8s), Azure, Azure DevOps, AWS, R, Python and TensorFlow
-  ## Spotlight
+
   
 tagline: Machine Learning / Computer Vision / AI, AR & MR
 image:
