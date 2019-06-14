@@ -6,38 +6,16 @@ metadata:
   description: Public Speaker, CAO, and Microsoft Regional Director in West Palm Beach, Florida
 remarks: |
   ## Bio
-  Dwight Goins is an industry luminary focused on AI, Computer Vision, Machine
-  Learning, AR/MR, & Emerging User Experiences.  Mr. Goins is also a Microsoft
-  Global RD and a Microsoft MVP.
+  Dwight Goins is an industry luminary focused on AI, Computer Vision, Machine  Learning, AR/MR, IOT & Emerging User Experiences.  Mr. Goins is also a Microsoft  Global RD and a Microsoft MVP.
   
-  Dwight Goins is the Chief Algorithm Officer (CAO) of both Thoth Speed Engineers 
-  Senior Adviser to NEDD Tech Inc, and a Solutions Architect at JM Family Enterprises. As CAO,
-  He creates business and technical formulas to better prepare clients, to succeed through
-  designs, and solutions.  Within his role as CAO, he also leads a team of developers creating
-  a machine learning and computer vision based medical simulations, augmented reality apps, 
-  and all things IoT and AI related. When he’s not doing his passion, he is mentally compelled
-  to work on cloud-based solutions in Azure and AWS. As a Solution Architect, he also creates,
-  advises and negotiates enterprise-grade designs, solutions, and implementations between JM 
-  Family subsidiaries such as South East Toyota Finance (SETF), SET, JM&A and JMFE corporate 
-  development teams, using AWS, Mulesoft, and Salesforce.  If that isn’t enough he tirelessly 
-  contributes to open source projects, as well as a maintains an updated Microsoft Certified 
-  Trainer (MCT) license. Along with the MCT license, he maintains an active MVP honor as well.
-  In addition to the MVP, he maintains active Microsoft and AWS certifcations such as MCSD, 
-  AzureDevOps Expert, AI Engineer, Data Scientist and Professional Architecture.  In his 
-  little spare time, he finds a way to teach and stream late night programming courses to the 
-  community, with his "After Hours" streaming sessions.  Last but definitely not least he 
-  makes time to take care of his 3 beloved daughters, wife, and extended family by constantly 
-  keeping them entertained through traveling, family fun and ancient African ceremonies.
-  His specialties include C++, DirectX, AI, Machine Learning, Augmented Reality (AR), Mixed 
-  Reality (MR), Virtual Reality (VR), HoloLens, Magic Leap, Containers (Docker), Kubernetes 
-  (K8s), Azure, Azure DevOps, AWS, R, Python and TensorFlow. 
- 
-  Talk to Dwight about: C++, DirectX, AI, Machine Learning, Augmented Reality (AR), Mixed 
+  Dwight Goins is the Chief Algorithm Officer (CAO) of Thoth Speed Engineers, Senior Adviser to NEDD Tech Inc. as well as a Solutions Architect at JM Family Enterprises. As CAO,  he creates business and technical formulas to better prepare clients, to succeed through designs, and solutions.  Within his role as CAO, he also leads a team of developers creating a machine learning and computer vision based medical simulations, augmented reality apps,  and all things IoT and AI related. When he’s not doing his passion, he is mentally compelled to work on cloud-based solutions in Azure and AWS. As a Solution Architect, he also creates,  advises and negotiates enterprise-grade designs, solutions, and implementations between JM Family subsidiaries such as South East Toyota Finance (SETF), SET, JM&A and JMFE corporate development teams, using AWS, Mulesoft, and Salesforce.  If that isn’t enough he tirelessly contributes to open source projects, as well as a maintains an updated Microsoft Certified Trainer (MCT) license. Along with the MCT license, he maintains an active MVP honor as well. In addition to the MVP, he maintains active Microsoft and AWS certifications such as MCSD,  AzureDevOps Expert, AI Engineer, Data Scientist, and Professional Architecture.  In his little spare time, he finds a way to teach and stream late night programming courses to the community, with his "After Hours" streaming sessions.  Last but definitely not least he makes time to take care of his 3 beloved daughters, wife, and extended family by constantly keeping them entertained through traveling, family fun and ancient African ceremonies.
+  
+  Talk to Dwight about: C++, DirectX, AI, IOT, Embedded Systems, Machine Learning, Augmented Reality (AR), Mixed 
   Reality (MR), Virtual Reality (VR), HoloLens, Magic Leap, Containers (Docker), Kubernetes 
   (K8s), Azure, Azure DevOps, AWS, R, Python and TensorFlow
-
+ 
   
-tagline: Machine Learning / Computer Vision / AI, AR & MR
+tagline: AI / AR-MR-VR / IOT
 image:
   alt: "Dwight Goins"
   src: media/profiles/dwight-goins.jpg
