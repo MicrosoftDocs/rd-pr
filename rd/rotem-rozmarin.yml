@@ -3,39 +3,41 @@ uid: rd.rotem-rozmarin
 name: Rotem Rozmarin
 metadata:
   title: Rotem Rozmarin - Microsoft Regional Director
-  description: Microsoft Regional Director, Microsoft P-TSP Azure &amp; DevOps, and CTO, Cloud Architect in Vila Velha, Israel
+  description: Microsoft Regional Director, Microsoft P-TSP Azure DevOps, CTO, Cloud Architect in Vila Velha, Israel
 remarks: |
   ## Bio
-  My name is Rotem and I am a Microsoft Regional Director and a P-TSP Azure,
-  Also acting as a CTO, Cloud evangelist at GTC, and currently living in
-  Israel.
+  Hi, I am Rotem Rozmarin, a consultant, architect, Microsoft Regional Director,
+  P-TSP Azure & DevOps, I have been working many years in project and partner 
+  management for various customers. 
   
-  I have a wide range of interest, from Traveling, Fitness, Kite Surfing, and
-  Astronomy.
+  Many of my projects turned into best practice showcases for the successful
+  use of Cloud Technology and Data Transformation.
   
-  I can say that my key professional interests are leading and innovative
-  technologies, designing, managing and performing complex Tasks and projects.
+  I am the founder of R-Net Ltd, acting as a CTO and Cloud evangelist at GTC, 
+  and recognized as a Cloud Architect specializing in DevOps and Cloud Transformation.
   
-  I greatly enjoy working with people and being active in the tech community,
-  and I always aim to produce project results that will help companies in
-  general and humans in particular (Technology helps humanity).
+  With a vast occupational experience in large global technological companies in both 
+  deployment and Consulting, I have been nominated for the following awards:
   
-  I am recognized as a Cloud Architect specializing in DevOps and Open Source
-  scale technology and cloud transformation.
+  •	2014 as a Microsoft Partner of the year Award
+  •	2017 at the WPC as the World Finalist DevOps Partner of the Year Award
+  •	2018 at the WPC as the World Winner Microsoft Partner of the Year Award
   
-  With a vast occupational experience in large global technological companies in
-  both Deploying and Consulting, I was nominated in 2014 as a Microsoft Partner
-  of the year, and in 2017 World Wide Finalist Microsoft Partner of the Year.
+  My key professional interests are leading and innovative technologies, designing, 
+  managing and performing complex Cloud projects.
+  I greatly enjoy working with people and being active in the tech community, 
+  and I always aim to produce project results that will help companies in general and 
+  humans in particular (technology helps humanity).
+  Additionally, I support customers’ transition to the modern cloud era by developing 
+  highly efficient and scalable architectures that meet all agile needs of modern solutions, 
+  while simultaneously reducing privacy and reliability risks.
   
-  Talk to me about: Cloud Computing, Sport, Astronomy and Physics.
-  
-  If you want to read more click the button above to view my portfolio or feel
-  free to contact me through any of the social media below.
+  Talk to me about: Cloud Computing, Kitesurfing, Astronomy and Physics.
   
   <https://www.meetup.com/AzureIsrael/>
   
   <https://www.linkedin.com/in/rotemrozmarin/>
-tagline: Astronomy / Fitness
+tagline: Azure / Identity and mobile Security / DevOps
 image:
   alt: "Rotem Rozmarin"
   src: media/profiles/rotem-rozmarin.jpg
