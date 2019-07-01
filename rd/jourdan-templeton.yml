@@ -1,0 +1,28 @@
+### YamlMime:Profile
+uid: rd.jourdan-templeton
+name: Jourdan Templeton
+metadata:
+  title: Jourdan Templeton – CTO
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Jourdan is the CTO at Aware Group - a leading technology company focusing on AI, BI and IoT headquartered in Hamilton, New Zealand. His team extends throughout North America and Asia. 
+
+  He has a keen interest in the combination of both AI and IoT, and has specialised in the architecture of these solutions for more than 10 years. With the pace that technology is developing, there is a need for governance and ethics in how the data and technology is used. Jourdan enjoys designing these frameworks, especially in a cloud world.
+
+  Through his efforts, Jourdan has been recognised with a number of prestigious awards and positions including Microsoft MVP (2016-2018), and more recently awarded a place in the Microsoft Regional Director (RD) program in 2019.
+
+  He is often found travelling and speaking at conferences, hacks and other events all around the world. Being involved in the community has always been a passion for Jourdan.
+
+  Outside of tech, Jourdan enjoys archery and snowboarding - just not at the same time.
+
+tagline: AI / IoT / Governance 
+image:
+  alt: "Jourdan Templeton"
+  src: media/profiles/jourdan-templeton.jpg
+twitter: https://twitter.com/jourdant
+linkedin: https://linkedin.com/in/jourdantempleton
+location:
+  display: Hamilton, New Zealand
+  lat: -37.786253
+  long: 175.277291
