@@ -6,9 +6,9 @@ metadata:
   description: Microsoft Regional Director
 remarks: |
   ## Bio
-  Fabian Fernandez is a business executive in the IT industry, bringing more than 10 years of leadership and technology experience to help startups, small and mid-size companies in the US using Microsoft and Open Source technology in diverse industries. Fabian, serving as the CEO for Kaizen Softworks, helps companies achieve their technology & software development goals.
+  Fabian Fernandez is a business executive in the IT industry, bringing more than 10 years of leadership and technology experience to help startups, small and mid-size companies in the US using Microsoft and Open Source technology in diverse industries. Fabian, serving as the CEO for [Kaizen Softworks](https://kzsoftworks.com), helps companies achieve their technology & software development goals.
  
-  Fabian has strong network relationships and business acumen. Additionally, Fabian has been a community leader since 2013, empowering tech communities in South America in 5 countries, and growing. Fabian has been awarded and recognized as Microsoft MVP since 2015. In mid-2018, Fabian joined the Uruguayan IT Chamber (CUTI) as part of their leadership team to help Uruguay develop and grow its IT industry.
+  Fabian has strong network relationships and business acumen. Additionally, Fabian has been a community leader since 2013, empowering tech communities in South America in 5 countries, and growing. Fabian has been awarded and recognized as [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5001178) since 2015. In mid-2018, Fabian joined the Uruguayan IT Chamber -[CUTI](http://www.cuti.org.uy/)- as part of their leadership team to help Uruguay develop and grow its IT industry.
  
   Fabian’s cross-platform Architect expertise has been key for different companies, including one of the Big Four accounting firms, one of the top online gambling companies in South America, and a European leader in the e-learning business.
  
@@ -16,13 +16,18 @@ remarks: |
  
   To keep a balance between work and life, he enjoys spending time with family and friends, reading books, and playing guitar.
 tagline: Agile / Entrepreneurship / Software Architecture
+
 image:
   alt: "Fabian Fernandez"
   src: media/profiles/fabian-fernandez.jpg
 facebook: https://facebook.com/fabian.fernandez
+
 twitter: https://twitter.com/kzfabi
-linkedin: https://linkedin.com/in/kzfabi 
+
+linkedin: https://linkedin.com/in/kzfabi
+
 location:
   display: Montevideo, Uruguay
   lat: -34.8893385
   long: -56.1559052
+
