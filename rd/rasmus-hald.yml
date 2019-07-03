@@ -1,0 +1,22 @@
+### YamlMime:Profile
+uid: rd.rasmus-hald
+name: Rasmus Hald
+metadata:
+  title: Rasmus Hald - Head of Cloud Center of Excellence
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  I'm heading up the cloud journey of the largest container logistics company on the planet as the leader of MAERSK Cloud Center of Excellence. We build awesome solutions in the cloud and manage the implementation of a cloud-first strategy.
+  When I´m not working for MAERSK, I enjoy contributing to both the local and international tech community where I share stories on how to build in cloud and how to transform enterprises with DevOps based deliveries.
+  You can find me active on Twitter, local DevOps and Cloud communities and lots of other interesting places
+  I enjoy sharing experiences with other tech leaders and I´m always up for sharing experience and practices for succeeding with cloud in the enterprise
+tagline: Cloud / DevOps / Digital
+image:
+  alt: "Rasmus Hald"
+  src: media/profiles/rasmus-hald.jpg
+twitter: https://twitter.com/RasmusHaldDK
+linkedin: https://www.linkedin.com/in/rasmus-hald-33661b3/
+location:
+  display: Copenhagen, Denmark
+  lat: 55.676098
+  long: 12.568337

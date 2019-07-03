@@ -1,0 +1,23 @@
+### YamlMime:Profile
+uid: rd.mark-peng
+name: Mark Peng
+metadata:
+  title: Mark Peng – Chief Hybrid Cloud Advisor at DaoCloud
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Mark Peng is a Microsoft Regional Director and Most Valuable Professional specialized in Azure Stack, kubernetes and blockchain.
+  Mark is also a frequent speaker on many technical conferences, such as Tech Summit, TechEd and Kubecon, who is the top1 speaker at the 2017 tech summit. In addition, he has written several Microsoft technology books.
+  Mark created China's largest Microsoft hybrid cloud technology community and attracted more than 900 technical experts.
+  In his spare time, Mark likes to read the history books of the late Qing Dynasty and write related articles on his WeChat public account.
+tagline: Azure Stack / AI / Blockchain
+image:
+  alt: "Mark Peng"
+  src: media/profiles/mark-peng.jpg
+facebook: https://www.facebook.com/pengaihuadevops
+twitter: https://twitter.com/mvpmarkpeng
+linkedin: https://www.linkedin.com/in/pengaihua 
+location:
+  display: Shanghai, China
+  lat: 31.40527
+  long: 121.48941
