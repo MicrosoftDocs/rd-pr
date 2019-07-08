@@ -3,7 +3,7 @@ uid: rd.daron-yondem
 name: Daron Yondem
 metadata:
   title: Daron Yondem - Microsoft Regional Director
-  description: CTO, Microsoft Regional Director, and Azure MVP in Istanbul, Turkey
+  description: CTO, Microsoft Regional Director, and MVP in Azure and AI
 remarks: |
   ## Bio
   Hi, I’m Daron. I’m working for a US company called
@@ -14,14 +14,12 @@ remarks: |
   
   I speak in international conferences and write books during holidays :)
   
-  Microsoft calls me "[Most Valuable Professional](https://mvp.microsoft.com/en-
-  us/PublicProfile/4015692?fullName=Daron%2520%2520Yondem)" for 11 years now, and
-  "Microsoft Regional Director" for 10. During these years my expertise spanned
+  Microsoft calls me [Most Valuable Professional](https://mvp.microsoft.com/en-us/PublicProfile/4015692?fullName=Daron%2520%2520Yondem) for 12 years now, and
+  "Microsoft Regional Director" for 11. During these years my expertise spanned
   around both client and server technologies.
   
   Hope to get in touch and see what we can accomplish together. Feel free to talk to me
-  about: Cloud Computing, Mobile Development, IoT, DevOps, Microservices, SaaS,
-  Paas, Docker, NoSQL, Azure, .NET, VB, C#.
+  about: Serverless, AI, CosmosDB, IoT, DevOps, Azure.
   
   Stay in the flow ;)
 
@@ -45,7 +43,7 @@ remarks: |
   infrastructure with zero costs and scale when needed. Helping companies,
   technical or business decision makers, and developers to understand the pure
   form of cloud and the real value behind it is a joy for me.
-tagline: Serverless / IoT / UWP
+tagline: Serverless / IoT / AI
 image:
   alt: "Daron Yondem"
   src: media/profiles/daron-yondem.jpg
