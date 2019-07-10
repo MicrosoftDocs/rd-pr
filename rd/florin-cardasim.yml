@@ -1,0 +1,24 @@
+### YamlMime:Profile
+uid: rd.florin-cardasim
+name: Florin Cardasim
+metadata:
+  title: Florin Cardasim – software architect, founder of Strongbytes.ai, codecamp.ro, ndrconf.ai, tbnr.ac
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Florin has a strong cross-platform technology background proven by his CTO level position in a 3000+ employees software services delivery organizations delivering for top financial institutions across the world. Deeply involved into the community life and a with broad-range network of IT specialists and partner technology companies, he is the co-founder of Codecamp (https://codecamp.ro) and NDR (https://ndrconf.ai), some of the largest IT conferences in the CEE. Florin is also the co-founder of Strongbytes.AI (https://strongbytes.ai) – a company focusing on cloud & AI services and products, and TBNR (https://tbnr.ac) – a tech investment fund & startup accelerator. It’s safe to say that Florin is a prominent business and community IT figures in Romania and the CEE region.
+tagline: AI / Digital Transformation / Entrepreneurship
+
+image:
+  alt: "Florin Cardasim"
+  src: media/profiles/florin-cardasim.jpg
+facebook: https://www.facebook.com/florin.cardasim
+
+twitter: https://twitter.com/cardasim
+
+linkedin: https://www.linkedin.com/in/cardasim 
+
+location:
+  display: Iasi, Romania
+  lat: 47.158455
+  long: 27.601442
