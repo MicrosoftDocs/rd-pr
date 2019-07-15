@@ -1,0 +1,22 @@
+### YamlMime:Profile
+uid: rd.andre-ruschel
+name: Andre Ruschel
+metadata:
+  title: Andre Ruschel - Director | Researcher | Forensic Computer 
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Director, Computer forensic expert at the Labor Court, writer having published several books, has worked in the field of information technology for more than two decades as a consultant specialized in Microsoft platform and Open Source. Speaker at events such as Microsoft TechEd, Insights, Ignite Tour, Latinoware, Campus Party among others. Founder of Interop and creator of ThinECO - Cardboard computer.  
+
+tagline: Education / Forensic Computer / Security
+image:
+  alt: "Andre Ruschel"
+  src: media/profiles/andre-ruschel.jpg
+facebook: https://www.facebook.com/andre.ruschel
+twitter: https://twitter.com/andreruschel
+linkedin: https://linkedin.com/in/andreruschel
+location:
+  display: Santo Angelo, Rio Grande do Sul, Brazil
+  lat:-28.30600775
+  long:-54.26487164
+
