@@ -5,7 +5,7 @@
 
 ### Microsoft's mission is to empower every person and every organization on the planet to achieve more. This includes the Regional Director (RD) Program where Microsoft seeks to provide a respectful, friendly, professional and inclusive experience for everyone.
 
-### Microsoft Regional Directors (RDs) are business professionals and technology experts who thoughtfully share their knowledge and expertise with Microsoft, business decision makers, and the community. The RD Program is Microsoft’s way of recognizing these individuals. As community leaders, we expect RDs to demonstrate our values by conducting themselves with professionalism, respect and tact whenever they engage with others within and outside the Program. In other words, an individual’s character and leadership truly matter to Microsoft.
+### Microsoft Regional Directors (RDs) are business professionals and technology experts who thoughtfully share their knowledge and expertise with Microsoft, business decision makers, and the community. The RD Program is Microsoft’s way of recognizing these individuals. As community leaders, we expect RDs to demonstrate our values by conducting themselves with professionalism, respectfulness and tact whenever they engage with others within and outside the Program. In other words, an individual’s character and leadership truly matter to Microsoft.
 
 ### This Code of Conduct summarizes Microsoft’s minimum expectations for RDs. 
 
