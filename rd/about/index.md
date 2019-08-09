@@ -1,7 +1,7 @@
 # About the Microsoft Regional Director Program
 
 ### The Regional Director Program provides Microsoft leaders with the customer insights and real-world voices it needs to continue empowering developers and IT professionals with the world's most innovative and impactful tools, services, and solutions.
-### Established in 1993, the program consists of 175 of the world's top technology visionaries chosen specifically for their proven cross-platform expertise, community leadership, and commitment to business results. You will typically find Regional Directors keynoting at top industry events, leading community groups and local initiatives, running technology-focused companies, or consulting on and implementing the latest breakthrough within a multinational corporation.
+### Established in 1993, the program consists of 160 of the world's top technology visionaries chosen specifically for their proven cross-platform expertise, community leadership, and commitment to business results. You will typically find Regional Directors keynoting at top industry events, leading community groups and local initiatives, running technology-focused companies, or consulting on and implementing the latest breakthrough within a multinational corporation.
 
 
 ## Do Regional Directors work for Microsoft?
@@ -23,7 +23,7 @@ and community feedback directly with Microsoft engineers and the senior leadersh
 
 ## I'd like to become a Regional Director and believe I meet the qualifications. Is this possible?
 We actively search for amazing leaders. RD nominees come from Microsoft full-time employees or other RDs. If you 
-have a relationship with either of those you should express your interest. We open up the nominations once a year, typically in 
+have a relationship with either of those you should express your interest. We open up nominations once a year, typically in 
 January. Usually we have very few available slots and hundreds of candidates but we are continually looking for new leaders to step in.
 
 ## Do Regional Directors have specific technology expertise?
@@ -32,7 +32,7 @@ careers to the point where they have architect level depth across both Microsoft
 qualify them to work with our product teams to understand the needs of all customers which ultimately helps us build better products.
 
 ## What is the difference between an RD and an MVP?
-Many of our RDs also carry the MVP award title, although most of them are finding it harder to maintain both credentials as each has 
+Many of our RDs also carry the MVP award title, although many are finding it harder to maintain both credentials as each has 
 different demands on the member's time which makes it difficult to qualify and maintain both. However, the key differences really come 
-down to the business consultative nature, customer experience, and cross platform architect skills possessed by RDs versus the deep 
-technical focus which qualifies an MVP.
+down to the business consultative nature, customer experience, and cross-platform architect skills possessed by RDs versus the deep 
+technical focus on Microsoft technologies which qualifies an MVP.
