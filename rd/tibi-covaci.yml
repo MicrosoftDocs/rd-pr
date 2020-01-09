@@ -3,7 +3,7 @@ uid: rd.tibi-covaci
 name: Tibi Covaci
 metadata:
   title: Tibi Covaci - Microsoft Regional Director
-  description: Microsoft Regional Director, Full Stack Tech Lead, and Azure Architect based in Tenerife, Spain
+  description: CTO, Tech Lead, and Azure Architect helping Microsoft's customer in Sweden and Denmark 
 remarks: |
   ## Bio
   For over 20 years I dedicated my life to improve the quality of the software
@@ -62,6 +62,6 @@ twitter: https://twitter.com/tibor19
 github: https://github.com/tibor19
 linkedin: https://www.linkedin.com/in/tcovaci
 location:
-  display: Santa Cruz de Tenerife, Spain
-  lat: 28.460779
-  long: -16.2639
+  display: Helsingborg, Sweden
+  lat: 56.0346797
+  long: 12.6626054
