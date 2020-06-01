@@ -345,8 +345,7 @@ function Format-Index-Yaml {
                     #}
                     #else
                     #{
-                    #    $twitter = $indent + '  - title: Twitter
-    url: '  + $_.twitter.Replace('https://twitter.com/', '')
+                    #    $twitter = $indent + 'twitter: '  + $_.twitter.Replace('https://twitter.com/', '')
                     #}
                     return ($uid , $name, $tagline, $image, $imageSrc, $imageAlt, $location, $display, $lat, $long | Where-Object { $_.Length -gt 0 } )-join [Environment]::NewLine
                 }
