@@ -73,10 +73,15 @@ tagline: Security / Cloud
 image:
   alt: "Troy Hunt"
   src: media/profiles/troy-hunt.jpg
-twitter: https://twitter.com/troyhunt
-facebook: https://facebook.com/troyahunt
-linkedin: https://www.linkedin.com/in/troyhunt
-github: https://github.com/troyhunt
+connect:
+  - title: Twitter
+    url: https://twitter.com/troyhunt
+  - title: Facebook
+    url: https://facebook.com/troyahunt
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/troyhunt
+  - title: GitHub
+    url: https://github.com/troyhunt
 location:
   display: Gold Coast, Queensland, Australia
   lat: -28.00234

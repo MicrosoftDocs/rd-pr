@@ -51,7 +51,9 @@ tagline: innovation / Mobile apps
 image:
   alt: "Mauricio Angulo S."
   src: media/profiles/mauricio-angulos.jpg
-linkedin: https://www.linkedin.com/in/mauricioangulo
+connect:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/mauricioangulo
 location:
   display: Mexico City, Mexico
   lat: 19.43194

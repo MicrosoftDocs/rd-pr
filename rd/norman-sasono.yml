@@ -29,9 +29,13 @@ tagline: data science / mathematics
 image:
   alt: "Norman Sasono"
   src: media/profiles/norman-sasono.jpg
-linkedin: https://www.linkedin.com/in/normansasono
-twitter: https://twitter.com/nsasono
-facebook: https://www.facebook.com/nsasono
+connect:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/normansasono
+  - title: Twitter
+    url: https://twitter.com/nsasono
+  - title: Facebook
+    url: https://www.facebook.com/nsasono
 location:
   display: Jakarta, Indonesia
   lat: -6.17146

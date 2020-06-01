@@ -32,10 +32,15 @@ tagline: Software Architecture / Containers / Cloud Computing
 image:
   alt: "Dan Wahlin"
   src: media/profiles/dan-wahlin.jpg
-twitter: https://twitter.com/danwahlin
-facebook: https://facebook.com/danwahlin
-github: https://github.com/danwahlin
-linkedin: https://www.linkedin.com/in/danwahlin
+connect:
+  - title: Twitter
+    url: https://twitter.com/danwahlin
+  - title: Facebook
+    url: https://facebook.com/danwahlin
+  - title: GitHub
+    url: https://github.com/danwahlin
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/danwahlin
 location:
   display: Chandler, AZ, United States
   lat: 33.303379

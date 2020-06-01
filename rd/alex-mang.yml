@@ -16,11 +16,13 @@ tagline: Cloud Computing / Artificial Intelligence / Internet of Things
 image:
   alt: "Alex Mang"
   src: media/profiles/alex-mang.jpg
-facebook: https://www.facebook.com/iamalexmang
-
-twitter: https://twitter.com/iamalexmang
-
-linkedin: https://www.linkedin.com/in/mangalex/
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/iamalexmang
+  - title: Twitter
+    url: https://twitter.com/iamalexmang
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/mangalex/
 
 location:
   display: Oradea, Romania

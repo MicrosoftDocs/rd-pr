@@ -21,9 +21,13 @@ tagline: DevOps / .NET / Azure
 image:
   alt: "Michael Kaufmann"
   src: media/profiles/michael-kaufmann.jpg
-facebook: https://facebook.com/mi.kaufmann
-twitter: https://twitter.com/mike_kaufmann
-linkedin: https://linkedin.com/in/mikaufmann 
+connect:
+  - title: Facebook
+    url: https://facebook.com/mi.kaufmann
+  - title: Twitter
+    url: https://twitter.com/mike_kaufmann
+  - title: LinkedIn
+    url: https://linkedin.com/in/mikaufmann 
 location:
   display: Stuttgart, Germany
   lat: 48.738576

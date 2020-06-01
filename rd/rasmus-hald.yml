@@ -14,8 +14,11 @@ tagline: Cloud / DevOps / Digital
 image:
   alt: "Rasmus Hald"
   src: media/profiles/rasmus-hald.jpg
-twitter: https://twitter.com/RasmusHaldDK
-linkedin: https://www.linkedin.com/in/rasmus-hald-33661b3/
+connect:
+  - title: Twitter
+    url: https://twitter.com/RasmusHaldDK
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/rasmus-hald-33661b3/
 location:
   display: Copenhagen, Denmark
   lat: 55.676098

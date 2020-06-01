@@ -25,8 +25,11 @@ tagline: Food / Movies
 image:
   alt: "Luke Han"
   src: media/profiles/luke-han.jpg
-linkedin: https://linkedin.com/in/lukehq
-twitter: https://twitter.com/lukehq
+connect:
+  - title: LinkedIn
+    url: https://linkedin.com/in/lukehq
+  - title: Twitter
+    url: https://twitter.com/lukehq
 location:
   display: Shanghai
   lat: 31.169605

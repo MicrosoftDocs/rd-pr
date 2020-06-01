@@ -51,9 +51,13 @@ tagline: Business Intelligence/ Data Science/ Business Processes
 image:
   alt: "Joe Homnick"
   src: media/profiles/joe-homnick.jpg
-linkedin: https://www.linkedin.com/in/joehomnick
-twitter: https://twitter.com/smokingjoe
-facebook: https://facebook.com/joe.homnick
+connect:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/joehomnick
+  - title: Twitter
+    url: https://twitter.com/smokingjoe
+  - title: Facebook
+    url: https://facebook.com/joe.homnick
 location:
   display: Miami, FL, United States
   lat: 25.77481

@@ -30,10 +30,15 @@ tagline: Technology / Innovation
 image:
   alt: "Andre Carlucci"
   src: media/profiles/andre-carlucci.jpg
-github: https://github.com/andrecarlucci
-linkedin: https://linkedin.com/in/andrecarlucci
-stackoverflow: https://stackoverflow.com/users/22693/andrecarlucci
-twitter: https://twitter.com/andrecarlucci
+connect:
+  - title: GitHub
+    url: https://github.com/andrecarlucci
+  - title: LinkedIn
+    url: https://linkedin.com/in/andrecarlucci
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/22693/andrecarlucci
+  - title: Twitter
+    url: https://twitter.com/andrecarlucci
 location:
   display: Brazil
   lat: -27.593500

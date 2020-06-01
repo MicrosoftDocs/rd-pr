@@ -17,11 +17,17 @@ tagline: Photography / Programming
 image:
   alt: "Stavros Menegos"
   src: media/profiles/stavros-menegos.jpg
-twitter: https://twitter.com/smeneg
-instagram: https://instagram.com/smeneg
-github: https://github.com/smene
-linkedin: https://www.linkedin.com/in/smeneg
-facebook: https://facebook.com/smenegos
+connect:
+  - title: Twitter
+    url: https://twitter.com/smeneg
+  - title: Instagram
+    url: https://instagram.com/smeneg
+  - title: GitHub
+    url: https://github.com/smene
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/smeneg
+  - title: Facebook
+    url: https://facebook.com/smenegos
 location:
   display: Piraeus, Greece  
   lat: 37.942848

@@ -35,9 +35,13 @@ tagline: Identity Management / Enterprise Mobility / Security
 image:
   alt: "Damir Dizdarevic"
   src: media/profiles/damir-dizdarevic.jpg
-facebook: https://facebook.com/ddamir
-linkedin: https://linkedin.com/in/ddamir
-twitter: https://twitter.com/ddamirMVP
+connect:
+  - title: Facebook
+    url: https://facebook.com/ddamir
+  - title: LinkedIn
+    url: https://linkedin.com/in/ddamir
+  - title: Twitter
+    url: https://twitter.com/ddamirMVP
 location:
   display: Sarajevo, Federation of Bosnia and Herzegovina, Bosnia and Herzegovina
   lat: 43.85942

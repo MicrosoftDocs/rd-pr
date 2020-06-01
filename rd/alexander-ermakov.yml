@@ -20,9 +20,13 @@ tagline: Business Applications / Azure Cloud Services / Power Platform
 image:
   alt: "Alexander Ermakov"
   src: media/profiles/alexander-ermakov.jpg
-facebook: https://facebook.com/alexander.ermakov.758
-twitter: https://twitter.com/Alex_Ermakov
-linkedin: https://linkedin.com/in/alexander-ermakov-2b32b326/
+connect:
+  - title: Facebook
+    url: https://facebook.com/alexander.ermakov.758
+  - title: Twitter
+    url: https://twitter.com/Alex_Ermakov
+  - title: LinkedIn
+    url: https://linkedin.com/in/alexander-ermakov-2b32b326/
 location:
   display: Saint-Petersburg, Russia
   lat: 59.9386

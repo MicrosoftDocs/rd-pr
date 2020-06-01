@@ -15,8 +15,11 @@ tagline: Product Management / Product Marketing / Executive Leadership
 image:
   alt: "Ryan Duguid"
   src: media/profiles/ryan-duguid.jpg
-linkedin: https://www.linkedin.com/in/ryanduguid
-twitter: https://twitter.com/pvtrd
+connect:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/ryanduguid
+  - title: Twitter
+    url: https://twitter.com/pvtrd
 location:
   display: Seattle, WA, United States
   lat: 47.607569

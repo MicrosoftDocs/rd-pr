@@ -12,11 +12,15 @@ tagline: VR-AR-MR / Innovation / Entrepreneurship
 image:
   alt: "Vanessa Ching"
   src: media/profiles/vanessa-ching.jpg
-facebook: https://facebook.com/vnezmez
+connect:
+  - title: Facebook
+    url: https://facebook.com/vnezmez
 
-twitter: https://twitter.com/vanradd
+  - title: Twitter
+    url: https://twitter.com/vanradd
 
-linkedin: https://linkedin.com/in/vanradd 
+  - title: LinkedIn
+    url: https://linkedin.com/in/vanradd 
 
 location:
   display: Singapore

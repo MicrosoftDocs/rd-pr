@@ -36,7 +36,9 @@ tagline: Programming / Soccer
 image:
   alt: "Vishwas Lele"
   src: media/profiles/vishwas-lele.jpg
-twitter: https://twitter.com/vlele
+connect:
+  - title: Twitter
+    url: https://twitter.com/vlele
 location:
   display: Washington, D.C., DC, United States
   lat: 38.894369

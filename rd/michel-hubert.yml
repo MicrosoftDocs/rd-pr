@@ -16,9 +16,13 @@ tagline: Architecture / Azure
 image:
   alt: "Michel Hubert"
   src: media/profiles/michel-hubert.jpg
-twitter: https://twitter.com/MichelHubert
-linkedin: https://www.linkedin.com/pub/michel-hubert/18/6b8/ab2
-facebook: https://facebook.com/michelhubertcellenza
+connect:
+  - title: Twitter
+    url: https://twitter.com/MichelHubert
+  - title: LinkedIn
+    url: https://www.linkedin.com/pub/michel-hubert/18/6b8/ab2
+  - title: Facebook
+    url: https://facebook.com/michelhubertcellenza
 location:
   display: Paris, France
   lat: 48.861208

@@ -37,9 +37,13 @@ tagline: Software Architecture / Cloud / Azure
 image:
   alt: "Eran Stiller"
   src: media/profiles/eran-stiller.jpg
-facebook: https://facebook.com/estiller
-twitter: https://twitter.com/eranstiller
-linkedin: https://linkedin.com/in/estiller
+connect:
+  - title: Facebook
+    url: https://facebook.com/estiller
+  - title: Twitter
+    url: https://twitter.com/eranstiller
+  - title: LinkedIn
+    url: https://linkedin.com/in/estiller
 location:
   display: Herzliya, Israel
   lat: 32.158247

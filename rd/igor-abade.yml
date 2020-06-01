@@ -15,9 +15,13 @@ tagline: DevOps / Cloud Computing / Software Development
 image:
   alt: "Igor Abade"
   src: media/profiles/igor-abade.jpg
-facebook: https://facebook.com/igorabadealm
-twitter: https://twitter.com/igorabade
-linkedin: https://linkedin.com/in/igorleite
+connect:
+  - title: Facebook
+    url: https://facebook.com/igorabadealm
+  - title: Twitter
+    url: https://twitter.com/igorabade
+  - title: LinkedIn
+    url: https://linkedin.com/in/igorleite
 location:
   display: São Paulo, MVP, Brazil
   lat: -23.5523045

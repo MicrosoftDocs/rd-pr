@@ -66,10 +66,15 @@ tagline: .NET / ALM
 image:
   alt: "Marcel de Vries"
   src: media/profiles/marcel-devries.jpg
-twitter: https://twitter.com/marcelv
-linkedin: https://www.linkedin.com/in/marcelv
-github: https://github.com/vriesmarcel
-instagram: https://instagram.com/vriesmarcel
+connect:
+  - title: Twitter
+    url: https://twitter.com/marcelv
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/marcelv
+  - title: GitHub
+    url: https://github.com/vriesmarcel
+  - title: Instagram
+    url: https://instagram.com/vriesmarcel
 location:
   display: Zutphen, Netherlands
   lat: 52.126499

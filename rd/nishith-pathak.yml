@@ -30,9 +30,13 @@ tagline: Artificial Intelligence / Blockchain / Emerging Technologies
 image:
   alt: "Nishith Pathak"
   src: media/profiles/nishith-pathak.jpg
-facebook: https://facebook.com/nishith.pathak.9
-twitter: https://twitter.com/nispathak
-linkedin: https://linkedin.com/in/nishithpathak
+connect:
+  - title: Facebook
+    url: https://facebook.com/nishith.pathak.9
+  - title: Twitter
+    url: https://twitter.com/nispathak
+  - title: LinkedIn
+    url: https://linkedin.com/in/nishithpathak
 location:
   display: Delhi, India
   lat: 28.644800

@@ -70,9 +70,13 @@ tagline: DevOps / Entrepreneurship
 image:
   alt: "Stephen Thair"
   src: media/profiles/stephen-thair.jpg
-twitter: https://twitter.com/theopsmgr
-linkedin: https://www.linkedin.com/in/stephenthair
-github: https://github.com/TheOpsMgr
+connect:
+  - title: Twitter
+    url: https://twitter.com/theopsmgr
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/stephenthair
+  - title: GitHub
+    url: https://github.com/TheOpsMgr
 location:
   display: Guildford, United Kingdom
   lat: 51.237091

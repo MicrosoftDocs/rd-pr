@@ -15,10 +15,15 @@ tagline: DIY / Dogs
 image:
   alt: "Lei Xu"
   src: media/profiles/lei-xu.jpg
-facebook: https://facebook.com/ups216
-twitter: https://twitter.com/ups216
-linkedin: https://www.linkedin.com/in/leixu216
-github: https://github.com/ups216
+connect:
+  - title: Facebook
+    url: https://facebook.com/ups216
+  - title: Twitter
+    url: https://twitter.com/ups216
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/leixu216
+  - title: GitHub
+    url: https://github.com/ups216
 location:
   display: 中国北京市Beijing Shi
   lat: 32.26667

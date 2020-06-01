@@ -64,10 +64,15 @@ tagline: Entrepreneurship / Programming
 image:
   alt: "Markus Egger"
   src: media/profiles/markus-egger.jpg
-twitter: https://twitter.com/markusegger
-linkedin: https://www.linkedin.com/in/markusegger
-github: https://github.com/markusegger
-facebook: https://facebook.com/markuseggereps
+connect:
+  - title: Twitter
+    url: https://twitter.com/markusegger
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/markusegger
+  - title: GitHub
+    url: https://github.com/markusegger
+  - title: Facebook
+    url: https://facebook.com/markuseggereps
 location:
   display: Houston, TX, United States
   lat: 29.76058

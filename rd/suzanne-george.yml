@@ -14,9 +14,13 @@ tagline: Azure BOT Services / Office 365 / Microsoft Teams
 image: 
   alt: "Suzanne George"
   src: media/profiles/suzanne-george.jpg
-twitter: https://twitter.com/spgenie
-facebook: https://www.facebook.com/suzgeorge 
-linkedin: https://www.linkedin.com/in/suzgeorge
+connect:
+  - title: Twitter
+    url: https://twitter.com/spgenie
+  - title: Facebook
+    url: https://www.facebook.com/suzgeorge 
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/suzgeorge
 location:
   display:  Austin, Tx, USA
   lat: 30.5723468

@@ -24,11 +24,15 @@ tagline: Cloud Computing / Big Data / AI
 image:
   alt: "Viviane Ribeiro"
   src: media/profiles/viviane-ribeiro.jpg
-facebook: https://facebook.com/VivianeRibeirosql
+connect:
+  - title: Facebook
+    url: https://facebook.com/VivianeRibeirosql
 
-twitter: https://twitter.com/viviane_sql
+  - title: Twitter
+    url: https://twitter.com/viviane_sql
 
-linkedin: https://linkedin.com/in/viviane-ribeiro-sql 
+  - title: LinkedIn
+    url: https://linkedin.com/in/viviane-ribeiro-sql 
 
 location:
   display: Lisbon, Portugal

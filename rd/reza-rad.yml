@@ -64,9 +64,13 @@ tagline: Power BI / Business Intelligence / Data Analytics
 image:
   alt: "Reza Rad"
   src: media/profiles/reza-rad.jpg
-twitter: https://twitter.com/rad_reza
-facebook: https://facebook.com/rezaradf
-linkedin: https://www.linkedin.com/in/rezarad
+connect:
+  - title: Twitter
+    url: https://twitter.com/rad_reza
+  - title: Facebook
+    url: https://facebook.com/rezaradf
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/rezarad
 location:
   display: Auckland, New Zealand
   lat: -36.848460

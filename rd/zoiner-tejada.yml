@@ -44,7 +44,9 @@ tagline: Entrepreneurship / Innovation
 image:
   alt: "Zoiner Tejada"
   src: media/profiles/zoiner-tejada.jpg
-twitter: https://twitter.com/zoinertejada
+connect:
+  - title: Twitter
+    url: https://twitter.com/zoinertejada
 location:
   display: Encinitas, CA, United States
   lat: 33.04581

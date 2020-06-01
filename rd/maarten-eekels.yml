@@ -15,8 +15,11 @@ tagline: Office 365 / Security / Productivity
 image:
   alt: "Maarten Eekels"
   src: media/profiles/maarten-eekels.jpg
-twitter: https://twitter.com/maarteneekels
-linkedin: https://linkedin.com/in/maarteneekels
+connect:
+  - title: Twitter
+    url: https://twitter.com/maarteneekels
+  - title: LinkedIn
+    url: https://linkedin.com/in/maarteneekels
 location:
   display: Breda, Netherlands
   lat: 51.58307

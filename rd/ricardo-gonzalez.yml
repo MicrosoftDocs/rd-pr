@@ -43,8 +43,11 @@ tagline: Cloud Computing / Entrepreneurship / Innovation
 image:
   alt: "Ricardo Gonzalez"
   src: media/profiles/ricardo-gonzalez.jpg
-twitter: https://twitter.com/rgonv
-linkedin: https://www.linkedin.com/in/ricardogonzalezvargas
+connect:
+  - title: Twitter
+    url: https://twitter.com/rgonv
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/ricardogonzalezvargas
 location:
   display: Bogotá - Bogota, Colombia
   lat: 4.61496

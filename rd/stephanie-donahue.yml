@@ -21,9 +21,11 @@ tagline: Collaboration / Entrepreneurship / Diversity & Inclusion
 image:
   alt: "Stephanie Donahue"
   src: media/profiles/stephanie-donahue.jpg
-
-twitter: https://twitter.com/stephkdonahue
-linkedin: https://www.linkedin.com/in/stephkdonahue/
+connect:
+  - title: Twitter
+    url: https://twitter.com/stephkdonahue
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/stephkdonahue/
 
 location:
   display: Cincinnati, Ohio, United States

@@ -18,11 +18,13 @@ tagline: Diversity / Entrepreneurship / Innovation
 image:
   alt: "Estelle Auberix"
   src: media/profiles/estelle-auberix.jpg
-facebook: https://www.facebook.com/estelle.auberix
-
-twitter: https://twitter.com/FollowEstelle
-
-linkedin: https://www.linkedin.com/in/estelleauberix/
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/estelle.auberix
+  - title: Twitter
+    url: https://twitter.com/FollowEstelle
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/estelleauberix/
 
 location:
   display: Paris, France

@@ -15,8 +15,11 @@ tagline: IoT / Cloud Solutions / Embedded software
 image:
   alt: "Aleksandr Surkov"
   src: media/profiles/aleksandr-surkov.jpg
-facebook: https://www.facebook.com/AOSurkov 
-linkedin: https://www.linkedin.com/in/aosurkov/ 
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/AOSurkov 
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/aosurkov/ 
 location:
   display: Moscow, Russia
   lat: 55.75222

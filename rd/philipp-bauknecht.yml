@@ -32,9 +32,13 @@ tagline: Cloud / Cross Platform / Mixed Reality
 image:
   alt: "Philipp Bauknecht"
   src: media/profiles/philipp-bauknecht.jpg
-facebook: https://www.facebook.com/philipp.bauknecht
-twitter: https://twitter.com/grillphil
-linkedin: https://www.linkedin.com/in/philippbauknecht
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/philipp.bauknecht
+  - title: Twitter
+    url: https://twitter.com/grillphil
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/philippbauknecht
 location:
   display: Pforzheim, Germany  
   lat: 48.89011

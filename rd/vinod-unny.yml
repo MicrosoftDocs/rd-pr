@@ -58,9 +58,13 @@ tagline: Cloud / Business Intelligence / .NET
 image:
   alt: "Vinod Unny"
   src: media/profiles/vinod-unny.jpg
-twitter: https://twitter.com/vinodunny
-facebook: https://facebook.com/vinod.unny
-linkedin: https://www.linkedin.com/in/vinodunny
+connect:
+  - title: Twitter
+    url: https://twitter.com/vinodunny
+  - title: Facebook
+    url: https://facebook.com/vinod.unny
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/vinodunny
 location:
   display: Gurgaon, Haryana, India
   lat: 28.477619

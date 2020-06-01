@@ -40,8 +40,11 @@ tagline: Azure / Bots / Cloud Modernization
 image:
   alt: "Dave Nel"
   src: media/profiles/dave-nel.jpg
-linkedin: https://www.linkedin.com/in/dave-nel-88519726/
-twitter: https://twitter.com/TangentDave
+connect:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/dave-nel-88519726/
+  - title: Twitter
+    url: https://twitter.com/TangentDave
 location:
   display: Johannesburg, Gauteng, South Africa
   lat: -26.204879

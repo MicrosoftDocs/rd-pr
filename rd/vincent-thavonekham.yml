@@ -29,8 +29,11 @@ tagline: Agility / Cloud
 image:
   alt: "Vincent Thavonekham"
   src: media/profiles/vincent-thavonekham.jpg
-twitter: https://twitter.com/vThavo
-linkedin: https://www.linkedin.com/in/thavo/
+connect:
+  - title: Twitter
+    url: https://twitter.com/vThavo
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/thavo/
 location:
   display: Lyon, France
   lat: 45.759391
