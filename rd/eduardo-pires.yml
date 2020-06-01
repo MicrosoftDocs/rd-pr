@@ -18,9 +18,13 @@ tagline: .NET / Architecture / Cloud
 image:
   alt: "Eduardo Pires"
   src: media/profiles/eduardo-pires.jpg
-facebook: https://facebook.com/EduardoPiresBR
-twitter: https://twitter.com/EduardoPiresBR
-linkedin: https://linkedin.com/in/pireseduardo
+connect:
+  - title: Facebook
+    url: https://facebook.com/EduardoPiresBR
+  - title: Twitter
+    url: https://twitter.com/EduardoPiresBR
+  - title: LinkedIn
+    url: https://linkedin.com/in/pireseduardo
 location:
   display: São Paulo, São Paulo, Brazil
   lat: -23.561105882809898

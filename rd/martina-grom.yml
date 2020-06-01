@@ -63,11 +63,17 @@ tagline: Azure / cloud computing
 image:
   alt: "Martina Grom"
   src: media/profiles/martina-grom.jpg
-twitter: https://twitter.com/magrom
-facebook: https://facebook.com/martina.grom
-linkedin: https://www.linkedin.com/in/martinagrom
-instagram: https://instagram.com/magrom
-github: https://github.com/martinagrom
+connect:
+  - title: Twitter
+    url: https://twitter.com/magrom
+  - title: Facebook
+    url: https://facebook.com/martina.grom
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/martinagrom
+  - title: Instagram
+    url: https://instagram.com/magrom
+  - title: GitHub
+    url: https://github.com/martinagrom
 location:
   display: Vienna, Austria
   lat: 48.208423

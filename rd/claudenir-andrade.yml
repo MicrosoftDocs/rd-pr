@@ -14,7 +14,9 @@ tagline: Entrepreneurship / Movies
 image:
   alt: "Claudenir Andrade"
   src: media/profiles/claudenir-andrade.jpg
-twitter: https://twitter.com/claudenirandrad
+connect:
+  - title: Twitter
+    url: https://twitter.com/claudenirandrad
 location:
   display: São José dos Campos - State of São Paulo, Brazil
   lat: -23.17925

@@ -41,7 +41,9 @@ tagline: Azure / Identity and mobile Security / DevOps
 image:
   alt: "Rotem Rozmarin"
   src: media/profiles/rotem-rozmarin.jpg
-linkedin: https://www.linkedin.com/in/rotemrozmarin/
+connect:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/rotemrozmarin/
 location:
   display: Israel
   lat: 33.294782

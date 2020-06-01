@@ -23,9 +23,13 @@ tagline: Blockchain / Machine Learning / Dynamics 365
 image:
   alt: "Stefano Tempesta"
   src: media/profiles/stefano-tempesta.jpg
-facebook: https://facebook.com/stefanotempesta.net
-twitter: https://twitter.com/stefanotempesta
-linkedin: https://linkedin.com/in/stefanotempesta
+connect:
+  - title: Facebook
+    url: https://facebook.com/stefanotempesta.net
+  - title: Twitter
+    url: https://twitter.com/stefanotempesta
+  - title: LinkedIn
+    url: https://linkedin.com/in/stefanotempesta
 location:
   display: Melbourne, Australia
   lat: -37.814

@@ -32,9 +32,13 @@ tagline: Technology / Cloud / Innovation
 image:
   alt: "Eric Overfield"
   src: media/profiles/eric-overfield.jpg
-twitter: https://twitter.com/ericoverfield
-facebook: https://www.facebook.com/eric.overfield.9
-linkedin: https://linkedin.com/in/ericoverfield
+connect:
+  - title: Twitter
+    url: https://twitter.com/ericoverfield
+  - title: Facebook
+    url: https://www.facebook.com/eric.overfield.9
+  - title: LinkedIn
+    url: https://linkedin.com/in/ericoverfield
 location:
   display: Davis, CA, United States
   lat: 38.546691

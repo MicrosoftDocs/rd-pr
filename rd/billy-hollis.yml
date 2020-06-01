@@ -70,7 +70,9 @@ tagline: Design / Music
 image:
   alt: "Billy Hollis"
   src: media/profiles/billy-hollis.jpg
-twitter: https://twitter.com/billyhollis
+connect:
+  - title: Twitter
+    url: https://twitter.com/billyhollis
 location:
   display: Nashville, TN, United States
   lat: 36.167839

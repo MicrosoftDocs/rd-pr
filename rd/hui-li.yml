@@ -19,8 +19,9 @@ tagline: Microsoft 365 / AI / Big Data
 image:
   alt: "Hui Li"
   src: media/profiles/hui-li.jpg
-
-linkedin: https://linkedin.com/in/coren-lee-11322196 
+connect:
+  - title: LinkedIn
+    url: https://linkedin.com/in/coren-lee-11322196 
 
 location:
   display: Tianjin, , China

@@ -20,11 +20,13 @@ tagline: Agile / Entrepreneurship / Software Architecture
 image:
   alt: "Fabian Fernandez"
   src: media/profiles/fabian-fernandez.jpg
-facebook: https://facebook.com/fabian.fernandez
-
-twitter: https://twitter.com/kzfabi
-
-linkedin: https://linkedin.com/in/kzfabi
+connect:
+  - title: Facebook
+    url: https://facebook.com/fabian.fernandez
+  - title: Twitter
+    url: https://twitter.com/kzfabi
+  - title: LinkedIn
+    url: https://linkedin.com/in/kzfabi
 
 location:
   display: Montevideo, Uruguay

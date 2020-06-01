@@ -54,9 +54,13 @@ tagline: Cloud / Innovation
 image:
   alt: "Marcin Borecki"
   src: media/profiles/marcin-borecki.jpg
-facebook: https://www.facebook.com/marcin.borecki
-twitter: https://twitter.com/marcinborecki
-linkedin: https://www.linkedin.com/in/mborecki
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/marcin.borecki
+  - title: Twitter
+    url: https://twitter.com/marcinborecki
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/mborecki
 location:
   display: Poland
   lat: 52.129039

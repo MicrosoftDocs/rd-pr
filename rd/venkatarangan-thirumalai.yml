@@ -43,9 +43,13 @@ tagline: Books / Digital
 image:
   alt: "Venkatarangan Thirumalai"
   src: media/profiles/venkatarangan-thirumalai.jpg
-twitter: https://twitter.com/venkatarangan
-instagram: https://instagram.com/venkatarangan
-linkedin: https://www.linkedin.com/in/venkatarangan
+connect:
+  - title: Twitter
+    url: https://twitter.com/venkatarangan
+  - title: Instagram
+    url: https://instagram.com/venkatarangan
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/venkatarangan
 location:
   display: Chennai, Tamil Nadu, India
   lat: 13.08358

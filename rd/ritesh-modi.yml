@@ -16,9 +16,11 @@ tagline: Blockchain / Cloud / DevOps
 image:
   alt: "Ritesh Modi"
   src: media/profiles/ritesh-modi.jpg
-
-twitter: https://twitter.com/automationnext
-linkedin: https://www.linkedin.com/in/ritesh-modi/
+connect:
+  - title: Twitter
+    url: https://twitter.com/automationnext
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/ritesh-modi/
 location:
   display: Hyderabad, India
   lat: 17.385044

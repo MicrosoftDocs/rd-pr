@@ -29,9 +29,13 @@ tagline: Cycling / Entrepreneurship
 image:
   alt: "Mark Michaelis"
   src: media/profiles/mark-michaelis.jpg
-twitter: https://twitter.com/MarkMichaelis
-linkedin: https://www.linkedin.com/in/markmichaelis
-facebook: https://www.facebook.com/Mark.Michaelis
+connect:
+  - title: Twitter
+    url: https://twitter.com/MarkMichaelis
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/markmichaelis
+  - title: Facebook
+    url: https://www.facebook.com/Mark.Michaelis
 location:
   display: Spokane, WA, United States
   lat: 47.65726

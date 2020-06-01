@@ -33,9 +33,13 @@ tagline: DevOps / Azure / .NET
 image:
   alt: "Esteban Garcia"
   src: media/profiles/esteban-garcia.jpg
-facebook: https://www.facebook.com/EstebanFG
-twitter: https://twitter.com/estebanfgarcia
-linkedin: https://www.linkedin.com/in/estebangarcia/
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/EstebanFG
+  - title: Twitter
+    url: https://twitter.com/estebanfgarcia
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/estebangarcia/
 location:
   display: Orlando, FL USA
   lat: 28.5383

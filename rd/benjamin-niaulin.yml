@@ -30,9 +30,13 @@ tagline: Design / Entrepreneurship
 image:
   alt: "Benjamin Niaulin"
   src: media/profiles/benjamin-niaulin.jpg
-twitter: https://twitter.com/bniaulin
-linkedin: https://www.linkedin.com/in/bniaulin/
-facebook: http://facebook.com/bniaulin
+connect:
+  - title: Twitter
+    url: https://twitter.com/bniaulin
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/bniaulin/
+  - title: Facebook
+    url: http://facebook.com/bniaulin
 location:
   display: Montreal, QC, Canada
   lat: 45.512401

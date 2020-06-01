@@ -21,10 +21,15 @@ tagline: AI / AR & MR / Windows & Ink
 image:
   alt: "Gian Paolo Santopaolo"
   src: media/profiles/gianpaolo-santopaolo.jpg
-facebook: https://www.facebook.com/gian.paolo.santopaolo
-twitter: https://twitter.com/gsantopaolo
-linkedin: https://www.linkedin.com/in/gianpaolosantopaolo
-github: https://github.com/gsantopaolo
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/gian.paolo.santopaolo
+  - title: Twitter
+    url: https://twitter.com/gsantopaolo
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/gianpaolosantopaolo
+  - title: GitHub
+    url: https://github.com/gsantopaolo
 location:
   display: Zurich, Switzerland
   lat: 47.3163

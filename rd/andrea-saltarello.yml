@@ -52,11 +52,17 @@ tagline: Enterprise Architecture / Innovation / Cloud computing
 image:
   alt: "Andrea Saltarello"
   src: media/profiles/andrea-saltarello.jpg
-twitter: https://twitter.com/andysal74
-facebook: https://facebook.com/andysal
-github: https://github.com/andysal
-instagram: http://instagram.com/andysal
-linkedin: https://www.linkedin.com/in/andysal
+connect:
+  - title: Twitter
+    url: https://twitter.com/andysal74
+  - title: Facebook
+    url: https://facebook.com/andysal
+  - title: GitHub
+    url: https://github.com/andysal
+  - title: Instagram
+    url: http://instagram.com/andysal
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/andysal
 location:
   display: Milano, MI, Lombardy, Italy
   lat: 45.46796

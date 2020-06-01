@@ -30,9 +30,13 @@ tagline: Artificial Intelligence / Cloud Computing
 image:
   alt: "Robert Folkesson"
   src: media/profiles/robert-folkesson.jpg
-linkedin: https://www.linkedin.com/in/robertfolkesson/
-twitter: https://twitter.com/rfolkes
-github: https://github.com/rfolkes
+connect:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/robertfolkesson/
+  - title: Twitter
+    url: https://twitter.com/rfolkes
+  - title: GitHub
+    url: https://github.com/rfolkes
 location:
   display: Solna, Sweden  
   lat: 59.336569

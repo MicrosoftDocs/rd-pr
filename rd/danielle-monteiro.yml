@@ -15,11 +15,13 @@ tagline: Data Base / Big Data / AI
 image:
   alt: "Danielle Monteiro"
   src: media/profiles/danielle-monteiro.jpg
-facebook: https://facebook.com/danimonteirodba
-
-twitter: https://twitter.com/danimonteirodba
-
-linkedin: https://linkedin.com/in/danimonteirodba 
+connect:
+  - title: Facebook
+    url: https://facebook.com/danimonteirodba
+  - title: Twitter
+    url: https://twitter.com/danimonteirodba
+  - title: LinkedIn
+    url: https://linkedin.com/in/danimonteirodba 
 
 location:
   display: São Paulo, São Paulo, Brazil

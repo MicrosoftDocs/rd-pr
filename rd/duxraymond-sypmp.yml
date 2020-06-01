@@ -28,8 +28,11 @@ tagline: Onlyness ally / Tech for good champion / Diversity, inclusion & belongi
 image:
   alt: "Dux Raymond Sy"
   src: media/profiles/duxraymond-sypmp.jpg
-twitter: https://twitter.com/meetdux
-linkedin: https://www.linkedin.com/in/meetdux
+connect:
+  - title: Twitter
+    url: https://twitter.com/meetdux
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/meetdux
 location:
   display: Washington, DC
   lat: 38.890369

@@ -27,9 +27,13 @@ tagline: Results-Driven Data Strategy / Big Data / Tech Entrepreneurship
 image: 
   alt: "Lillian Pierson"
   src: media/profiles/lillian-pierson.jpg
-facebook: https://www.facebook.com/groups/data.strategy.club/
-twitter: https://twitter.com/bigdatagal
-linkedin: https://www.linkedin.com/in/lillianpierson/
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/groups/data.strategy.club/
+  - title: Twitter
+    url: https://twitter.com/bigdatagal
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/lillianpierson/
 location:
   display: Orlando, Florida, USA
   lat: 28.5383

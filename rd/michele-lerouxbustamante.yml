@@ -66,9 +66,13 @@ tagline: Microservices / Docker / Security
 image:
   alt: "Michele Leroux Bustamante"
   src: media/profiles/michele-lerouxbustamante.jpg
-twitter: https://twitter.com/michelebusta
-linkedin: https://www.linkedin.com/in/michelebusta
-github: https://github.com/michelebusta
+connect:
+  - title: Twitter
+    url: https://twitter.com/michelebusta
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/michelebusta
+  - title: GitHub
+    url: https://github.com/michelebusta
 location:
   display: United States
   lat: 32.715679

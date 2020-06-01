@@ -27,9 +27,13 @@ tagline: Camping / Coffee
 image:
   alt: "Amanda Perran"
   src: media/profiles/amanda-perran.jpg
-linkedin: https://www.linkedin.com/in/amandaperran/
-twitter: https://twitter.com/amandaperran
-facebook: https://www.facebook.com/amandaperran
+connect:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/amandaperran/
+  - title: Twitter
+    url: https://twitter.com/amandaperran
+  - title: Facebook
+    url: https://www.facebook.com/amandaperran
 location:
   display: St. John's, Newfoundland, Canada
   lat: 47.560638

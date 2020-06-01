@@ -41,8 +41,11 @@ tagline: Family / Food
 image:
   alt: "Simon Sabin"
   src: media/profiles/simon-sabin.jpg
-twitter: https://twitter.com/simon_sabin
-linkedin: https://uk.linkedin.com/in/simonsabin
+connect:
+  - title: Twitter
+    url: https://twitter.com/simon_sabin
+  - title: LinkedIn
+    url: https://uk.linkedin.com/in/simonsabin
 location:
   display: London, United Kingdom
   lat: 51.50242

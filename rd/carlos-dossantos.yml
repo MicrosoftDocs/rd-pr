@@ -45,10 +45,15 @@ tagline: Coffee / Innovation
 image:
   alt: "Carlos dos Santos"
   src: media/profiles/carlos-dossantos.jpg
-facebook: https://www.facebook.com/carloscds
-github: https://github.com/carloscds
-linkedin: https://www.linkedin.com/in/cdssoftware/
-twitter: https://twitter.com/cdssoftware
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/carloscds
+  - title: GitHub
+    url: https://github.com/carloscds
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/cdssoftware/
+  - title: Twitter
+    url: https://twitter.com/cdssoftware
 location:
   display: Cornélio Procópio - PR, Brasil
   lat: -23.181419

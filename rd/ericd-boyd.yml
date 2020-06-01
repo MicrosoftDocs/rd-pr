@@ -26,10 +26,15 @@ tagline: cloud / Coffee
 image:
   alt: "Eric D. Boyd"
   src: media/profiles/ericd-boyd.jpg
-twitter: https://twitter.com/EricDBoyd
-facebook: https://facebook.com/EricDBoyd
-linkedin: https://linkedin.com/in/EricDBoyd
-github: https://github.com/EricDBoyd
+connect:
+  - title: Twitter
+    url: https://twitter.com/EricDBoyd
+  - title: Facebook
+    url: https://facebook.com/EricDBoyd
+  - title: LinkedIn
+    url: https://linkedin.com/in/EricDBoyd
+  - title: GitHub
+    url: https://github.com/EricDBoyd
 location:
   display: Chicago, IL, United States
   lat: 41.88425

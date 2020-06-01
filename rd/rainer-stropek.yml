@@ -58,10 +58,15 @@ tagline: Entrepreneurship / Fitness
 image:
   alt: "Rainer Stropek"
   src: media/profiles/rainer-stropek.jpg
-twitter: https://twitter.com/rstropek
-facebook: https://facebook.com/rainer.stropek
-linkedin: https://www.linkedin.com/in/rainerstropek
-github: https://github.com/rstropek
+connect:
+  - title: Twitter
+    url: https://twitter.com/rstropek
+  - title: Facebook
+    url: https://facebook.com/rainer.stropek
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/rainerstropek
+  - title: GitHub
+    url: https://github.com/rstropek
 location:
   display: Austria
   lat: 48.279228

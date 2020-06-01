@@ -46,9 +46,13 @@ tagline: Education / Enterprise Mobility
 image:
   alt: "Hervé Thibault"
   src: media/profiles/herve-thibault.jpg
-facebook: https://facebook.com/herve.thibault.16
-twitter: https://twitter.com/thibherv
-linkedin: https://fr.linkedin.com/in/herv%C3%A9-thibault-065ab39
+connect:
+  - title: Facebook
+    url: https://facebook.com/herve.thibault.16
+  - title: Twitter
+    url: https://twitter.com/thibherv
+  - title: LinkedIn
+    url: https://fr.linkedin.com/in/herv%C3%A9-thibault-065ab39
 location:
   display: Paris, France
   lat: 48.857208

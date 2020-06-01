@@ -37,8 +37,11 @@ tagline: Education / Entrepreneurship
 image:
   alt: "Rodrigo Immaginario"
   src: media/profiles/rodrigo-immaginario.jpg
-linkedin: https://www.linkedin.com/in/rodrigoimmaginario
-twitter: https://twitter.com/rodrigoi
+connect:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/rodrigoimmaginario
+  - title: Twitter
+    url: https://twitter.com/rodrigoi
 location:
   display: Vila Velha - ES, Brasil
   lat: -20.330289

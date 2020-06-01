@@ -41,8 +41,11 @@ tagline: Coffee / Entrepreneurship
 image:
   alt: "Eduardo Castro"
   src: media/profiles/eduardo-castro.jpg
-twitter: https://twitter.com/edocastro
-linkedin: https://www.linkedin.com/in/edocastrom/
+connect:
+  - title: Twitter
+    url: https://twitter.com/edocastro
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/edocastrom/
 location:
   display: San José Province, Costa Rica
   lat: 9.605283
