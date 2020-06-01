@@ -15,8 +15,11 @@ tagline: Security / Cloud / Development
 image:
   alt: "Niall Merrigan"
   src: media/profiles/niall-merrigan.jpg
-twitter: https://twitter.com/yourprofile
-linkedin: https://linkedin.com/in/yourprofile 
+connect:
+  - title: Twitter
+    url: https://twitter.com/yourprofile
+  - title: LinkedIn
+    url: https://linkedin.com/in/yourprofile 
 location:
   display: Stavanger, Norway
   lat: 58.963333

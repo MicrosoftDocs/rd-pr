@@ -44,9 +44,13 @@ tagline: Innovation / Smart Cities / Entrepreneurship
 image:
   alt: "Stan Schultes"
   src: media/profiles/stan-schultes.jpg
-facebook: https://facebook.com/stan.schultes
-twitter: https://twitter.com/stanschultes
-linkedin: https://linkedin.com/in/stanschultes
+connect:
+  - title: Facebook
+    url: https://facebook.com/stan.schultes
+  - title: Twitter
+    url: https://twitter.com/stanschultes
+  - title: LinkedIn
+    url: https://linkedin.com/in/stanschultes
 location:
   display: Bradenton, FL, USA
   lat: 27.4938188

@@ -38,8 +38,11 @@ tagline: Office 365 / Microsoft Teams / Governance
 image:
   alt: "John Peluso"
   src: media/profiles/john-peluso.jpg
-twitter: https://twitter.com/johnconnected
-linkedin: https://www.linkedin.com/in/johnpeluso
+connect:
+  - title: Twitter
+    url: https://twitter.com/johnconnected
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/johnpeluso
 location:
   display: Jersey City, NJ, United States
   lat: 40.717479

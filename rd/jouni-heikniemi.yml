@@ -52,9 +52,13 @@ tagline: Cloud Computing / Digitalization
 image:
   alt: "Jouni Heikniemi"
   src: media/profiles/jouni-heikniemi.jpg
-twitter: https://twitter.com/jouniheikniemi
-linkedin: https://fi.linkedin.com/in/jouniheikniemi
-instagram: https://instagram.com/jouniheikniemi
+connect:
+  - title: Twitter
+    url: https://twitter.com/jouniheikniemi
+  - title: LinkedIn
+    url: https://fi.linkedin.com/in/jouniheikniemi
+  - title: Instagram
+    url: https://instagram.com/jouniheikniemi
 location:
   display: Espoo, Finland
   lat: 60.206779

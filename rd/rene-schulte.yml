@@ -15,9 +15,13 @@ tagline: Mixed Reality HoloLens / AI Deep Learning
 image:
   alt: "Rene Schulte"
   src: media/profiles/rene-schulte.jpg
-facebook: https://www.facebook.com/rene.schulte
-twitter: https://twitter.com/rschu
-linkedin: https://linkedin.com/in/reneschulte
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/rene.schulte
+  - title: Twitter
+    url: https://twitter.com/rschu
+  - title: LinkedIn
+    url: https://linkedin.com/in/reneschulte
 location:
   display: Dresden, Germany
   lat: 51.069423

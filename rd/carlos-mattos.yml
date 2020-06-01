@@ -20,9 +20,13 @@ tagline: Technology / Innovation / Entrepreneurship
 image:
   alt: "Carlos Mattos"
   src: media/profiles/carlos-mattos.jpg
-facebook: https://facebook.com/mattos.carlos
-linkedin: https://www.linkedin.com/in/carlosmattos/
-twitter: https://twitter.com/cmattos
+connect:
+  - title: Facebook
+    url: https://facebook.com/mattos.carlos
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/carlosmattos/
+  - title: Twitter
+    url: https://twitter.com/cmattos
 location:
   display: São Paulo - State of São Paulo, Brazil
   lat: -23.56287

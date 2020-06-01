@@ -17,11 +17,17 @@ tagline: AR & VR, Entrepreneurship, Innovation
 image:
   alt: "Thomas Nigro"
   src: media/profiles/thomas-nigro.jpg
-twitter: https://twitter.com/thomasnigro
-facebook: https://facebook.com/thomas.nigro
-instagram: https://instagram.com/thomasnigro
-linkedin: https://fr.linkedin.com/in/thomasnigro
-github: https://github.com/thomasnigro
+connect:
+  - title: Twitter
+    url: https://twitter.com/thomasnigro
+  - title: Facebook
+    url: https://facebook.com/thomas.nigro
+  - title: Instagram
+    url: https://instagram.com/thomasnigro
+  - title: LinkedIn
+    url: https://fr.linkedin.com/in/thomasnigro
+  - title: GitHub
+    url: https://github.com/thomasnigro
 location:
   display: Paris, France
   lat: 48.861208

@@ -12,9 +12,13 @@ tagline: Education / Forensic Computer / Security
 image:
   alt: "Andre Ruschel"
   src: media/profiles/andre-ruschel.jpg
-facebook: https://www.facebook.com/andre.ruschel
-twitter: https://twitter.com/andreruschel
-linkedin: https://linkedin.com/in/andreruschel
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/andre.ruschel
+  - title: Twitter
+    url: https://twitter.com/andreruschel
+  - title: LinkedIn
+    url: https://linkedin.com/in/andreruschel
 location:
   display: Santo Angelo, Rio Grande do Sul, Brazil
   lat: -28.30600775

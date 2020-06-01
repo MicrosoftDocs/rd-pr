@@ -71,9 +71,13 @@ tagline: Azure Cloud / Data and AI / App Modernization
 image:
   alt: "Todd Fine"
   src: media/profiles/todd-fine.jpg
-twitter: https://twitter.com/toddfine
-facebook: https://facebook.com/todd.fine
-linkedin: https://www.linkedin.com/in/toddfine
+connect:
+  - title: Twitter
+    url: https://twitter.com/toddfine
+  - title: Facebook
+    url: https://facebook.com/todd.fine
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/toddfine
 location:
   display: Atlanta, GA, United States
   lat: 33.75231

@@ -17,10 +17,15 @@ tagline: Azure and Governance / Identity and mobile Security / Azure Stack
 image:
   alt: "Stefan Denninger"
   src: media/profiles/stefan-denninger.jpg
-facebook: https://www.facebook.com/stefan.denninger
-twitter: https://twitter.com/stefandenninger
-linkedin: https://www.linkedin.com/in/stefan-denninger-9764451/
-github: https://github.com/dennings
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/stefan.denninger
+  - title: Twitter
+    url: https://twitter.com/stefandenninger
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/stefan-denninger-9764451/
+  - title: GitHub
+    url: https://github.com/dennings
 location:
   display: Vienna, Austria
   lat: 48.16983

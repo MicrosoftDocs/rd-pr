@@ -28,11 +28,17 @@ tagline: Azure / Security / Serverless Computing
 image:
   alt: "Dana Epp"
   src: media/profiles/dana-epp.jpg
-twitter: https://twitter.com/danaepp
-facebook: https://facebook.com/danaepp
-linkedin: http://ca.linkedin.com/in/danaepp/
-github: https://github.com/danaepp
-blog: https://danaepp.com
+connect:
+  - title: Twitter
+    url: https://twitter.com/danaepp
+  - title: Facebook
+    url: https://facebook.com/danaepp
+  - title: LinkedIn
+    url: http://ca.linkedin.com/in/danaepp/
+  - title: GitHub
+    url: https://github.com/danaepp
+  - title: Blog
+    url: https://danaepp.com
 location:
   display: Vancouver, BC, Canada
   lat: 49.260379

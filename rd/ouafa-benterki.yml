@@ -40,10 +40,14 @@ remarks: |
 tagline: AI / Data Science / Natural Language processing    
 image: 
   alt: "Ouafa Benterki" 
-  src: media/profiles/ouafa-benterki.jpg 
-facebook: https://facebook.com/WafaBenTerki
-twitter: https://twitter.com/OuafaDZ 
-linkedin: https://linkedin.com/in/ouafa-benterki/  
+  src: media/profiles/ouafa-benterki.jpg
+connect:
+  - title: Facebook
+    url: https://facebook.com/WafaBenTerki
+  - title: Twitter
+    url: https://twitter.com/OuafaDZ 
+  - title: LinkedIn
+    url: https://linkedin.com/in/ouafa-benterki/  
 location: 
   display: Algiers, Algiers, Algeria
   lat: 36.752500

@@ -11,9 +11,13 @@ tagline: AI / Cloud Computing / Xamarin
 image:
   alt: "Kinfey Lo"
   src: media/profiles/kinfey-lo.jpg
-facebook: https://facebook.com/kinfey.lo
-twitter: https://twitter.com/Ljh8304
-linkedin: https://linkedin.com/in/jianhui-lu-837839aa/ 
+connect:
+  - title: Facebook
+    url: https://facebook.com/kinfey.lo
+  - title: Twitter
+    url: https://twitter.com/Ljh8304
+  - title: LinkedIn
+    url: https://linkedin.com/in/jianhui-lu-837839aa/ 
 location:
   display: Guangzhou, China
   lat: 23.13

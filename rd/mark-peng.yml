@@ -14,9 +14,13 @@ tagline: Azure Stack / AI / Blockchain
 image:
   alt: "Mark Peng"
   src: media/profiles/mark-peng.jpg
-facebook: https://www.facebook.com/pengaihuadevops
-twitter: https://twitter.com/mvpmarkpeng
-linkedin: https://www.linkedin.com/in/pengaihua 
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/pengaihuadevops
+  - title: Twitter
+    url: https://twitter.com/mvpmarkpeng
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/pengaihua 
 location:
   display: Shanghai, China
   lat: 31.40527

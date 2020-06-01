@@ -50,10 +50,15 @@ tagline: Computer Vision / AI / ML / AR / MR
 image:
   alt: "Tim Huckaby"
   src: media/profiles/tim-huckaby.jpg
-twitter: https://twitter.com/TimHuckaby
-facebook: https://facebook.com/Tim.Huckaby.Carlsbad
-linkedin: https://www.linkedin.com/in/timhuckaby
-github: https://github.com/TimHuckaby
+connect:
+  - title: Twitter
+    url: https://twitter.com/TimHuckaby
+  - title: Facebook
+    url: https://facebook.com/Tim.Huckaby.Carlsbad
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/timhuckaby
+  - title: GitHub
+    url: https://github.com/TimHuckaby
 location:
   display: Carlsbad, CA, United States
   lat: 33.165878

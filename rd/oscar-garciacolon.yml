@@ -32,10 +32,15 @@ tagline: AI / Platform Development / Cloud
 image:
   alt: "Oscar Garcia Colon"
   src: media/profiles/oscar-garciacolon.jpg
-facebook: https://facebook.com/oscar.garciacolon
-twitter: https://twitter.com/almlatam
-github: https://github.com/oscargarciacolon
-linkedin: https://gt.linkedin.com/in/oscargarciacolon
+connect:
+  - title: Facebook
+    url: https://facebook.com/oscar.garciacolon
+  - title: Twitter
+    url: https://twitter.com/almlatam
+  - title: GitHub
+    url: https://github.com/oscargarciacolon
+  - title: LinkedIn
+    url: https://gt.linkedin.com/in/oscargarciacolon
 location:
   display: Guatemala City, Guatemala
   lat: 14.63175

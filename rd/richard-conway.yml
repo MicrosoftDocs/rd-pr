@@ -58,9 +58,13 @@ tagline: Astronomy / Data Science
 image:
   alt: "Richard Conway"
   src: media/profiles/richard-conway.jpg
-twitter: https://twitter.com/azurecoder
-linkedin: https://uk.linkedin.com/in/richardelastacloud
-github: https://github.com/azurecoder
+connect:
+  - title: Twitter
+    url: https://twitter.com/azurecoder
+  - title: LinkedIn
+    url: https://uk.linkedin.com/in/richardelastacloud
+  - title: GitHub
+    url: https://github.com/azurecoder
 location:
   display: London, England, United Kingdom
   lat: 51.51042

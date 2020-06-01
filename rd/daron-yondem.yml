@@ -47,11 +47,17 @@ tagline: Serverless / IoT / AI
 image:
   alt: "Daron Yondem"
   src: media/profiles/daron-yondem.jpg
-twitter: https://twitter.com/daronyondem
-facebook: https://facebook.com/daronyoendem
-instagram: https://instagram.com/daronyondem
-linkedin: https://tr.linkedin.com/in/daronyondem
-github: https://github.com/daronyondem
+connect:
+  - title: Twitter
+    url: https://twitter.com/daronyondem
+  - title: Facebook
+    url: https://facebook.com/daronyoendem
+  - title: Instagram
+    url: https://instagram.com/daronyondem
+  - title: LinkedIn
+    url: https://tr.linkedin.com/in/daronyondem
+  - title: GitHub
+    url: https://github.com/daronyondem
 location:
   display: İstanbul, Turkey
   lat: 41.013

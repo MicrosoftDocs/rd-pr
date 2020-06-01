@@ -28,10 +28,15 @@ tagline: Cloud Development / Azure Architecture / Artificial Intelligence
 image:
   alt: "David Rodriguez"
   src: media/profiles/david-rodriguez.jpg
-facebook: https://facebook.com/davidjrh
-twitter: https://twitter.com/davidjrh
-linkedin: https://linkedin.com/in/davidjrh
-github: https://github.com/davidjrh
+connect:
+  - title: Facebook
+    url: https://facebook.com/davidjrh
+  - title: Twitter
+    url: https://twitter.com/davidjrh
+  - title: LinkedIn
+    url: https://linkedin.com/in/davidjrh
+  - title: GitHub
+    url: https://github.com/davidjrh
 location:
   display: Santa Cruz de Tenerife, Spain
   lat: 28.456582

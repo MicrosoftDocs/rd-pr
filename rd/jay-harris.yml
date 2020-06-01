@@ -33,10 +33,15 @@ tagline: Web Applications / Consulting / GiveCamp
 image:
   alt: "Jay Harris"
   src: media/profiles/jay-harris.jpg
-twitter: https://twitter.com/jayharris
-linkedin: https://www.linkedin.com/in/jasonharris
-github: https://github.com/jayharris
-facebook: https://www.facebook.com/meetjayharris
+connect:
+  - title: Twitter
+    url: https://twitter.com/jayharris
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/jasonharris
+  - title: GitHub
+    url: https://github.com/jayharris
+  - title: Facebook
+    url: https://www.facebook.com/meetjayharris
 location:
   display: Las Vegas, NV, United States
   lat: 36.171909

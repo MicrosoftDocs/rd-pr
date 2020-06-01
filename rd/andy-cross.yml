@@ -23,8 +23,11 @@ tagline: Cloud / Entrepreneurship
 image:
   alt: "Andy Cross"
   src: media/profiles/andy-cross.jpg
-twitter: https://twitter.com/andyelastacloud
-github: https://github.com/andycross
+connect:
+  - title: Twitter
+    url: https://twitter.com/andyelastacloud
+  - title: GitHub
+    url: https://github.com/andycross
 location:
   display: London, United Kingdom
   lat: 51.50642

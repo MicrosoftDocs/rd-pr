@@ -18,9 +18,13 @@ tagline: M365 / GDPR / Azure
 image:
   alt: "Nicki Borell"
   src: media/profiles/nicki-borell.jpg
-facebook: https://www.facebook.com/borellnicki
-twitter: https://twitter.com/NickiBorell
-linkedin: https://www.linkedin.com/in/nicki-borell/
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/borellnicki
+  - title: Twitter
+    url: https://twitter.com/NickiBorell
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/nicki-borell/
 location:
   display: Kaiserslautern, Germany
   lat: 49.443

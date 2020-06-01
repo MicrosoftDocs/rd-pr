@@ -14,11 +14,17 @@ tagline: Analytics / Azure
 image:
   alt: "Edgar Sánchez"
   src: media/profiles/edgar-sanchez.jpg
-twitter: https://twitter.com/EdgarSanchez
-linkedin: https://ec.linkedin.com/in/edgarsanchez
-facebook: https://facebook.com/edgarsanchezgordon
-github: https://github.com/edgarsanchez
-instagram: https://instagram.com/edgarsanchezgordon
+connect:
+  - title: Twitter
+    url: https://twitter.com/EdgarSanchez
+  - title: LinkedIn
+    url: https://ec.linkedin.com/in/edgarsanchez
+  - title: Facebook
+    url: https://facebook.com/edgarsanchezgordon
+  - title: GitHub
+    url: https://github.com/edgarsanchez
+  - title: Instagram
+    url: https://instagram.com/edgarsanchezgordon
 location:
   display: Quito, Pichincha, Ecuador
   lat: -0.205599

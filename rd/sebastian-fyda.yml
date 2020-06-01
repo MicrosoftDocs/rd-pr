@@ -38,9 +38,13 @@ tagline: Cloud / Microservices / Architecture
 image:
   alt: "Sebastian Fyda"
   src: media/profiles/sebastian-fyda.jpg
-github: https://github.com/UncleTawnos
-linkedin: https://www.linkedin.com/in/sebastian-fyda
-twitter: https://twitter.com/SebastianFyda
+connect:
+  - title: GitHub
+    url: https://github.com/UncleTawnos
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/sebastian-fyda
+  - title: Twitter
+    url: https://twitter.com/SebastianFyda
 location:
   display: Wroclaw, Poland
   lat: 51.056742

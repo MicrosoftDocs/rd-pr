@@ -20,9 +20,13 @@ tagline: Microsoft Cloud / Managed Services / Azure
 image:
   alt: "Mihai Tataran"
   src: media/profiles/mihai-tataran.jpg
-facebook: https://www.facebook.com/mihai.tataran
-twitter: https://twitter.com/mihai_tataran
-linkedin: https://www.linkedin.com/in/mihaitataran/
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/mihai.tataran
+  - title: Twitter
+    url: https://twitter.com/mihai_tataran
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/mihaitataran/
 location:
   display: Timisoara, Romania
   lat: 45.760696

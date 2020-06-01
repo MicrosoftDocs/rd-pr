@@ -19,10 +19,15 @@ tagline: AI / AR-MR-VR / IOT
 image:
   alt: "Dwight Goins"
   src: media/profiles/dwight-goins.jpg
-blog: https://dgoins.wordpress.com
-twitter: https://twitter.com/DNGoins
-linkedin: https://www.linkedin.com/in/dwight-goins-5918361
-github: https://github.com/DNGoins
+connect:
+  - title: Blog
+    url: https://dgoins.wordpress.com
+  - title: Twitter
+    url: https://twitter.com/DNGoins
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/dwight-goins-5918361
+  - title: GitHub
+    url: https://github.com/DNGoins
 location:
   display: Coral Springs, FL, United States
   lat: 26.271193

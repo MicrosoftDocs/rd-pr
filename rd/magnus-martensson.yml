@@ -57,11 +57,17 @@ tagline: Enterprise Architecture / Azure / Cloud Computing
 image:
   alt: "Magnus  Mårtensson"
   src: media/profiles/magnus-martensson.jpg
-facebook: https://www.facebook.com/noopman
-twitter: https://twitter.com/noopman
-linkedin: https://www.linkedin.com/in/noopman
-instagram: http://instagram.com/noopman
-github: https://github.com/noopman
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/noopman
+  - title: Twitter
+    url: https://twitter.com/noopman
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/noopman
+  - title: Instagram
+    url: http://instagram.com/noopman
+  - title: GitHub
+    url: https://github.com/noopman
 location:
   display: Malmö, Sweden
   lat: 55.596649

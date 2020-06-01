@@ -17,10 +17,15 @@ tagline: Entrepreneurship / Programming
 image:
   alt: "Richard Campbell"
   src: media/profiles/richard-campbell.jpg
-twitter: https://twitter.com/richcampbell
-facebook: https://www.facebook.com/richard.campbell
-linkedin: https://www.linkedin.com/pub/richard-campbell/0/37a/642
-github: https://github.com/htbox
+connect:
+  - title: Twitter
+    url: https://twitter.com/richcampbell
+  - title: Facebook
+    url: https://www.facebook.com/richard.campbell
+  - title: LinkedIn
+    url: https://www.linkedin.com/pub/richard-campbell/0/37a/642
+  - title: GitHub
+    url: https://github.com/htbox
 location:
   display: Coquitlam, BC, Canada
   lat: 49.284919

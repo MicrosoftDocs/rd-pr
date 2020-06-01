@@ -30,9 +30,13 @@ tagline: Digital Workplace / Entrepreneurship / UX and UI Design
 image:
   alt: "Beatriz Oliveira"
   src: media/profiles/beatriz-oliveira.jpg
-facebook: https://facebook.com/mbeatrizoliveira
-twitter: https://twitter.com/beatrizoliveira
-linkedin: https://linkedin.com/in/mbeatrizoliveira 
+connect:
+  - title: Facebook
+    url: https://facebook.com/mbeatrizoliveira
+  - title: Twitter
+    url: https://twitter.com/beatrizoliveira
+  - title: LinkedIn
+    url: https://linkedin.com/in/mbeatrizoliveira 
 location:
   display: Vila do Conde, Porto, Portugal
   lat: 41.3517

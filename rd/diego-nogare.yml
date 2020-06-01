@@ -15,11 +15,13 @@ tagline: AI / Machine Learning / Data Platform
 image:
   alt: "Diego Nogare"
   src: media/profiles/diego-nogare.jpg
-facebook: https://facebook.com/DiegoNogare
-
-twitter: https://twitter.com/DiegoNogare
-
-linkedin: https://linkedin.com/in/DiegoNogare 
+connect:
+  - title: Facebook
+    url: https://facebook.com/DiegoNogare
+  - title: Twitter
+    url: https://twitter.com/DiegoNogare
+  - title: LinkedIn
+    url: https://linkedin.com/in/DiegoNogare 
 
 location:
   display: São Paulo, SP, Brazil

@@ -19,9 +19,13 @@ tagline: IoT / Integration / Data Engineering
 image:
   alt: "Martin Abbott"
   src: media/profiles/martin-abbott.jpg
-facebook: https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffacebook.com%2Fmartin.abbott.524&amp;data=02%7C01%7Cv-huy%40microsoft.com%7C65fd07e100634198e11008d6fe3660e8%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636975906835247910&amp;sdata=q1jo%2BXw%2Bz1UWz%2BIq0Qwtbl1XLJG9VNb7DJPlYoSfOhw%3D&amp;reserved=0
-twitter: https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2Fmartinabbott&amp;data=02%7C01%7Cv-huy%40microsoft.com%7C65fd07e100634198e11008d6fe3660e8%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636975906835247910&amp;sdata=udy4nm2dxPBobNkbv9ZTUKRg0K5EFdIUQ1Mt69fk1U4%3D&amp;reserved=0
-linkedin: https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Flinkedin.com%2Fin%2Fmjabbott&amp;data=02%7C01%7Cv-huy%40microsoft.com%7C65fd07e100634198e11008d6fe3660e8%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636975906835247910&amp;sdata=Zzd2cQ1uzphny1c5HPXt46RgTxxfVpJb1TlNPbgUQfM%3D&amp;reserved=0
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/martin.abbott.524
+  - title: Twitter
+    url: https://twitter.com/martinabbott
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/mjabbott/
 location:
   display: Perth, Western Australia, Australia
   lat: -31.953512

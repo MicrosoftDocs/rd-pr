@@ -19,9 +19,13 @@ tagline: SQL Server / Machine Learning / AI
 image:
   alt: "Amit Bansal"
   src: media/profiles/amit-bansal.jpg
-facebook: https://www.facebook.com/amit.r.bansal
-twitter: https://twitter.com/A_Bansal
-linkedin: https://www.linkedin.com/in/amitbansal2010
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/amit.r.bansal
+  - title: Twitter
+    url: https://twitter.com/A_Bansal
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/amitbansal2010
 location:
   display: Bangalore, Karnataka, India
   lat: 12.9716

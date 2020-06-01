@@ -14,8 +14,11 @@ tagline: Microsoft 365 / Azure Automation / Security and compliance
 image:
   alt: "Ståle Hansen"
   src: media/profiles/stale-hansen.jpg
-twitter: https://twitter.com/stalehansen
-linkedin: https://www.linkedin.com/in/stalehansen/
+connect:
+  - title: Twitter
+    url: https://twitter.com/stalehansen
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/stalehansen/
 location: 
   display: Oslo, Norway
   lat: 59.9139 

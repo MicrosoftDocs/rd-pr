@@ -19,9 +19,13 @@ tagline: Modern Workplace / Enterprise Architecture / GDPR
 image:
   alt: "Raphael Kollner"
   src: media/profiles/raphael-koellner.jpg
-facebook: https://www.facebook.com/Duesseldorfer44
-twitter: https://twitter.com/Ra_Koellner
-linkedin: https://www.linkedin.com/in/raphael-k%C3%B6llner-63a94930/
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/Duesseldorfer44
+  - title: Twitter
+    url: https://twitter.com/Ra_Koellner
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/raphael-k%C3%B6llner-63a94930/
 location:
   display: Cologne, NRW, Germany 
   lat: 50.9375

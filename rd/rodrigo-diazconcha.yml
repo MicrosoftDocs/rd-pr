@@ -53,10 +53,15 @@ tagline: Software architecture / .NET / Azure
 image:
   alt: "Rodrigo Díaz Concha"
   src: media/profiles/rodrigo-diazconcha.jpg
-twitter: https://twitter.com/rdiazconcha
-facebook: https://facebook.com/interfazpodcast
-linkedin: https://www.linkedin.com/in/rdiazconcha
-github: https://github.com/rdiazconcha
+connect:
+  - title: Twitter
+    url: https://twitter.com/rdiazconcha
+  - title: Facebook
+    url: https://facebook.com/interfazpodcast
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/rdiazconcha
+  - title: GitHub
+    url: https://github.com/rdiazconcha
 location:
   display: Mexico
   lat: 23.940769

@@ -35,10 +35,15 @@ tagline: Enterprise Client Management / Entrepreneurship
 image:
   alt: "Kent Agerlund"
   src: media/profiles/kent-agerlund.jpg
-facebook: https://www.facebook.com/kent.agerlund
-instagram: https://www.instagram.com/kentagerlund/
-linkedin: https://www.linkedin.com/in/kentagerlund/
-twitter: https://twitter.com/agerlund
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/kent.agerlund
+  - title: Instagram
+    url: https://www.instagram.com/kentagerlund/
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/kentagerlund/
+  - title: Twitter
+    url: https://twitter.com/agerlund
 location:
   display: Copenhagen, Danmark
   lat: 55.672599

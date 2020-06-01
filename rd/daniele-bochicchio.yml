@@ -61,10 +61,15 @@ tagline: Cloud / Web apps / Innovation
 image:
   alt: "Daniele Bochicchio"
   src: media/profiles/daniele-bochicchio.jpg
-twitter: https://twitter.com/dbochicchio
-facebook: https://facebook.com/dbochicchio
-instagram: https://instagram.com/danielebok
-linkedin: https://www.linkedin.com/in/danielebochicchio
+connect:
+  - title: Twitter
+    url: https://twitter.com/dbochicchio
+  - title: Facebook
+    url: https://facebook.com/dbochicchio
+  - title: Instagram
+    url: https://instagram.com/danielebok
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/danielebochicchio
 location:
   display: Milan, Italy
   lat: 45.47196
