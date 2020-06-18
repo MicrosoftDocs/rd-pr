@@ -65,8 +65,11 @@ tagline: Big Data / AI / Entrepreneurship
 image:
   alt: "Dr. Greg Low"
   src: media/profiles/greg-low.jpg
-twitter: https://twitter.com/greglow
-linkedin: https://au.linkedin.com/in/greglow
+connect:
+  - title: Twitter
+    url: https://twitter.com/greglow
+  - title: LinkedIn
+    url: https://au.linkedin.com/in/greglow
 location:
   display: Melbourne, Victoria, Australia
   lat: -37.817531

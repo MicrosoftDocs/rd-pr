@@ -42,8 +42,11 @@ tagline: Design / Entrepreneurship
 image:
   alt: "Dr. Neil Roodyn"
   src: media/profiles/neil-roodyn.jpg
-linkedin: https://www.linkedin.com/in/drneil
-twitter: https://twitter.com/drneil
+connect:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/drneil
+  - title: Twitter
+    url: https://twitter.com/drneil
 location:
   display: Sydney, New South Wales, Australia
   lat: -33.865598

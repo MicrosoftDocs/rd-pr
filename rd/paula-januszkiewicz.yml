@@ -19,9 +19,13 @@ tagline: Enterprise Security / Cloud and Datacenter Management / Pentesting
 image:
   alt: "Paula Januszkiewicz"
   src: media/profiles/paula-januszkiewicz.jpg
-twitter: https://twitter.com/paulacqure 
-linkedin: https://www.linkedin.com/in/paulajanuszkiewicz 
-facebook: https://www.facebook.com/paula.januszkiewicz  
+connect:
+  - title: Twitter
+    url: https://twitter.com/paulacqure 
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/paulajanuszkiewicz 
+  - title: Facebook
+    url: https://www.facebook.com/paula.januszkiewicz  
 location:
   display: Warsaw, Poland 
   lat: 52.22967560

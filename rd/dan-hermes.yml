@@ -25,8 +25,11 @@ tagline: Mobile Apps / Xamarin / Azure
 image:
   alt: "Dan Hermes"
   src: media/profiles/dan-hermes.jpg
-twitter: https://twitter.com/danhermes
-linkedin: https://www.linkedin.com/in/dan-hermes/
+connect:
+  - title: Twitter
+    url: https://twitter.com/danhermes
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/dan-hermes/
 location:
   display: Boston, Massachusetts, United States
   lat: 42.3601

@@ -6,42 +6,36 @@ metadata:
   description: Microsoft Regional Director, Microsoft P-TSP Azure DevOps, CTO, Cloud Architect in Vila Velha, Israel
 remarks: |
   ## Bio
-  Hi, I am Rotem Rozmarin, a consultant, architect, Microsoft Regional Director,
-  P-TSP Azure & DevOps, I have been working many years in project and partner 
-  management for various customers. 
+  Hi, I am Rotem Rozmarin, Consultant, Architect, Founder of SunSpots.cloud and recognized as a Microsoft Regional Director (RD) specializing in Cloud Governance and Security.
   
-  Many of my projects turned into best practice showcases for the successful
-  use of Cloud Technology and Data Transformation.
+  We provide a SaaS AI Multi-Cloud Platform for real time Infographics Mapping Security & Governance Management with the ability to automatically scan your entire cloud environment and convert all the data into Visual Graphic Discovery Maps.
   
-  I am the founder of R-Net Ltd, acting as a CTO and Cloud evangelist at GTC, 
-  and recognized as a Cloud Architect specializing in DevOps and Cloud Transformation.
+  Prior to founding SunSpots.cloud, I founded R-Net db and was acting as a CTO and CEO in many major cloud organizations.
   
-  With a vast occupational experience in large global technological companies in both 
-  deployment and Consulting, I have been nominated for the following awards:
+  With vast technical management experience in large global technological companies, I have been fortunate to have nominated for the following World awards:
+      • Microsoft Partner of the year Award 2014
+      • World Finalist DevOps Partner of the Year Award 2017
+      • World Winner Microsoft Partner 2018 of the Year Award
+
+  Many of my projects turned into best practice showcases for the successful use of Cloud Technology and Data Transformation.
   
-  •	2014 as a Microsoft Partner of the year Award
-  •	2017 at the WPC as the World Finalist DevOps Partner of the Year Award
-  •	2018 at the WPC as the World Winner Microsoft Partner of the Year Award
+  I greatly enjoy working with people and being active in the tech community, and I always aim to produce project results that will help both companies and humans (technology helps humanity).
+ 
+  Ultimately, I believe that visualization and transparency should provide an organization with the reality and clarity they need to manage their clouds in a better way.
   
-  My key professional interests are leading and innovative technologies, designing, 
-  managing and performing complex Cloud projects.
-  I greatly enjoy working with people and being active in the tech community, 
-  and I always aim to produce project results that will help companies in general and 
-  humans in particular (technology helps humanity).
-  Additionally, I support customers’ transition to the modern cloud era by developing 
-  highly efficient and scalable architectures that meet all agile needs of modern solutions, 
-  while simultaneously reducing privacy and reliability risks.
-  
-  Talk to me about: Cloud Computing, Kitesurfing, Astronomy and Physics.
-  
-  <https://www.meetup.com/AzureIsrael/>
-  
-  <https://www.linkedin.com/in/rotemrozmarin/>
+  Talk to me about: Cloud Computing, Kitesurfing, Astronomy and Physics.      
+  https://sunspots.cloud/       
+  https://www.meetup.com/AzureIsrael/        
+  https://www.linkedin.com/in/rotemrozmarin/        
+  https://about.me/rotemrozmarin    
+
 tagline: Azure / Identity and mobile Security / DevOps
 image:
   alt: "Rotem Rozmarin"
   src: media/profiles/rotem-rozmarin.jpg
-linkedin: https://www.linkedin.com/in/rotemrozmarin/
+connect:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/rotemrozmarin/
 location:
   display: Israel
   lat: 33.294782

@@ -13,9 +13,13 @@ tagline: Power BI/ Azure ML / Azure SQL Database
 image:
   alt: "Jen Stirrup"
   src: media/profiles/jen-stirrup.jpg
-facebook: https://www.facebook.com/TheDataWhisperer/
-twitter: https://twitter.com/jenstirrup
-linkedin: https://linkedin.com/in/jenstirrup
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/TheDataWhisperer/
+  - title: Twitter
+    url: https://twitter.com/jenstirrup
+  - title: LinkedIn
+    url: https://linkedin.com/in/jenstirrup
 location:
   display: London, England
   lat: 51.509865

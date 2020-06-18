@@ -50,9 +50,13 @@ tagline: SharePoint / Office 365 / Enterprise Architecting
 image:
   alt: "Dipti Chhatrapati"
   src: media/profiles/dipti-chhatrapati.jpg
-facebook: https://www.facebook.com/dipti.chhatrapati
-twitter: https://twitter.com/dips84
-linkedin: https://www.linkedin.com/in/dipti-chhatrapati-33582b7
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/dipti.chhatrapati
+  - title: Twitter
+    url: https://twitter.com/dips84
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/dipti-chhatrapati-33582b7
 location:
   display: Navi Mumbai, Maharashtra, India
   lat: 19.0330488

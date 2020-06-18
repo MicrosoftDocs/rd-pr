@@ -32,9 +32,13 @@ tagline: Entrepreneurship / Innovation
 image:
   alt: "Erik Åsberg"
   src: media/profiles/erik-asberg.jpg
-linkedin: https://www.linkedin.com/in/erik-åsberg-33528a1
-facebook: https://www.facebook.com/erik.asberg
-instagram: http://instagram.com/erik_osberg
+connect:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/erik-åsberg-33528a1
+  - title: Facebook
+    url: https://www.facebook.com/erik.asberg
+  - title: Instagram
+    url: http://instagram.com/erik_osberg
 location:
   display: Halden, Norway
   lat: 59.086139

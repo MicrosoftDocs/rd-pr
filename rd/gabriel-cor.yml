@@ -57,8 +57,11 @@ tagline: Coffee / Entrepreneurship
 image:
   alt: "Gabriel Cor"
   src: media/profiles/gabriel-cor.jpg
-linkedin: https://cl.linkedin.com/in/gabrielcor
-twitter: https://twitter.com/gabrielcor
+connect:
+  - title: LinkedIn
+    url: https://cl.linkedin.com/in/gabrielcor
+  - title: Twitter
+    url: https://twitter.com/gabrielcor
 location:
   display: Santiago, Chile
   lat: -33.437221

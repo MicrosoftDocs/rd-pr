@@ -48,8 +48,11 @@ tagline: Education / Entrepreneurship
 image:
   alt: "Steve Smith"
   src: media/profiles/steve-smith.jpg
-twitter: https://twitter.com/SteveSmithCK
-linkedin: https://uk.linkedin.com/in/steve-smith-7990611
+connect:
+  - title: Twitter
+    url: https://twitter.com/SteveSmithCK
+  - title: LinkedIn
+    url: https://uk.linkedin.com/in/steve-smith-7990611
 location:
   display: Leicester, England, United Kingdom
   lat: 52.637958

@@ -12,9 +12,13 @@ tagline: Cloud Computing / Microsoft 365 / Digital Transformation
 image:
   alt: "Adis Jugo"
   src: media/profiles/adis-jugo.jpg
-facebook: https://facebook.com/adis.jugo
-twitter: https://twitter.com/adisjugo
-linkedin: https://linkedin.com/in/adisjugo 
+connect:
+  - title: Facebook
+    url: https://facebook.com/adis.jugo
+  - title: Twitter
+    url: https://twitter.com/adisjugo
+  - title: LinkedIn
+    url: https://linkedin.com/in/adisjugo 
 location:
   display: Bingen am Rhein, Germany
   lat: 49.963785

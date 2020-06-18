@@ -12,11 +12,13 @@ tagline: AI / Digital Transformation / Entrepreneurship
 image:
   alt: "Florin Cardasim"
   src: media/profiles/florin-cardasim.jpg
-facebook: https://www.facebook.com/florin.cardasim
-
-twitter: https://twitter.com/cardasim
-
-linkedin: https://www.linkedin.com/in/cardasim 
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/florin.cardasim
+  - title: Twitter
+    url: https://twitter.com/cardasim
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/cardasim 
 
 location:
   display: Iasi, Romania

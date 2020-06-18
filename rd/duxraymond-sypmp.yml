@@ -1,68 +1,38 @@
 ### YamlMime:Profile
 uid: rd.duxraymond-sypmp
-name: Dux Raymond   Sy, PMP
+name: Dux Raymond Sy
 metadata:
   title: Dux Raymond   Sy, PMP - Microsoft Regional Director
   description: CMO | CTO | Microsoft Regional Director &amp; MVP in Washington, DC
 remarks: |
   ## Bio
-  With over 20 years of business & technology experience, Dux is the CMO &
-  Public Sector CTO at [AvePoint](http://www.avepoint.com), the Microsoft Cloud
-  expert with solutions for [SharePoint
-  backup](https://www.avepoint.com/products/sharepoint-infrastructure-
-  management/sharepoint-backup/) &
-  [administration](https://www.avepoint.com/products/sharepoint-infrastructure-
-  management/sharepoint-administration/) and [Office 365
-  migration](https://www.avepoint.com/products/sharepoint-infrastructure-
-  management/office-365-migration/),
-  [backup](https://www.avepoint.com/products/office-365-services/office-365-backup/)
-  &
-  [management](https://www.avepoint.com/products/office-365-services/office-365-management/).
-  
-  He has successfully driven digital transformation initiatives for commercial,
-  educational and public sector organizations.
-  
-  A sought after trusted advisor, Dux is the author of “[SharePoint for Project
-  Management](http://shop.oreilly.com/product/9780596520151.do)”. He is a
-  [Project Management
-  Professional](https://www.pmi.org/certifications/types/project-management-pmp)
-  (PMP), a [Microsoft Regional Director](https://rd.microsoft.com/) (RD) and
-  [Microsoft Most Valuable Professional](https://mvp.microsoft.com/en-
-  us/PublicProfile/4030552?fullName=Dux%252520Raymond%252520Sy) (MVP) who has
-  authored whitepapers, industry articles and [delivered interactive
-  presentations](https://www.youtube.com/playlist?list=PLHavJC7MqQcr78o6QNJeb7ZqYygdYHzOo)
-  to over 10,000 people in major industry events worldwide.
+  Dux is the CMO of [AvePoint](https://www.avepoint.com/), a global Microsoft 365 partner that helps organizations [migrate](https://www.avepoint.com/products/hybrid/office-365-migration/),
+  [govern](https://www.avepoint.com/products/cloud/office-365-governance/) & [protect](https://www.avepoint.com/products/cloud/backup/) their data in Microsoft 365. With over 20 years of 
+  business and technology experience, he’s been a driving force behind digital transformations for commercial, educational and public sector organizations worldwide. He’s a published author
+  of “SharePoint for Project Management”. He’s also recognized by Microsoft as Regional Director (RD) and Most Valuable Professional (MVP). He also hosts the modern workplace podcast
+  [#ShiftHappens](https://www.avepoint.com/blog/shifthappens/) that’s focused on a story of how leading organizations navigated their digital transformation journey.
+ 
+  A sought after public speaker and mentor, he’s a tireless advocate of inclusion, technology for good & philanthropic initiatives. He has written numerous whitepapers, articles, and delivered engaging interactive presentations to over 25,000 people at leading industry events around the world.
+ 
+  When he’s not globetrotting, or invigorating audiences, Dux lives in Washington, DC with his amazing wife and two children. Feel free to connect with him http://linktr.ee/meetdux 
 
   ## Spotlight
-  In my work, I get the excitement of helping organizations transform their
-  business by maximizing the full breadth of the latest Microsoft Cloud
-  technologies.
+  In the last 20 years, I’ve had the great opportunity to help organizations transform their business by maximizing the full breadth of Microsoft technologies. As we’ve shifted to the cloud, it’s exciting to see how organizations and individuals are empowered to quickly deliver impactful solutions with the Microsoft cloud. 
   
-  My entry to the ecosystem was over 20 years ago through my work around
-  SharePoint. I am grateful for the opportunity to author the book “SharePoint
-  for Project Management”, speak at industry events, and engage with the
-  community to support the growth of SharePoint as mission-critical business
-  platform – one that’s providing efficient collaboration, delivering business
-  intelligence, managing workflows, and more.
+  With technologies ranging from Microsoft Teams to Microsoft AI, we’re entering into an era where technology is not only accessible to the limited few, but [it has become inclusive](https://www.microsoft.com/en-us/us-partner-blog/2020/01/08/avepoints-dux-raymond-sy-on-four-ways-to-jumpstart-diversity-and-inclusion-within-your-company/) 
+  that everyone can create solutions to meet their needs – whether it’s a [bot that restores deleted emails or files](https://www.avepoint.com/products/cloud/citizen-services),
+  [a citizen services platform](https://www.avepoint.com/products/cloud/citizen-services) or [AI powered learning management system](https://www.avepoint.com/sg/solutions/learning-management-system/).
   
-  As we’ve shifted to the cloud, I’ve seen the scope of solutions that can be
-  delivered with Microsoft technology expand significantly. With tools ranging
-  from Power BI to Azure IoT, we’re entering into an era where cloud solutions
-  can not only support the back office operations and front lines of businesses,
-  but meet customer needs as well – whether it’s a custom mobile application or
-  a case management system.
-  
-  I believe the Microsoft Cloud can be the catalyst for the digital
-  transformation of every organization thanks to its ability to scale easier and
-  deliver innovation faster with less resources required. I am very excited to
-  continue to help organizations on the journey to digitization.
-tagline: Entrepreneurship / Food
+  I believe the Microsoft Cloud can be the great equalizer - a catalyst for the digital transformation of every organization thanks to its ability to scale easier and deliver innovation faster with less resources required. I am grateful for the opportunity to be a part of the Microsoft extended family and be able to help organizations strengthen their tech intensity.
+tagline: Onlyness ally / Tech for good champion / Diversity, inclusion & belongingness advocate
 image:
-  alt: "Dux Raymond   Sy, PMP"
+  alt: "Dux Raymond Sy"
   src: media/profiles/duxraymond-sypmp.jpg
-twitter: https://twitter.com/meetdux
-linkedin: https://www.linkedin.com/in/meetdux
-facebook: https://facebook.com/meetdux
+connect:
+  - title: Twitter
+    url: https://twitter.com/meetdux
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/meetdux
 location:
   display: Washington, DC
   lat: 38.890369

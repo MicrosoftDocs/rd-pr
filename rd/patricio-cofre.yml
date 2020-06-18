@@ -16,9 +16,13 @@ tagline: Databases / Artificial Intelligence / Digital Transformation
 image:
   alt: "Patricio Cofre"
   src: media/profiles/patricio-cofre.jpg
-facebook: https://facebook.com/pcofre
-twitter: https://twitter.com/pcofre
-linkedin: https://linkedin.com/in/pcofre
+connect:
+  - title: Facebook
+    url: https://facebook.com/pcofre
+  - title: Twitter
+    url: https://twitter.com/pcofre
+  - title: LinkedIn
+    url: https://linkedin.com/in/pcofre
 location:
   display: Santiago, Chile
   lat: -33.4489

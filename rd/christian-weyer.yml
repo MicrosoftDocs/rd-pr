@@ -73,10 +73,15 @@ tagline: Cloud-Native / Serverless / Cross-Platform
 image:
   alt: "Christian Weyer"
   src: media/profiles/christian-weyer.jpg
-twitter: https://twitter.com/christianweyer
-github: https://github.com/christianweyer
-facebook: https://facebook.com/christianweyer74
-linkedin: https://www.linkedin.com/in/christianweyer
+connect:
+  - title: Twitter
+    url: https://twitter.com/christianweyer
+  - title: GitHub
+    url: https://github.com/christianweyer
+  - title: Facebook
+    url: https://facebook.com/christianweyer74
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/christianweyer
 location:
   display: Neustadt am Main, Germany
   lat: 49.933551

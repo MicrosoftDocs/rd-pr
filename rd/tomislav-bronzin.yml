@@ -12,11 +12,15 @@ tagline: Microsoft 365 / Cloud Computing / Innovation
 image:
   alt: " Tomislav Bronzin"
   src: media/profiles/tomislav-bronzin.jpg
-facebook: https://facebook.com/tbronzin
+connect:
+  - title: Facebook
+    url: https://facebook.com/tbronzin
 
-twitter: https://twitter.com/tbronzin
+  - title: Twitter
+    url: https://twitter.com/tbronzin
 
-linkedin: https://linkedin.com/in/tbronzin 
+  - title: LinkedIn
+    url: https://linkedin.com/in/tbronzin 
 
 location:
   display: Zagreb, Croatia

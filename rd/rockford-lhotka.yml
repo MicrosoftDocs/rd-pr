@@ -30,10 +30,15 @@ tagline: Software Development / Distributed Architecture / Cloud Computing
 image:
   alt: "Rockford Lhotka"
   src: media/profiles/rockford-lhotka.jpg
-facebook: https://facebook.com/RockfordLhotka
-linkedin: https://www.linkedin.com/in/rockfordlhotka
-github: https://github.com/rockfordlhotka
-twitter: https://twitter.com/rockylhotka
+connect:
+  - title: Facebook
+    url: https://facebook.com/RockfordLhotka
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/rockfordlhotka
+  - title: GitHub
+    url: https://github.com/rockfordlhotka
+  - title: Twitter
+    url: https://twitter.com/rockylhotka
 location:
   display: Minneapolis, MN, USA
   lat: 44.979019

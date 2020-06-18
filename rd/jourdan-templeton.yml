@@ -18,8 +18,11 @@ tagline: AI / IoT / Governance
 image:
   alt: "Jourdan Templeton"
   src: media/profiles/jourdan-templeton.jpg
-twitter: https://twitter.com/jourdant
-linkedin: https://linkedin.com/in/jourdantempleton
+connect:
+  - title: Twitter
+    url: https://twitter.com/jourdant
+  - title: LinkedIn
+    url: https://linkedin.com/in/jourdantempleton
 location:
   display: Hamilton, New Zealand
   lat: -37.786253

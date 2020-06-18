@@ -31,9 +31,13 @@ tagline: Collaboration / Blockchain / MarTech
 image:
   alt: "Christian Buckley"
   src: media/profiles/christian-buckley.jpg
-facebook: https://www.facebook.com/buckleyplanet
-twitter: https://twitter.com/buckleyplanet
-linkedin: https://linkedin.com/in/christianbuckley/
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/buckleyplanet
+  - title: Twitter
+    url: https://twitter.com/buckleyplanet
+  - title: LinkedIn
+    url: https://linkedin.com/in/christianbuckley/
 location:
   display: Salt Lake City, Utah, USA
   lat: 40.7608

@@ -50,11 +50,17 @@ tagline: Entrepreneurship / Innovation
 image:
   alt: "Greg Levenhagen"
   src: media/profiles/greg-levenhagen.jpg
-twitter: https://twitter.com/greglevenhagen
-linkedin: https://www.linkedin.com/in/greglevenhagen
-facebook: https://facebook.com/greglevenhagen
-github: https://github.com/greglevenhagen
-stackoverflow: https://stackoverflow.com/users/279665/greg-levenhagen
+connect:
+  - title: Twitter
+    url: https://twitter.com/greglevenhagen
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/greglevenhagen
+  - title: Facebook
+    url: https://facebook.com/greglevenhagen
+  - title: GitHub
+    url: https://github.com/greglevenhagen
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/279665/greg-levenhagen
 location:
   display: Appleton, WI, United States
   lat: 44.261779

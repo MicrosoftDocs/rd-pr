@@ -44,8 +44,11 @@ tagline: Azure / cloud
 image:
   alt: "Dan Thyer"
   src: media/profiles/dan-thyer.jpg
-linkedin: https://www.linkedin.com/in/logicaldan
-twitter: https://twitter.com/LogicalDan
+connect:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/logicaldan
+  - title: Twitter
+    url: https://twitter.com/LogicalDan
 location:
   display: Charlotte, NC, United States
   lat: 35.222858

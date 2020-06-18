@@ -24,9 +24,13 @@ tagline: Education / Entrepreneurship
 image:
   alt: "Mihail Mateev"
   src: media/profiles/mihail-mateev.jpg
-facebook: https://www.facebook.com/mihail.mateev
-twitter: https://twitter.com/mihailmateev
-linkedin: https://www.linkedin.com/in/mmateev/
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/mihail.mateev
+  - title: Twitter
+    url: https://twitter.com/mihailmateev
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/mmateev/
 location:
   display: Sofia, Bulgaria
   lat: 42.697181

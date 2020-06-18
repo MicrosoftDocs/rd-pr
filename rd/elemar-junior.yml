@@ -22,11 +22,13 @@ tagline: .NET / Cloud Computing / Software Architecture
 image:
   alt: "Elemar Júnior"
   src: media/profiles/elemar-junior.jpg
-facebook: https://facebook.com/elemarjr
-
-twitter: https://twitter.com/elemarjr
-
-linkedin: https://linkedin.com/in/elemarjr 
+connect:
+  - title: Facebook
+    url: https://facebook.com/elemarjr
+  - title: Twitter
+    url: https://twitter.com/elemarjr
+  - title: LinkedIn
+    url: https://linkedin.com/in/elemarjr 
 
 location:
   display: Campo Bom, Rio Grande do Sul, Brazil

@@ -66,10 +66,15 @@ tagline: Entrepreneurship / Innovation
 image:
   alt: "Oleksandr Krakovetskyi"
   src: media/profiles/oleksandr-krakovetskyi.jpg
-twitter: https://twitter.com/sashaeve
-facebook: https://facebook.com/alex.krakovetskiy
-linkedin: https://www.linkedin.com/in/krakovetskiy
-github: https://github.com/sashaeve/
+connect:
+  - title: Twitter
+    url: https://twitter.com/sashaeve
+  - title: Facebook
+    url: https://facebook.com/alex.krakovetskiy
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/krakovetskiy
+  - title: GitHub
+    url: https://github.com/sashaeve/
 location:
   display: Kyiv city, Ukraine
   lat: 50.449558

@@ -72,9 +72,13 @@ tagline: .NET / Software Architecture / Domain-Driven Design
 image:
   alt: "Julie Lerman"
   src: media/profiles/julie-lerman.jpg
-facebook: https://facebook.com/julielerman
-twitter: https://twitter.com/julielerman
-github: https://github.com/julielerman
+connect:
+  - title: Facebook
+    url: https://facebook.com/julielerman
+  - title: Twitter
+    url: https://twitter.com/julielerman
+  - title: GitHub
+    url: https://github.com/julielerman
 location:
   display: Burlington, VT, United States
   lat: 44.475929

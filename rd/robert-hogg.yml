@@ -56,8 +56,11 @@ tagline: AI / blockchain
 image:
   alt: "Robert Hogg"
   src: media/profiles/robert-hogg.jpg
-twitter: https://twitter.com/roberthogg
-linkedin: https://www.linkedin.com/in/roberthogg
+connect:
+  - title: Twitter
+    url: https://twitter.com/roberthogg
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/roberthogg
 location:
   display: United Kingdom
   lat: 53.943832

@@ -37,9 +37,13 @@ tagline: Artificial Intelligence / High Performance Computing / Data Science
 image:
   alt: "Laurence Liew"
   src: media/profiles/laurence-liew.jpg
-facebook: https://facebook.com/laurence.liew.yk
-twitter: https://twitter.com/aisingapore
-linkedin: https://linkedin.com/in/laurenceliew
+connect:
+  - title: Facebook
+    url: https://facebook.com/laurence.liew.yk
+  - title: Twitter
+    url: https://twitter.com/aisingapore
+  - title: LinkedIn
+    url: https://linkedin.com/in/laurenceliew
 location:
   display: Singapore, Singapore
   lat: 1.3521

@@ -1,0 +1,35 @@
+### YamlMime:Profile
+uid: rd.joel-oleson
+name: Joel Oleson
+metadata:
+  title: Joel Oleson - Microsoft Regional Director
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Joel Oleson is widely recognized as one of the world’s most connected Microsoft 365 Community leaders.  Joel was a key player prior to the launch of Microsoft's Office collaboration products since 2001 from the beginning as the first dedicated SharePoint Admin for Microsoft internal deployments of Tahoe and Office Web Server, and later as Architect for the first version of SharePoint Online.  He would act as voice of the product to IT as Senior Technical Product Manager with the 2007 release.
+
+  Joel left Microsoft in 2008 to greater connect with the global community.  His passion was helping kick start communities all over the world and doing white board sessions with consultants and architects to help companies be successful.  Collaboration, Intranets, Portals and Business Applications took on a new meaning as he would get involved with many of the largest organizations in the world.  In his pursuits he's visited over 160/193 UN countries and continues to coach and mentor community leaders across the globe.
+
+  In his spare time he enjoys traveling for fun and work with his family, as well as movies, mixed reality, reading, outdoors, hiking, archaeology, ancient religious texts, philosophy and world religions. He loves to make people happy and loves to meet new people and experience diverse cultures.  He lives in paradise in Oceanside, California. Don't be afraid to reach out, he's one of the most friendly and approachable in the industry!
+
+  Joel has two countries outside of Africa left to visit in his quest to visit every country. He frequently takes on mentoring roles and would be happy to help you share inspiring thoughts for technology professionals, aspiring travelers.  Joel is currently working with Perficient as Director in the Microsoft National Practice.  
+
+  Tech Blog: http://collabshow.com    
+  Tech Travel Blog: http://www.travelingepic.com    
+  Tech Travel Video Series: http://youtube.com/joeloleson     
+ 
+tagline: Collaboration / Intranets / Digital Experience
+image:
+  alt: "Joel Oleson"
+  src: media/profiles/joel-oleson.jpg
+connect:
+  - title: LinkedIn
+    url: https://Linkedin.com/in/joeloleson
+  - title: Twitter
+    url: https://twitter.com/joeloleson
+  - title: Facebook
+    url: https://facebook.com/joleson
+location:
+  display: Oceanside, CA, USA
+  lat: 33.195911
+  long: -117.379517

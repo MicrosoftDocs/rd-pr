@@ -3,27 +3,27 @@ uid: rd.tim-huckaby
 name: Tim Huckaby
 metadata:
   title: Tim Huckaby - Microsoft Regional Director
-  description: Public Speaker, CEO, and Microsoft Regional Director in Carlsbad, California
+  description: Author, Speaker, CEO, and Microsoft Regional Director in Carlsbad, California
 remarks: |
   ## Bio
-  Tim Huckaby is an industry luminary focused on AI, Computer Vision, Machine
-  Learning, AR/MR, & Emerging User Experiences.  Mr. Huckaby is a Microsoft
-  Global RD and a Microsoft MVP.
-  Mr. Huckaby has over 35 years of technology experience including serving on a
+  Tim Huckaby is a fly fisherman... and an industry luminary focused on AI, 
+  Computer Vision, Machine Learning, Edge computing & AR/MR.  Mr. Huckaby is a
+  Microsoft Global RD and a Microsoft MVP.
+  Mr. Huckaby has over 40 years of technology experience including serving on a
   server product team as a development lead on an architecture team at Microsoft.
   Mr. Huckaby worked on some famous and not so famous Microsoft Server products
   in the late nineties.  Mr. Huckaby is a Microsoft Global RD, a Microsoft MVP
   and serves on many councils and boards.  
-  Mr. Huckaby has been awarded many times for the highest rated technical &
-  industry presentations and keynotes for Microsoft and many other vertical &
-  technology conferences like CES and events all around the world. Mr. Huckaby is
-  consistently rated in the top 10% of all speakers at these events. Having
-  worked for or with Microsoft close to 30 years, Mr. Huckaby has been on stage
-  with, and done numerous keynote demos for many Microsoft executives including
-  Bill Gates and Steve Ballmer. 
+  Mr. Huckaby is an accomplished author & has been awarded many times for the 
+  highest rated technical & industry presentations and keynotes for Microsoft 
+  and many other vertical & technology conferences like CES and events all 
+  around the world. Mr. Huckaby is consistently rated in the top 10% of all 
+  speakers at these events. Having worked for or with Microsoft over 30 years,
+  Mr. Huckaby has been on stage with, and done numerous keynote demos for many
+  Microsoft executives including Bill Gates and Steve Ballmer. 
  
-  Talk to Tim about: Hololens, Computer Vision, Microsoft Cognitive Services,
-  Emerging Experiences, Augmented & Mixed Reality
+  Talk to Tim about: Computer Vision, Azure Cognitive Services,
+  Edge Computing, Augmented / Mixed Reality & Enterprise software
   ## Spotlight
   My team amasses terabytes of raw consumer behavior data in Azure SQL for some
   of the largest CPG companies in the world and the list is growing. Recently,
@@ -46,14 +46,19 @@ remarks: |
   move the data into the Data Warehouse so that PowerBI can do its magic. The
   solution was so beautiful, powerful, awesome, fast, and scalable that it made
   for some very happy customers.
-tagline: Computer Vision, AI, AR & MR
+tagline: Computer Vision / AI / ML / AR / MR
 image:
   alt: "Tim Huckaby"
   src: media/profiles/tim-huckaby.jpg
-twitter: https://twitter.com/TimHuckaby
-facebook: https://facebook.com/Tim.Huckaby.Carlsbad
-linkedin: https://www.linkedin.com/in/timhuckaby
-github: https://github.com/TimHuckaby
+connect:
+  - title: Twitter
+    url: https://twitter.com/TimHuckaby
+  - title: Facebook
+    url: https://facebook.com/Tim.Huckaby.Carlsbad
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/timhuckaby
+  - title: GitHub
+    url: https://github.com/TimHuckaby
 location:
   display: Carlsbad, CA, United States
   lat: 33.165878

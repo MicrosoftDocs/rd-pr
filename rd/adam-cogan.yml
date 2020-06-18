@@ -49,9 +49,13 @@ tagline: .NET / ALM
 image:
   alt: "Adam Cogan"
   src: media/profiles/adam-cogan.jpg
-facebook: https://facebook.com/adamcogan
-twitter: https://twitter.com/adamcogan
-linkedin: https://au.linkedin.com/in/adamcogan
+connect:
+  - title: Facebook
+    url: https://facebook.com/adamcogan
+  - title: Twitter
+    url: https://twitter.com/adamcogan
+  - title: LinkedIn
+    url: https://au.linkedin.com/in/adamcogan
 location:
   display: Sydney, New South Wales, Australia
   lat: -33.869598

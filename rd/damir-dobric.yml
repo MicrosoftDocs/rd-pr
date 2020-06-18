@@ -23,9 +23,13 @@ tagline: Cloud / AI / IoT
 image:
   alt: "Damir Dobric"
   src: media/profiles/damir-dobric.jpg
-twitter: https://twitter.com/ddobric
-linkedin: https://www.linkedin.com/in/damir-dobric-a2756286/
-github: https://github.com/ddobric
+connect:
+  - title: Twitter
+    url: https://twitter.com/ddobric
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/damir-dobric-a2756286/
+  - title: GitHub
+    url: https://github.com/ddobric
 location:
   display: Frankfurt, Germany
   lat: 50.112079

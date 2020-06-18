@@ -45,8 +45,11 @@ tagline: Azure Governance / Azure Security / Azure Data and AI
 image:
   alt: "Maarten Goet"
   src: media/profiles/maarten-goet.jpg
-twitter: https://twitter.com/maarten_goet
-linkedin: https://nl.linkedin.com/in/maartengoet
+connect:
+  - title: Twitter
+    url: https://twitter.com/maarten_goet
+  - title: LinkedIn
+    url: https://nl.linkedin.com/in/maartengoet
 location:
   display: Almere, Netherlands
   lat: 52.380599

@@ -22,9 +22,13 @@ tagline: Azure / DevOps / Web
 image:
   alt: "Will Huang"
   src: media/profiles/will-huang.jpg
-facebook: https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.facebook.com%2Fwill.fans&amp;data=02%7C01%7Cv-huy%40microsoft.com%7C431e616541194604f34508d6fe363f48%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636975906323552028&amp;sdata=Gi2OZY%2B5IWPG15HK1Tvb2%2BfGW%2BrCz5WL9F5Y9XaLyqI%3D&amp;reserved=0
-twitter: https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FWill_Huang&amp;data=02%7C01%7Cv-huy%40microsoft.com%7C431e616541194604f34508d6fe363f48%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636975906323552028&amp;sdata=N%2B%2FSDD9LNTfKqTSCsOZS534hdnaWPbNBrk14YF7Gkhg%3D&amp;reserved=0
-linkedin: https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwill-huang-tw%2F&amp;data=02%7C01%7Cv-huy%40microsoft.com%7C431e616541194604f34508d6fe363f48%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636975906323552028&amp;sdata=waseMY68bRAHKrfWyTeRknXvVgI%2BPJt2xfotvZ2gOcQ%3D&amp;reserved=0
+connect:
+  - title: Facebook
+    url: https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.facebook.com%2Fwill.fans&amp;data=02%7C01%7Cv-huy%40microsoft.com%7C431e616541194604f34508d6fe363f48%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636975906323552028&amp;sdata=Gi2OZY%2B5IWPG15HK1Tvb2%2BfGW%2BrCz5WL9F5Y9XaLyqI%3D&amp;reserved=0
+  - title: Twitter
+    url: https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FWill_Huang&amp;data=02%7C01%7Cv-huy%40microsoft.com%7C431e616541194604f34508d6fe363f48%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636975906323552028&amp;sdata=N%2B%2FSDD9LNTfKqTSCsOZS534hdnaWPbNBrk14YF7Gkhg%3D&amp;reserved=0
+  - title: LinkedIn
+    url: https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwill-huang-tw%2F&amp;data=02%7C01%7Cv-huy%40microsoft.com%7C431e616541194604f34508d6fe363f48%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636975906323552028&amp;sdata=waseMY68bRAHKrfWyTeRknXvVgI%2BPJt2xfotvZ2gOcQ%3D&amp;reserved=0
 location:
   display: Taipei, Taiwan
   lat: 25.0436381

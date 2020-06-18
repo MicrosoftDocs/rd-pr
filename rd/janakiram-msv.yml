@@ -62,10 +62,15 @@ tagline: Big Data / Cloud Computing
 image:
   alt: "Janakiram MSV"
   src: media/profiles/janakiram-msv.jpg
-twitter: https://twitter.com/janakiramm
-facebook: https://facebook.com/janakiramm
-linkedin: https://linkedin.com/in/janakiramm
-github: https://github.com/janakiramm
+connect:
+  - title: Twitter
+    url: https://twitter.com/janakiramm
+  - title: Facebook
+    url: https://facebook.com/janakiramm
+  - title: LinkedIn
+    url: https://linkedin.com/in/janakiramm
+  - title: GitHub
+    url: https://github.com/janakiramm
 location:
   display: Hyderabad, Telangana, India
   lat: 17.365999

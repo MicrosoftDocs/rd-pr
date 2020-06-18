@@ -6,18 +6,28 @@ metadata:
   description: Microsoft Regional Director
 remarks: |
   ## Bio
-  As the Director for Agile IT – DevOps & Innovation at [Devoteam Alegri]( https://www.devoteam-alegri.eu/), my Teams and I develop custom solutions based on Microsoft Technologies for customers like Daimler, Carl Zeiss, Bayer, Hugo Boss and many more. We focus on high quality standards, DevOps practices, software craftsmanship and flexible cloud architectures. 
-  I’m a Microsoft MVP for ALM and DevOps ever since 2015 and I love to help my customers succeed in their enterprise transformation – to agility, the cloud and new ways of working. I can build bridges between Management and Engineering and I can coach teams and agile leaders. 
-  I love the community and I believe, that technical communities are an important part in the modern work life. I’m one of the organizers of [Azure Meetup Stuttgart]( https://azurestuttgart.de) and I regularly speak and sponsor other Meetups – all over Germany.
-  My passion is sharing knowledge through public speaking, writing and mentoring. I’m a regular speaker at international conferences and I speak in English, German and Spanish. I’ve published several articles and I regularly blog at [writeabout.net](https://writeabout.net/).
+  As a Vice President Consulting Service at [CGI](https://www.cgi.com/), I lead DevOps & Innovation for [CGI Next](https://www.cgi.com/us/en-us/cginext), 
+  I drive the digital, cloud and DevOps transformation for my clients in Germany.
+
+  I work for nearly 20 years in IT now. I’m a Microsoft MVP for ALM and DevOps ever since 2015 and I love to help my customers succeed in their enterprise 
+  transformation. I can build bridges between Management and Engineering and I can coach teams and agile leaders. I love the community and I believe that 
+  technical communities are an important part in the modern work life. I’m one of the organizers of [Azure Meetup Stuttgart](https://azurestuttgart.de) and 
+  I regularly speak and sponsor other Meetups – all over Germany.
+
+  My passion is sharing knowledge through public speaking, writing and mentoring. I’m a regular speaker at international conferences and I speak in English, 
+  German and Spanish. I’ve published several articles and I regularly blog at [writeabout.net](https://writeabout.net/).
   Talk to me about DevOps, Cloud Computing, Azure, AWS, .NET, Clean Code, Scrum and Kanban 
 tagline: DevOps / .NET / Azure
 image:
   alt: "Michael Kaufmann"
   src: media/profiles/michael-kaufmann.jpg
-facebook: https://facebook.com/mi.kaufmann
-twitter: https://twitter.com/mike_kaufmann
-linkedin: https://linkedin.com/in/mikaufmann 
+connect:
+  - title: Facebook
+    url: https://facebook.com/mi.kaufmann
+  - title: Twitter
+    url: https://twitter.com/mike_kaufmann
+  - title: LinkedIn
+    url: https://linkedin.com/in/mikaufmann 
 location:
   display: Stuttgart, Germany
   lat: 48.738576

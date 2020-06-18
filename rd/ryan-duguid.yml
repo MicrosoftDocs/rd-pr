@@ -6,24 +6,20 @@ metadata:
   description: VP of Product and Microsoft Regional Director in Seattle, Washington
 remarks: |
   ## Bio
-  Hey there, I’m Ryan. I’m the SVP of Technology Strategy at Nintex, the world's
-  leading workflow company with over 7500 customers in 90 countries. I'm also a
-  Microsoft Regional Director, and ex Microsoftie, having spent many years of my
-  life working on the runaway success known as SharePoint.
-  
-  With over 20 years working in the software industry in the United States,
-  United Kingdom, New Zealand, and Australia I’ve built and grown successful
-  companies, driven product strategy, redefined markets, won multimillion dollar
-  deals and managed global software development projects. I am passionate about
-  understanding people, identifying their unique problems and helping them to
-  realize their true potential through effective and innovative use of
-  technology.
-tagline: Cycling / Pilates
+  Hey there, I’m Ryan. I’m a product leader and seasoned executive with a passion for finding efficiency and effectiveness in every walk of life, then scaling that out through innovation and cultural change.  I'm also an ex Microsoftie, having spent many years of my life working on the runaway success known as SharePoint.
+  With over 20 years working in the software industry in the United States, United Kingdom, New Zealand, and Australia I’ve built and grown successful companies, driven product strategy, redefined markets, won multi-million dollar deals and managed global software development projects.  With an academic background in Computer Science and Psychology, my focus is on understanding people, identifying their unique problems and helping them to realize their true potential through creative application of technology.
+
+  Outside of work, I like to focus on family, friends, coaching, advising, skiing, cycling, and Pilates.
+
+tagline: Product Management / Product Marketing / Executive Leadership
 image:
   alt: "Ryan Duguid"
   src: media/profiles/ryan-duguid.jpg
-linkedin: https://www.linkedin.com/in/ryanduguid
-twitter: https://twitter.com/pvtrd
+connect:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/ryanduguid
+  - title: Twitter
+    url: https://twitter.com/pvtrd
 location:
   display: Seattle, WA, United States
   lat: 47.607569

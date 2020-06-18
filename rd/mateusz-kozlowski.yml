@@ -32,9 +32,13 @@ tagline: Cloud Computing / AI & ML / Data Science
 image:
   alt: "Mateusz Kozlowski"
   src: media/profiles/mateusz-kozlowski.jpg
-facebook: https://www.facebook.com/kozlowski.matthew
-twitter: https://twitter.com/matikozlowski
-linkedin: https://www.linkedin.com/in/matikozlowski
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/kozlowski.matthew
+  - title: Twitter
+    url: https://twitter.com/matikozlowski
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/matikozlowski
 location:
   display: Lublin, lubelskie, Poland
   lat: 51.246452

@@ -25,8 +25,11 @@ tagline: Programming / Video Games
 image:
   alt: "Keiji Kamebuchi"
   src: media/profiles/keiji-kamebuchi.jpg
-twitter: https://twitter.com/kosmosebi
-github: https://github.com/buchizo
+connect:
+  - title: Twitter
+    url: https://twitter.com/kosmosebi
+  - title: GitHub
+    url: https://github.com/buchizo
 location:
   display: Japan
   lat: 36.653335

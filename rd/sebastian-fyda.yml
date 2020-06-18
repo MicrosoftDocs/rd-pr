@@ -11,9 +11,6 @@ remarks: |
   While I'm hands-on type of person, I enjoy influencing best practices, either Dev/Ops, Software Lifecycle or simply
   organizational area, to companies I do business with and watching how it helps them thrive.
 
-  Currently I'm serving as Senior Cloud Solutions Architect at Synerise [https://synerise.com], a praised by Satya Nadela
-  himself, polish startup which delivers AI-driven next-generation growth cloud.
-
   On top of that, I'm a frequent speaker/trainer at local University, industry events and private company events around
   Poland and active member of Azure Advisors community.
 
@@ -41,9 +38,13 @@ tagline: Cloud / Microservices / Architecture
 image:
   alt: "Sebastian Fyda"
   src: media/profiles/sebastian-fyda.jpg
-github: https://github.com/UncleTawnos
-linkedin: https://www.linkedin.com/in/sebastian-fyda
-twitter: https://twitter.com/SebastianFyda
+connect:
+  - title: GitHub
+    url: https://github.com/UncleTawnos
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/sebastian-fyda
+  - title: Twitter
+    url: https://twitter.com/SebastianFyda
 location:
   display: Wroclaw, Poland
   lat: 51.056742
