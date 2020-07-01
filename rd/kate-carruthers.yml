@@ -19,11 +19,11 @@ image:
   src: media/profiles/kate-carruthers.jpg
 connect:
   - title: Facebook
-	url: https://facebook.com/carruthk
+    url: https://facebook.com/carruthk
   - title: Twitter
-	url: https://twitter.com/kcarruthers
+    url: https://twitter.com/kcarruthers
   - title: LinkedIn
-	url: https://linkedin.com/in/katecarruthers 
+    url: https://linkedin.com/in/katecarruthers 
 location:
   display: Sydney, NSW, Australia
   lat: 33.9169
