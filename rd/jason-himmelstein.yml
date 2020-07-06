@@ -1,0 +1,25 @@
+### YamlMime:Profile
+uid: rd.Jason-Himmelstein
+name: Jason Himmelstein
+metadata:
+  title: Jason Himmelstein – Senior Manager, EY | Financial Services | Tax Technology & Transformation
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Jason Himmelstein is a Microsoft Regional Director & 7 time Microsoft MVP, awarded in Office Apps and Services for Microsoft 365 and Data Platform for Power BI. With more than 20 years of experience working with Microsoft and related technologies and a strong passion for technology, Jason has spent the past 13 years dedicated to SharePoint, Business Intelligence, and Microsoft 365. Jason has successfully architected solutions for customers of all sizes and maintains an active speaking schedule, addressing conferences around the world. He also is an organizer/advisor of multiple Users Groups and SharePoint Saturdays, co-host of the BIFocal.show podcast, and has served as the SharePoint/Office 365 Track Chair for several National conferences. In his day job he is a Senior Manager at EY in the FSO TTT Division.
+  Jason is the author of the O’Reilly book “Developing Business Intelligence Apps for SharePoint”. Outside of this crazy working world, he is a happily married father of 2 dudes, a die-hard Texas Longhorns and San Antonio Spurs fan.
+tagline: Business Intelligence / Microsoft 365 / Digital Transformation
+image:
+  alt: "Jason Himmelstein"
+  src: media/profiles/jason-himmelstein.jpg
+connect:
+  - title: Facebook
+    url: //private//
+  - title: Twitter
+    url: https://twitter.com/jasehimm 
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/jasonhimmelstein/ 
+location:
+  display: San Antonio, Texas, USA
+  lat: 29.42458
+  long: -98.49461
