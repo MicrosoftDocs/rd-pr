@@ -1,0 +1,32 @@
+### YamlMime:Profile 
+uid: rd.taeyoung-kim
+name:  Taeyoung Kim
+metadata: 
+  title: Taeyoung Kim - Microsoft Regional Director
+  description: Microsoft Regional Director 
+remarks: | 
+  ## Bio 
+  Taeyoung Kim is the CEO of AIFactory and has a vision to ensure that people can have artificial intelligence at an affordable price as the artificial intelligence gap is expected to come like the Internet gap, digital gap, mobile gap, and cloud gap.
+
+  He has an unrivaled insight into artificial intelligence based on his excellent intuition, studying artificial intelligence on his own, and having abundant practical experience. His book, Python Deep Learning Keras with Block, is an artificial intelligence study book that matches an artificial intelligence library with Lego Blocks and does not include any mathematical symbols or mathematics. There is a true story that a child bought his book thinking it was a Lego assembly book, but the child entered artificial intelligence. He operates Keras  community and Kaggle community in Korea studying with 16,000 members together.
+
+  Based on his major in aerospace, He is conducting signal/video processing and analysis projects in various fields such as astronomy, satellite, drone, healthcare, medical and network. In March 2019, he was listed as a first co-author of Nature Astronomy as a deep learning-based solar image analysis study. He presented various experiences related to artificial intelligence at Global AI Bootcamp, Google GDG DevFest, NASA FDL, NVIDIA AI, and Samsung Open Source Conference.
+
+  He argues that the entry barrier to artificial intelligence service development is not high thanks to the democratization of artificial intelligence technology although it is not easy to study artificial intelligence models . Such as entry barriers to filming and broadcasting have long been removed thanks to Youtube. Unique content is the only element of competition. Therefore, we expect an era when artificial intelligence will look beyond technology and into content. His dream is to grow AIFactory into a social network platform so that anyone can communicate with each other the artificial intelligence models they want to show off.
+tagline: AI & Big Data / Cloud Computing / Web Development 
+image: 
+  alt: "Taeyoung Kim" 
+  src: media/profiles/taeyoung-kim.jpg 
+connect: 
+  - title: Facebook 
+    url: https://facebook.com/tykimo
+  - title: Twitter 
+    url: https://twitter.com/tykimo
+  - title: LinkedIn 
+    url: https://www.linkedin.com/in/tykimo/ 
+  - title: Blog
+    url: https://tykimos.github.io/
+location: 
+  display: Daejeon, Republic of Korea
+  lat: 36.350833
+  long: 127.385
