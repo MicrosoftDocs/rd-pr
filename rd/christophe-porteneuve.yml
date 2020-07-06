@@ -1,0 +1,28 @@
+### YamlMime:Profile
+uid: rd.christophe-porteneuve
+name: Christophe Porteneuve
+metadata:
+  title: Christophe Porteneuve - Founder and CTO
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  I've been a professional software engineer since 1996, when I started my career with Windows development using Delphi.  On the backend I've been involved with a variety of stacks, but web development and JavaScript are where I kept growing my expertise ever since 1995.  I was one of the founding members of the Prototype.js Core Team, wrote a number of books on the subject, collaborate now and then with TC39 on JS itself, etc.
+ 
+  I started my current company, Delicious Insights, in 2011; it's mainly a training company dedicated to providing world-class training on cutting-edge technology we love and use in our own production projects.  The kernel is Git, JS, React, Node and Webpack, with a few forays in more specific skills such as front-end web performance or MongoDB. We regularly speak at meetups and conferences, write articles and produce screencasts and video courses. In short, it's all about sharing knowledge and passion.
+ 
+  I’ve been interested in Azure for a while now and have an excellent working relationship with Microsoft France's DX team for almost a decade.  We've had an on-and-off collaboration to try and improve the DX of deploying to App Services and Functions, especially viz. Node.js codebases. I'm trying to strengthen and broaden my expertise of various Azure services these days, as this is my cloud of choice.
+ 
+  I live in the Paris area with my wife and two young sons--which is why I don't do as much international travel as I used to: I want to be around them as much as possible in these early, oh-so-important years. But I do maintain a few trips abroad every year.
+tagline: Education / Azure / Web Development
+image:
+  alt: "Christophe Portgeneuve"
+  src: media/profiles/christophe-porteneuve.jpg
+connect:
+  - title: Twitter
+    url: https://twitter.com/porteneuve
+  - title: LinkedIn
+    url: https://linkedin.com/in/christopheporteneuve 
+location:
+  display: Paris, France
+  lat: 48.8548224
+  long: 2.3895067 
