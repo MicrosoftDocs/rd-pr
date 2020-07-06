@@ -2,8 +2,8 @@
 uid: rd.marcel-zehner
 name: Marcel Zehner
 metadata:
-title: Marcel Zehner – Azure Architect
-description: Microsoft Regional Director
+  title: Marcel Zehner – Azure Architect
+  description: Microsoft Regional Director
 remarks: |
   ## Bio
   I am a cloud and community enthusiast operating out of Switzerland. I assist customers to ensure that they understand how to master the Microsoft Azure platform and their critical workloads. I mainly focus on topics such as cloud strategy, governance, security, DevOps, and process automation. I am a community and sharing person by nature and like to share my views and knowledge about Microsoft and cross-platform technologies. That said, I love to deliver workshops and speak at conferences and events.
