@@ -1,0 +1,44 @@
+### YamlMime:Profile
+uid: rd.rubens-guimarães
+name: Rubens Guimarães
+metadata:
+  title: Rubens Guimarães - CTO
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Develops high-level projects in Cloud, Dev, Data and AI for large companies, financial institutions, franchise networks, industries and recognized brands in Latin America, USA and Europe.
+
+  In recent years it has helped brands to position themselves competitively through high performance in the cloud, intelligent systems, cost reduction and increased operational capacity through Artificial Intelligence, BIG Data and micro services.
+
+  Recognition for developing innovative methodologies and coordinating educational processes for education networks that train more than 100,000 professionals per year.
+
+  Microsoft Azure MVP, MVP AI and Microsoft Regional Director. Specialist in Cloud Computing and Mentor of Startups in Projects and Hackathons from Microsoft, Google, Cube, IBM and UN.
+
+  Software Engineer with specialization at the Latin American Academy of Information Security. Stanford University specializations. USP, ITA and Harvard. Speaker of large audiences at events in Brazil and abroad.
+
+  Recognition and honors in projects for the Brazilian Army, Military Police, Government and Universities. More than 100 certifications and titles in Brazil and abroad.
+
+  Specialist in more than 30 programming languages, cloud technologies, design technologies, intuitive navigability, performance and security.
+
+  Author of more than 150 books and teaching materials for computer courses and professional preparation.
+
+  Founder of the Azure Brasil Technical Community and one of the main influencers of Digital Transformation in Latin America. International speaker, holds keynotes at referenced events. He has already shared talks with engineers from Tesla, Google and major global brands.
+
+  Founder of the startup Azure Academy, one of the main Corporate Cloud Training Centers in Latin America.
+
+  But of course, he is dedicated to extreme sports, photography, music in 06 instruments and gardening. 
+tagline: Cloud Computing / AI / Security
+image:
+  alt: "Rubens Guimarães"
+  src: media/profiles/rubens-guimaraes.jpg
+connect:
+  - title: Facebook
+    url: https://facebook.com/azurebrasilcomunidade
+  - title: Twitter
+    url: https://twitter.com/rubguimaraes
+  - title: LinkedIn
+    url: https://linkedin.com/in/rubensguimaraes
+location:
+  display: São Bernardo do Campo, São Paulo, Brasil
+  lat: -23.6944
+  long: -46.5654
