@@ -1,0 +1,29 @@
+### YamlMime:Profile
+uid: rd.tobias-fenster
+name: Tobias Fenster
+metadata:
+  title: Microsoft Regional Director
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Tobias Fenster is the Chief Technology Officer of COSMO CONSULT (cosmoconsult.com) and responsible for all technology aspects.
+
+  Born in Ulm, Tobias studied Media Informatics at Ulm University and started as a developer in the Java and Enterprise Portal world in the 1990s, covering everything from IBM, SAP and Microsoft to Open Source offerings. After different roles as technical lead, consultant, project manager and team manager, he switched to the Business Applications area. Holding different positions including Head of Technical Consulting and Head of Development before becoming CTO for Infoma, a German Dynamics 365 BC ISV, Tobias is now the CTO for the COSMO CONSULT group, .
+
+  He is blogging on tobiasfenster.io, where he writes about Dynamics NAV / Business Central in connection with Docker and Windows Containers, but also tooling like Azure DevOps and Visual Studio Code. His other focus is Azure, mainly around container environments and SQL. He holds dual Microsoft MVP awards for Business Applications and Azure. You can find him as a regular speaker on international conferences, both commercial and community-driven, and he holds programming courses at schools.
+
+  When he isn't working, he enjoys time with his two sons and wife or on Basketball or Tennis courts. He also does a bit of podcasting at sportradio360.de where he helps to cover the professional German Basketball league. 
+tagline: Azure / Business Applications / Docker
+image:
+  alt: "Tobias Fenster"
+  src: media/profiles/tobias-fenster.jpg
+connect:  
+  - title: Twitter
+    url: https://twitter.com/tobiasfenster
+  - title: LinkedIn
+    url: https://linkedin.com/in/tobiasfenster
+location:
+  display: Ulm, Germany
+  lat: 48.3875039
+  long: 9.8023619,11
+
