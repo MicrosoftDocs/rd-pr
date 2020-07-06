@@ -1,0 +1,30 @@
+### YamlMime:Profile
+uid: rd.thomas-martinsen
+name: Thomas Martinsen
+metadata:
+  title: Thomas Martinsen – CEO BLUEFRAGMENTS
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  I am the founder of BLUEFRAGMENTS, a software company building packaged solutions within cloud, IoT and AI based on Microsoft enterprise technologies. We are a team of developers, data scientists, project managers and user experience designers – all located in Copenhagen, Denmark.
+
+  At BLUEFRAGMENTS we're using cutting edge technology to harnessing the explosion of digital data and computational power with advanced algorithms to enable collaborative and natural interactions between people and machines that extend the human ability to sense, learn and understand. 
+
+  Being on the edge of technology and innovation have always been my passion. Currently I spend a lot of time developing a SaaS concept around "Artificial Colleagues" (AI-based chatbots running internally in companies) and how they can work side-by-side with human colleagues.
+
+  I guess it is no surprise that I love to speak. Throughout my 20+ years as professional developer and strategic business influencer, I have done many different kind of talks; small community talks with focus on specific topis, to deep technical talks at large conferences, to high-level talks about the future of tech and humanity.
+tagline: Cloud / IoT / AI
+image:
+  alt: "Thomas Martinsen"
+  src: media/profiles/thomas-martinsen.jpg
+connect:
+  - title: Facebook
+    url: https://facebook.com/yourprofile
+  - title: Twitter
+    url: https://twitter.com/thomasmartinsen
+  - title: LinkedIn
+    url: https://linkedin.com/in/thomasmartinsen 
+location:
+  display: Copenhagen, Denmark
+  lat: 55.6201704
+  long: 12.571865
