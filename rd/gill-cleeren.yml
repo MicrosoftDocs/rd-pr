@@ -15,11 +15,11 @@ image:
   src: media/profiles/gill-cleeren.jpg
 connect:
   - title: Facebook
-	url: https://facebook.com/gillcleeren
+    url: https://facebook.com/gillcleeren
   - title: Twitter
-	url: https://twitter.com/gillcleeren
+    url: https://twitter.com/gillcleeren
   - title: LinkedIn
-	url: https://linkedin.com/in/gillcleeren, 
+    url: https://linkedin.com/in/gillcleeren, 
 location:
   display: Tienen, Belgium
   lat: 50.8106

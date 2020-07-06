@@ -17,11 +17,11 @@ image:
   src: media/profiles/david-schneider.jpg
 connect:
   - title: Facebook
-	url: https://www.facebook.com/fiddi.ch
+    url: https://www.facebook.com/fiddi.ch
   - title: Twitter
-	url: https://twitter.com/fiddi
+    url: https://twitter.com/fiddi
   - title: LinkedIn
-	url: https://linkedin.com/in/david.schneider 
+    url: https://linkedin.com/in/david.schneider 
 location:
   display: Barcelona, Spain
   lat: 41.388974 
