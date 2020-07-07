@@ -1,0 +1,35 @@
+### YamlMime:Profile
+uid: rd.ryohei-yoshijima
+name: Ryohei Yoshijima
+metadata:
+  title: Ryohei Yoshijima - [Board of Director/ Strategic Planning Office at Pacific Business Consulting, Inc.]
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  2020-2022 Microsoft Regional Director
+  2015-2021 Microsoft MVP for Business Applications
+
+  With experience in Microsoft Dynamics ERP (NAV/AX) that goes further back than anyone in Japan, Ryo has taken part in international projects in Japan and 29 other countries since 2001, traveling enough miles to circle the globe some 80 times. He is continually involved with several international projects. On the strength of his project experience, expertise in R&D for Dynamics ERP and the global network he maintains with Microsoft and other Dynamics partners, he has made appearances at many related events as a speaker in Japan and abroad. Have done more than 100 Microsoft Dynamics Projects, more than 700 Pre-Sales Activities, more than 70 Microsoft Global Event Attendee. 
+
+  He enjoys to support DynamicsPact (D365 F&S global Consortium/ https://dynamics-pact.com/members/dynamics365-japan/),PIPOL (D365 Global Consortium / https://pipol.com/) and act as one of the committee at Directions Asia (Microsoft SMB focused Partners Conference in APAC/ https://directions4partners.com/events/directions-asia/about/) to Expand Dynamics Business in the world. 
+
+  In recognition of these achievements, Ryo became the first in Japan to receive an MVP award for Microsoft Dynamics ERP 2015 and selected as Microsoft Regional Director in 2020.
+
+  Ryo majored in multivariate analysis at his university time and has spent some time volunteering with other Microsoft MVPs and IT Community Leaders in disaster area (ex: https://www.facebook.com/sendaiitfes/ and  https://www.facebook.com/TohokuMeetUpMSMVP/). loves Rugby and American football because he used to play.
+tagline: Business Applications (Business Process and Productivity)/ BI and Data Analysis/ Software Localizations/ Developing Industry ISVs / 
+image:
+  alt: "Ryohei Yoshijima"
+  src: media/profiles/ryohei-yoshijima.jpg
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/dynamics.japan
+  - title: Twitter
+    url: https://twitter.com/navisionaxapta/
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/ryo-japan-cowboy-microsoft-bizapp-mvp-and-regional-director-678847b/ 
+  - title: Blog
+    url: https://www.pbc.co.jp/blog/
+location:
+  display: Asakusa,Tokyo,Japan
+  lat: 35.7111434
+  long: 139.7963807
