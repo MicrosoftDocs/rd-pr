@@ -1,0 +1,26 @@
+### YamlMime:Profile
+uid: rd.chris-yates
+name: Chris Yates
+metadata:
+  title: Chris Yates - Vice President, Director of Data and Architecture
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Hello, I'm Chris Yates. I enjoy helping others achieve success in utilizing data. I'm the Vice President and Director of Data and Architecture at Republic Bank, and a PASS Board of Director, the global community of data professionals. I'm also a Microsoft Regional Director and an MVP (Most Valuable Professional).
+ 
+  A dedicated speaker, author, and mentor with an approach of focusing on leadership.
+ 
+  Connect with me and let me know what you're doing with all things data!      
+tagline: Big Data / Cloud / Data Platform
+image:
+  alt: "Chris Yates"
+  src: media/profiles/chris-yates.jpg
+connect:
+  - title: Twitter
+    url: https://twitter.com/YatesSQL
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/sqlyates/ 
+location:
+  display: Louisville, KY, USA
+  lat: 38.25489
+  long: -85.76666
