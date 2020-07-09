@@ -1,0 +1,36 @@
+### YamlMime:Profile
+uid: rd.david-goad
+name: David Goad 
+metadata: 
+  title: David Goad – Chief Solution Architect
+  description: Microsoft Regional Director 
+remarks: | 
+  ## Bio
+  David has extensive practical experience in information technology and business strategy having started up his own successful IT services business which won 12 national and international awards for sales, innovation, and service before it was sold.
+
+  In his career David has also managed large high-performance corporate sales and services teams for well-known IT services organizations such as Hitachi, KPMG, and Microsoft providing consulting services to many Fortune 500 commercial enterprises, universities, and government organizations in Australia, Asia Pacific and globally.
+
+  Currently David lectures part-time at two of the top three business schools in Australia (the University of Sydney and the University of New South Wales) in innovation, technology, strategy, and new business startup. Concurrently he also provides personalized consulting and advisory services to entrepreneurs and enterprises in the areas of technology and business strategy. His specialties are Artificial Intelligence (AI) and the Internet of Things (IoT) where he is a published A star academic author and which are his areas of research at the University of Sydney.
+
+  In Artificial Intelligence, David has extensive practical consulting experience in Machine Vision, Natural Language Processing, Sentiment Analysis, Recommendation Engines, and Conversational Agents.
+
+  David has advanced degrees in Engineering, Finance. Arts and IoT and several certifications in Artificial Intelligence, Internet of Things, Project Management, and Operations. He has worked with a variety of technologies such as Microsoft Azure, Vmware, EMC, Cisco, SAP, Google, and Oracle. He has received over 53 personal recommendations from customers, supervisors, and peers and is well respected for his thought leadership.
+
+  Sought after for his practical and insightful perspective on AI and IoT, David is frequently asked to speak at international conferences and events.
+
+  In his spare time David is an Instructor for the NSW Rural Fire Service teaching structural firefighting and first aid and manages the Central Sydney Hub for St. John Ambulance and has over 500 volunteers in his team.
+tagline: AI / IoT / Entrepreneurship 
+image: 
+  alt: "David Goad" 
+  src: media/profiles/david-goad.jpg 
+connect: 
+  - title: Facebook 
+    url: https://www.facebook.com/dgoad
+  - title: Twitter 
+    url: https://twitter.com/ddgoad
+  - title: LinkedIn 
+    url: https://www.linkedin.com/in/dgoad/ 
+location: 
+  display: Sydney, NSW, Australia 
+  lat: -33.8886
+  long: 151.1873 

@@ -31,8 +31,11 @@ tagline: AI / Cloud
 image:
   alt: "James Carpinter"
   src: media/profiles/james-carpinter.jpg
-twitter: https://twitter.com/jamescarpinter
-linkedin: https://linkedin.com/in/jamescarpinter
+connect:
+  - title: Twitter
+    url: https://twitter.com/jamescarpinter
+  - title: LinkedIn
+    url: https://linkedin.com/in/jamescarpinter
 location:
   display: Auckland, New Zealand
   lat: -36.852329

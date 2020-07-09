@@ -1,0 +1,31 @@
+### YamlMime:Profile
+uid: rd.edward-kuo
+name: Edward Kuo
+metadata:
+ title: Edward Kuo - IT Manager
+ description: Microsoft Regional Director
+remarks: |
+ ## Bio
+ I am Edward Kuo from Taiwan. I am a Microsoft Regional Director, Most Valuable Professional and also an IT manager for Kingston Technology.
+ I have worked for over ten years as a developer and architect for the manufacturing industry, so I do not only understand this domain know-how and business 
+ but also I created most applications to help it. The most solution, I use Microsoft technology to finish it and help the enterprise to solve problems, even 
+ help to tech enterprise  how to effectively use Microsoft products 
+ In Taiwan, I am a core member of the technology community (http://study4.tw/) for over seven years and I usually hold events as a speaker or organizer. At the 
+ same time, I also frequently join conferences as a speaker, e.g. Tech Summit, InsiderDevTour, Azure Bootcamp, DevOps Days, NETCoreConf, AgileTour ...etc. I also teach students to use Microsoft development tools and software languages to do their application
+ My interests range from technology to travel. More time, I like to discuss system or software architect, especially about enterprise application. Another I  believe a good architecture design that it is business and  technology integrated 
+ Talk to me about .NET, .NET Core, Asp.NET, HTML5, CSS, Microsoft Azure, Office 365, IoT Solution for Industry 4.0, Machine Learning, AI, Azure DevOps, Enterprise Architect
+tagline: Azure DevOps / .NET / Cloud 
+image:
+  alt: "Edward Kuo"
+  src: media/profiles/edward-kuo.jpg
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/jaigi.kuo
+  - title: Twitter
+    url: https://twitter.com/Chia_Chi_Kuo
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/edwardkuo/
+location:
+  display: Hsinchu City, Taiwan
+  lat: 24.8039
+  long: 120.964 

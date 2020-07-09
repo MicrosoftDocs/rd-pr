@@ -1,0 +1,31 @@
+### YamlMime:Profile
+uid: rd.alex-mang
+name: Alex Mang
+metadata:
+  title: Alex Mang – CEO @ KeyTicket Solutions
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Hi, I’m Alex and I work as a CEO at KeyTicket Solutions in Romania, a role which, besides my management and entrepreneurial responsibilities, sees me as a continuous product innovator and solution provider for customers around the world. I’m deeply engaged with cloud computing and have a long-time background with embedded and IoT development.
+  Thanks to over 20-years of expertise with Microsoft technologies, I am fortunate to make knowledge sharing part of my regular business and community-driven effort. 
+  As a result of that, one will find engage publicly at conferences such as Microsoft Ignite, TechDays and more, as well at various community-driven events like the Global Azure Bootcamp which I am responsible for together with other seven fantastic leaders. 
+  Since knowledge sharing is the very motto I’m living my life by, materializing my expertise in the form of direct engagements with businesses globally happens like a second nature. Thus, I had the fantastic chance of helping large and small business alike adopt the cloud and improve their productivity, security and reach and therefore engage from the C-suite for strategic planning down to the IT individuals together with whom I’m getting my hands dirty to ensure proper delivery, governance and implementation.
+  As a recognition for my deep technical expertise with Azure and software development stand the Microsoft Most Valuable Professional award and over four pounds worth of certificates with combinations of three and four letter acronyms, including MCT, MCP, MCSA, MCSE, MCS and more.
+  As any true Transylvanian, whenever I’m not vampire hunting, I spend my time with my amazing two lovely kids and extraordinary supporting wife, whom I’m all so grateful for.
+tagline: Cloud Computing / Artificial Intelligence / Internet of Things
+image:
+  alt: "Alex Mang"
+  src: media/profiles/alex-mang.jpg
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/iamalexmang
+  - title: Twitter
+    url: https://twitter.com/iamalexmang
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/mangalex/
+
+location:
+  display: Oradea, Romania
+  lat: 47.0746904
+  long: 21.8674048
+

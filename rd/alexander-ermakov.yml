@@ -1,0 +1,33 @@
+### YamlMime:Profile
+uid: rd.alexander-ermakov
+name: Alexander Ermakov
+metadata:
+  title: Alexander Ermakov – Managing Partner at Awara IT
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Microsoft Regional Director in Russia, Microsoft MVP in Business Applications, MCT, MCSE, MCSA, MOMS, MCP, MBA, Certified Auditor, Story-teller, Microsoft Azure and Dynamics 365 Strategist, beloved husband, father of two, and just a good guy.
+ 
+  Alexander has over 25 years of experience working with IT, last 14 were tightly dedicated to Microsoft technologies in Business Applications and Azure cloud services. He had sold his heart to Dynamics NAV (now Dynamics 365 Business Central - besides he does sometimes Dynamics 365 F&O projects), and for many years in a raw evangelizes Dynamics platform and Azure cloud services inside Russia and across the board - with a focus on Russian localization and compliance with local legislation requirements.
+ 
+  Having graduated in two degrees - in Economics and Mathematics - Alexander got MBA in 2000. Alexander has accounting background, being certified Auditor (since 2009) and working as Chief accountant before he dedicated himself to IT. This makes him not just a perfect D365 functional consultant, especially in Finance, but a person who exactly knows the problems and fears of the users and can address them accordingly. His credo is to always use the standard functionality and avoid customizations where possible. Starting from 2012, he is also MCT and lectures customers as well as public community in seminars all over the Russia.
+ 
+  Since 2006, he works for one on the most efficient and competitive IT companies in Russia that deals with implementation of ERP systems and Azure cloud services - Awara IT (http://www.awara-it.com). It is Gold Microsoft partner for Business Applications. It is Microsoft Country Partner of the Year 2019 in Russia, as well as Dynamics 365 Business Central, Power BI and Teamwork Partner of the Year in 2019.
+ 
+  Alexander likes to work on the edge of technologies, evaluating most recent vendor offerings and evangelizing them to business and technical communities. He is a good story-teller and easy traveller. You can find him doing amazing sessions all over the world. He usually accepts speaking invitations to talk about Dynamics 365, Power Platform and endless variety of Azure cloud services. He is always ready to share few nice practical business cases - so feel free to contact him https://twitter.com/Alex_Ermakov .
+tagline: Business Applications / Azure Cloud Services / Power Platform
+ 
+image:
+  alt: "Alexander Ermakov"
+  src: media/profiles/alexander-ermakov.jpg
+connect:
+  - title: Facebook
+    url: https://facebook.com/alexander.ermakov.758
+  - title: Twitter
+    url: https://twitter.com/Alex_Ermakov
+  - title: LinkedIn
+    url: https://linkedin.com/in/alexander-ermakov-2b32b326/
+location:
+  display: Saint-Petersburg, Russia
+  lat: 59.9386
+  long: 30.3141

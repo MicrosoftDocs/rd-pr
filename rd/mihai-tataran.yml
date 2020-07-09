@@ -1,0 +1,33 @@
+### YamlMime:Profile
+uid: rd.mihai-tataran
+name: Mihai Tataran
+metadata:
+  title: Mihai Tataran - Microsoft Regional Director, General Manager @Avaelgo
+  description: Entrepreneur, Microsoft Regional Director
+remarks: |
+  ## Bio
+  Mihai Tătăran is the General Manager of Avaelgo, Microsoft Azure MVP and Microsoft Regional Director. 
+  He is also Microsoft Azure Insider, and Microsoft Certified Professional. Mihai has been teaching Microsoft technologies 
+  to software companies, being invited by Microsoft to deliver many such trainings for their customers. 
+  Mihai is a speaker at large international conferences: DevReach in Bulgaria, Codecamp Macedonia, TechEd North America, AzureConf; 
+  he organizes ITCamp - https://itcamp.ro, a 2 days conference in Romania on Microsoft technologies, with many Microsoft 
+  Most Valuable Professionals and Regional Directors who speak there.
+  
+  During the last years, Mihai has been involved with Microsoft in engaging large Enterprise accounts on complex Cloud projects involving 
+  Microsoft Azure, Office 365 and EM+S. His constant focus is to expand Avaelgo's business around the Microsoft Cloud, his business 
+  currently being an award winning Microsoft Gold Partner on Cloud Platform, with 5 Microsoft MVPs in its staff.
+tagline: Microsoft Cloud / Managed Services / Azure
+image:
+  alt: "Mihai Tataran"
+  src: media/profiles/mihai-tataran.jpg
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/mihai.tataran
+  - title: Twitter
+    url: https://twitter.com/mihai_tataran
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/mihaitataran/
+location:
+  display: Timisoara, Romania
+  lat: 45.760696
+  long: 21.226788

@@ -1,0 +1,25 @@
+### YamlMime:Profile
+uid: rd.lino-tadros
+name: Lino Tadros
+metadata:
+  title: Lino Tadros - [Chief Evangelist]
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Lino Tadros is the Chief Evangelist and Head of Training at Americaneagle.com, the current President & CEO of Events XD Corporation and previously, President & CEO of Falafel Software for 16 years, a Silicon Valley based company, dedicated to providing world-class consulting, training, and software development for small, medium, and enterprise level businesses worldwide. Prior to founding Falafel, Lino was a well-respected member of the development team at Borland for Delphi and C++Builder. Lino has been awarded Microsoft MVP status 15 years in a row for his numerous contributions to the Microsoft community and is an expert in AI, ML, IoT, Azure, AWS, Google Cloud, .NET, MVC, iOS, Android, Xamarin, CMS and Software Testing. Lino is an industry renowned speaker and has given numerous presentations in 53 countries in the last 28 years. He currently sits on the Board of Directors of 4 Silicon Valley corporations. Lino enjoys attending performances of his two sons in musical theatre and Opera and also enjoys traveling with his wife to as many countries as possible. Lino is a certified Lamborghini car race driver and loves racing on major professional speedways.
+tagline: AI / ML / IoT
+                
+image:
+  alt: "Lino Tadros"
+  src: media/profiles/lino-tadros.jpg
+connect:
+  - title: Facebook
+    url: https://facebook.com/lino.tadros
+  - title: Twitter
+    url: https://twitter.com/linotadros
+  - title: LinkedIn
+    url: https://linkedin.com/in/linotadros 
+location:
+  display: Orlando, FL, USA
+  lat: 28.515222 
+  long: -81.495365

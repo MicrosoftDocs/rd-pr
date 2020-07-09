@@ -32,9 +32,13 @@ tagline: Cloud Computing / Next-Gen Collaboration
 image:
   alt: "Gokan Ozcifci"
   src: media/profiles/gokan-ozcifci.jpg
-facebook: https://www.facebook.com/gokan.ozcifci
-linkedin: https://www.linkedin.com/in/gokanozcifci/
-twitter: https://twitter.com/xGokan
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/gokan.ozcifci
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/gokanozcifci/
+  - title: Twitter
+    url: https://twitter.com/xGokan
 location:
   display: Brussels, Belgium
   lat: 50.84439

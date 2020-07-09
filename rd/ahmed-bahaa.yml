@@ -77,9 +77,13 @@ tagline: Education / Entrepreneurship
 image:
   alt: "Ahmed Bahaa"
   src: media/profiles/ahmed-bahaa.jpg
-twitter: https://twitter.com/@AhmedBahaa2010
-facebook: https://facebook.com/ahmedbahaafarid
-linkedin: https://www.linkedin.com/in/ahmed-bahaa-ba006aa8
+connect:
+  - title: Twitter
+    url: https://twitter.com/@AhmedBahaa2010
+  - title: Facebook
+    url: https://facebook.com/ahmedbahaafarid
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/ahmed-bahaa-ba006aa8
 location:
   display: Cairo, Egypt
   lat: 30.049909

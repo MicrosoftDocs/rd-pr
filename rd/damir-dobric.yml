@@ -19,15 +19,17 @@ remarks: |
   
   I also work as docent for software engineering and distributed systems on
   University of Applied sciences in Frankfurt am Main.
-tagline: Innovation / Programming
+tagline: Cloud / AI / IoT
 image:
   alt: "Damir Dobric"
   src: media/profiles/damir-dobric.jpg
-youtube: https://www.youtube.com/channel/UCT961BsUQclbgkro4_w1bNg
-twitter: https://twitter.com/ddobric
-xing: https://www.xing.com/profile/Damir_Dobric
-linkedin: https://www.linkedin.com/in/damir-dobric-a2756286/
-github: https://github.com/ddobric
+connect:
+  - title: Twitter
+    url: https://twitter.com/ddobric
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/damir-dobric-a2756286/
+  - title: GitHub
+    url: https://github.com/ddobric
 location:
   display: Frankfurt, Germany
   lat: 50.112079

@@ -1,0 +1,25 @@
+### YamlMime:Profile
+uid: rd.allen-oneill
+name: Allen ONeill
+metadata:
+  title: Allen ONeill – CTO
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Allen is CTO for ‘The DataWorks’, delivering AI-driven web-data solutions to top tier organisations worldwide. His core focus is designing innovative technology solutions at scale, and his primary background is in enterprise systems. He has deep cross platform and vendor expertise using Azure, AWS, Google, AliBaba and on-premises cloud platforms. Allen is one of the few that can successfully bridge the gap between tech and business while remaining deeply technical and capable of leading at all levels. He is adept at balancing the needs of the organisation with the realities of what can be achieved using technology within defined constraints. As a consultant he has worked internationally with organisations of all sizes and has a proven record of being able to solve intractable problems for customers. 
+  Allen is an avid community contributor, sharing knowledge wherever anyone will listen. He organises, assists, and speaks at conferences big and small internationally. He has written over 250 articles and his current readership exceeds 4m worldwide. 
+  Allen is a chartered engineer, a Fellow of the British Computing Society, and holds qualifications in both technology and law. He is currently competing a PhD in AI.
+  His current obsessions are machine learning, big data and IoT/robotics. When not chained to his desk he can be found fixing broken things, playing music very badly or trying to shape things out of wood.  He writes for CodeProject,  C-Sharp Corner and DZone and is also a ball throwing slave for his dogs.
+tagline: AI / Big Data / Robotics
+image:
+  alt: "Allen ONeill"
+  src: media/profiles/allen-oneill.jpg
+connect:
+  - title: Twitter
+    url: https://twitter.com/DataBytzAI
+  - title: LinkedIn
+    url: https://ie.linkedin.com/in/allenoneill
+location:
+  display: Carlow, Ireland
+  lat: 52.836275
+  long: -6.935863

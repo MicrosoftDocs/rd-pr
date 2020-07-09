@@ -1,0 +1,32 @@
+### YamlMime:Profile
+uid: rd.samir-arezki
+name: Samir Arezki
+metadata:
+  title: Samir AREZKI – Technical Manager 
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Samir is a Technical Manager with interests in Cloud Computing, Internet of Things and Modern Apps. He helps companies to make better use of emerging technologies to achieve their transformations and deliver business benefits. 
+
+  As a Microsoft Regional Director and MVP, he is always happy to share his knowledge with communities and user groups. You can find his courses on LinkedIn Learning platform. 
+
+  Samir is also involved and committed in non-profit charity organization in order to improve education. 
+
+  Graduated in Computer Science from Paul Sabatier University (Toulouse, France), and he got an Executive MBA from Paul Valery University (Montpellier, France). 
+
+  Talk to Samir about : Innovation, Cloud, IoT and Apps.
+tagline: Innovation / Cloud / IoT & Modern Apps 
+image:
+  alt: "Samir AREZKI"
+  src: media/profiles/samir-arezki.jpg
+connect:
+  - title: Twitter
+    url: https://twitter.com/itfana
+  - title: LinkedIn
+    url: https://linkedin.com/in/arezkisamir  
+location:
+  display: Toulouse, France
+  lat: 43.600000
+  long: 1.433333
+
+

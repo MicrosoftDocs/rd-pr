@@ -79,8 +79,11 @@ tagline: Analytics / Big Data / AI
 image:
   alt: "Andrew J. Brust"
   src: media/profiles/andrewj-brust.jpg
-twitter: https://twitter.com/andrewbrust
-linkedin: https://www.linkedin.com/in/andrewbrust
+connect:
+  - title: Twitter
+    url: https://twitter.com/andrewbrust
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/andrewbrust
 location:
   display: New York, NY, United States
   lat: 40.71455

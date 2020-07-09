@@ -1,0 +1,25 @@
+### YamlMime:Profile
+uid: rd.agnes-molnar
+name: Agnes Molnar
+metadata:
+  title: Agnes Molnar - [Founder, Managing Consultant at Search Explained]
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Agnes Molnar has over a decade of experience helping hundreds of companies reap the maximum benefits of enterprise search, mainly when it is used in knowledge management scenarios. She is passionate about helping organizations become more productive and efficient so they can succeed in today’s increasingly competitive world. Agnes is a founding member of The Search Network, a global community of independent search professionals and contributor to their annual report Search Insights. She is a mother of three, runs, and believes in lifetime learning.
+  You can find her blog at https://SearchExplained.com/blog 
+tagline: Enterprise Search / Knowledge Management / Digital Workplace
+image:
+  alt: "Agnes Molnar"
+  src: media/profiles/agnes-molnar.jpg
+connect:
+  - title: Facebook
+    url: https://facebook.com/molnar.agnes
+  - title: Twitter
+    url: https://twitter.com/molnaragnes
+  - title: LinkedIn
+    url: https://linkedin.com/in/molnaragnes 
+location:
+  display: Budapest, Hungary
+  lat: 47.4979
+  long: 19.0402

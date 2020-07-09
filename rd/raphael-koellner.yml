@@ -1,0 +1,32 @@
+### YamlMime:Profile
+uid: rd.raphael-kollner
+name: Raphael Köllner
+metadata:
+  title: Raphael Kollner - Lead Consultant
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  My name is Raphael Koellner and I combine the law and the information technology in particular the cloud computing. 
+  As a Execultive consultant for BDO Digital AG I work for international companies to migrate and implement multi cloud solutions on a technical, data privacy and compliant way. 
+  Furthermore I become an attorney in Europe and be a Co-founder of Digitallawyer.de. We help international companies with their data privacy, works counsel, labor law, compliance, IT and IP law challenges. In this connection I am handling different cloud provider and technologies to support the companies. Cross and Multi Cloud solutions are your daily business to fulfill the different challenges. 
+  Moreover I am a member of national and international IT Lawyer associations like the DGRI (The German Association of Law and Informatics) and writing abstracts and working papers to find law solutions for actual and future challenges. To connect this law topics with the IT topics excites me every day. 
+  Since 2013 I am MVP for Office Apps & Services and Windows Insider MVP since the beginning. I am the community guy and lead for example the Office 365 Usergroup Germany, the Azure Meetup Cologne and the biggest Windows 10 Insider Community in Germany. I love to connect and share knowledge with community passionated people and run for example the SharePoint Saturday Cologne and the Global Azure Bootcamp Cologne. I am also speaking on international and national conferences like Ignite, BUILD, Ignite the tour, Techorama or local community events with a lot of passion. A view from different sites are a key to find the best solutions for my customers.
+  I love to fly my drone, read books and play tennis. Most important for me is my family and spending time with them. 
+  If you want to get in touch with me, please visit my blog www.rakoellner.com (German www.rakoellner.de), my social links or come by and say Hello on an event. 
+
+  Talk to me about: Modern Workplace, Compliance, Cybersecurity, Information Protection, Cloud Computing, data privacy, IT Law, IP Law, Arbitration Law, Microsoft 365
+tagline: Modern Workplace / Enterprise Architecture / GDPR
+image:
+  alt: "Raphael Kollner"
+  src: media/profiles/raphael-koellner.jpg
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/Duesseldorfer44
+  - title: Twitter
+    url: https://twitter.com/Ra_Koellner
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/raphael-k%C3%B6llner-63a94930/
+location:
+  display: Cologne, NRW, Germany 
+  lat: 50.9375
+  long: 6.9603

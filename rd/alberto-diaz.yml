@@ -1,0 +1,32 @@
+### YamlMime:Profile
+uid: rd.alberto-diaz
+name: Alberto Diaz Martin
+metadata:
+  title: Alberto Diaz Martin - CTIO
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Alberto Diaz has more than 15 years of experience in the IT Industry, all of them working with Microsoft Technologies. His principal activities are Development and Solution Analysts on his first years and as Team Leader and Solution Architect on the last 6 years. Currently Chief Technology Innovation Officer in ENCAMINA, leading Microsoft technology software development and member of the management board.  
+
+  For the Spanish Community, he works as organizer and speaker in the most important Microsoft technologies conferences which he is one of the most important leaders. Author of several books and articles in professional magazine, from 2013 he began a new career as co-director of CompartiMOSS, a Microsoft technologies magazine.
+  
+  In 2011 he was named Microsoft MVP and he still retaining recognition for the seventh consecutive year. He defined himself as a geek, smartphones lover and developer. For the community, has founded TenerifeDev (www.tenerifedev.com) with other friends, a technical community in Tenerife, coordinator at SUGES (SharePoint Users Group on Spain, www.suges.es). 
+
+  You can talk to me about Science Fiction. Food. Cloud Architec. World Traveling. SharePoint and Office365!
+tagline: Cloud Computing / Productivity / AI
+image:
+  alt: "Alberto Diaz Martin"
+  src: media/profiles/alberto-diaz.jpg
+connect:
+  - title: Twitter
+    url: https://twitter.com/adiazcan
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/albertodiazmartin/ 
+  - title: GitHub
+    url: https://github.com/adiazcan
+  - title: Facebook
+    url: https://www.facebook.com/adiazcan
+location:
+  display: Valencia, Spain
+  lat: 39.4697500
+  long: -0.3773900

@@ -1,0 +1,29 @@
+### YamlMime:Profile
+uid: rd.patricio-cofre
+name: Patricio Cofre
+metadata:
+  title: Patricio Cofre - Microsoft Regional Director, Metric Arts CEO
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Master of Engineering Management, Northwestern University. I have developed and led several projects of Data Platform, Data Analytics 
+  and Cloud Platform throughout Latin America, mainly in the areas of financial services and retail. I am co-founder and CEO of Metric Arts, 
+  an Analytics & AI specialized firm. I am also lecturer and frequent speakers in Analytics & AI events. In 2016 I was recognized as 
+  Microsoft Data Platform MVP. In Chile I am co-organizer of several meetups, and as RD I pretend the strengthen local developers 
+  communities, as well as keep supporting business leaders to understand the business value of adding analytics & AI to its 
+  processes.
+tagline: Databases / Artificial Intelligence / Digital Transformation
+image:
+  alt: "Patricio Cofre"
+  src: media/profiles/patricio-cofre.jpg
+connect:
+  - title: Facebook
+    url: https://facebook.com/pcofre
+  - title: Twitter
+    url: https://twitter.com/pcofre
+  - title: LinkedIn
+    url: https://linkedin.com/in/pcofre
+location:
+  display: Santiago, Chile
+  lat: -33.4489
+  long: -70.6693

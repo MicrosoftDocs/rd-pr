@@ -1,0 +1,34 @@
+### YamlMime:Profile
+uid: rd.wictor-wilen 
+name: Wictor Wilén
+metadata:
+  title:  Wictor Wilén - global innovation lead Modern Workplace
+  description: Microsoft Regional Director 
+remarks: | 
+  ## Bio
+  Wictor Wilen is a trusted advisor and innovation leader with over three decades of experiences on the Microsoft platforms.
+  
+  As the global innovation lead for Modern Workplace at Avanade Wictor is advising and helping clients cross the globe on the existing modern workplace  landscape and how into navigate the future of employee experiences - where a cloud computing and artificial intelligence is becoming an even more important component - to bring the physical and digital worlds together.
+  
+  Wictor has a history in the web content management and portal industry, where he founded and sold his own software company and saw the dawn of SharePoint back in 2001. Wictor is highly engaged in the SharePoint, and now the broader Microsoft 365 and Azure, community, and been awarded with the Microsoft MVP title every year since 2010. Wictor is one of five worldwide certified Microsoft Certified Architects (MCA) for SharePoint and has achieved the Microsoft Certified Master (MCM) exam twice. He is author of two book on developing for SharePoint - SharePoint Web Parts in Action and Inside Microsoft SharePoint 2013.
+
+  One of Wictors passions is to be creative using code - both professionally and personally - and he is an active open source contributor and is a part of the Microsoft 365 PnP team, managing the Microsoft Teams applications generator - Yo Teams (https://aka.ms/yoteams). He is also an active contributor to multiple Microsoft and non-Microsoft projects at Github.
+
+  Wictor is also a well-renowned speaker at the local and on the international stage. He has been speaking at user groups and conferences, ranging from small ones to tier one Microsoft conferences such as Microsoft Ignite, SharePoint Conference and TechEd.
+tagline: Modern Workplace / Cloud Computing / AI
+image: 
+  alt: "Wictor Wilén" 
+  src: media/profiles/wictor-wilen.jpg
+connect: 
+  - title: Twitter 
+    url: https://twitter.com/wictor 
+  - title: LinkedIn 
+    url: https://linkedin.com/in/wictorw  
+  - title: Github 
+    url: https://github.com/wictorwilen  
+  - title: Blog 
+    url: https://www.wictorwilen.se  
+location: 
+  display: Stockholm, Sweden 
+  lat: 59.334591
+  long: 18.063240

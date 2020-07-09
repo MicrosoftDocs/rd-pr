@@ -1,0 +1,37 @@
+### YamlMime:Profile
+uid: rd.elemar-junior
+name: Elemar Rodrigues Severo Júnior
+metadata:
+  title: Elemar Júnior – CEO at Eximia.Co
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Hello! My name is Elemar Júnior. 
+ 
+  I help developers and IT executives to develop software that meets business needs. I have been using Microsoft technologies for more than 20 years, developing software for 3D interior design, industrial automation, and business integration.
+ 
+  As a consultant, I am dealing with various aspects of cross-platform architecture and technologies. From legacy software to the cloud. From powerful servers to IoT devices. My passion is to build software solutions that can run anywhere.
+ 
+  I am a specialist developing software for complex domains, and in scenarios that demand computation-intensive solutions. Also, I am crazy about productivity and innovation.
+ 
+  The events I speak at span from technical conferences to executive-style events in various verticals with a CxO audience.
+ 
+  For being active in the international enterprise architecture, software architecture & software development communities, I have been awarded as a Microsoft Most Valuable Professional (MVP) since 2011.
+tagline: .NET / Cloud Computing / Software Architecture
+
+image:
+  alt: "Elemar Júnior"
+  src: media/profiles/elemar-junior.jpg
+connect:
+  - title: Facebook
+    url: https://facebook.com/elemarjr
+  - title: Twitter
+    url: https://twitter.com/elemarjr
+  - title: LinkedIn
+    url: https://linkedin.com/in/elemarjr 
+
+location:
+  display: Campo Bom, Rio Grande do Sul, Brazil
+  lat: -29.672185
+  long: -51.064822
+ 

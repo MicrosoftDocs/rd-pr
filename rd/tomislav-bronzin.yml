@@ -1,0 +1,28 @@
+### YamlMime:Profile
+uid: rd.tomislav-bronzin
+name: Tomislav Bronzin
+metadata:
+  title: Tomislav Bronzin – CEO
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  I am Solution Architect and CEO of CITUS, software development company with focus on new innovative products that utilize AI (Deep Learning, Cognitive Services…), Mixed Reality, and Office/Microsoft 365 & Azure. My team and I have won more than 70 international awards in the last 10 years for the innovation in our IT product all around the world, based on my 5 patents. I am speaker at number of IT and business conferences, Ph.D. Candidate and lecturer at University College, author of IT related scientific papers and mentor to number of students, MS Community members and MVP candidates 😊. I have delivered number of workshops from the Silicon Valley, Europe to Asia about different technologies both from Architecture and Deep Technical point of view. As an trusted advisor for Croatian institutions and Croatian delegate in EU institutions I am participating in efforts to create national and EU strategies in the field of AI, IoT, Cyber Security and Cloud Computing. As a Business Development Consultant, in the past 15 years, I have helped founding 10+ Microsoft Innovation Centers in Albania, Bosnia and Herzegovina, Serbia, North Macedonia, Kosovo, Moldova, Georgia, Armenia and helped to create several National ICT Strategies. I have been one of the founders of Microsoft Community in Croatia and, as a Microsoft Regional Director and INETA Europe VP for Communities (both more then 10 years in a row) helped founding number of Microsoft Communities in Central & Eastern Europe. I am Microsoft Most Valuable Professional 15 years in a row, based on my recognized expertise and community work, including mentoring other speakers, Community Champs, today active MVP’s and some of the Regional Directors that are part of current RD program 
+tagline: Microsoft 365 / Cloud Computing / Innovation
+
+image:
+  alt: " Tomislav Bronzin"
+  src: media/profiles/tomislav-bronzin.jpg
+connect:
+  - title: Facebook
+    url: https://facebook.com/tbronzin
+
+  - title: Twitter
+    url: https://twitter.com/tbronzin
+
+  - title: LinkedIn
+    url: https://linkedin.com/in/tbronzin 
+
+location:
+  display: Zagreb, Croatia
+  lat: 45.8012207
+  long: 15.9314531

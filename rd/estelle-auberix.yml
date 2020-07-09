@@ -1,0 +1,33 @@
+### YamlMime:Profile
+uid: rd.estelle-auberix
+name: Estelle Auberix
+metadata:
+  title: Estelle Auberix
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Entrepreneur with focus interests in IT Security & Blockchain applied on Cloud & Fog, Connected Objects & Robotics and Networks (incl. 5G).
+
+  Cofounder of CloudHersity (an association dedicated to promote Parity and Diversity in Cloud and AI), AZUG FR (French MS Azure Users Community) and Organizing Member of aOS Community.
+
+  Mentor, Speaker and Technical Writer.
+
+  Do not hesitate to contact me. I will be happy to help you as much as possible.
+tagline: Diversity / Entrepreneurship / Innovation
+
+image:
+  alt: "Estelle Auberix"
+  src: media/profiles/estelle-auberix.jpg
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/estelle.auberix
+  - title: Twitter
+    url: https://twitter.com/FollowEstelle
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/estelleauberix/
+
+location:
+  display: Paris, France
+  lat: 43.70
+  long: 7.25
+

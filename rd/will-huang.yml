@@ -1,0 +1,35 @@
+### YamlMime:Profile
+uid: rd.will-huang
+name: Will Huang
+metadata:
+  title: Will Huang - CTO @ Duotify Inc.
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+
+  I'm founder and CTO of Duotify Inc for more than 18 years. A software firm dedicated to helping companies build their customized web applications. My company is currently a Microsoft Gold Certified Partner and recognized as a leader in custom software development, consulting services based in Taiwan.
+
+  My name is Will 保哥. In Taiwan, most people are called me "保哥". If you don't know how to pronounce it, you can just call me "Will". :)
+
+  I am a blogger, instructor, book author, conference speaker, Microsoft Regional Director, Microsoft MVP, Google Developer Expert (Angular/Web), LINE API Expert. I loves to share knowledge and has made a number of side-projects helping people to enjoy coding more. I mostly acts as a consultant for enterprises to help them build modern web applications using cutting-edge front-end and back-end technologies such as Angular, .NET Core, Docker or Kubernetes.
+
+  With 20+ years programming and management experience, I have extensive experience in .NET Technologies, JavaScript, Angular, Web developments, Software architecture, Linux and Windows system integration, Agile, DevOps, Containers, Kubernetes, Enterprise information systems, Azure and Visual Studio, as well as helping to mentor and training software teams.
+
+  I usually have a dozen of speeches a year. I also blog things I found, learnt, solved in my works or studies which has been written more than 1350 posts in my blog that covered various technology areas and topics for 11 years long. I also manage the biggest .NET/Web-focused community on Facebook page and groups in Taiwan. Such as “台灣 .NET 技術愛好者俱樂部”, “JavaScript.tw”, “Git.tw”, “Angular Taiwan”.
+
+  Talk to me about: .NET, .NET Core, ASP.NET, C#, Azure, Linux, Docker, Kubernetes, Angular, JavaScript
+tagline: Azure / DevOps / Web
+image:
+  alt: "Will Huang"
+  src: media/profiles/will-huang.jpg
+connect:
+  - title: Facebook
+    url: https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.facebook.com%2Fwill.fans&amp;data=02%7C01%7Cv-huy%40microsoft.com%7C431e616541194604f34508d6fe363f48%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636975906323552028&amp;sdata=Gi2OZY%2B5IWPG15HK1Tvb2%2BfGW%2BrCz5WL9F5Y9XaLyqI%3D&amp;reserved=0
+  - title: Twitter
+    url: https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftwitter.com%2FWill_Huang&amp;data=02%7C01%7Cv-huy%40microsoft.com%7C431e616541194604f34508d6fe363f48%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636975906323552028&amp;sdata=N%2B%2FSDD9LNTfKqTSCsOZS534hdnaWPbNBrk14YF7Gkhg%3D&amp;reserved=0
+  - title: LinkedIn
+    url: https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwill-huang-tw%2F&amp;data=02%7C01%7Cv-huy%40microsoft.com%7C431e616541194604f34508d6fe363f48%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636975906323552028&amp;sdata=waseMY68bRAHKrfWyTeRknXvVgI%2BPJt2xfotvZ2gOcQ%3D&amp;reserved=0
+location:
+  display: Taipei, Taiwan
+  lat: 25.0436381
+  long: 121.5234672

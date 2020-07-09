@@ -71,9 +71,13 @@ tagline: AI / Cloud computing / Quantum Computing
 image:
   alt: "Ciprian Jichici"
   src: media/profiles/ciprian-jichici.jpg
-facebook: https://facebook.com/ciprianjichici.business
-twitter: https://twitter.com/ciprianjichici
-linkedin: https://www.linkedin.com/in/ciprianjichici
+connect:
+  - title: Facebook
+    url: https://facebook.com/ciprianjichici.business
+  - title: Twitter
+    url: https://twitter.com/ciprianjichici
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/ciprianjichici
 location:
   display: Timișoara, Timiș County, Romania
   lat: 45.839447

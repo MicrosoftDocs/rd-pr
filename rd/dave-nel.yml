@@ -7,20 +7,16 @@ metadata:
 remarks: |
   ## Bio
   In 2010, along with my close friend, Ian Roberts, I started Tangent Solutions.
-  A cloud first, digital solutions consulting house that focuses on digital
+  A cloud first, digital solutions consulting company that focuses on digital
   transformation.
   
-  I love mobile and cloud. I'm proficient on iOS and Android, Xamarin Forms,
-  Xamarin Native and true Native. I've done my time on HTML hybrids, and hope
-  not to do it again. Azure is king in my world and I have deployed a number of
-  workloads onto PaaS as well as Linux IaaS. Right now I'm quite excited about
-  using Kubernetes in Azure for our microservices framework, Nimble and the
-  upcoming release of Linux App Services on Azure.
+  I love everything about cloud application development and all the different spectrums it touches. As Tangent is a open source company I'm a major fan
+  of Microsoft's adoption and support of Open Source technologies. Right now I'm excited about Azure Container Services (ACS or AKS), microservices and the Azure Bot Framework.
+  Additionally I love mobile develpment. I'm proficient on iOS and Android, Xamarin Forms, Xamarin Native and true Native. I've done my time on HTML hybrids, and hope not to do it again.
   
   I enjoy working with developer communities and am involved with a couple of
-  User Groups. Currently I'm a co-organizer for the Azure User Group in
-  Johannesburg as well as the Durban Xamarin User Group, giving me an excuse to
-  head to the coast once a month.
+  User Groups. Currently I'm the organizer of the Azure User Group in
+  Johannesburg, have recently launched AzDev (Azure Development) as well as speak at the occasional non-Microsoft related User Group.
   
   I'm very passionate about digital transformation. But digital transformation
   done right. This means targeted MVPs with a DevOps delivery. This approach
@@ -40,12 +36,15 @@ remarks: |
   
   Talk to me about Cloud Modernization, Azure, Bots, Xamarin, Microsoft and Open
   Source.
-tagline: Azure / digital transformation
+tagline: Azure / Bots / Cloud Modernization
 image:
   alt: "Dave Nel"
   src: media/profiles/dave-nel.jpg
-linkedin: https://www.linkedin.com/in/dave-nel-88519726/
-twitter: https://twitter.com/TangentDave
+connect:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/dave-nel-88519726/
+  - title: Twitter
+    url: https://twitter.com/TangentDave
 location:
   display: Johannesburg, Gauteng, South Africa
   lat: -26.204879

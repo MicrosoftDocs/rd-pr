@@ -1,0 +1,26 @@
+### YamlMime:Profile
+uid: rd.niall-merrigan
+name: Niall Merrigan
+metadata:
+  title: Niall Merrigan - Head of Cybersecurity Norway @ Capgemini
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  My name is Niall Merrigan and I lead the Cybersecurity Unit in Norway at Capgemini. I am also a Microsoft MVP (since 2010) and now also a Microsoft Regional Director from 2019. I am originally from Ireland but now live in Norway.
+  I am originally a software developer, but transitioned into the security arena over 15 years ago when I discovered how easy it was to make security mistakes and so I started really learning how this all worked and took an obsessive interest in it. Over the years I have worked with both large and small companies and even some government agencies helping them to build solutions for their needs.
+  When I moved to Norway, it was a case of building back up my community network and I started speaking at local meetups on security topics, eventually finding myself at NDC Oslo which was my first major event. Since then I have spoken across the world on these topics and contnue to do so. I also help on agenda committees from time to time and motivate new speakers to give talks as well as do mentoring.
+  As I said I lead a team, currently 30 security professionals, doing what they do best which is to protect our clients and their digital assets. As lead, I am responsible for all our security offers as well as helping companies succeed in their security journey. I advise our customers on the best in breed technology for their needs as well as helping shape their security culture.
+  On the personal side, I reside in Norway with my wife and kids and mutant cat. I love to cook food, discover new wines and enjoy a good whiskey from time to time
+tagline: Security / Cloud / Development
+image:
+  alt: "Niall Merrigan"
+  src: media/profiles/niall-merrigan.jpg
+connect:
+  - title: Twitter
+    url: https://twitter.com/yourprofile
+  - title: LinkedIn
+    url: https://linkedin.com/in/yourprofile 
+location:
+  display: Stavanger, Norway
+  lat: 58.963333
+  long: 5.718889

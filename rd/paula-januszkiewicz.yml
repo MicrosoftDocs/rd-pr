@@ -1,0 +1,32 @@
+### YamlMime:Profile
+uid: rd.paula-januszkiewicz 
+name: Paula Januszkiewicz  
+metadata:
+  title: Paula Januszkiewicz - Microsoft Regional Director, CEO of CQURE and CQURE Academy, Cloud and Datacenter Management MVP 
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Paula Januszkiewicz is an IT Security Auditor and Penetration Tester, Cloud and Datacenter Management MVP and trainer (MCT), 
+  and Microsoft Security Trusted Advisor. She is also a top speaker at many well-known conferences including TechEd North America,
+  TechEd Europe, TechEd Middle East, RSA, TechDays, and CyberCrime, often rated as number-one speaker. She is engaged as a keynote 
+  speaker for security related events and writes articles on Windows Security. She drives her own company, CQURE, working on 
+  security related issues and projects. Paula has conducted hundreds of IT security audits and penetration tests, some for
+  governmental organizations. Her distinct specialization is on Microsoft security solutions-she holds multiple Microsoft certifications, 
+  and is familiar with and possesses certifications in other related technologies. Paula is passionate about sharing her knowledge 
+  with others. In private, she enjoys researching new technologies, which she converts to authored trainings. What is more, she has
+  access to the Windows source code!
+tagline: Enterprise Security / Cloud and Datacenter Management / Pentesting 
+image:
+  alt: "Paula Januszkiewicz"
+  src: media/profiles/paula-januszkiewicz.jpg
+connect:
+  - title: Twitter
+    url: https://twitter.com/paulacqure 
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/paulajanuszkiewicz 
+  - title: Facebook
+    url: https://www.facebook.com/paula.januszkiewicz  
+location:
+  display: Warsaw, Poland 
+  lat: 52.22967560
+  long: 21.01222870

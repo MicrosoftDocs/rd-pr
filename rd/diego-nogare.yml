@@ -1,0 +1,30 @@
+### YamlMime:Profile
+uid: rd.diego-nogare
+name: Diego Nogare
+metadata:
+  title: Diego Nogare - [CDO - Chief Data Officer]
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Diego Nogare is Chief Data Officer with experience in delivery Data & AI projects. Nogare also is Post-Graduate Professor in AI, Machine Learning, Big Data, Data Science and Statistics programs, research merging AI with Astrophysics to predict solar flare.
+  Professional with more than 15 years in Software field, driving decisions in companies to reach smart solutions using mainly projects based in Data & AI. In beginnings 2000 joined the MSP program, in 2008 was awarded as SQL Server MVP and keep the award 11 years in a row.
+  Serves as volunteer to PASS since 2011 as Chapter Leader, Regional Director, PASS Board Advisor and Director-at-Large.
+  Author of 5 books around SQL Server, Business Intelligence, Machine Learning and Big Data.
+  Nogare’s like to talk about Artificial Intelligence, SQL Server, R Language, Data Science, Machine Learning, Cloud Computing, Cognitive Services, Software Architecture and Business Strategy. Delivering sessions and advise about those areas from north to south in Brazil.
+tagline: AI / Machine Learning / Data Platform    
+image:
+  alt: "Diego Nogare"
+  src: media/profiles/diego-nogare.jpg
+connect:
+  - title: Facebook
+    url: https://facebook.com/DiegoNogare
+  - title: Twitter
+    url: https://twitter.com/DiegoNogare
+  - title: LinkedIn
+    url: https://linkedin.com/in/DiegoNogare 
+
+location:
+  display: São Paulo, SP, Brazil
+  lat: -23.591319
+  long: -46.602027
+

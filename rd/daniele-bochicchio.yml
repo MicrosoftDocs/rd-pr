@@ -3,14 +3,14 @@ uid: rd.daniele-bochicchio
 name: Daniele Bochicchio
 metadata:
   title: Daniele Bochicchio - Microsoft Regional Director
-  description: Chief Digital Officer, Entrepreneur, and Microsoft Regional Director in Milan, Italy
+  description: Chief Digital Officer, Entrepreneur, Community Leader, and Microsoft Regional Director in Milan, Italy
 remarks: |
   ## Bio
   I am Chief Digital Officer for [iCubed](http://icubed.it/), a leading
   Microsoft Gold Partner, currently living in Milan, Italy.
   
   We help customers build fantastic and innovative applications, drive the
-  digital transformation of their business, thought web, mobile, and new
+  digital transformation of their business, thought web, cloud, and new
   technologies. I'm also responsible for the learning division, thanks to my 20
   years of expertise in this area.
   
@@ -57,15 +57,19 @@ remarks: |
   influential people inside of Microsoft and presenting ways for me to consult
   and coach my favorite web programming topics, Visual Studio, and Azure, to
   both our customers and our community in Italy.
-tagline: Design / Entrepreneurship
+tagline: Cloud / Web apps / Innovation
 image:
   alt: "Daniele Bochicchio"
   src: media/profiles/daniele-bochicchio.jpg
-twitter: https://twitter.com/dbochicchio
-facebook: https://facebook.com/dbochicchio
-instagram: https://instagram.com/danielebok
-linkedin: https://www.linkedin.com/in/danielebochicchio
-angel-list: https://angel.co/daniele-bochicchio
+connect:
+  - title: Twitter
+    url: https://twitter.com/dbochicchio
+  - title: Facebook
+    url: https://facebook.com/dbochicchio
+  - title: Instagram
+    url: https://instagram.com/danielebok
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/danielebochicchio
 location:
   display: Milan, Italy
   lat: 45.47196

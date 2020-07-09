@@ -38,11 +38,13 @@ tagline: Cycling / Technology
 image:
   alt: "Mark Ginnebaugh"
   src: media/profiles/mark-ginnebaugh.jpg
-linkedin: https://www.linkedin.com/in/markginnebaugh
-twitter: https://twitter.com/markginnebaugh
-youtube: http://www.youtube.com/user/bayareamicrosoft
-facebook: https://www.facebook.com/DesignMindData
-slideshare: https://www.slideshare.net/DesignMind
+connect:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/markginnebaugh
+  - title: Twitter
+    url: https://twitter.com/markginnebaugh
+  - title: Facebook
+    url: https://www.facebook.com/DesignMindData
 location:
   display: San Francisco, CA, United States
   lat: 37.777118

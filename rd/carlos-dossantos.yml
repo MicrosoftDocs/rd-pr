@@ -14,10 +14,11 @@ remarks: |
   \- Software Developer;  
   \- Microsoft MVP Visual Studio since 2008;  
   \- Articles - write articles for some newsletters;  
-  \- Microsoft Cloud Computing with Azure
+  \- Cloud Computing
+  \- Innovation
   
   ServicesSpecialties:  
-  \- Cloud Development  
+  \- Cloud Computing / Development  
   \- IoT Development  
   \- Mobility Development;  
   \- User Group Lead;  
@@ -40,14 +41,19 @@ remarks: |
   I like walking, running, traveling and piloting drones.
   
   Being in touch with a nature.
-tagline: Coffee / Entrepreneurship
+tagline: Coffee / Innovation
 image:
   alt: "Carlos dos Santos"
   src: media/profiles/carlos-dossantos.jpg
-facebook: https://www.facebook.com/carloscds
-github: https://github.com/carloscds
-linkedin: https://www.linkedin.com/in/cdssoftware/
-twitter: https://twitter.com/cdssoftware
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/carloscds
+  - title: GitHub
+    url: https://github.com/carloscds
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/cdssoftware/
+  - title: Twitter
+    url: https://twitter.com/cdssoftware
 location:
   display: Cornélio Procópio - PR, Brasil
   lat: -23.181419

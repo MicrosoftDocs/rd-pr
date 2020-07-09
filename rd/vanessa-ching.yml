@@ -1,0 +1,29 @@
+### YamlMime:Profile
+uid: rd.vanessa-ching
+name: Vanessa Ching
+metadata:
+  title: Vanessa Ching - [Ecosystem Builder & Industry Developer]
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  I am focused on ecosystem building and developing the industry in the virtual and augmented reality space in my capacity at the XR Alliance, an industry not-for-profit I founded in 2015. In my professional capacity, I am part of the industry development team at GeoWorks which focuses on building and promoting a vibrant geospatial industry and community via helping startups and scale-ups to grow in this space as well as fostering regional partnerships and collaborations. I am also a founder of the XR Women in Asia and the global Women in Immersive Media communities. I practice Aikido. Twitter: @vanradd
+tagline: VR-AR-MR / Innovation / Entrepreneurship 
+
+image:
+  alt: "Vanessa Ching"
+  src: media/profiles/vanessa-ching.jpg
+connect:
+  - title: Facebook
+    url: https://facebook.com/vnezmez
+
+  - title: Twitter
+    url: https://twitter.com/vanradd
+
+  - title: LinkedIn
+    url: https://linkedin.com/in/vanradd 
+
+location:
+  display: Singapore
+  lat: 1.351616
+  long: 103.808053
+

@@ -1,0 +1,28 @@
+### YamlMime:Profile
+uid: rd.suzanne-george
+name: Suzanne George
+metadata:
+  title: Suzanne George – Chief Architect
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Suzanne George, MCTS has developed, administered, and architected online applications since 1995 and has worked in various environments - small, medium, and very large companies. With a focus on Digital Transformation using Office 365 and O365 integration with applications; she has often been asked to speak at conferences around the country.  She is an expert in designing, developing, deploying, managing and troubleshooting complex architectures and solutions on the Microsoft  and other cloud services platforms – with a focus on Collaboration Tools and application integration.  Currently, Suzanne is a Chief Architect for Collaboration Services at Cognizant and has worked closely with Microsoft for years. She also was a contributing author for several books including the SharePoint 2010 Administrators companion.
+
+  When not on the road, Suzanne spends time gardening, baking cupcakes, and volunteering in the community.
+
+tagline: Azure BOT Services / Office 365 / Microsoft Teams
+image: 
+  alt: "Suzanne George"
+  src: media/profiles/suzanne-george.jpg
+connect:
+  - title: Twitter
+    url: https://twitter.com/spgenie
+  - title: Facebook
+    url: https://www.facebook.com/suzgeorge 
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/suzgeorge
+location:
+  display:  Austin, Tx, USA
+  lat: 30.5723468
+  long: -97.6628756
+

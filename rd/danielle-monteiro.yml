@@ -1,0 +1,29 @@
+### YamlMime:Profile
+uid: rd.danielle-monteiro
+name: Danielle Monteiro
+metadata:
+  title: Danielle Monteiro - [Data Architect]
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  I am a master in computer engineering, Microsoft MVP (Data Platform category), MongoDB Innovation Award Winner for work with communities (Wiliam Zola Award), MongoDB Female Innovator, TEDx Speaker.
+  I really love to work with data! 
+  I am WDB.Consulting founder, a consultancy focused on database solutions and training, data architecture, data governance and cloud computing.
+  I spoke in major events inside and outside Brazil.  I love to speak because I'm a person who talks a lot and I love being in contact with the community. I am even happier if the conversation is about technology and is accompanied by a coffee.
+tagline: Data Base / Big Data / AI
+
+image:
+  alt: "Danielle Monteiro"
+  src: media/profiles/danielle-monteiro.jpg
+connect:
+  - title: Facebook
+    url: https://facebook.com/danimonteirodba
+  - title: Twitter
+    url: https://twitter.com/danimonteirodba
+  - title: LinkedIn
+    url: https://linkedin.com/in/danimonteirodba 
+
+location:
+  display: São Paulo, São Paulo, Brazil
+  lat: -23.5489
+  long: -46.6388

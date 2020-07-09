@@ -1,0 +1,32 @@
+### YamlMime:Profile
+uid: rd.kate-carruthers
+name: Kate Carruthers
+metadata:
+  title: Kate Carruthers – Chief Data & Insights Officer
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Kate Carruthers is the Chief Data & Insights Officer for the University of New South Wales in Sydney Australia and is also an Adjunct Senior Lecturer in the School of Computer Science & Engineering. She is a Certified Information Security Manager and is currently undertaking postgraduate studies in cybersecurity.
+
+  Kate is the co-host, together with Annie Parker, of [the podcast Conversations with Annie & Kate](https://www.youtube.com/channel/UCAgT1MYIT7XIY3CA3qAanrw), which showcases interesting women. She is active in supporter of women in Engineering, ICT and Cybersecurity.
+
+  Kate has extensive experience in senior roles in ICT across the finance sector, marketing, data and digital; and is a member of the NSW Government’s Data Analytics Centre Advisory Board. She was co-founder of several startups and is currently an adviser to My Medic Watch.
+
+  She is currently working at the intersection of data analytics, AI, ML, privacy, cyber security, and data protection. 
+  https://katecarruthers.com/
+tagline: Data Analytics / AI / Cybersecurity
+image:
+  alt: "Kate Carruthers"
+  src: media/profiles/kate-carruthers.jpg
+connect:
+  - title: Facebook
+    url: https://facebook.com/carruthk
+  - title: Twitter
+    url: https://twitter.com/kcarruthers
+  - title: LinkedIn
+    url: https://linkedin.com/in/katecarruthers 
+location:
+  display: Sydney, NSW, Australia
+  lat: 33.9169
+  long: 151.2299
+

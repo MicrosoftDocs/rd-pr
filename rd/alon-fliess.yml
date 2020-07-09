@@ -85,11 +85,13 @@ tagline: Chief Software Architect / Azure / IoT
 image:
   alt: "Alon Fliess"
   src: media/profiles/alon-fliess.jpg
-twitter: https://twitter.com/alon_fliess
-linkedin: https://www.linkedin.com/in/alon-fliess-36655
-youtube: https://www.youtube.com/channel/UCVf9vedUdzX44V2wwteArhQ
-github: https://github.com/alonf
-wordpress: http://blogs.microsoft.co.il/alon
+connect:
+  - title: Twitter
+    url: https://twitter.com/alon_fliess
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/alon-fliess-36655
+  - title: GitHub
+    url: https://github.com/alonf
 location:
   display: Israel
   lat: 33.290782

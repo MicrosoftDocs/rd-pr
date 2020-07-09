@@ -1,0 +1,26 @@
+### YamlMime:Profile
+uid: rd.Stefan-Hoppe
+name: Stefan Hoppe
+metadata:
+  title: Stefan Hoppe – [ ]
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Stefan Hoppe is the OPC Foundation President since end 2018 coordinating the OPC expansion into the Internet of Things & Industrie4.0.
+  Stefan has been the Global Vice President since 2014 and the President of the OPC Europe organization since 2010 being the catalyst for initiating liaisons with other industrial consortiums that has resulted in OPC working groups developing companion specifications for the organizations respective information models.
+  Stefan Hoppe studied electrical engineering at the Technical University of Dortmund, Germany. Since 1995 he has worked for BECKHOFF Automation, starting as a software developer later as a lead Product Manager with focus on PC based Automation, connectivity and embedded software products.
+  You can reach Stefan under stefan.hoppe@opcfoundation.org
+tagline: Cloud / Embedded / Connectivity
+image:
+  alt: "Stefan Hoppe"
+  src: media/profiles/stefan-hoppe.jpg
+connect:
+  - title: Twitter
+    url: https://twitter.com/OPCFoundation
+  - title: LinkedIn
+    url: https://linkedin.com/in/stefan-hoppe-44b0014 
+location:
+  display: Verl, NRW, Germany
+  lat: 51.881962
+  long: 8.510740
+

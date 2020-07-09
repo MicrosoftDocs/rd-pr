@@ -3,7 +3,7 @@ uid: rd.carlos-mattos
 name: Carlos Mattos
 metadata:
   title: Carlos Mattos - Microsoft Regional Director
-  description: Microsoft Regional Director, Enterprise Architect, and Public Speaker in São Paulo, Brazil
+  description: Microsoft Regional Director, Writer, Speaker, Evangelist, and Director of Technology and Architecture at GFT Group in São Paulo, Brazil
 remarks: |
   ## Bio
   Enterprise IT operates far differently today than it did a decade or even just
@@ -20,9 +20,13 @@ tagline: Technology / Innovation / Entrepreneurship
 image:
   alt: "Carlos Mattos"
   src: media/profiles/carlos-mattos.jpg
-facebook: https://facebook.com/mattos.carlos
-linkedin: https://www.linkedin.com/in/carlosmattos/
-twitter: https://twitter.com/cmattos
+connect:
+  - title: Facebook
+    url: https://facebook.com/mattos.carlos
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/carlosmattos/
+  - title: Twitter
+    url: https://twitter.com/cmattos
 location:
   display: São Paulo - State of São Paulo, Brazil
   lat: -23.56287
