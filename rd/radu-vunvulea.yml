@@ -1,0 +1,26 @@
+### YamlMime:Profile
+uid: rd.Radu-Vunvulea
+name: Radu Vunvulea
+metadata:
+  title: Radu Vunvulea - Group Head of Cloud
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio ‘Servus,’ I am Radu, and I am part of Endava, working as Group Head of Cloud. I am based in the middle of Transylvania, in a beautiful city called Cluj-Napoca (Romania). In most of my time, I am the bridge between business and technology, enabling companies to reinvent themselves using technology. In the rest of my time, I build capabilities and communities, offering people a strong environment where they can learn and improve their skills. 
+  I am working closely with different types of people and customers from all around the world, from EMEA and NA to LATAM and APAC. It was a big won, helping me to understand better different cultures and how we can support each other better. I am involved in IT programs where there is a mix of technologies (e.g., Java, .NET, JavaScript and even COBOL), open-source projects, and many stakeholders. The combination between them increases the complexity of programs and makes me love my job more. This forced me to learn not only multiple programming languages but also focus on open source projects and different ecosystems. 
+  From a business point of view, I have a strong experience in healthcare, financial, banking, and car manufacturers sector. I am involved in building IT strategies of large organizations, where cloud, AI, security, IoT and governance are important. 
+  The first cloud solution that went in production was in 2010 and from then I had the opportunity to be involved in almost 300 cloud projects that are running on top of AWS, GCP, and Microsoft Azure.  In my free time, I love to write, support the local community, and meet new people. Therefore, I love to travel and participate in IT and business events as a speaker or attendee. In the last 16 years, I got a lot of technical and business certification (e.g., MCP, MCSA, Togaf),  and recognitions like Microsoft Azure MVP. The biggest challenge that I have is finding the right balance between work and family, especially nowadays, when technology evolves so fast. 
+tagline: Cloud Computing / Innovation / Cross-Platform
+image:
+  alt: "Radu Vunvulea"
+  src: media/profiles/radu-vunvulea.jpg
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/radu.vunvulea
+  - title: Twitter
+    url: https://twitter.com/RaduVunvulea
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/raduvunvulea/
+location:
+  display: Cluj-Napoca, Cluj , Romania
+  lat: 46.7712
+  long: 23.6236

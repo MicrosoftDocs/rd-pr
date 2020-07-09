@@ -1,0 +1,31 @@
+### YamlMime:Profile
+uid: rd.erdal-ozkaya
+name: Dr. Erdal Ozkaya
+metadata:
+  title: Dr. Erdal Ozkaya - Regional CISO
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Dr. Erdal Ozkaya is a leading Cybersecurity Professional with business development, management, and Academic skills who focuses on securing the Cyber Space & sharing his real-life skills as a Security Advisor, Speaker, Lecturer, and Author.
+
+  Erdal is known to be passionate about reaching communities, creating cyber aware campaigns, leveraging new and innovative approaches and technologies to holistically address the information security and privacy needs for every person and organization in the world.
+
+  He is an award-winning technical expert & speaker: His recent awards are: Super Hero CISO (2020) Cyber Security Professional of the year MEA , Hall of Fame by CISO Magazine , Cybersecurity Influencer of the year (2019) ,Microsoft Circle of Excellence Platinum Club (2017), NATO Center of Excellence (2016) Security Professional of the year by MEA Channel Magazine (2015), Professional of the year Sydney (2014) and many speaker of the year awards in conferences. He also holds Global Instructor of the year awards from EC Council & Microsoft. Erdal is also a part-time lecturer at Australian Charles Sturt University
+
+  Erdal has co-authored many cybersecurity books as well as security certification course-ware and exams for different vendors.
+tagline: Cyber Security / Windows / Technology Advisor
+image:
+  alt: "Dr. Erdal Ozkaya"
+  src: media/profiles/erdal-ozkaya.jpg
+connect:
+  - title: Facebook
+    url: https://facebook.com/drerdalozkaya
+  - title: Twitter
+    url: https://twitter.com/erdal_ozkaya
+  - title: LinkedIn
+    url: https://linkedin.com/in/erdalozkaya 
+location:
+  display: Australia
+  lat: -33.8688
+  long: 151.2093
+
