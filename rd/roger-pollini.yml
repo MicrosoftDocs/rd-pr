@@ -17,11 +17,11 @@ image:
   src: media/profiles/roger-pollini.jpg
 connect:
   - title: Facebook
-  url: https://facebook.com/techtask
+    url: https://facebook.com/techtask
   - title: Twitter
-  url: https://twitter.com/techtask
+    url: https://twitter.com/techtask
   - title: LinkedIn
-  url: https://www.linkedin.com/in/rogerpollini/
+    url: https://www.linkedin.com/in/rogerpollini/
 location:
   display: Bern, Switzerland
   lat: 46.948980

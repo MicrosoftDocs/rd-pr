@@ -23,11 +23,11 @@ image:
   src: media/profiles/sharon-weaver.jpg 
 connect: 
   - title: Facebook 
-  url: https://facebook.com/sharon.p.weaver 
+    url: https://facebook.com/sharon.p.weaver 
   - title: Twitter 
-  url: https://twitter.com/sharoneweaver 
+    url: https://twitter.com/sharoneweaver 
   - title: LinkedIn 
-  url: https://linkedin.com/in/sharonweaver/  
+    url: https://linkedin.com/in/sharonweaver/  
 location: 
   display: Lenexa, KS, United States 
   lat: 38.9536
