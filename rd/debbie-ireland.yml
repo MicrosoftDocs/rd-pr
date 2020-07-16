@@ -1,0 +1,28 @@
+### YamlMime:Profile
+uid: rd.debbie-ireland
+name: Debbie Ireland
+metadata:
+  title: Debbie Ireland – Managing Director
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Known for being a courageous catalyst for change, Debbie is a respected leader in the online collaboration space. From strategy and vision to change management, adoption, and everything in between, Debbie thrives on helping companies understand the business capability and productivity gains that Microsoft 365 can provide.
+ 
+  Debbie regularly presents on digital transformation and Microsoft 365, highlighting the vital behavioural aspects of change to engage people in new technology. She organises the annual Digital Workplace Conferences in New Zealand and Australia. Debbie was awarded as an MVP for nine years, and worked with Microsoft technologies for the last 15 years.
+ 
+  Debbie also blogs and speaks about work-life balance (and the associated myths) and her own self-development transformation journey. Debbie lives in Tauranga, New Zealand.
+tagline: Digital Workplace Strategy / Microsoft 365 / Productivity
+image:
+  alt: "Debbie Ireland"
+  src: media/profiles/debbie-ireland.jpg
+connect:
+  - title: Facebook
+    url: https://facebook.com/debbieireland.12
+  - title: Twitter
+    url: https://twitter.com/debbieireland
+  - title: LinkedIn
+    url: https://linkedin.com/in/debbieireland 
+location:
+  display: Tauranga, New Zealand
+  lat: -37.68333
+  long: 176.16667
