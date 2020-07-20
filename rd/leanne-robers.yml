@@ -1,0 +1,29 @@
+### YamlMime:Profile
+uid: rd.leanne-robers
+name: Leanne Robers
+metadata:
+  title: Leanne Robers – Co-Founder and Co-CEO She Loves Tech
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Leanne Robers is an entrepreneur, startup advisor, community builder and public speaker. Leanne is the Co-Founder of She Loves Tech, the world’s largest startup competition and accelerator program for women-led and women-impact tech startups. Now operating in over 25 countries, She Loves Tech is a global platform committed to building an ecosystem for technology, entrepreneurship and innovation that creates opportunities for women and closes the gender gap in startup funding. Since its founding in 2015, more than 2000 startups have gone through She Loves Tech's programs and have gone on to raise more than USD$100M.
+ 
+  In Leanne’s first job, at Siemens UK, she taught herself HTML and CSS and built her department’s SharePoint site across the UK. Since then, Leanne has co-founded 4 companies – a real estate and hospitality company, a fintech company and an art and tech company and lastly, She Loves Tech.
+ 
+  An active presence in the Singapore startup community, Leanne is also a lead mentor for the Singapore Tourism Board tech accelerator program and for the Facebook Community Accelerator Program. She speaks frequently on the topics of women leadership and entrepreneurship. In 2019, Leanne was selected as an Obama Leader (Asia Pacific) and was awarded the Booking.com’s Tech Playmaker of the year award and Champion of Change award 2020.
+tagline: innovation / Blockchain / AI
+image:
+  alt: "Leanne Robers"
+  src: media/profiles/leanne-robers.jpg
+connect:
+  - title: Facebook
+    url: https://facebook.com/leannemichellerobers
+  - title: Instagram
+    url: https://instagram.com/leannerobers
+  - title: LinkedIn
+    url: https://linkedin.com/in/leannerobers 
+location:
+  display: Singapore
+  lat: 1.3521
+  long: 103.8198
+
