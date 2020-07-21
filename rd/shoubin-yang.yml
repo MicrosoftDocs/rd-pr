@@ -1,0 +1,26 @@
+### YamlMime:Profile
+uid: rd.shoubin-yang
+name: Shoubin Yang
+metadata:
+  title: Shoubin Yang - Microsoft Regional Director
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  I'm the VP&CTO at Sarnath, a software company in Qingdao, China. We are working in Clean Energy industry, we use information system to control and operate clean energy generation, in order to enable solar and wind power plants to generate more clean electricity. As a leader, my team is a diverse and energetic team with different roles of engineers, including Software, Hardware, IoT, Big Data, AI, etc. We use Azure as our cloud platform. I'm also a Azure MCP, please talk to me about any issues of Azure.
+
+  I'm also thinking about how to make it easier for more people to access computer technology, for the past several years, I lectured in universities and colleges, and community to help the students and engineers learn new language development and computer skills. I communicated with students and taught them real cases of IT development. I also began to record online courses. Through online courses, I am able to help more college students and ordinary people. If you have any good suggestions of courses, please let me know.
+
+  I am also doing AI research in the field of sports, if you are interested in motion capture, NLP-based automatic commentary, please also contact me to communicate.
+tagline: Cloud / IoT / AI
+image:
+  alt: "Shoubin Yang"
+  src: media/profiles/shoubin-yang.jpg
+connect:
+  - title: GitHub
+    url: https://github.com/fireinwind
+  - title: LinkedIn
+    url: https://linkedin.com/in/shoubin-yang-a0a830140/
+location:
+  display: Qingdao, China
+  lat:  36.077485
+  long: 120.401847
