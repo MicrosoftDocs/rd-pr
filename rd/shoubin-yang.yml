@@ -2,8 +2,8 @@
 uid: rd.shoubin-yang
 name: Shoubin Yang
 metadata:
-title: Shoubin Yang - Microsoft Regional Director
-description: Microsoft Regional Director
+  title: Shoubin Yang - Microsoft Regional Director
+  description: Microsoft Regional Director
 remarks: |
   ## Bio
   I'm the VP&CTO at Sarnath, a software company in Qingdao, China. We are working in Clean Energy industry, we use information system to control and operate clean energy generation, in order to enable solar and wind power plants to generate more clean electricity. As a leader, my team is a diverse and energetic team with different roles of engineers, including Software, Hardware, IoT, Big Data, AI, etc. We use Azure as our cloud platform. I'm also a Azure MCP, please talk to me about any issues of Azure.
