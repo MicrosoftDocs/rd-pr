@@ -1,0 +1,33 @@
+### YamlMime:Profile
+uid: rd.mico-yuk
+name: Mico Yuk
+metadata:
+  title: Mico Yuk - CEO/Co-Founder, BI Brainz | Analytics on Fire Podcast Host
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  I’m Mico Yuk (@micoyuk) the CEO/Co-founder of BI Brainz and the founder of the BI/Analytics Data Storytelling (BIDS) Framework and BI Dashboard Formula Methodology. I am also the host of the Analytics on Fire podcast, an author, and a global keynote speaker. In the last 12 years, I’ve been blessed to train thousands globally on how to strategically use the power of data visualization to enhance the decision-making process. Both of our methodologies fuse the art of data storytelling and visualization to drive users to take action. I’ve worked with a number of Fortune 500 companies such as Shell, FedEx, Nestle, Qatargas, Ericsson, Kimberly-Clark, and FedEx. 
+
+  Besides being a recent Microsoft Data Platform MVP and RD, I was named the #7 most influential entrepreneur in BI by Onalytics. Some of my top-rated keynotes include AnitaB.Org Hopper x London, Real Business Intelligence Conference at MIT, Google BlacktechMecca, Facebook Women in Analytics, Booz Allen Inspiration Series, Microsoft PASS Business Analytics Conference, and Big Data World in London to name a few. 
+  
+  My mission in the next decade of my career is focused on creating the leaders of tomorrow. To do this, I am leading two initiatives: the Power BI Women group and helping to start and ignite Power BI User Groups throughout the Caribbean where I am from.
+
+  In my spare time, I spend as much time as I can next to the ocean or in the bookstore (boring I know). I love helping others, and working with BI/Analytics leaders who are truly seeking change. Our community and the success of our students, give me new fuel to keep growing and evolving daily! 
+
+  To learn more about me visit micoyuk.com.
+tagline: Power BI / Business Intelligence / Data Analytics
+image:
+  alt: "Mico Yuk"
+  src: media/profiles/mico-yuk.jpg
+connect:
+  - title: Facebook
+    url: https://facebook.com/micoyuk
+  - title: Twitter
+    url: https://twitter.com/micoyuk
+  - title: LinkedIn
+    url: https://linkedin.com/in/micoyuk
+location:
+  display: Atlanta, GA USA
+  lat: 33.928539
+  long: -84.340187
+
