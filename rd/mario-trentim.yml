@@ -1,0 +1,47 @@
+### YamlMime:Profile
+uid: rd.mario-trentim
+name: Mario Trentim 
+metadata:
+  title: Mario Trentim – CEO at PMO Global Alliance
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  As an Engineer, I have a passion for creativity, problem-solving, continuous improvement, and technology.
+ 
+  Over the last +15 years, I´ve been helping organizations to build new capabilities and to realize more benefits by adopting portfolio and project management best practices.
+ 
+  I had the pleasure to work with organizations of all shapes and sizes from different industries (Construction, Nonprofits, Retail, Banking, IT, Telecom, Oil & Gas, Aerospace, Defense, Government, and more).
+ 
+  And I also had the privilege to work with multi-cultural teams in different regions (America, Europe, Africa, Middle East, Asia).
+ 
+  Currently, I am the CEO at PMO Global Alliance and Executive Director at TRENTIM.com Business Solutions, a Microsoft Gold Partner company. I am also a former member at PMWB.org Board of Directors and PMIEF.org Board of Directors (2016-2018).
+ 
+  If you are interested in embracing Digital Transformation, developing Portfolio Project Management Maturity, and Developing New Capabilities to bridge the gap between Strategic Planning and Business Results, count on me.
+ 
+  Expertise:
+  Strategic Planning and Business Management
+  Maturity Level Analysis and PMO Implementation
+  Project, Program and Portfolio Management
+  Finance and Risk Management
+  Project Management Office
+  Contracts and Procurement
+
+  Microsoft Business Solutions:
+  - Microsoft Office 365
+  - Microsoft PPM Project Online
+  - Microsoft Power Platform 
+tagline: Power Platform / Project Management / Productivity
+image:
+  alt: "Mario Trentim"
+  src: media/profiles/mario-trentim.jpg
+connect:
+  - title: Facebook
+    url: https://facebook.com/mariotrentim
+  - title: Twitter
+    url: https://twitter.com/mariotrentim
+  - title: LinkedIn
+    url: https://linkedin.com/in/trentim 
+location:
+  display: SJCampos, SP, Brazil
+  lat: -23.223701
+  long: -45.900906
