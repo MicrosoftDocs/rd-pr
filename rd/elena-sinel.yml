@@ -1,0 +1,31 @@
+### YamlMime:Profile
+uid: rd.elena-sinel
+name: Elena Sinel
+metadata:
+  title: Elena Sinel - CEO, Teens in AI
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Elena Sinel is a multi-award-winning social entrepreneur on a mission to revolutionise education across the globe.  
+
+  Teens In AI is Elena’s latest initiative, spurred by her passion for AI and its ability to create a positive and lasting impact on the world. It was officially launched at the ITU’s AI For Good Global Summit with the mission to create pipelines for underrepresented talent, thereby improving diversity and inclusion in Artificial Intelligence. It offers young people aged 12-18 early exposure to AI for social good through a combination of expert mentoring, talks, workshops in AI/ML, human-centred design and ethics, hackathons, accelerators, company tours and networking opportunities. The vision is for AI to be developed by a diverse group of thinkers and doers advancing AI for humanity’s benefit. 
+
+  Elena is a highly sought after speaker. Her latest achievements include:
+  •	Winner - Women4Technology – Industry Leadership Award, Mobile World Summit 2020
+  •	Winner - Diversity Award, Mobile World Summit 2020
+  •	50 Computer Weekly most influential women in UK technology 2019
+  •	CERPrize Winner 2019
+image:
+  alt: "Elena Sinel"
+  src: media/profiles/elena-sinel.jpg
+connect:
+  - title: Facebook
+    url: https://facebook.com/teensinai
+  - title: Twitter
+    url: https://twitter.com/elena_sinel
+  - title: LinkedIn
+    url: https://linkedin.com/in/elenasinel 
+location:
+  display: London, UK
+  lat: 51.509865
+  long: -0.118092
