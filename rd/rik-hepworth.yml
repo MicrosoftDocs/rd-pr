@@ -1,0 +1,34 @@
+### YamlMime:Profile
+uid: rd.rik-hepworth
+name: Rik Hepworth
+metadata:
+  title: Rik Hepworth – Chief Consulting Officer, Black Marble
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  I have been a Director of [Black Marble](https://www.blackmarble.com), a leading software company in the north of England for over ten years. Throughout my career I’ve worked with a broad range of vendors and equipment, usually getting them to work well together. I now run Black Marble’s Consultancy business, where my team and I are responsible for helping our customers’ IT activities drive business value.
+  
+  My key areas of focus are Cloud and DevOps, and I work with customers in areas such as application modernisation, integration, improving development and delivery processes, and cloud governance. One of the great joys of my current role is that I get to engage with customers at many levels, from C-suite executives to individual developers and IT pros, learning about their work and goals and helping them to achieve more through better use of technology.
+  
+  I am a Chartered IT Professional and member of the British Computing Society. I care about the level of professionalism in our industry and how we engage with our customers as practitioners. 
+  
+  As a proud supporter of our great technology community, I am involved with the organisation of the [DDD North]( https://www.dddnorth.co.uk/) and [Reading]( http://developerdeveloperdeveloper.com/) community conferences and you will find me speaking at conferences and user groups throughout the year, both in person and online.
+  
+  Since 2014, I have been a member of the [Microsoft MVP Award]( https://mvp.microsoft.com/en-us/PublicProfile/5001139?fullName=Rik%20Hepworth) programme for my community activities focused on the Azure public cloud.
+  
+  I’ve been in the industry for a long time now and worked with a broad range of technologies and platforms. If you see me at an event please introduce yourself – I’ll happily engage in conversation on anything from coax cabling to cloud, but especially community and Lego!
+tagline: Cloud / DevOps 
+image:
+  alt: "Rik Hepworth"
+  src: media/profiles/rik-hepworth.jpg
+connect:
+  - title: GitHub
+    url: https://github.com/rikhepworth
+  - title: Twitter
+    url: https://twitter.com/rikhepworth
+  - title: LinkedIn
+    url: https://linkedin.com/in/rik-hepworth-17534b8 
+location:
+  display: Bradford, West Yorkshire, United Kingdom
+  lat: 53.792518
+  long: -1.753911
