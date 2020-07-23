@@ -1,0 +1,30 @@
+### YamlMime:Profile
+uid: rd.hans-nemarich
+name: Hans Nemarich
+metadata:
+  title: Hans Nemarich - Chief Technology Officer at N12
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Hello, I’m Hans.
+ 
+  As a Chief Technology Officer at N12, I’m in charge of all Innovation and Digital Transformation initiatives, using technology to solve the challenges of matching people with jobs in Latin America.
+ 
+  I studied Psychology and Computer Science and I’ve worked in technology for almost 20 years now, most of the time helping high-potential startups to scale and achieve their goals. I love to support tech communities and be part of the impact they can bring to their members and the tech ecosystem. Currently, I’m a co-founder of Azure Clouders Chile, founder of Rust Language Chile Meetup Group and one of the organizers of Hacking HR Santiago Chapter also in Chile.
+ 
+  I’m a regular public speaker in tech events, mentor at the Latam largest startup accelerator and professor at Universidad Catolica, one of the top Chilean universities. Contact me to talk about AI, Text Analytics, NLP, Psychology, Neuroscience and Cognitive Services. 
+tagline: AI / Cognitive Services / Text Analytics
+image:
+  alt: "Hans Nemarich"
+  src: media/profiles/hans-nemarich.jpg
+connect:
+  - title: Facebook
+    url: https://facebook.com/hans.nemarich
+  - title: Twitter
+    url: https://twitter.com/hansnemarich
+  - title: LinkedIn
+    url: https://linkedin.com/in/hansnemarich
+location:
+  display: Santiago, Chile
+  lat: -33.445992
+  long: -70.667061
