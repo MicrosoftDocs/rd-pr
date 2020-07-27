@@ -1,0 +1,32 @@
+### YamlMime:Profile
+uid: rd.constantin-klein
+name: Constantin Klein
+metadata:
+  title: Constantin Klein - Global Product Lead Microsoft
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Hi, I’m Constantin “Kostja” Klein from Germany, Global Product Lead Microsoft for [Syntax Systems](https://www.syntax.com/). I design and develop solutions based on Microsoft products and technologies. I am also responsible for our Managed Service Offerings around the Microsoft platform and have a current focus on SAP on/and Azure.
+
+  In my role I talk regularly to Business Leaders and Executives about their digitization challenges and technology innovation. This also fuels my personal interest for everything AI, Cloud, IoT, Edge and (digital) Leadership.
+
+  I am a passionate community guy and very active in the Data Platform space. Therefor I’ve been awarded with the Most Valuable Professional (MVP) for the Microsoft Data Platform since 2010 continuously. In addition I’ve started and run several user groups (e.g. .NET User Group Frankfurt) and am an active member of the board of [PASS Deutschland e.V.](https://www.sqlpass.de/)
+
+  I love travelling, great food, sharing knowledge, meeting people from all over the world and discussing tech and innovation. That’s why you will find me speaking or attending at a lot of regional (e.g. SQL Saturday, DWX, Global Azure Bootcamp) and global (Inspire, Ignite, SAPPHIRE NOW) events and conferences.
+
+  Home is with my family – my wife, my two lovely kids and our dog – and our friends, where I find a safe haven where I can rest, get any kind of support and recharge my batteries.
+tagline: Data & AI / Cloud / Leadership
+image:
+  alt: "Constantin Klein"
+  src: media/profiles/constantin-klein.jpg
+connect:
+  - title: Facebook
+    url: https://facebook.com/KostjaKleinMA
+  - title: Twitter
+    url: https://twitter.com/KostjaKlein
+  - title: LinkedIn
+    url: https://linkedin.com/in/constantin-klein/ 
+location:
+  display: Mannheim, BW, Germany
+  lat: 49.484232
+  long: 8.475599
