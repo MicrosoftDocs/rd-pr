@@ -14,8 +14,6 @@ image:
   alt: "Melody Zacharias"
   src: media/profiles/melody-zacharias.jpg
 connect:
-  - title: Facebook
-    url: https://facebook.com/yourprofile
   - title: Twitter
     url: https://twitter.com/SQLMelody
   - title: LinkedIn
