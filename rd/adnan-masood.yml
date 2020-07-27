@@ -1,0 +1,28 @@
+### YamlMime:Profile
+uid: rd.adnan-masood
+name: Adnan Masood
+metadata:
+  title: Adnan Masood, PhD - Chief AI Officer
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  • Dr. Adnan Masood is Chief AI officer, and Lead Architect at UST-Global.  In his role, he is responsible for the firm’s overall strategy for cognitive computing, artificial intelligence, machine learning, and academic relationships.
+  
+  • Adnan is a seasoned researcher, engineer, author, and thought leader with over 20 years of global experience in financial technology, and developing large scale systems. He is recognized as Microsoft Regional Director, and MVP (Most Valuable Professional) for Artificial Intelligence by Microsoft for his outstanding contributions in the field. As Chief Architect of AI and Machine Learning at UST Global, Dr. Masood collaborates with Stanford Artificial Intelligence Lab, MIT CSAIL, and lead a team of data scientists and engineers building artificial intelligence solutions to produce business value and insights that affect a range of businesses, products, and initiatives.
+  
+  • Throughout his career, Dr. Masood has been a trusted advisor to the C-suite, from Fortune 500 companies to startups. Author of Amazon bestseller in programming languages, "Functional Programming with F#", Adnan teaches Data Science at Park University, and has taught Windows WCF courses at UCSD. He is an international speaker to academic and technology conferences, code camps, and user groups. Dr. Masood volunteers as STEM robotics coach for elementary and middle school students, and is a diversity advocate at workplace.
+  
+  • International speaker at ISG Summit, Azure+AI Conference, IEEE-HST, IASA, DevConnections, WBA Geekfest, WICT, code camps, and user groups. 
+tagline: AI & Machine Learning / Explainable & Interpretable AI / Strategy & Governance
+image:
+  alt: "Adnan Masood"
+  src: media/profiles/adnan-masood.jpg
+connect:
+  - title: Twitter
+    url: https://twitter.com/adnanmasood
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/adnano/ 
+location:
+  display: Tampa, FL, United States
+  lat: 28.0353
+  long: -82.3893
