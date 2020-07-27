@@ -1,0 +1,34 @@
+### YamlMime:Profile
+uid: rd.ahmed-nabil
+name: Ahmed Nabil Mahmoud
+metadata:
+  title: Ahmed Nabil Mahmoud - Regional Information Security and Risk Manager
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Ahmed Nabil has more than 19 years of experience in the field of Information Technology/Systems, Infrastructure, Project Management, Information Security, Application development/Automation, IT management and holds several professional IT certifications from Microsoft, CISCO, ISACA, ISC2, PMI, CWNP, PECB and EC- Council. Ahmed is an industry expert in Information Security and Digital Transformation, public speaker at several international conferences (Microsoft Ignite the Tour, ITCamp Cluj, CISO Africa Summit, Egypt CSCAMP, Cyber in Africa, SAYA, SharePoint Saturdays, CloudWeekend…..etc.) and author of several articles published in different international security magazines and a recent book on M365 Security technologies co-authored with other fellow MVPs.
+
+  Ahmed Nabil graduated in 2000 with a BS in Electrical and Control Engineering. He completed his graduate education and earned MSc in Business Information Technology from School of Computer Science, Middlesex University, UK in 2007 and Master of Business Administration (MBA) from International Business School of Scandinavia in 2016.
+
+  Ahmed is currently the Regional Information Security and Risk Manager in a leading International financial institution, prior to this Ahmed was the Global Chief Security Architect at one of the top Oil and Gas companies in the world as well as the CISO and CIO for top Engineering company in Egypt and Middle East.
+
+  Ahmed was awarded the Microsoft Most Valuable Professional Award in Enterprise security/Cloud and Data Center Management for 8 years in row from 2013 to 2020 for his exceptional knowledge sharing and community leadership in Egypt and Middle East Region.
+
+  Ahmed recently received the MESA CISO 100 Award from the MESA conference held in Dubai for the top CISO executives in the Middle East and was finalist in EC-COUNCIL CISO awards 2018 (Atlanta, US)
+
+  Ahmed was recently selected as a member of the EC-Council CCISO advisory board due to his Industry standing and deep experience.
+
+  When i am not working with computers I enjoy travelling the whole world with my family (I visited more than 20 cities over the world) and watching football games especially English Premier league.
+tagline: Cloud Computing / Enterprise Security / Architecture
+image:
+  alt: "Ahmed Nabil Mahmoud"
+  src: media/profiles/ahmed-nabil.jpg
+connect:
+  - title: Twitter
+    url: https://twitter.com/itcalls_anabil
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/ahmednabilmahmoud
+location:
+  display: Cairo, Egypt
+  lat: 30.0444
+  long: 31.2357
