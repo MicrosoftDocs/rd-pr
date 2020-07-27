@@ -12,8 +12,8 @@ remarks: |
   • International speaker at ISG Summit, Azure+AI Conference, IEEE-HST, IASA, DevConnections, WBA Geekfest, WICT, code camps, and user groups. 
 tagline: AI & Machine Learning / Explainable & Interpretable AI / Strategy & Governance
 image:
- alt: "Adnan Masood"
- src: media/profiles/adnan-masood.jpg
+  alt: "Adnan Masood"
+  src: media/profiles/adnan-masood.jpg
 connect:
   - title: Twitter
     url: https://twitter.com/adnanmasood
