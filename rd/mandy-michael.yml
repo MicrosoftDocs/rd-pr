@@ -1,0 +1,25 @@
+### YamlMime:Profile
+uid: rd.mandy-michael
+name: Mandy Michael
+metadata:
+  title: Mandy Michael - Development Manager
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Mandy is a multiple award-winning Front End Developer, working as a Development Manager for the news organisation Seven West Media in Western Australia. She speaks at conferences and events locally and internationally sharing her work and experiments with new and old technology. 
+
+  Mandy is an avid supporter of local communities and a strong advocate for women in technology, volunteering at events across Australia. She is the Founder and Organiser of Fenders a local meetup for Front End Developers, co-organiser and Director of Mixin Conf, and was named one of the Top 20 Women in Tech in Western Australia.
+tagline: Front End / Web Development / Design
+image:
+  alt: "Mandy Michael"
+  src: media/profiles/mandy-michael.jpg
+connect:
+  - title: Twitter
+    url: https://twitter.com/mandy_kerr
+  - title: LinkedIn
+    url: https://linkedin.com/in/mandykerr 
+location:
+  display: Perth, WA, Australia
+  lat: -31.953512
+  long: 115.857048
+
