@@ -1,0 +1,28 @@
+### YamlMime:Profile
+uid: rd.sakari-nahi
+name: Sakari Nahi
+metadata:
+  title: Sakari Nahi - CEO @ Zure
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio 
+  Hi, I'm Sakari from Finland. I started developing with .NET in 2002, and since then have worked in big and small projects to build software. In 2011, we founded [Zure](https://zure.com) together with a friend. Azure had been commercially launched a year before, and we were and still are excited about the new technological opportunities offered by this new paradigm called Platform-as-a-Service. Zure focuses on building scalable cloud solutions the right way and using Azure correctly.
+
+  I work as the CEO of Zure, and even though I still identify as a coder and a software architect, other skills such as business development, partnerships, speaking engagements, and especially leadership have come to mean a lot to me as well. 
+
+  I founded [Finland Azure User Group](https://www.meetup.com/Finland-Azure-User-Group/) in 2013. I also co-host a regular podcast [Ikkunastudio](http://www.ikkunastud.io/) about Microsoft (encrypted in Finnish thought). Both endeavors have been a lot of fun, mostly due to being able to meet a lot of interesting people.
+
+  Talk to me about cloud computing, software architecture, development, Azure, teamwork, culture, and entrepreneurship.
+tagline: Cloud / Architecture / Azure
+image:
+  alt: "Sakari Nahi"
+  src: media/profiles/sakari-nahi.jpg
+connect:
+  - title: Twitter
+    url: https://twitter.com/sakarinahi
+  - title: LinkedIn
+    url: https://linkedin.com/in/sakarinahi
+location:
+  display: Helsinki, Finland
+  lat: 60.1701617
+  long: 24.941097
