@@ -1,0 +1,31 @@
+### YamlMime:Profile	 
+uid: rd.marco-richardson
+name: Marco Richardson
+metadata:
+  title: Marco Richardson – Managing Director
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Hi, I am Marco Richardson, Managing Director of INCLUSIFY AG. My heart has always beating on technology - for almost 20 years I have been using this passion to help customers developing innovative solutions. From UX/UI for desktop and web, to mobile devices and mixed reality in combination with AI, spatial computing is my world. Cloud is the DNA of my technical considerations and approaches. I love to talk about these topics in technical communities. For this I was awarded with the Microsoft MVP award in 2014 and 2015. Conferences and events, virtual and onsite, are an important place to be for me to gather inspiration and learn from others. 
+
+  During my time as a Microsoft employee in the Microsoft Technology Center in Munich, Germany and being on the road as Technical Evangelist for Mixed Reality, I realized in many conversations and experiences that I want to use my passion for technology in a meaningful way in the future. Because my heart beats not only for technology - but above all for people.
+
+  That is why I founded INCLUSIFY. Our mission is to shape a world, where nobody is excluded. Technologies around Spatial Computing, bundled with ethical principles and profound knowledge about human needs, enable us to create completely new solutions and products for our customers and their customers. Diversity and inclusion are not just lip service for us, but the driving force behind our work and the idea of using technology in a way that makes sense for all people. In this way we develop real business impact for our customers. 
+
+  I love being outdoors - the mountains are my second home. I enjoy this time with my family. As a husband and father of 3 children I am grounded but always on the run and active on the same time. I’m finding creative balance in producing and creating music. I love guitars and all relevant equipment - much to the sorrow of my wife. Just like my interest in motorcycles. 
+tagline: Mixed Reality / AI / Spatial Computing
+image:
+  alt: "Marco Richardson"
+  src: media/profiles/marco-richardson.jpg
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/marco.richardson81
+  - title: Twitter
+    url: https://twitter.com/tileGarageMRich
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/marco-richardson-b9a948a0/
+location:
+  display: Nuremberg, Bavaria, Germany
+  lat: 49.44062
+  long: 11.04003
+
