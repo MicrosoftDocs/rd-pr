@@ -1,0 +1,26 @@
+### YamlMime:Profile
+uid: rd.ihor-leontiev
+name: Ihor Leontiev
+metadata:
+  title: Ihor Leontiev – Practice manager Cloud | Chief Cloud Solution Architect
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Ihor Leontiev has been into Microsoft for more than 10 years and currently combines a role of Practice Manager of Cloud department and Cloud Solutions Architect at VISEO, French Solutions Integrator. He is a great fit for translating business need into a long-lasting architectural blueprint with the most efficient resource use. Ihor specializes in application migration, DevOps and optimization in Cloud with core expertise in such industries as transportation, manufacturing and professional services.  
+ 
+  Since 2016, Ihor has been recognized as Microsoft’s Most Valuable Professional. His passion to technology drives him to keep working as a volunteering professor in Ukraine, writing his PhD and still being able to keep it with last Xbox releases. Check out his LinkedIn page to connect and know more on the current projects. 
+tagline: Solution Architecture / Cloud / DevOps
+image:
+  alt: "Ihor Leontiev"
+  src: media/profiles/Ihor-Leontiev.jpg
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/igor.leontyev/
+  - title: Twitter
+    url: https://twitter.com/LeontievIhor
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/leontievihor/
+location:
+  display: Paris, France
+  lat: 48.8534
+  long: 2.3488
