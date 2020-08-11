@@ -1,0 +1,30 @@
+### YamlMime:Profile	 
+uid: rd.jennifer-mason
+name: Jennifer Mason
+metadata:
+  title: Jennifer Mason - Vice President, Workforce Transformation and Learning
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Jennifer Ann Mason is the Vice President of Workforce Transformation and Learning at Planet Technologies, where she leads the Evolve 365 team as they help transform organizations and agencies through user adoption and various learning activities, including customized adoption playbooks, training videos designed for internal business processes, ongoing learning campaigns and personalized Champions Programs. Helping organizations adjust how they approach learning as they move forward with digital transformation and change they way they work.
+
+  Jennifer has been awarded the Microsoft MVP for 8 consecutive years and is a nationally known speaker at worldwide conferences. She is the author of over 6 SharePoint Technical Books and helps lead and coordinate the local user’s group in her hometown of Dallas, Texas. The Microsoft Community is a big part of Jennifer’s interest and you can often find her at local events, community forums or working behind the scenes to coordinate various Diversity & Inclusion conference tracks.
+
+  Jennifer has been with Planet Technologies almost 5 years and is looking forward to the future of the government workplace. The changes of the cloud are being felt more and more everyday and the journey of adoption for many agencies is just beginning! Being able to help various agencies do more and do things differently is just a small thing that gets her excited! From helping them transition from paper or excel forms to PowerApps and Power BI or to Teams and SharePoint from email – all changes big or small that help people work more efficiently are foundations worth celebrating in Jennifer’s mind!
+
+  In her spare time, you can often find Jennifer traveling all over the US with her husband Corey and her pup Bowser. From the beaches to the mountains to the vineyards, you just never know where they might end up for a few days!
+tagline: Adoption & Training / Productivity / Cloud Computing
+image:
+  alt: "Jennifer Mason"
+  src: media/profiles/jennifer-mason.jpg
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/search/top?q=planet%20technologies%20official%20site
+  - title: Twitter
+    url: https://twitter.com/JenniferMason
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/jennifer-mason-5aa84b4/
+location:
+  display: Dallas, Texas (if applicable), Country
+  lat: 32.77815
+  long: -96.7954
