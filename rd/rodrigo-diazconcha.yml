@@ -3,30 +3,17 @@ uid: rd.rodrigo-diazconcha
 name: Rodrigo Díaz Concha
 metadata:
   title: Rodrigo Díaz Concha - Microsoft Regional Director
-  description: Microsoft Regional Director and Solutions Architect in Minneapolis, Mexico
+  description: Microsoft Regional Director and Solutions Architect in Mexico
 remarks: |
   ## Bio
-  I’m Rodrigo Díaz Concha, a Microsoft Regional Director from Mexico City,
-  Mexico.
-  
-  I'm a Carnegie Mellon® Software Engineering Institute Certified Software
-  Architecture Professional. For 10 consecutive years I have been recognized as a
-  Microsoft MVP, currently in the Developer Technologies category. In addition, I'm a Scrum Alliance
-  Certified ScrumMaster, MCSD, MCTS, MCPD and MCP.
-  
-  Founder of DevMasters: a leading brand in software architecture,
-  development and .NET deep-dive training.
-  
-  I'm also the author of [Aplicaciones de Negocio con Silverlight 5](https://www.amazon.es/Aplicaciones-Negocio-Microsoft-SilverLight-5/dp/849394503X) (Business Applications with Silverlight 5), 
-  the very first book about Silverlight 5 in Spanish language and [Xamarin.Forms en Acción: Aplicaciones de negocio](http://rclibros.es/producto/xamarin-forms-accion/) 
-  (Xamarin.Forms in action: Business applications), the very first book about Xamarin.Forms in Spanish language.
-  
-  With more than 18 years of experience, I have architected international award-
-  winner software solutions.
-  
-  Currently, I'm the lead Solutions Architect for different national and
-  international private companies and government institutions. Also, I'm a
-  frequent speaker at Microsoft and non-Microsoft events all over Latin America, USA and Europe.
+  Rodrigo Díaz Concha is a solutions architect and Microsoft Regional Director with 20+ years of experience.
+
+  Rodrigo is a certified Carnegie Mellon SEI Software Architecture Professional. He has been recognized as a Microsoft MVP for over a decade, 
+  currently in both the Developer Technologies and Microsoft Azure categories. In addition, he is a Scrum Alliance Certified ScrumMaster, MCSD, MCTS, MCPD, and MCP.
+
+  As the chief software architect at Lumedhealth, he builds digital health and telemedicine solutions focused on transforming people's lives. He
+  also has the distinction of writing the first books about Microsoft Silverlight 5 and Xamarin.Forms in the Spanish language.
+  Rodrigo is a frequent speaker at Microsoft and non-Microsoft events all over Latin America, the US, and Europe.
   
   Talk to me about: Software Architecture, Software Development, Azure, .NET,
   C#
@@ -34,21 +21,19 @@ remarks: |
   *******
   
   Soy Rodrigo Díaz Concha, un Microsoft Regional Director para México.
-  
-  Soy un Carnegie Mellon® Software Engineering Institute Certified Software
-  Architecture Professional. Por 10 años consecutivos he sido reconocido como
-  Microsoft MVP, actualmente en las categoría de Developer Technologies. Adicionalmente, soy un Scrum Alliance
-  Certified ScrumMaster, MCSD, MCTS, MCPD y MCP.
-  
-  Fundador de DevMasters: una marca líder en la arquitectura, desarrollo
-  y entrenamiento a profundidad en tecnologías .NET.
-  
-  Asimismo, soy el autor de "Aplicaciones de Negocio con Silverlight 5", el
-  primer libro en español acerca de Silverlight 5 y de "Xamarin.Forms en acción:
-  Aplicaciones de negocio" el primer libro en español acerca de Xamarin.Forms.
-  
-  Con más de 18 años de experiencia, he creado soluciones de software ganadoras
-  de premios internacionales.  Asimismo, soy un orador frecuente en eventos Microsoft y no-Microsoft en Latino América, EUA y Europa.
+
+  Soy autor de diversos cursos en LinkedIn Learning y Certified Software Architecture Professional por el Software Engineering Institute de Carnegie Mellon.
+  Por 12 años consecutivos he sido reconocido como Microsoft MVP, actualmente en la categoría de Azure.
+  También, soy un Scrum Alliance Certified ScrumMaster, MCSD, MCTS, MCPD y MCP.
+  Soy el autor de los libros “Xamarin.Forms en acción: Aplicaciones de negocio” (©RC Libros, España), el primer libro en español acerca de Xamarin.Forms, 
+  y de “Aplicaciones de Negocio con Silverlight 5” (©RC Libros, España), el primer libro en español acerca de Silverlight 5.
+
+  Con más de 20 años de experiencia, he creado soluciones de software ganadoras de premios internacionales.
+
+  Como Chief Software Architect en Lumed, construyo soluciones digitales de salud y telemedicina enfocadas a transformar la vida de las personas.
+
+  Adicionalmente, soy conferencista frecuente en eventos de tecnología relacionados y no relacionados con Microsoft, en países de toda Latinoamérica, Europa y Estados Unidos.
+
 tagline: Software architecture / .NET / Azure
 image:
   alt: "Rodrigo Díaz Concha"
@@ -56,7 +41,7 @@ image:
 connect:
   - title: Twitter
     url: https://twitter.com/rdiazconcha
-  - title: Facebook
+  - title: Podcast
     url: https://facebook.com/interfazpodcast
   - title: LinkedIn
     url: https://www.linkedin.com/in/rdiazconcha
