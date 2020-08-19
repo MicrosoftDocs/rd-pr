@@ -47,6 +47,9 @@ tagline: Education / Gaming
 image:
   alt: "Jamil Lopes"
   src: media/profiles/jamil-lopes.jpg
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/<profie>
 location:
   display: São Paulo - SP, Brasil
   lat: -23.56687

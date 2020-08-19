@@ -23,6 +23,9 @@ tagline: Innovation / Technology
 image:
   alt: "Andrey Ivashentsev"
   src: media/profiles/andrey-ivashentsev.jpg
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/<profie>
 location:
   display: Moscow, Russia
   lat: 55.756961
