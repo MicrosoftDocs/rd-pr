@@ -19,6 +19,10 @@ tagline: Entrepreneurship / Photography
 image:
   alt: "Adam Jorgensen"
   src: media/profiles/adam-jorgensen.jpg
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/<profie>
+
 location:
   display: Jacksonville, FL, United States
   lat: 30.33147

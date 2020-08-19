@@ -1,0 +1,32 @@
+### YamlMime:Profile
+uid: rd.atsushi-kojima
+name: Atsushi Kojima
+metadata:
+  title: Atsushi Kojima – Azure Solution Architect
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  I’m Atsushi Kojima, a Microsoft Regional Director from Fukuoka City, Japan.
+
+  I provide Azure specialized consulting at Alterbooth Inc,.
+
+  Alterbooth mainly provides .NET application modernization and cloud native migration.
+
+  As the CEO of a Japanese startup, I will give various feedback on Azure.
+
+  Alterbooth Inc. CEO
+  Microsoft Reconnect MVP(2014-2018)
+  Microsoft Regional Director 2020-
+tagline: Microsoft Azure / Architecture / Microservice 
+image:
+  alt: "Atsushi Kojima"
+  src: media/profiles/atsushi-kojima.jpg
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/a2c.kojima
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/atsushi-kojima-32366a54/ 
+location:
+  display: Fukuoka, Japan
+  lat: 33.583332
+  long: 130.399994
