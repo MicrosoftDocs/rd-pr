@@ -1,0 +1,213 @@
+### YamlMime:LocaleList
+title: Select a language
+metadata:
+  title: Select a language
+  description: Select a preferred language from a list of languages
+locales:
+- locale: id-id
+  name: Bahasa Indonesia
+  summary: Indonesian
+- locale: ms-my
+  name: Bahasa Melayu
+  summary: Malay (Malaysia)
+- locale: bs-latn-ba
+  name: Bosanski
+  summary: Bosnian (Latin)
+- locale: ca-es
+  name: Català
+  summary: Catalan
+- locale: cs-cz
+  name: Čeština
+  summary: Czech
+- locale: da-dk
+  name: Dansk
+  summary: Danish
+- locale: de-AT
+  name: Deutsch (Österreich)
+  summary: German (Austria)
+- locale: de-CH
+  name: Deutsch (Schweiz)
+  summary: German (Switzerland)
+- locale: de-de
+  name: Deutsch
+  summary: German
+- locale: et-ee
+  name: Eesti
+  summary: Estonian
+- locale: en-AU
+  name: English (Australia)
+  summary: English (Australia)
+- locale: en-CA
+  name: English (Canada)
+  summary: English (Canada)
+- locale: en-IN
+  name: English (India)
+  summary: English (India)
+- locale: en-IE
+  name: English (Ireland)
+  summary: English (Ireland)
+- locale: en-MY
+  name: English (Malaysia)
+  summary: English (Malaysia)
+- locale: en-NZ
+  name: English (New Zealand)
+  summary: English (New Zealand)
+- locale: en-SG
+  name: English (Singapore)
+  summary: English (Singapore)
+- locale: en-ZA
+  name: English (South Africa)
+  summary: English (South Africa)
+- locale: en-GB
+  name: English (United Kingdom)
+  summary: English (United Kingdom)
+- locale: en-us
+  name: English (United States)
+  summary: English (United States)
+- locale: es-MX
+  name: Español (México)
+  summary: Spanish (Mexico)
+- locale: es-es
+  name: Español
+  summary: Spanish
+- locale: eu-es
+  name: Euskara
+  summary: Basque
+- locale: fil-ph
+  name: Filipino
+  summary: Filipino 
+- locale: fr-BE
+  name: Français (Belgique)
+  summary: French (Belgium)
+- locale: fr-CA
+  name: Français (Canada)
+  summary: French (Canada)
+- locale: fr-CH
+  name: Français (Suisse)
+  summary: French (Switzerland)
+- locale: fr-fr
+  name: Français
+  summary: French
+- locale: ga-ie
+  name: Gaeilge
+  summary:  Irish
+- locale: gl-es
+  name: Galego
+  summary: Galician
+- locale: hr-hr
+  name: Hrvatski
+  summary: Croatian
+- locale: is-is
+  name: Íslenska
+  summary: Icelandic
+- locale: it-CH
+  name: Italiano (Svizzera)
+  summary: Italian (Switzerland)
+- locale: it-it
+  name: Italiano
+  summary: Italian
+- locale: lv-lv
+  name: Latviešu
+  summary: Latvian
+- locale:  lb-lu
+  name: Lëtzebuergesch
+  summary:  Luxembourgish
+- locale: lt-lt
+  name: Lietuvių
+  summary: Lithuanian
+- locale: hu-hu
+  name: Magyar
+  summary: Hungarian
+- locale:  mt-mt
+  name: Malti
+  summary:  Maltese
+- locale: nl-BE
+  name: Nederlands (België)
+  summary: Dutch (Belgium)
+- locale: nl-nl
+  name: Nederlands
+  summary: Dutch
+- locale: nb-NO
+  name: Norsk Bokmål
+  summary: Norwegian Bokmål
+- locale: pl-pl
+  name: Polski
+  summary: Polish
+- locale: pt-BR
+  name: Português (Brasil)
+  summary: Portuguese (Brazil)
+- locale: pt-pt
+  name: Português (Portugal)
+  summary: Portuguese (Portugal)
+- locale: ro-ro
+  name: Română
+  summary: Romanian
+- locale: sk-sk
+  name: Slovenčina
+  summary: Slovak
+- locale: sl-si
+  name: Slovenski
+  summary: Slovenian
+- locale: sr-latn-rs
+  name: Srpski
+  summary: Serbian (Latin)
+- locale: fi-fi
+  name: Suomi
+  summary: Finnish
+- locale: sv-se
+  name: Svenska
+  summary: Swedish
+- locale: vi-vn
+  name: TiếngViệt
+  summary: Vietnamese
+- locale: tr-tr
+  name: Türkçe
+  summary: Turkish
+- locale: el-gr
+  name: Ελληνικά
+  summary: Greek
+- locale: bs-cyrl-ba
+  name: Босански
+  summary: Bosnian (Cyrillic)
+- locale: bg-bg
+  name: Български
+  summary: Bulgarian
+- locale: kk-kz
+  name: қазақ тілі
+  summary: Kazakh
+- locale: ru-ru
+  name: Русский
+  summary: Russian
+- locale: sr-cyrl-rs
+  name: Српски
+  summary: Serbian (Cyrillic)
+- locale: uk-ua
+  name: Українська
+  summary: Ukrainian
+- locale: he-il
+  name: עברית‏
+  summary: Hebrew
+- locale: ar-sa
+  name: العربية
+  summary: Arabic
+- locale: hi-in
+  name: हिंदी
+  summary: Hindi
+- locale: th-th
+  name: ไทย
+  summary: Thai
+- locale: ko-kr
+  name: 한국어
+  summary: Korean
+- locale: zh-CN
+  name: 中文 (简体)
+  summary: Chinese (Simplified)
+- locale: zh-tw
+  name: 中文 (繁體)
+  summary: Chinese (Traditional)
+- locale: zh-hk
+  name: 中文 (繁體 香港特別行政區)
+  summary: Chinese (Traditional, Hong Kong SAR)
+- locale: ja-jp
+  name: 日本語
+  summary: Japanese
