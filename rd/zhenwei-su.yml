@@ -1,0 +1,24 @@
+### YamlMime:Profile
+uid: rd.Zhenwei-Su
+name: Zhenwei Su
+metadata:
+  title: Zhenwei Su - [Founder & Chief Architect of Senparc]
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Zhenwei Su (Jeffrey), Founder and Chief Architect of Senparc. has more than 26 years of programming experience since primary school. He is keen on using new technologies to solve practical problems, and he is also a strong supporter of open source projects. He also released the Senparc.Weixin SDK, which is currently the No.1 comprehensive open source project in China. He drives the developer community to learn and grow together and is now the chairman of Microsoft Technology Club (Suzhou). He is also happy to share his research on technology and has repeatedly attended conferences such as Microsoft Ignite, TechSummit and Build. He has also published two technical books, one of which was once China's best-selling "Computer and Internet" book.
+tagline: Development / AI / Architecture
+image:
+  alt: "Zhenwei Su"
+  src: media/profiles/zhenwei-su.jpg
+connect:
+  - title: Facebook
+    url: https://facebook.com/JeffreySu1984
+  - title: Twitter
+    url: https://twitter.com/JeffreySu1984
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/yourjeffreysu/ 
+location:
+  display: Suzhou City, Jiangsu Province, China
+  lat: 31.262462
+  long: 120.631503  
