@@ -18,6 +18,10 @@ connect:
     url: https://twitter.com/sjoukjezaal
   - title: LinkedIn
     url: https://www.linkedin.com/in/sjoukjezaal/
+  - title: GitHub
+    url: https://github.com/SjoukjeZaal/
+  - title: Sessionize
+    url: https://sessionize.com/sjoukjezaal
 location:
   display: Lisse, The Netherlands
   lat: 52.2579
