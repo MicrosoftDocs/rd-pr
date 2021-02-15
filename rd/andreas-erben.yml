@@ -1,0 +1,35 @@
+### YamlMime:Profile
+uid: rd.andreas-erben
+name: Andreas Erben
+metadata:
+  title: Andreas Erben – CTO MR/AI
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Andreas serves at daenet, a Microsoft partner, as CTO for AI and Mixed Reality, and as CEO for the Americas.
+  He cares deeply about providing value through finding the right mixture of technology innovations for customers and business partners. Deeply rooted in a career in delivering enterprise and integration solutions, Andreas understands scalable message-oriented architectures which provided a natural path to cloud-first solutions. 
+  He worked with customers of all types and sizes, from nimble startups to enterprise behemoths. 
+
+  In recent years, Andreas utilized his early exposure to Virtual Reality in the 1990s to embrace Mixed Reality and Spatial Computing to unlock new types of solutions for various industries and to drive conversations with customers who want to explore futuristic solutions, while being grounded in solid engineering and architecture, and receiving business value at every step while doing so. He is also passionate about enabling organizations with democratized AI to unlock powerful capabilities without the need of building a large deep learning team right away.
+  Andreas loves the mixture of guiding customers to larger goals while providing deep-technical insights into core technologies.
+
+  Andreas has been a regular presenter at large industry conferences covering democratized AI, Mixed Reality, and how customers can derive value from new technologies such as Microsoft BUILD, or Microsoft Ignite.
+  He enjoys talking to people of all backgrounds and ways of life and loves to travel the world. He is looking forward to organizations and individuals to reach out to discuss their needs and is always committed to give them neutral professional advice that moves them forward. Andreas endorses speaking and workshop engagements.
+  In his spare time, he enjoys good company, good conversations, good food and sometimes good wine – in that order. He also is not shy to admit that he loves computer games and watching movies but has a genuine interest into learning about and experiencing diverse viewpoints and different cultures.
+  If there is one think Andreas would want you to do it is not to not hesitate to reach out to him if you are interested to talk to him. He will try to make it work and may even be interested to travel to where you are.
+
+tagline: AI / Mixed Reality / Cloud
+image:
+  alt: "Andreas Erben"
+  src: media/profiles/andreas-erben.jpg
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/Andreas.Erben
+  - title: Twitter
+    url: https://twitter.com/andreaserben
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/andreaserben/
+location:
+  display: Jacksonville, FL, USA – but world citizen
+  lat: 30.266926 
+  long: -81.403641
