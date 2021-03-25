@@ -419,11 +419,11 @@ metadata:
   hide_bc: true
 bannerLinks:
 - text: Map View
-  url: ./map
+  url: ./map.yml
 - text: About
-  url: ./about
+  url: ./about/index.md
 - text: Code of Conduct
-  url: ./CodeOfConduct
+  url: ./CodeOfConduct/index.md
 filterText: Regional Directors
 profiles:
 '@
@@ -443,11 +443,11 @@ metadata:
 mode: map
 bannerLinks:
 - text: Map View
-  url: ./map
+  url: ./map.yml
 - text: About
-  url: ./about
+  url: ./about/index.md
 - text: Code of Conduct
-  url: ./CodeOfConduct
+  url: ./CodeOfConduct/index.md
 filterText: Regional Directors
 profiles:
 '@
