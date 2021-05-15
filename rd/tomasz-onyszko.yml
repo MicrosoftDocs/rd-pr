@@ -1,0 +1,48 @@
+### YamlMime:Profile
+uid: rd.tomasz-onyszko
+name: Tomasz Onyszko
+metadata:
+  title: Tomasz Onyszko - CTO
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Hi, I'm Tomasz, and I have a privilege to lead the technical side of Predica as a CTO. 
+
+  I have over 20 years of experience in the IT industry in general, with various backgrounds and roles. This includes being part of organizations like HP or Microsoft and delivering solutions to customers around the world. I currently leverage my technology expertise with a strong focus on Microsoft technologies to develop comprehensive cloud strategies where airtight identity and security solutions take the lead.
+  Besides my technical expertise, for 10+ years, I took a journey of an entrepreneur and successfully established several companies with my partners, with Predica - professional services company, is the biggest of them. Within those years, I develop skills in the business area, which results in serving as a board member and advisory in those companies. 
+
+  I use my business understanding, technical expertise, and focus on strategy to create technological solutions with a focus on user value. I work with companies in different industries and across multiple geographies: Europe, MEA, APAC, and the United States. It helps me bring a different point of view and experiences to the table when I work with technical experts, CTOs, CIO, and CEOs in organizations.
+  I'm a recognized speaker delivering talks from technology to strategy and business subjects on various events. I spoke on many international and local events, including Ignite The Tour, Microsoft Technology Summits, TechEds, Identiverse, and many community events. I often keynote events and conferences. You can find my speaker profile and upcoming engagements at my profile: https://www.onyszko.com/speaking/.
+
+  My technology expertise and interest always included some aspects of security and strategy. Currently, I focus on:
+  * Cloud security strategy, governance, identity  
+  * Business value aspect of cloud adoption 
+  * Solution architecture on Azure cloud 
+  * DevSecOps - security in DevOps process
+  * FinOps - financial operations in a cloud environment
+
+  Working mostly with Microsoft through my career, I keep an overview of the entire industry to leverage cross-vendor, cross-industry knowledge to solve business problems. I'm also an aspiring mapper using the Wardley Maps approach to find and define a strategic plan to the issues across industries and vendors.  
+  During my career, I've always taken an active part as a member of technical communities. It resulted in 11 (and still counting) MVP awards across different categories across 14 years. I'm always involved in on-line discussions and support in many forms, with the focus shifting more towards strategy and technology business goals over time. 
+
+  One thing I often say - I have an opinion! I'm an author of many posts, articles, and books. You can read my  commentaries at:
+  * My personal blog: https://www.onyszko.com, 
+  * My company blog: predicagroup.com/blog, 
+  and constant stream at Twitter at @tonyszko.
+
+  In my free time, I enjoy running (run, Forrest run), which eventually lead me to run marathons regularly (3h28m and improving). I'm a keen fan of Science Fiction, and you will often find references to it in my writing and presentations. May the Force be with You! 
+tagline: Identity / Solution Architecture / Strategy
+image:
+  alt: "Tomasz Onyszko"
+  src: media/profiles/tomasz-onyszko.jpg
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/tonyszko
+  - title: Twitter
+    url: https://twitter.com/tonyszko
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/tomaszonyszko/ 
+location:
+  display: Warsaw, Poland
+  lat: 52.22977
+  long: 21.01178
+

@@ -1,0 +1,9 @@
+# This file is used to automatically request reviews on PRs.
+
+# Note: rd-pr should initially have no global codeowner
+
+# Order is important; the last matching pattern takes the most
+# precedence. When someone opens a pull request that only
+# modifies files in /rd/content-nav/, only @MicrosoftDocs/content-nav-reviewers and not the global
+# owner(s) will be requested for a review.
+/rd/content-nav/    @MicrosoftDocs/content-nav-reviewers

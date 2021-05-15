@@ -1,0 +1,29 @@
+### YamlMime:Profile
+uid: rd.david-tung
+name: David Tung
+metadata:
+  title: David Tung - [Technical Consultant]
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Hi, I'm David Tung. A Microsoft Regional Director from Taiwan, and Microsoft MVP for 15 years.
+
+  I am engaged in technical consulting services and education training. I am also the CEO of isRock Inc., We deliver software development consulting, including systems Integration, DevOps, cloud and enterprise solutions.
+
+  I have published more than 10 technical books and have been writing blog articles for more than 13 years.
+
+  If you are interested in related technology or traveling in Taiwan, please feel free to contact with me.
+tagline: DevOps / Cloud / Architecture
+image:
+  alt: "David Tung"
+  src: media/profiles/david-tung.jpg
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/DotNetWalker/
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/david-tung-62932410a/ 
+location:
+  display: Taipei, Taiwan
+  lat: 25.105497
+  long: 121.597366
+

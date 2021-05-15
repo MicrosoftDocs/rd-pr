@@ -1,0 +1,32 @@
+### YamlMime:Profile 
+uid:  rd.lynn-langit
+name:  Lynn Langit
+metadata: 
+  title: Lynn Langit - Microsoft Regional Director
+  description: Microsoft Regional Director 
+remarks: | 
+  ## Bio 
+  Lynn is a Cloud Architect and developer who runs her own consultancy, Lynn Langit Consulting LLC.  She works with vitual teams all over the world on cloud projects with Azure, AWS, Alibaba Cloud and Google Cloud services.  Lynn's teams focus on building and optimizing genomic-scale data pipelines for bioinformatics researchers.  Recent clients include CSIRO Bioinformatics Australia, Imperial College UK, and The Broad Institute at MIT and Harvard.
+
+  Lynn is on the board of the Stanford-accelerator backed startup, CarbonDown.
+
+  Lynn is an author for LinkedIn Learning.  She has created over 30 courses on cloud and data topics which have had over 4 million views. Also Lynn has created a number of YouTube screencast series on technical topics ranging from "Learning GitHub" to "Serverless Patterns" and more.  Additionally, she has shared her work via numerous open source repositories on GitHub and technical articles on Medium.
+
+  Lynn has keynoted many conferences such as QCon London, QCon Brazil, BuildStuff Lithuania, GOTO: Berlin, YOW Sydney, YOW Melbourne, YOW Brisbane, Serverless Computing London and Microsoft TechEd Durban.  She has also delivered talks or technical workshops at conferences around the world including NDC Oslo, NDC Minnesota, GitHub Universe, OreDev, Strange Loop and many more.
+
+  In addition to being a Microsoft Regional Director, Lynn is a Google Developer Expert (Cloud) and an AWS Community Hero (Data). In her spare time, Lynn like to bike around the beautiful lakes in Minneapolis. She recently moved back to her native Midwest after having lived in Southern California for 22 years.
+tagline: Cloud Computing / Bioinformatics / Technical Courses 
+image: 
+  alt: "Lynn Langit" 
+  src: media/profiles/lynn-langit.jpg 
+connect: 
+  - title: GitHub 
+    url: https://github.com/lynnlangit
+  - title: Twitter 
+    url: https://twitter.com/lynnlangit
+  - title: LinkedIn 
+    url: https://linkedin.com/in/lynnlangit  
+location: 
+  display: Minneapolis, MN, United States
+  lat:  44.9778
+  long:  93.2650

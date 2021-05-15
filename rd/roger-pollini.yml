@@ -1,0 +1,29 @@
+### YamlMime:Profile
+uid: rd.roger-pollini
+name: Roger Pollini
+metadata:
+  title: Roger Pollini – Head of Managed Cloud Services
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Roger is passionate about technology, innovation and entrepreneurship. As Head of Managed Cloud Services at isolutions – Country Partner of the Year 2019 in Switzerland – he develops innovative, customer value-driven solutions to support companies in their digital transformation. With degrees in media design, computer science and business administration, Roger has the skills to make any idea tangible at lightning speed.
+
+  Roger is known for his contributions about collaboration in the modern workplace with SharePoint and Microsoft Teams. He is highly engaged in the Microsoft 365 community and has been awarded several times as Most Valuable Professional by Microsoft.
+
+  His mission is to (re)shape business models for the digital age and to develop sustainable strategies for successful business transformations that boost the customers business value.
+tagline: Modern Workplace / Entrepreneurship / Innovation
+image:
+  alt: "Roger Pollini"
+  src: media/profiles/roger-pollini.jpg
+connect:
+  - title: Facebook
+    url: https://facebook.com/techtask
+  - title: Twitter
+    url: https://twitter.com/techtask
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/rogerpollini/
+location:
+  display: Bern, Switzerland
+  lat: 46.948980
+  long: 7.437345
+

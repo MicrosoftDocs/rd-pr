@@ -1,0 +1,24 @@
+### YamlMime:Profile
+uid: rd.melody-zacharias
+name: Melody Zacharias
+metadata:
+  title: Melody Zacharias - Sr.Microsoft Solutions Manager
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Melody is the Sr. Microsoft Solution Manager at Pure storage. She has been a Data Platform MVP since 2016 and gives back to the community by speaking worldwide and writing technical books including contributing to SQL Server 2019 Administration Inside out by Microsoft Press and volunteering her time on the PASS board of directors.   
+
+  Melody has worked with a variety of companies from entrepreneurial start-ups to multinationals. She has also worked in high security settings, designing container strategies for the federal government.  She specializes in bringing data, and technology together to create innovative solutions and opportunities.
+tagline:  Data Platform / Cloud  /  Cloud Migrations 
+image:
+  alt: "Melody Zacharias"
+  src: media/profiles/melody-zacharias.jpg
+connect:
+  - title: Twitter
+    url: https://twitter.com/SQLMelody
+  - title: LinkedIn
+    url: https://linkedin.com/in/MelodyZacharias 
+location:
+  display: British Columbia, Canada
+  lat: 53.7267
+  long: -127.6476

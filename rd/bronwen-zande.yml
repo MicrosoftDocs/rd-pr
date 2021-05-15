@@ -1,0 +1,28 @@
+### YamlMime:Profile
+uid: rd.bronwen-zande
+name: Bronwen Zande
+metadata:
+  title: Bronwen Zande – Director Soul Solutions
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Bronwen Zande is Director of Soul Solutions based in the sunny Queensland city of Brisbane.
+
+  Bronwen organises the annual DDD Brisbane conference and as a passion for environmentally sustainable conferences. She can also be found at user groups, hackathons, workshops, guest lecturing aswell as mentoring others. When she can, she loves to combine her love to travel, hiking, wildlife and photography by presenting at events overseas.
+
+  In her spare time, Bronwen is a wildlife rescuer and carer, looking after our precious Australian wildlife.
+tagline: Emerging Technologies / AI / Cloud
+image:
+  alt: "Bronwen Zande"
+  src: media/profiles/bronwen-zande.jpg
+connect:
+  - title: Facebook
+    url: https://facebook.com/bronwenz
+  - title: Twitter
+    url: https://twitter.com/bronwenz
+  - title: LinkedIn
+    url: https://linkedin.com/in/bronwenz 
+location:
+  display: Brisbane, Queensland, Australia
+  lat: -27.470125
+  long: 153.021072

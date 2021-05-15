@@ -1,0 +1,31 @@
+### YamlMime:Profile
+uid: rd.ulrika-hedlund
+name: Ulrika Hedlund
+metadata:
+  title: Ulrika Hedlund – Productivity Expert / Founder 
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  In a nutshell, I’m a tech-loving, ex-Microsoft productivity guru and EdTech entrepreneur. I’ve been passionate about technology ever since my father brought home our very first personal computer in the early 80-s. I feel truly blessed for having found my true calling, which is to help others get more value out of technology by showing what is possible and communicating that through storytelling. 
+
+  With a Master of Science (MSc) in Electrical Engineering from the Royal Institute of Technology in Sweden, I started my career at Microsoft Sweden in 1997 as a Systems Engineer on SQL Server. Ten years later I moved to Dubai, and joined Microsoft Gulf as their first Information Worker Solution Specialist covering the United Arab Emirates, Bahrain, Oman, Qatar and Kuwait.   
+
+  In 2011, after finishing my EMBA at London Business School, and having our first son, I decided to take the plunge and resign from Microsoft to found my own company. I started Business Productivity – a media production and consulting company focused on bridging the gap between business and IT to increase business productivity . A few years down the line, when it was evident that the world was all about subscription-based services, I launched my second company, Storyals. Storyals, which derives from “story-based tutorials” offers a Microsoft 365 adoption solution with story-based, digital learning to help organizations get more out of their digital workplace. With Storyals, I get to work daily with amazing people that share my passion of helping organizations all over the world simply work smarter. 
+  In addition to running two companies, I also run after our three kids, age 10, 8 and 5 and in between everything else I frequently blog, record videos and speak at events. I’m married to Peter who fortunately shares my favorite screen-free relaxation - jigsaw puzzles!
+
+  Please feel free to connect with me at any time to discuss digital leadership, best practices using Microsoft Teams or anything else related to working smarter in the modern workplace.
+tagline: Modern workplace/ Digital Leadership/ Entrepreneurship
+image:
+  alt: "Ulrika Hedlund"
+  src: media/profiles/ulrika-hedlund.jpg
+connect:
+  - title: Facebook
+    url: https://facebook.com/ hedlund.ulrika
+  - title: Twitter
+    url: https://twitter.com/ulrikahedlund
+  - title: LinkedIn
+    url: https://linkedin.com/in/ulrikahedlund 
+location:
+  display: Dubai, UAE
+  lat: 25.276987
+  long: 55.296249

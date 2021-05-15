@@ -1,0 +1,34 @@
+### YamlMime:Profile
+uid: rd.kyle-hill
+name: Kyle Hill
+metadata:
+  title: Kyle Hill – Global Director, Digital Sales & Service
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  As a technology leader with experience in corporate IT, digital transformation and strategic innovation-enabled growth on a global scale, Kyle provides organisations with the confidence they need to solve problems, achieve their goals and become an agent of change in our digitally disrupted world.
+
+  With diverse industry and sector experience, Kyle has unique insight into complete solutions that customers are looking for. This insight is coupled with strong technical architecture and governance skills which help to effectively manage and reduce risk while achieving strategic outcomes based on the platforms selected. 
+
+  Kyle’s dedication and desire to learn, is enhanced with a drive to achieve that motivates and inspires his colleagues and community members. His positive and inspirational attitude towards problems and people is always open and creative, helping to find optimal solutions to problems while ensuring that many new effective and strong relationships are forged along the way.
+
+  Kyle focuses on the Microsoft Business Applications platform and on creating value-generating solutions for customers. As part of these solutions, he also has a keen passion for IoT, AI and Mixed Reality.
+
+  You will often find Kyle involved in community engagements such as the Hack4Good initiative, where he and the Power Community at large support global hackathons addressing significant social challenges. Kyle also presents frequently at conferences around the world, including Future Decoded, Field Service Europe, Microsoft Business Applications Summit and Building the Future. 
+
+  Speak to me about: CRM, ERP, Low Code/No Code, Community Engagement
+tagline: Business Applications / Cloud Solutions / Customer Experience
+image:
+  alt: "Kyle Hill"
+  src: media/profiles/kyle-hill.jpg
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/kylostylo
+  - title: Twitter
+    url: https://twitter.com/KyloHill
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/kylebhill/
+location:
+  display: Cambridge, United Kingdom
+  lat: 52.2098
+  long: 0.11147

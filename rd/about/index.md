@@ -1,7 +1,7 @@
 # About the Microsoft Regional Director Program
 
 ### The Regional Director Program provides Microsoft leaders with the customer insights and real-world voices it needs to continue empowering developers and IT professionals with the world's most innovative and impactful tools, services, and solutions.
-### Established in 1993, the program consists of 160 of the world's top technology visionaries chosen specifically for their proven cross-platform expertise, community leadership, and commitment to business results. You will typically find Regional Directors keynoting at top industry events, leading community groups and local initiatives, running technology-focused companies, or consulting on and implementing the latest breakthrough within a multinational corporation.
+### Established in 1993, the program recognizes the world's top technology visionaries for their proven cross-platform technical expertise, community leadership, and commitment to business results. You will typically find Regional Directors keynoting at top industry events, leading community groups and local initiatives, running technology-focused companies, or consulting on and implementing the latest breakthrough within a multinational corporation.
 
 
 ## Do Regional Directors work for Microsoft?

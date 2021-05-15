@@ -6,24 +6,21 @@ metadata:
   description: CTO and Microsoft Regional Director in Florianopolis, Brazil
 remarks: |
   ## Bio
-  Hello, I’m Andre. I’m the CTO of Way2 Technology, living in Brazil. I am a fan
-  of technology, programming, and new things.
-  
-  I have a deep understanding of the Utilities Market and the systems and
-  software related to it.
-  
-  I’m also Vice-Director of the IoT Board of Santa Catarina State’s Business
-  Technology Association (ACATE). We work hand in hand with private and public
-  Innovation Centers and influence public decisions regarding technology and new
-  initiatives in our State.
-  
-  I speak frequently at TI conferences, meetups and user groups around the
-  country. I'm a Microsoft Most Valuable Professional, part
-  of the Microsoft Regional Director Program, Intel Innovator and Intel
-  BlackBelt.  
-  
-  Talk to me about: asp.net core, cloud, microservices, apis, IoT, Cognitive Services, Software
-  Architecture, Software Development Teams and Strategy.
+  I am 19 years experienced founder and CTO, Microsoft Most Valuable Professional 
+  for 9 years, Microsoft Regional Director, Intel Software Innovator, and 
+  Intel Black Belt Software Developer.
+
+  I co-founded Way2 Technology and worked there as the CTO for 13 years. 
+  I was also Vice-Director of the IoT Board of Santa Catarina State’s Business 
+  Technology Association (ACATE), working hand in hand with private and public 
+  Innovation Centers and influencing government decisions regarding technology 
+  and new initiatives in our State.
+
+  Today, I live in the Netherlands, working as the Global Director of Application 
+  Engineering helping Kinly to be more awesome every day.
+
+  Talk to me about Open-Source, Microsoft Technologies, AWS, cloud, IoT, Team Building, 
+  Cognitive Services, Software Architecture, Software Development Teams, and Tech Strategy.
   
   I’m also interested in travel, good coffee and craft beer. Get in touch!
 tagline: Technology / Innovation
@@ -40,6 +37,6 @@ connect:
   - title: Twitter
     url: https://twitter.com/andrecarlucci
 location:
-  display: Brazil
-  lat: -27.593500
-  long: -48.558540
+  display: The Netherlands
+  lat: 52.3831712
+  long: 4.62727

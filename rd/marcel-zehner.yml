@@ -1,0 +1,27 @@
+### YamlMime:Profile
+uid: rd.marcel-zehner
+name: Marcel Zehner
+metadata:
+  title: Marcel Zehner – Azure Architect
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  I am a cloud and community enthusiast operating out of Switzerland. I assist customers to ensure that they understand how to master the Microsoft Azure platform and their critical workloads. I mainly focus on topics such as cloud strategy, governance, security, DevOps, and process automation. I am a community and sharing person by nature and like to share my views and knowledge about Microsoft and cross-platform technologies. That said, I love to deliver workshops and speak at conferences and events.
+  Together with my team I organize my own conferences ‘Experts Live Europe’ and ‘Experts Live Switzerland’. Our goal is to bring the Microsoft community, experts, and customers together to learn, share and connect.
+  Talk to me about: Azure, Cloud Strategy, Governance, Security, DevOps, Process Automation, Migration, Entrepreneurship
+tagline: Governance / DevOps / Transformation
+image:
+  alt: "Marcel Zehner"
+  src: media/profiles/marcel-zehner.jpg
+connect:
+  - title: Facebook
+    url: https://facebook.com/MarcelZehnerCH
+  - title: Twitter
+    url: https://twitter.com/marcelzehner
+  - title: LinkedIn
+    url: https://linkedin.com/in/marcelzehner 
+location:
+  display: Bern, Switzerland
+  lat: 46.94809
+  long: 7.44744
+                        
