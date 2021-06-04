@@ -9,10 +9,13 @@ remarks: |
   Rodrigo Díaz Concha is a solutions architect and Microsoft Regional Director with 20+ years of experience.
 
   Rodrigo is a certified Carnegie Mellon SEI Software Architecture Professional. He has been recognized as a Microsoft MVP for over a decade, 
-  currently in both the Developer Technologies and Microsoft Azure categories. In addition, he is a Scrum Alliance Certified ScrumMaster, MCSD, MCTS, MCPD, and MCP.
+  currently in the Microsoft Azure category. In addition, he is a Scrum Alliance Certified ScrumMaster, MCSD, MCTS, MCPD, and MCP.
 
   As the chief software architect at Lumedhealth, he builds digital health and telemedicine solutions focused on transforming people's lives. He
   also has the distinction of writing the first books about Microsoft Silverlight 5 and Xamarin.Forms in the Spanish language.
+  
+  As a LinkedIn Learning author, he creates professional training courses about Azure and .NET technologies for the English-language and Spanish-language libraries.
+  
   Rodrigo is a frequent speaker at Microsoft and non-Microsoft events all over Latin America, the US, and Europe.
   
   Talk to me about: Software Architecture, Software Development, Azure, .NET,
@@ -47,6 +50,10 @@ connect:
     url: https://www.linkedin.com/in/rdiazconcha
   - title: GitHub
     url: https://github.com/rdiazconcha
+  - title: Sessionize
+    url: https://sessionize.com/rdiazconcha
+  - title: LinkedIn Learning author profile
+    url: https://www.linkedin.com/learning/instructors/rodrigo-diaz-concha
 location:
   display: Mexico
   lat: 23.940769
