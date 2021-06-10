@@ -24,9 +24,9 @@ connect:
   - title: Facebook
     url: https://www.facebook.com/kulov 
   - title: Twitter
-	url: https://twitter.com/kulov
+    url: https://twitter.com/kulov
   - title: LinkedIn
-	url: https://www.linkedin.com/in/kulov
+    url: https://www.linkedin.com/in/kulov
 location:
   display: Sofia, Bulgaria
   lat: 42.6978634
