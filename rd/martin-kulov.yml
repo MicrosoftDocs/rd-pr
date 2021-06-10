@@ -1,0 +1,34 @@
+### YamlMime:Profile
+uid: rd.martin-kulov
+name: Martin Kulov
+metadata:
+  title: Martin Kulov – President @ Association of Software Engineers
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+
+  Hi, I am Martin Kulov from Bulgaria. My passion is delivering high quality software systems with the focus on non-functional requirements. Architecture/System Design, Scrum, Performance, Memory Optimization, Distributed Tracing, High Quality, DevSecOps, Cybersecurity, Test Automation is what makes me tick. Seeing the lack of clear communication between software engineers and business owners made me run not one, but three companies to try to keep the balance right. We can’t change the world at once so we need to start with small steps! These three companies now are helping financial, insurance and telco enterprises solving their software product and integration challenges.
+  Our industry suffers from higher and higher knowledge gap between senior developers and software enthusiasts. I regularly speak at international conferences to give back knowledge I’ve learnt and share best practices. 
+  In 2006 I founded DevReach – the premium conference on Microsoft technologies. DevReach topped about 2,000 attendees at its on-site pre-pandemic edition. Microsoft recognized my efforts helping the software community and awarded me with the Microsoft Most Valuable Professional award for 15 years in a row. I am also involved in the Microsoft Imagine Cup competition and .NET Foundation member.
+
+  As an effort to help the local software community in Bulgaria, I started Association of Software Engineers – non-profit organization to help software engineers grow their professional skills.
+  Solving complex software release cycle is never easy. At Singlet we decided to give back to the community and sponsor Pipeline Foundation – nonprofit initiative for helping OSS projects with their DevSecOps pipelines on Azure Pipelines and GitHub Actions. 
+
+  Talk to me about: Scrum, high quality software, memory optimization, distributed tracing, OCR, computer vision
+
+tagline: DevOps / Architecture / Performance
+image:
+  alt: "Martin Kulov"
+  src: media/profiles/martin-kulov.jpg
+connect:
+  - title: Facebook
+    url: https://www.facebook.com/kulov 
+  - title: Twitter
+    url: https://twitter.com/kulov
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/kulov
+location:
+  display: Sofia, Bulgaria
+  lat: 42.6978634
+  long: 23.3221789
+
