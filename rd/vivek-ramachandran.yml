@@ -17,11 +17,10 @@ image:
   src: media/profiles/vivek-ramachandran.jpg
 connect:
   - title: Twitter
-	url: https://twitter.com/vivekramac 
+    url: https://twitter.com/vivekramac 
   - title: LinkedIn
-	url: https://www.linkedin.com/in/vivekramachandran/ 
+    url: https://www.linkedin.com/in/vivekramachandran/ 
 location:
   display: Singapore
   lat: 1.3521
   long: 103.8198
-
