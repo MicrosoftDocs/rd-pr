@@ -2,16 +2,15 @@
 uid: rd.karl-ots
 name: Karl Ots
 metadata:
-  title: Karl Ots – Vice President @ Swiss Re
+  title: Karl Ots – Head of Cloud Security @ EPAM
   description: Microsoft Regional Director
 remarks: |
   ## Bio
-  Karl Ots is a cloud and cybersecurity expert, as well as international speaker and trainer, with a broad range of deep Azure expertise. He believes that secure cloud technologies are the key to successful digital transformation. He applies his passion as Vice President, Cloud Security Architecture at Swiss Re.
+  Karl Ots is an internationally recognized cloud and cybersecurity expert, with a broad range of deep Azure expertise. He believes that secure cloud technologies are the key to successful digital transformation. He applies his passion as Head of Cloud Security at EPAM Systems.
 
   Karl has been working with Microsoft Azure for a decade in a variety of forums ranging from Azure security audits for startups to multi-year cloud transformation projects at Fortune 500 enterprises.
 
-  Karl is a professional speaker, long-time conference organizer and user group leader, as well as one of the organizers behind Global Azure. He is a LinkedIn Learning author and a frequent speaker at large technology conferences, such as Microsoft Ignite and (ISC)² Secure Summit.
-tagline: Cloud / Containers / Security
+  Karl is a professional speaker, long-time conference organizer and user group leader, as well as one of the organizers behind Global Azure. He is a LinkedIn Learning author and a frequent presenter at large technology conferences, such as Microsoft Ignite and (ISC)² Secure Summit. He is also the author of Azure Security Handbook.
 image:
   alt: "Karl Ots"
   src: media/profiles/karl-ots.jpg
@@ -20,6 +19,8 @@ connect:
     url: https://twitter.com/karlgots
   - title: LinkedIn
     url: https://www.linkedin.com/in/karlots/
+  - title: Sessionize
+    url: https://sessionize.com/karl-ots 
 location:
   display: Zürich, Switzerland
   lat: 47.37664
