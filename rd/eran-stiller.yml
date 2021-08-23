@@ -2,31 +2,27 @@
 uid: rd.eran-stiller
 name: Eran Stiller
 metadata:
-  title: Eran Stiller - Microsoft Regional Director, Azure MVP & CodeValue CTO
+  title: Eran Stiller - Microsoft Regional Director, Azure MVP & badook AI Chief Software Architect
   description: Microsoft Regional Director
 remarks: |
   ## Bio
-  I’m Eran Stiller - a software architect, consultant, instructor and technology addict. 
-  I most enjoy architecting, designing and developing large-scale software solutions, 
-  ranging from simple on-premise systems to highly-distributed highly-available cloud 
-  scale web & mobile applications. With many years of experience in software development 
-  and architecture and a track record of public speaking and community contribution, 
-  I am recognized as a Microsoft MVP on Microsoft Azure since 2016 and as Microsoft Regional 
-  Director since 2018. 
+  I'm an experienced technical leader with strong analytical skills and an ability to grasp
+  the big picture, as well as the details it contains. I regularly make hard software 
+  architecture decisions for customers, and I love presenting my work and discussing my ideas 
+  with others. I thrive on technical challenges, and learning new technologies is something I 
+  never stop doing.
 
-  A Co-Founder at CodeValue Ltd., I practice software architecture at various clients on an 
-  almost daily basis, reviewing many designs in many professional fields. As CodeValue’s 
-  Chief Technology Officer, I am in charge of many of CodeValue’s projects and customer solutions
-  as well as the technical ability of our employees' to create these solutions. In addition, 
-  I perform software consultations on various topics including architecture and design reviews, 
-  Microsoft Azure, Amazon Web Services, Web APIs and many others. I am also highly experienced 
-  in technologically leading, architecting and developing software frameworks of various abstraction 
-  levels, ranging from low-level application frameworks up to fully fledged distributed system hosts.
+  While technology leaders should always watch the big picture, I also love diving into the 
+  code and getting my hands as dirty as possible. Azure, AWS, Kubernetes, TypeSciprt, C#, and 
+  Java are among my best friends, and I flourish when I learn new ideas and tools. I firmly 
+  believe that a software architect should be the best developer in their team.
 
-  I instruct various software courses and workshops and I am a frequent [public speaker](https://stiller.blog/public-speaking/) 
-  at various international events and user groups on topics I find especially interesting. 
-  Furthermore, I am a co-organizer of [Azure Israel](https://www.meetup.com/azureisrael) which 
-  meets every once in a while to discuss all things related to Microsoft Azure.
+  In addition to my experience in software development and architecture, I am also an avid 
+  public speaker. There's almost nothing like the rush of presenting my work on stage in front 
+  of a large audience. The excitement beforehand and the adrenaline during and after the session 
+  are more than satisfying. With a track record of public speaking and community contribution, 
+  Microsoft recognizes me as a Microsoft Regional Director (MRD) since 2018 and a Microsoft Most 
+  Valuable Professional (MVP) on Microsoft Azure since 2016.
 
   On the Academic side, I am a graduate of the Israeli Air-Force’s prestigious “Talpiot” program. 
   I hold a B.Sc. in Computer Science, Physics and Mathematics from the Hebrew University at Jerusalem; 
@@ -45,6 +41,6 @@ connect:
   - title: LinkedIn
     url: https://linkedin.com/in/estiller
 location:
-  display: Herzliya, Israel
-  lat: 32.158247
-  long: 34.8057273
+  display: Melbourne, Australia
+  lat: -37.840935
+  long: 144.946457
