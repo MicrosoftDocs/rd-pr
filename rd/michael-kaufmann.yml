@@ -2,22 +2,23 @@
 uid: rd.michael-kaufmann
 name: Michael Kaufmann
 metadata:
-  title: Michael Kaufmann – Director DevOps & Innovation
+  title: Michael Kaufmann – CEO Xpirit Germany
   description: Microsoft Regional Director
 remarks: |
   ## Bio
-  As a Vice President Consulting Service at [CGI](https://www.cgi.com/), I lead DevOps & Innovation for [CGI Next](https://www.cgi.com/us/en-us/cginext), 
-  I drive the digital, cloud and DevOps transformation for my clients in Germany.
-
-  I work for nearly 20 years in IT now. I’m a Microsoft MVP for ALM and DevOps ever since 2015 and I love to help my customers succeed in their enterprise 
-  transformation. I can build bridges between Management and Engineering and I can coach teams and agile leaders. I love the community and I believe that 
+  As the founder and CEO of [Xpirit](https://www.xpirit.com/) Germany, I drive the digital, cloud and DevOps transformation for my clients in Germany.
+  
+  I've work for more than 20 years as a consultant and manager in the IT industry. I’m a Microsoft MVP for DevOps ever since 2015 and I love to help my customers succeed in their enterprise 
+  transformation. I can build bridges between management and engineering and I can coach teams and leaders. I love the community and I believe that 
   technical communities are an important part in the modern work life. I’m one of the organizers of [Azure Meetup Stuttgart](https://azurestuttgart.de) and 
-  I regularly speak and sponsor other Meetups – all over Germany.
+  [GitHub Stuttgart](https://www.meetup.com/GitHub-Meetup-Stuttgart/). I regularly speak and sponsor other Meetups – all over Germany.
 
+  I'm the author of the book [Git for Dummies (German)](https://www.amazon.com/-/de/dp-3527716971/dp/3527716971/) and I'm writing my next book about DevOps with GitHub. 
+  
   My passion is sharing knowledge through public speaking, writing and mentoring. I’m a regular speaker at international conferences and I speak in English, 
-  German and Spanish. I’ve published several articles and I regularly blog at [writeabout.net](https://writeabout.net/).
-  Talk to me about DevOps, Cloud Computing, Azure, AWS, .NET, Clean Code, Scrum and Kanban 
-tagline: DevOps / .NET / Azure
+  German, and Spanish. I’ve published several articles in magazines and I regularly blog at [writeabout.net](https://writeabout.net/).
+  Talk to me about DevOps, GitHub, DevSecOps, Azure, AWS, .NET, Clean Code, Scrum and Kanban 
+tagline: DevOps / GitHub / Azure
 image:
   alt: "Michael Kaufmann"
   src: media/profiles/michael-kaufmann.jpg
@@ -28,6 +29,10 @@ connect:
     url: https://twitter.com/mike_kaufmann
   - title: LinkedIn
     url: https://linkedin.com/in/mikaufmann 
+  - title: Sessionize
+    url:  https://sessionize.com/michael-kaufmann
+  - title: GitHub
+    url: https://github.com/wulfland
 location:
   display: Stuttgart, Germany
   lat: 48.738576
