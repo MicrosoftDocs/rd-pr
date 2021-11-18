@@ -21,6 +21,7 @@
     }
   ],
   "notification_subscribers": [],
+  "sync_notification_subscribers": null,
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
@@ -29,7 +30,7 @@
     {
       "path_to_root": "_themes",
       "url": "https://github.com/Microsoft/templates.docs.msft",
-      "branch": "master",
+      "branch": "main",
       "branch_mapping": {}
     }
   ],
