@@ -38,7 +38,7 @@ All RD Program participants should be kind, professional, and respectful to othe
 
 ## Reporting
 
-If you become aware of a conduct violation on or offline, you are encouraged to report it to [RD Program Support](mailto:rdprogram@microsoft.com).
+If you become aware of a conduct violation on or offline, you are encouraged to report it to [RD Program Support](mailto:rd-program@microsoft.com).
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the Program or event staff immediately.
 
