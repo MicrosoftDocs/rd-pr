@@ -418,8 +418,6 @@ metadata:
   description: Trusted advisors to the developer and IT professional audiences and Microsoft.
   hide_bc: true
 bannerLinks:
-- text: Map View
-  url: ./map.yml
 - text: About
   url: ./about/index.md
 - text: Code of Conduct
