@@ -2,14 +2,17 @@
 uid: rd.sjoukje-zaal
 name: Sjoukje Zaal
 metadata:
-  title: Sjoukje Zaal – CTO Microsoft
+  title: Sjoukje Zaal – Head of Microsoft Cloud Center of Excellence
   description: Microsoft Regional Director
 remarks: |
   ## Bio
-  Sjoukje Zaal is the CTO Microsoft for Capgemini in the Netherlands, a global leader in consulting, technology services and digital transformation. She has over 20 years of experience providing architecture, development, consultancy and design expertise. She focusses on Cloud, Security, Productivity, and IoT. 
+  I’m Head of the Microsoft Cloud Center of Excellence and Head of Architecture at Capgemini in the Netherlands, a global leader in consulting, technology services and digital transformation. I have over 20 years of experience providing architecture, development, consultancy, and design expertise. I focus on Cloud, AI, and Security.
 
-  She loves to share her knowledge and is active in the Microsoft community as a co-founder of the user groups Tech Daily Chronicle, the Global XR Community, and the Mixed Reality User Group. She is also a board member of Azure Thursdays and part of Global Azure. Sjoukje is an international speaker and involved in organizing many events. She wrote several books and writes blogs. Sjoukje is also part of the Diversity and Inclusion Advisory Board.
-tagline: Cloud / Security / IoT
+  I love to share my knowledge and I’m active in the Microsoft community as a co-founder of Lowlands.Community, and the Global XR Community. I’m the director for Global AI Community and organizer of Azure Lowlands. I’m an international speaker and involved in organizing many events. I also wrote several books and I write blogs. 
+
+  For my community activities Microsoft awarded me with the MVP award for both Azure and AI.
+
+tagline: Cloud / AI / Security
 image:
   alt: "Sjoukje Zaal"
   src: media/profiles/sjoukje-zaal.jpg
