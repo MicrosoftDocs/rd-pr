@@ -22,6 +22,10 @@ connect:
     url: https://twitter.com/tobiasfenster
   - title: LinkedIn
     url: https://linkedin.com/in/tobiasfenster
+  - title: Sessionize
+    url: https://sessionize.com/tobiasfenster
+  - title: GitHub
+    url: https://github.com/tfenster
 location:
   display: Ulm, Germany
   lat: 48.3875039
