@@ -30,12 +30,14 @@ image:
   alt: "Esteban Garcia"
   src: media/profiles/esteban-garcia.jpg
 connect:
-  - title: Facebook
-    url: https://www.facebook.com/EstebanFG
   - title: Twitter
     url: https://twitter.com/estebanfgarcia
   - title: LinkedIn
     url: https://www.linkedin.com/in/estebangarcia/
+  - title: Sessionize
+    url:  https://sessionize.com/esteban
+  - title: GitHub
+    url: https://github.com/estebang
 location:
   display: Winter Park, FL USA
   lat: 28.5383
