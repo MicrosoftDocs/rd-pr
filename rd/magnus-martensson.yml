@@ -68,6 +68,8 @@ connect:
     url: http://instagram.com/noopman
   - title: GitHub
     url: https://github.com/noopman
+  - title: Sessionize
+    url:  https://sessionize.com/noopman
 location:
   display: Malmö, Sweden
   lat: 55.596649
