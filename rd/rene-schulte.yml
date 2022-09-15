@@ -22,6 +22,14 @@ connect:
     url: https://twitter.com/rschu
   - title: LinkedIn
     url: https://linkedin.com/in/reneschulte
+  - title: GitHub
+    url: https://github.com/reneschulte
+  - title: Sessionize
+    url: https://sessionize.com/rene-schulte
+  - title: Instagram
+    url: https://www.instagram.com/schulte.rene
+  - title: TikTok
+    url: https://www.tiktok.com/@reneschulte
 location:
   display: Dresden, Germany
   lat: 51.069423
