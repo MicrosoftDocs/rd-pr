@@ -2,16 +2,12 @@
 uid: rd.maarten-eekels
 name: Maarten Eekels
 metadata:
-  title: Maarten Eekels - Microsoft Regional Director, CTO Portiva
+  title: Maarten Eekels - Microsoft Regional Director, CTO Rapid Circle
   description: Microsoft Regional Director
 remarks: |
   ## Bio
-  Maarten Eekels is Microsoft MVP, Microsoft Regional Director, and CTO of Portiva, one of the larger SharePoint and Office 365 implementation partners in the Netherlands.
-  
-  Maarten is an experienced Office 365 and SharePoint specialist and already since version 2003 he is involved in implementing SharePoint and (later) Office 365. His expertise includes Microsoft Teams, Security, PowerApps & Flow.
-  
-  Also, Maarten is a regular speaker on both national and international events, like conferences, SharePoint Saturdays, and user group meetings. In September 2015 he started a video blog series called Maarten’s Cloud Journaal, specifically targeted at Dutch speaking Office 365 users.
-tagline: Office 365 / Security / Productivity
+  Maarten Eekels is Microsoft MVP, Microsoft Regional Director, and CTO of Rapid Circle, one of the larger Microsoft Cloud implementation partners in the Netherlands. Maarten is an experienced Microsoft Cloud and Security advocate and already since 2003 he is involved in implementing Microsoft technologies. Besides that, Maarten is mentoring start-ups and helping founders and leaders break through glass ceilings for growing their business and helping avoid certain pitfalls. Also, Maarten is a regular speaker on both national and international events, like conferences, community events and user group meetings. In his personal life, Maarten is a passionate cyclist and certified wine sommelier.
+tagline: Microsoft 365 / Security / Productivity
 image:
   alt: "Maarten Eekels"
   src: media/profiles/maarten-eekels.jpg
@@ -20,6 +16,8 @@ connect:
     url: https://twitter.com/maarteneekels
   - title: LinkedIn
     url: https://linkedin.com/in/maarteneekels
+  - title: Sessionize
+    url:  https://sessionize.com/maarten-eekels
 location:
   display: Breda, Netherlands
   lat: 51.58307
