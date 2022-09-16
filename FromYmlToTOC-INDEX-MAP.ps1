@@ -466,8 +466,8 @@ profiles:
         | Out-File -filepath $index_path 
 
         # writing to map file 
-    ForEach-Object -Begin { return $MapFilecontent } -Process { Format-Index-Yaml -object $objects } `
-        | Out-File -filepath $map_path
+    # ForEach-Object -Begin { return $MapFilecontent } -Process { Format-Index-Yaml -object $objects } `
+    #     | Out-File -filepath $map_path
 
 
     Write-Verbose "Generated table of contents at $toc_path"
