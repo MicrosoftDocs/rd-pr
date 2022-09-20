@@ -2,15 +2,15 @@
 uid: rd.david-yack
 name: David Yack
 metadata:
-  title: David Yack – CTO/Founder
+  title: David Yack - CTO/Founder
   description: Microsoft Regional Director
 remarks: |
   ## Bio
-  Hi, I’m David Yack the CTO of Colorado Technology Consultants based in Colorado, United States. As a senior hands’ on technology and business consultant with over 25 years of industry experience I enjoy developing solutions on Microsoft’s platforms. I specialize in low code and rapid application development. My focus is on helping clients migrate and build new applications that enable digital transformation.  These solutions commonly take advantage of the full spectrum of capabilities from low code Power Platform to high code Microsoft Azure. Additionally, I also focus on helping to mentor and train everyone in an organization to contribute and empower them to innovate.
+  Hi, I'm David Yack the CTO of Colorado Technology Consultants based in Colorado, United States. As a senior hands-on technology and business consultant with over 25 years of industry experience, I enjoy developing solutions on Microsoft platforms. I specialize in low code and rapid application development. My focus is on helping clients migrate and build new applications that enable digital transformation.  These solutions commonly take advantage of the full spectrum of capabilities from low code Power Platform to high code Microsoft Azure. Additionally, I also focus on helping to mentor and train everyone in an organization to contribute and empower them to innovate.
   
-  I’m a frequent speaker/trainer at user groups, industry events and private company events around the world. Antarctica is the only continent I haven’t been to and I’m currently accepting invitations. I also have done many full training courses for Microsoft Learn, Microsoft OpenEDX, Pluralsight and 365.Training.  You can see my latest courses [here]( https://365.training/Instructors/detail/DavidYack).
+  I'm a frequent speaker/trainer at user groups, industry events and private company events around the world. Antarctica is the only continent I haven't been to and I'm currently accepting invitations. I also have done many full training courses for Microsoft Learn, Microsoft OpenEDX, Pluralsight and 365.Training. You can see my latest courses [here](https://365.training/Instructors/detail/DavidYack).
   
-  I have been on the author team of multiple Power Platform, Dynamics 365 and .NET related books. My most recent book is on the [Common Data Service/Microsoft Dataflex Pro]( https://www.amazon.com/Common-Data-Service-Power-Platform-ebook/dp/B07XFZ2FNF/ref=sr_1_1)  You can also read my blog at [blog.davidyack.com](https://blog.davidyack.com).  I frequently publish videos to 365.Training’s YouTube channel [here]( https://www.youtube.com/channel/UCPKL2CxN1VdRpOUO7MASyGg).
+  I have been on the author team of multiple Power Platform, Dynamics 365, and .NET-related books. My most recent book is on the [Common Data Service/Microsoft Dataflex Pro](https://www.amazon.com/Common-Data-Service-Power-Platform-ebook/dp/B07XFZ2FNF/ref=sr_1_1) You can also read my blog at [blog.davidyack.com](https://blog.davidyack.com). I frequently publish videos to 365.Training's YouTube channel [here](https://www.youtube.com/channel/UCPKL2CxN1VdRpOUO7MASyGg).
 tagline: Business Solutions / Azure
 image:
   alt: "David Yack"
@@ -24,4 +24,3 @@ location:
   display: Palmer Lake, Colorado, United States 
   lat: 39.1144871
   long: -104.9076882
-
