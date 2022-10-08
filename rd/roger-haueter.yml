@@ -18,14 +18,14 @@ image:
   alt: "Roger Haueter"
   src: media/profiles/roger-haueter.jpg
 Connect:
-- title: Facebook
-  url: https://facebook.com/techtask
+  - title: Facebook
+    url: https://facebook.com/techtask
 
-- title: Twitter
-  url: https://twitter.com/techtask
+  - title: Twitter
+    url: https://twitter.com/techtask
 
-- title: LinkedIn
-  url: https://www.linkedin.com/in/rogerhaueter/
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/rogerhaueter/
 
 location:
   display: Bern, Switzerland

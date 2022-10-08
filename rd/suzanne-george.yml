@@ -14,14 +14,14 @@ image:
   alt: "Suzanne George"
   src: media/profiles/suzanne-george.jpg
 Connect:
-- title: Facebook
-  url: https://www.facebook.com/suzgeorge
+  - title: Facebook
+    url: https://www.facebook.com/suzgeorge
 
-- title: Twitter
-  url: https://twitter.com/spgenie
+  - title: Twitter
+    url: https://twitter.com/spgenie
 
-- title: LinkedIn
-  url: https://www.linkedin.com/in/suzgeorge
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/suzgeorge
 
 location:
   display: Austin, Tx
