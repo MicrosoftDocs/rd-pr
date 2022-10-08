@@ -1,0 +1,35 @@
+### YamlMime:Profile
+uid: rd.roger-haueter
+name: Roger Haueter
+metadata:
+  title: Roger Haueter – Manager IT Advisory
+  description: Microsoft Regional Director
+remarks: |
+  ## Bio
+  Roger is passionate about technology, innovation and entrepreneurship. In his role as manager in an international management and technology consulting firm he develops innovative, customer value-driven solutions to support companies in their digital transformation. With degrees in media design, computer science and business administration, Roger has the skills to make any idea tangible at lightning speed.
+
+  Roger is known for his contributions about collaboration in the modern workplace with SharePoint and Microsoft Teams. He is highly engaged in the Microsoft 365 community and has been awarded nine times as Most Valuable Professional by Microsoft.
+
+  His mission is to (re)shape business models for the digital age and to develop sustainable strategies for successful business transformations that boost the customers business value.
+  
+tagline: Modern Workplace / Entrepreneurship / Innovation
+
+image:
+  alt: "Roger Haueter"
+  src: media/profiles/roger-haueter.jpg
+Connect:
+- title: Facebook
+  url: https://facebook.com/techtask
+
+- title: Twitter
+  url: https://twitter.com/techtask
+
+- title: LinkedIn
+  url: https://www.linkedin.com/in/rogerhaueter/
+
+location:
+  display: Bern, Switzerland
+  lat: 46.948980
+  long: 7.437345
+
+
