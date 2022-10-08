@@ -7,22 +7,17 @@ metadata:
 remarks: |
   ## Bio
   Suzanne George is a Partner at PricewaterhouseCoopers, a leading provider of professional services specializing in workforce transformation.  Suzanne has worked in the industry for more than 30 years, primarily focused on workplace experiences leveraging Microsoft Office 365 and M365.  With a focus on Collaboration Tools and application integration, she  creates integrated solutions that put the employee at the center of their technology experience.  Her passion is growing both people and plants and has often been asked to speak at conferences around the world. 
-
 tagline: Viva / Office 365 / Microsoft Teams
-
 image:
   alt: "Suzanne George"
   src: media/profiles/suzanne-george.jpg
 Connect:
   - title: Facebook
     url: https://www.facebook.com/suzgeorge
-
   - title: Twitter
     url: https://twitter.com/spgenie
-
   - title: LinkedIn
     url: https://www.linkedin.com/in/suzgeorge
-
 location:
   display: Austin, Tx
   lat: 30.264980
