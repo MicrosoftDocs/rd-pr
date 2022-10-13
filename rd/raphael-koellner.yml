@@ -1,36 +1,36 @@
 ### YamlMime:Profile
-uid: rd.raphael-kollner
+uid: rd.raphael-koellner
 name: Raphael Köllner
 metadata:
-  title: Raphael Kollner - CEO of KöllnService GmbH
+  title: Raphael Köllner - [CEO KöllnService GmbH]
   description: Microsoft Regional Director
 remarks: |
   ## Bio
-  Raphael Koellner combines law and information technology, especially cloud computing and global compliance, IT and information security and DSGVO. He is CEO of Microsoft Partner KöllnService GmbH, an IT and compliance consulting firm and founder of digitallawyer. He worked for universities, Microsoft Germany (DX), law firms and Microsoft partners, such as Bechtle, devoteam or BDO AG.
-  
-  Raphael Köllner is Microsoft regional director. He is a 10-time MVP for M365 Apps & Services, Microsoft Azure MVP and Insider MVP from the very beginning, member of the Teams ELITE 100 program, MCT. As a Microsoft MVP, Raphael Köllner is a frequent speaker at international events and conferences. He leads the Office 365 Usergroup Germany, the Azure Meetup Cologne and founded the #Compliancefam.
-  
-  Company: https://koellnservice.de/
-  
-  Compliance Center: https://compliance-center.net/
-  
-  Personal Blog: http://www.rakoellner.de/
-  
-  Compliance Blog: https://microsoft365compliance.de/
-  
-  Talk to me about: Modern Workplace, Compliance, Cybersecurity, Information Protection, Cloud Computing, data privacy, working council, IT Law, IP Law, Arbitration Law, Microsoft 365
+  [My name is Raphael Koellner and I combine the law and the information technology especially cloud computing and global compliance, IT and information security and DSGVO. As a CEO of Microsoft Partner [KöllnService GmbH]( https://koellnservice.de/) – an IT and Compliance consulting firm – I work for international companies to migrate and implement multi cloud solutions on a technical, data privacy and compliant way. To connect this law topics with the IT topics excites me every day. Furthermore, I am the founder of digitallawyer. 
 
-tagline: Modern Workplace / Enterprise Architecture / GDPR
+  Since 2013 I am MVP for M365 Apps & Services, Windows Insider MVP since the beginning and Microsoft Azure MVP. I am the community guy and lead for example the [Office 365 Usergroup Germany](https://www.meetup.com/de-DE/office-365-meetup/), the [Azure Meetup Cologne](https://www.meetup.com/de-DE/Azure-Cologne-Meetup/), the biggest Windows 10 Insider Community in Germany and founded the #Compliancefam. I love to connect and share knowledge with community passionated people and run for example the TeamsCommunityDay and the Global Compliance Conference. I am also speaking on international and national conferences like Ignite, BUILD, Ignite the tour, Techorama or local community events with a lot of passion. A view from different sites are a key to find the best solutions for my customers. I love to fly my drone, read books and play tennis. Most important for me is my family and spending time with them. If you want to get in touch with me, please visit my blog www.rakoellner.com (German www.rakoellner.de), my social links or come by and say Hello at an event.
+
+  [Compliance Blog](https://microsoft365compliance.de/)
+  [Compliance Center](https://compliance-center.net/) 
+
+  Talk to me about: Modern Workplace, Compliance, Cybersecurity, Information Protection, Cloud Computing, data privacy, IT Law, IP Law, Arbitration Law, Microsoft 365]
+tagline: Modern Workplace / Compliance / GDPR
+
 image:
-  alt: "Raphael Kollner"
+  alt: "Raphael Köllner"
   src: media/profiles/raphael-koellner.jpg
-connect:
-  - title: Facebook
-    url: https://www.facebook.com/Duesseldorfer44
-  - title: Twitter
-    url: https://twitter.com/Ra_Koellner
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/raphael-k%C3%B6llner-63a94930/
+Connect:
+- title: Facebook
+  url: https://www.facebook.com/Duesseldorfer44 
+
+- title: Twitter
+  url: https://twitter.com/Ra_Koellner 
+
+- title: LinkedIn
+
+  url: https://www.linkedin.com/in/raphael-k%C3%B6llner/?originalSubdomain=de  
+- title: GitHub
+  url: https://github.com/rakoellner 
 location:
   display: Cologne, NRW, Germany 
   lat: 50.9375
