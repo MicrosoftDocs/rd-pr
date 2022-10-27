@@ -3,10 +3,10 @@ uid: rd.rockford-lhotka
 name: Rockford Lhotka
 metadata:
   title: Rockford Lhotka - Microsoft Regional Director
-  description: CTO, Author, and Microsoft Regional Director in Minneapolis, Minnesota
+  description: Open-Source Creator, Author, and Microsoft Regional Director in Minneapolis, Minnesota
 remarks: |
   ## Bio
-  Rockford Lhotka is a CTO at [Cognizant Softvision](https://cognizantsoftvision.com), and is the
+  Rockford Lhotka is VP of Strategy at [Xpirit USA](https://xpirit.com), and is the
   creator of the widely used [CSLA .NET](https://cslanet.com) open-source
   development framework.
   
@@ -36,6 +36,8 @@ connect:
     url: https://github.com/rockfordlhotka
   - title: Facebook
     url: https://facebook.com/RockfordLhotka
+  - title: Sessionize
+    url: https://sessionize.com/rockfordlhotka/
 location:
   display: Minneapolis, MN, USA
   lat: 44.979019
