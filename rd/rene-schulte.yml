@@ -6,24 +6,26 @@ metadata:
   description: Microsoft Regional Director & Windows Dev MVP | Director of Global Innovation at Valorem Reply
 remarks: |
   ## Bio
-  René Schulte is Director of Global Innovation at Valorem Reply and leader of the Spatial Computing practice at Reply working with teams across the globe on emerging technologies like 3D volumetric video streaming, Remote Rendering, the AR Cloud Real-World Metaverse enabling large, cross-platform user experiences with real-world persistence. Being a trusted advisor for our clients and providing business value by supporting project execution ranging from discovery, envisioning and strategic consulting to technical implementation.
-  He is a creative developer, thought leader and digital content creator with a passion for UX, (Edge) Cloud computing and deep technical knowledge from more than 15 years in VR/AR/MR/XR/Spatial Computing technology and 3D programming, developing for the Microsoft HoloLens since 2015 pioneering many Mixed Reality innovations being a recognized leader in the Mixed Reality field. He was featured on Forbes, is listed as dev influencer. He coded AI deep learning neural networks before it was cool and is leveraging modern AI to empower humans and applied Quantum Computing for today's impact.
-  He is invited as expert to global TV stations and a frequent keynote and session speaker and panelist at conferences like //build, Ignite, Global XR, Univ. Heidelberg, Unite, Vision VR/AR Summit, VRDC (GDC), AWE, ESA, RTC, VRARA, MR Dev Days and more. Blogs about many topics. He also created popular open source libraries like WriteableBitmapEx and the AR library SLARToolKit.
-  He was honored several times for his dev community work with the Microsoft MVP award, recognized as Microsoft Regional Director and Advisory Board member for the VR/AR Association and XR Bootcamp.
-  He is an avid cyclists and lives in Dresden, Germany with his wife and their 5 children.
+  René Schulte is Head of 3D and Quantum Communities of Practices at Reply working with teams across the globe on emerging technologies. Being a trusted advisor for our clients and an internationally recognized expert.
+  He is a creative developer, thought leader and digital content creator with a passion for UX and 20 years of deep technical knowledge in fields like Spatial Computing, Real-Time 3D, VR/AR, XR, VPS AR Cloud Real-World Metaverse, Reality Capture, Digital Humans, Quantum Computing, Generative AI, Deep Learning and more.
+  He was featured on Forbes and is invited as expert to global TV stations and a frequent keynote speaker and panelist at conferences like //build, Ignite, Global XR, Univ. Heidelberg, Unite, Vision VR/AR Summit, VRDC (GDC), AWE, ESA, RTC, VRARA, MR Dev Days and more. Writes articles and is the creator of the video podcasts QuBites and Meta Minutes. He also created open-source libraries like WriteableBitmapEx.
+  He was honored 13 years in a row for his dev community work with a double Microsoft MVP award in Mixed Reality and Quantum Computing, recognized as Microsoft Regional Director and Advisory Board member for the VR/AR Association and XR Bootcamp.
+  He is an avid cyclist and lives in Dresden, Germany with his wife and their 5 children.
 tagline: Metaverse AR VR MR / AI Deep Learning / Quantum Computing
 image:
   alt: "Rene Schulte"
   src: media/profiles/rene-schulte.jpg
 connect:
-  - title: Facebook
-    url: https://www.facebook.com/rene.schulte
   - title: Twitter
     url: https://twitter.com/rschu
+  - title: Mastodon
+    url: https://arvr.social/@rschu
   - title: LinkedIn
     url: https://linkedin.com/in/reneschulte
   - title: GitHub
     url: https://github.com/reneschulte
+  - title: Facebook
+    url: https://www.facebook.com/rene.schulte
   - title: Sessionize
     url: https://sessionize.com/rene-schulte
   - title: Instagram
