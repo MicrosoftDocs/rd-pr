@@ -777,7 +777,7 @@
     {
         "source_path": "rd/rotem.rozmarin.md",
         "redirect_url": "/rotem-rozmarin",
-        "redirect_document_id": false
+        "redirect_document_id": true
      }
 ,
     {
