@@ -1,0 +1,45 @@
+### YamlMime:Profile
+uid: rd.rotem-rozmarin
+name: Rotem Rozmarin
+metadata:
+  title: Rotem Rozmarin - Microsoft Regional Director
+  description: Microsoft Regional Director, Microsoft P-TSP Azure DevOps, CTO, Cloud Architect in Vila Velha, Israel
+remarks: |
+  ## Bio
+  For me, applying robust cloud solutions to solve challenging business problems is the name of the game. 
+  I'm a highly accomplished and proficient cloud solutions architect, presale expert, technical lead, and strategist. 
+  Although I've managed large operations, focusing on cloud solution architecture, applying presales expertise, and leading technical groups is what I do best. 
+
+  For the last two decades, I've been focusing on leading technology projects to deliver solutions for a diverse set of challenges. My client list includes leaders of small gaming start-ups, executives of financial governance enterprises, and many in-between - building various solutions to transform commercial outcomes. I wear many tech hats in my career, and I know what it takes to get a company on board with making a large-scale IT shift and then steer them through that change for best commercial results. 
+
+  I possess deep knowledge of and hands-on skills in: 
+  • Cloud Platform, SaaS, Managed Services
+  • DevOps philosophies and tools
+  • Containers, Kubernetes, IaC, Ci\CD
+  • Application development architecture
+  • Web Applications hosting, Serverless, APIs
+  • Security and Networking
+
+  The value I bring to the table is: 
+  - I've got more than two decades of experience in leading tech projects.
+  - I can speak many business languages – I speak change management, cost savings, optimization, developer, integration, automation, and mentor. Understanding these means fewer mistakes and less expenditure. 
+  - Who gets the credit doesn't matter to me. I'm the calm one who keeps people upbeat despite the challenges.
+
+  Many of my projects turned into best practice showcases for the successful use of Cloud Technology and Data Transformation.
+
+  I greatly enjoy working with people and being active in the tech community, and I always aim to produce project results that will help both companies and humans (technology helps humanity).
+
+  Ultimately, I believe that visualization and transparency should provide an organization with the reality and clarity they need to manage their clouds in a better way.
+
+  Talk to me about Cloud Computing, Sailing, and Physics.
+tagline: Azure / DevOps / Innovation 
+image:
+  alt: "Rotem Rozmarin"
+  src: media/profiles/rotem-rozmarin.jpg
+connect:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/rotemrozmarin/
+location:
+  display: Israel
+  lat: 33.294782
+  long: 35.572275
