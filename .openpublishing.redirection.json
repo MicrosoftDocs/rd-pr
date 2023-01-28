@@ -918,5 +918,11 @@
         "redirect_document_id": false
      }
 ,
+     {
+        "source_path": "rd/rotem-rozmarin.yml",
+        "redirect_url": "/index",
+        "redirect_document_id": false
+     }
+,
   ]
 }
