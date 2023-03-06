@@ -924,5 +924,17 @@
         "redirect_document_id": false
      }
 ,
+     {
+        "source_path": "rd/christian-waha.yml",
+        "redirect_url": "/index",
+        "redirect_document_id": false
+     }
+,
+     {
+        "source_path": "rd/jason-himmelstein.yml",
+        "redirect_url": "/index",
+        "redirect_document_id": false
+     }
+,
   ]
 }
