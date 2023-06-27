@@ -1,0 +1,36 @@
+### YamlMime:Profile
+uid: rd.tina-nigro
+name: Tina Nigro
+metadata:
+  title: Tina Nigro - Microsoft Regional Director
+  description: CTO & Co-Founder and Microsoft Regional Director in Paris, France
+remarks: |
+  ## Bio
+
+    *Tina, CTO and co-founder of Opuscope, is a visionary entrepreneur and spatial computing expert, dedicated to AR/VR technologies as well as multimedia and creativity apps for over a decade.*
+
+    Tina's journey into software engineering commenced at the age of 14 in 2011 when she created various apps, including a widely acclaimed music player for Windows Phone with over a million downloads. This achievement led to her recognition as a Microsoft Student Partner.
+
+    Balancing her studies at Paris Descartes University and her passion for technology, she joined the VideoLAN non-profit organization in 2013, contributing to the VLC for Windows 8 + Windows Phone project in her free time. Not long after, she ascended to an employee of the VideoLabs company, leading its development. Between 2014 and 2016 Tina led an initiative to craft a single codebase and adaptive UI for Windows 10, Xbox One, and Microsoft HoloLens, to support more than 25 million users across these platforms. Tina then earned the Microsoft Regional Director title in 2015.
+
+    In 2016, Tina co-founded Opuscope, a pioneering French company in the AR & VR industry. With over 8M€ in funding, they created a series of consumer and professional apps including Minsar Studio, an immersive no-code platform for prototyping, creating, and distributing augmented and virtual reality experiences. As CTO, Tina led a team of 25 designers and engineers, driving advancements in the UX & UI of complex immersive apps powered by a cross-platform runtime that could function on Unity, Babylon JS, or natively on iOS and Android with Babylon Native. She helped push the boundaries of what’s possible with AR technologies from Niantic, Google and notably partnered early on with the Azure Mixed Reality teams on Spatial Anchors to build city-scale and world-scale AR infrastructure.
+
+    Her influential role in the spatial computing industry is not only recognized through the partnerships she established with Sketchfab, Microsoft, and Meta but also in the award Minsar Studio received from Magic Leap’s Independent Creators Program.
+
+    Talk to Tina about: Spatial Computing (AR/VR/MR, 3D, Maps, “Metaverse”, Computer Vision), Entrepreneurship & Startups, Diversity & Inclusion.
+
+tagline: Spatial Computing, Entrepreneurship, Innovation
+image:
+  alt: "Tina Nigro"
+  src: media/profiles/tina-nigro.jpg
+connect:
+  - title: Twitter
+    url: https://twitter.com/tina__nigro
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/tinanigro/
+  - title: GitHub
+    url: https://github.com/tinanigro
+location:
+  display: Paris, France
+  lat: 48.861208
+  long: 2.337439
