@@ -936,5 +936,11 @@
         "redirect_document_id": false
      }
 ,
+     {
+        "source_path": "rd/thomas-nigro.yml",
+        "redirect_url": "tina-nigro",
+        "redirect_document_id": false
+     }
+,
   ]
 }
