@@ -373,7 +373,7 @@ profiles:
     src: media/profiles/damir-dizdarevic.jpg
     alt: "Damir Dizdarevic"
   location: 
-    display: Sarajevo, Federation of Bosnia and Herzegovina, Bosnia and Herzegovina
+    display: Sarajevo, Bosnia and Herzegovina
     lat: 43.85942
     long: 18.43576
 - uid: rd.damir-dobric
